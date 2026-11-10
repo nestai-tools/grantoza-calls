@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "id": "2026-lsse-spark-4-rethink-202609",
+  "tytul": "Spark 4.0 / rethink — nabór do 30.09.2026",
+  "url": "https://startupspark.sse.lodz.pl/spark-4-0/",
+  "etap": "gotowy-do-wypelniania",
+  "informacje": {
+    "organizator": {
+      "wartosc": "Łódzka Specjalna Strefa Ekonomiczna S.A.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 1, definicja Akceleratora"
+    },
+    "program": {
+      "wartosc": "FENG 2021–2027, działanie 2.28 Startup Booster Poland – Scale Up Green; Spark 4.0, edycja Rethink",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 3, §2 ust. 1"
+    },
+    "dla_kogo": {
+      "wartosc": "Mikro- i małe spółki kapitałowe z siedzibą w Polsce, prowadzące działalność nie dłużej niż 5 lat i spełniające warunki art. 22 wskazane w regulaminie. Warunki podmiotowe weryfikowane na dzień umowy; karta oceny przewiduje też ocenę formalną zgłoszenia.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 4–5, §3; karta oceny s. 1"
+    },
+    "cel": {
+      "wartosc": "Rozwój i walidacja innowacyjnych rozwiązań gospodarki obiegu zamkniętego z Odbiorcą Technologii; pilotaż i perspektywa komercjalizacji.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 2–3, definicje Programu i Projektu"
+    },
+    "na_co": {
+      "wartosc": "Akceleracja rozwiązania GOZ: personel, niezbędne usługi, środki trwałe, WNiP, promocja; regulamin dopuszcza też podróże służbowe z limitem. Wydatki wymagają uzasadnienia i zatwierdzenia IPA.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 11–12, §8 ust. 16–17"
+    },
+    "obszar": {
+      "wartosc": "Polska; tematycznie KIS 7 — gospodarka obiegu zamkniętego oraz potrzeby wybranego Odbiorcy Technologii.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 3–4 oraz s. 6–7"
+    },
+    "budzet_naboru": {
+      "wartosc": null,
+      "zrodlo": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "lokalizacja": "Na stronie i w przejrzanym regulaminie brak łącznego budżetu tej rundy; nie wyliczano go z liczby startupów."
+    },
+    "maksymalne_wsparcie": {
+      "wartosc": {
+        "kwota": 350000,
+        "waluta": "PLN",
+        "VAT": "niekwalifikowalny"
+      },
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 10, §8 ust. 6; umowa s. 13, §5 ust. 1"
+    },
+    "wklad_wlasny": {
+      "wartosc": {
+        "procent": null,
+        "uwaga": "Nie ustalono procentu wkładu własnego. VAT i inne koszty niekwalifikowalne poza grantem; osobno wymóg wykazania środków co najmniej 1/3 grantu i/lub najbardziej kosztownego kamienia milowego."
+      },
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 11, §8 ust. 14; instrukcja IPA s. 1"
+    },
+    "terminy": {
+      "wartosc": {
+        "od": "2026-08-14",
+        "do": "2026-09-30",
+        "godzina_zakonczenia": null,
+        "strefa_czasowa": null,
+        "uwaga": "Daty rundy ze strony. Godzina i strefa nie zostały podane; 30.12.2027 w regulaminie dotyczy całej rekrutacji programu."
+      },
+      "zrodlo": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "lokalizacja": "Przycisk ZGŁOŚ SIĘ; regulamin s. 6 §4 ust. 2, 5–6"
+    },
+    "sposob_zlozenia": {
+      "wartosc": {
+        "portal": "F6S",
+        "url": "https://www.f6s.com/spark-4.0-edycja-rethink/apply",
+        "jezyk": "polski",
+        "formularz_odczytany": true,
+        "metoda_odczytu": "Cztery zrzuty od użytkownika; nie bezpośredni dostęp do F6S"
+      },
+      "zrodlo": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "lokalizacja": "ZGŁOŚ SIĘ; regulamin s. 6–7 §4"
+    },
+    "kontakt": {
+      "wartosc": {
+        "nabor": "spark@sse.lodz.pl",
+        "kierownik_projektu": "ewa.grabowska@sse.lodz.pl",
+        "departament": "magda.kubicka@sse.lodz.pl"
+      },
+      "zrodlo": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "lokalizacja": "Kontakt; regulamin s. 8 §5 ust. 3"
+    },
+    "gotowosc_technologiczna": {
+      "wartosc": {
+        "minimum_TRL": 5
+      },
+      "zrodlo": "SRC-2a2563594b37",
+      "lokalizacja": "s. 1–2, kryteria dostępu; regulamin s. 7"
+    },
+    "czas_akceleracji": {
+      "wartosc": {
+        "maksimum_dni": 180,
+        "kamienie_milowe": 3,
+        "koniec_programu_najpozniej": "2028-06-30"
+      },
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 1, definicja IPA; s. 11 §8 ust. 15; s. 13 §9 ust. 10"
+    },
+    "liczby_programu": {
+      "wartosc": {
+        "startupow": 20,
+        "rundy": 4,
+        "odbiorcow_technologii_wg_licznika": 9,
+        "partnerow_ekosystemowych_wg_licznika": 9
+      },
+      "zrodlo": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "lokalizacja": "Spark 4.0 w liczbach: atrybuty data-to-value; startupy i rundy potwierdzone w regulaminie s. 6"
+    },
+    "runda": {
+      "wartosc": "RUNDA 1",
+      "zrodlo": "SRC-f6s-zrzuty-20260926",
+      "lokalizacja": "część 2, pytanie 11"
+    }
+  },
+  "rozbieznosci": [
+    {
+      "id": "R-01",
+      "temat": "Brak formularza zgłoszeniowego",
+      "zrodla_i_ustalenia": "Bezpośredni dostęp F6S pozostaje zablokowany, lecz użytkownik przekazał 4 zrzuty z pytaniami 1–37.",
+      "wplyw": "Rozwiązano: formularz odtworzono z transkrypcji materiałów użytkownika; nieznane limity i etykiety województw opisano w wskazówkach.",
+      "status": "rozwiazana-przez-material-uzytkownika"
+    },
+    {
+      "id": "R-02",
+      "temat": "Zaliczka i transze",
+      "zrodla_i_ustalenia": "SRC-1890717a5810, s. 6: do 30% na jeden kamień; SRC-a3c0591268a7, s. 6: pierwsza do 40%, dalsze po rozliczeniu 70%; SRC-ae7cbab4a4a8, Harmonogram L20/L23/L26: 40/40/20%.",
+      "wplyw": "Uzgodnić, które kwoty są refundacją, które zaliczką i jakie limity obowiązują w podpisywanej umowie. Nie wdrożono automatycznych obliczeń transz."
+    },
+    {
+      "id": "R-03",
+      "temat": "Wynagrodzenia właścicieli i zarządu",
+      "zrodla_i_ustalenia": "SRC-24d9e29a71fb, s. 12 i SRC-a3c0591268a7, s. 4: wyłączenie osób niebędących pracownikami KP; SRC-5b62f2bf36d0, s. 2 dodaje umowę zlecenia.",
+      "wplyw": "Przed budżetowaniem zlecenia dla zarządu/właściciela uzyskać wyjaśnienie Akceleratora."
+    },
+    {
+      "id": "R-04",
+      "temat": "Błędy i pozostałości we wzorze IPA",
+      "zrodla_i_ustalenia": "SRC-ae7cbab4a4a8: rok /2024 w nagłówkach; Budżet J19/L19 puste przy formułach sąsiednich wierszy; Harmonogram M20 = E15*0.23, M23 = E15*0.32, M29 sumuje kolumnę dat wpływu.",
+      "wplyw": "Formuły i przykładowe ilości G16/G17/G18/G20/G21 nie są danymi firmy. Zachowano oryginał. Potrzebny poprawny wzór lub pisemne wyjaśnienie."
+    },
+    {
+      "id": "R-05",
+      "temat": "Dwie różne wersje umowy",
+      "zrodla_i_ustalenia": "SRC-8b520017a356 s. 22 odwołuje się do Startup Spark 3.0; SRC-1890717a5810 w tym samym miejscu do Spark 4.0 Rethink. SHA-256 różne; pozostały wyciąg tekstowy jest taki sam.",
+      "wplyw": "Zachowano obie wersje. Potwierdzić obowiązującą przed podpisaniem."
+    },
+    {
+      "id": "R-06",
+      "temat": "Starszy nagłówek oświadczenia MŚP",
+      "zrodla_i_ustalenia": "SRC-8a00f022b819, początek: POIR 2014–2020, działanie 2.5.",
+      "wplyw": "Formularz pobrany z aktualnej paczki, ale jego aktualność wymaga potwierdzenia; nie poprawiano oryginału."
+    },
+    {
+      "id": "R-07",
+      "temat": "Limit ogólny a limit programu",
+      "zrodla_i_ustalenia": "SRC-a3c0591268a7, s. 3: 400 000 PLN w ogólnych zasadach Scale Up Green; SRC-24d9e29a71fb, s. 10 i SRC-1890717a5810, s. 13: 350 000 PLN dla Spark.",
+      "wplyw": "Interpretacja: program stosuje niższy limit 350 000 PLN; nie podwyższono wsparcia do limitu ogólnego."
+    },
+    {
+      "id": "R-08",
+      "temat": "Dodatkowe ścieżki w instrukcji",
+      "zrodla_i_ustalenia": "SRC-5b62f2bf36d0, s. 3 wymienia także Sector-Agnostic i Go Global; SRC-24d9e29a71fb, s. 6 określa ścieżkę z OT dla 20 startupów.",
+      "wplyw": "Nie dodano tych ścieżek jako opcji naboru; wymagają odrębnego potwierdzenia organizatora."
+    },
+    {
+      "id": "R-09",
+      "temat": "Nieustalona wersja regulaminu i numeracja załączników",
+      "zrodla_i_ustalenia": "SRC-24d9e29a71fb, s. 15 ma niewypełnioną datę obowiązywania; SRC-1890717a5810, s. 22 numeruje klauzulę jako 10, plik w paczce oznaczony 11; s. 7 i 17 różnie odwołują się do załącznika 9.",
+      "wplyw": "Wersję identyfikuje URL, data pobrania i SHA-256. Potwierdzić kompletny zestaw dokumentów umowy; nie zmieniać numeracji samodzielnie."
+    },
+    {
+      "id": "R-10",
+      "temat": "Początek 180 dni",
+      "zrodla_i_ustalenia": "SRC-24d9e29a71fb, s. 1: od zawarcia umowy; SRC-1890717a5810, s. 3: od rozpoczęcia określonego w IPA; definicja na s. 4 ponownie od umowy.",
+      "wplyw": "Ustalić zgodne daty w umowie i IPA."
+    },
+    {
+      "id": "R-11",
+      "temat": "Rozliczenie zmian IPA",
+      "zrodla_i_ustalenia": "SRC-a3c0591268a7, s. 7 przewiduje aneks dla zmian; SRC-24d9e29a71fb, s. 13 opisuje wniosek o zmianę i końcowy aneks.",
+      "wplyw": "Potwierdzić procedurę i formę zgód przed zmianą harmonogramu."
+    },
+    {
+      "id": "R-12",
+      "temat": "Tekst techniczny strony",
+      "zrodla_i_ustalenia": "Liczniki w HTML mają tekst 0 przed animacją oraz właściwe data-to-value. HTML zawiera popupy starych partnerów.",
+      "wplyw": "Zapisano rzeczywiste wartości atrybutów; starych popupów nie przyjęto jako partnerów bieżącego naboru."
+    },
+    {
+      "id": "R-13",
+      "temat": "Średnie przedsiębiorstwo w F6S",
+      "zrodla_i_ustalenia": "SRC-f6s-zrzuty-20260926, pytanie 6: mikro, małe, średnie. Regulamin s. 4: wyłącznie mikro i małe.",
+      "wplyw": "Zachowano wszystkie opcje formularza z ostrzeżeniem przy polu; wybór średnie nie potwierdza kwalifikowalności."
+    },
+    {
+      "id": "R-14",
+      "temat": "Liczba Odbiorców Technologii",
+      "zrodla_i_ustalenia": "WWW data-to-value wskazuje 9, a SRC-f6s-zrzuty-20260926, pytanie 12 pokazuje 8 nazw.",
+      "wplyw": "Odwzorowano 8 widocznych opcji i wielokrotny wybór; nie wymyślono dziewiątego odbiorcy."
+    }
+  ],
+  "analiza": {
+    "fingerprint_zrodel": "82b3263e6e044bce9dcbdcbe38dfd37ac0b63a4d0c6013d50d121df05870b022",
+    "liczba_pol": 37,
+    "liczba_plikow_specyfikacji": 37,
+    "liczba_formularzy": 4,
+    "liczba_szablonow_kart": 0,
+    "blokery": [],
+    "nieodczytane_zrodla": [],
+    "zakonczono_at": "2026-09-26T19:14:40.172729+00:00",
+    "zakres": "Pobrano publiczny ZIP, przeanalizowano regulamin i kryteria, odwzorowano 37 pytań z materiałów użytkownika. Nie oceniano firmy.",
+    "uwagi": [
+      "Nie ustalono limitów znaków; nie wprowadzono fikcyjnych limitów.",
+      "Województwo jest polem tekstowym do czasu potwierdzenia dokładnych etykiet listy F6S.",
+      "Rozbieżności IPA i umowy wymagają wyjaśnienia przed budżetowaniem/umową; nie dotyczą liczby pól pierwszego zgłoszenia."
+    ]
+  }
+}

@@ -1,0 +1,2102 @@
+{
+  "schema_version": 1,
+  "id": "2026-cop-lodzkie-feld-13-01-001",
+  "call_version": "1.0.0",
+  "files": [
+    {
+      "path": "00-overview.md",
+      "size": 1439,
+      "sha256": "739c1e71f0d5959859e852d63be517e45ac616ef15a6d3fc64f7b4cf9239d754"
+    },
+    {
+      "path": "README.md",
+      "size": 3113,
+      "sha256": "6875c74267ddcf5522c4179b776bb720582a9e054dd1be9e847c00d9be840bec"
+    },
+    {
+      "path": "call.json",
+      "size": 10861,
+      "sha256": "2a1e2b06e80039d200dfde630ab7f80ee2908b4f781acd02fd1c1c9a8be2a342"
+    },
+    {
+      "path": "documents.json",
+      "size": 60186,
+      "sha256": "3777d213e3e8c9f2a0cb616cb8fedfd70c2fd6066e269dadad69d5dcd4636727"
+    },
+    {
+      "path": "01-sources/ai-discovery.json",
+      "size": 13170,
+      "sha256": "daf1bd6698373f4c2857cab3472ed8a8b780689150acf376aa387df5d9d6ae30"
+    },
+    {
+      "path": "01-sources/page.json",
+      "size": 20586,
+      "sha256": "3088c86013ef2c6c769c4643deec1cacdd2d3d7d8aa5820fc7d643fc61a461b7"
+    },
+    {
+      "path": "01-sources/page.md",
+      "size": 7179,
+      "sha256": "19d4ebd6c67f79c1d14d41ea4a1dfbd28e3e4f2364d4460b86f956946dc81f39"
+    },
+    {
+      "path": "01-sources/registry.md",
+      "size": 11157,
+      "sha256": "b0e92884eabaa55d6e0ee4d9fe2f1a658110caa0ab34675b4785a8f64f67f446"
+    },
+    {
+      "path": "01-sources/originals/SRC-054f556443d1-zalacznik-nr-2a-do-regulaminu-instrukcja-wypelnienia-wniosku-o-dofinasowanie-projektu-03cb5667850a.pdf",
+      "size": 1072667,
+      "sha256": "03cb5667850a29dd44d51fed8333ba5c5b46a52d69317fbb5d1c78409b79bfd5"
+    },
+    {
+      "path": "01-sources/originals/SRC-094d5cc5a4a6-zalacznik-nr-11-ocena-potencjalu-obronnosciowego-dual-use-14446c481743.docx",
+      "size": 1592803,
+      "sha256": "14446c4817432fee09e9fbd241413a107e9344b37bddba2091d3893eaad370d8"
+    },
+    {
+      "path": "01-sources/originals/SRC-0f36d16a8f14-zalacznik-nr-3-do-regulaminu-wzor-umowy-o-dofinansowanie-projektu-fac05866487e.pdf",
+      "size": 1021728,
+      "sha256": "fac05866487e5477ffa9a6cfa169eedb7e5b79978ce8f196b0a84f29137b5fb3"
+    },
+    {
+      "path": "01-sources/originals/SRC-1430f88d0eb0-zalacznik-nr-5-do-regulaminu-zasady-kwalifikowania-wydatkow-w-ramach-programu-regiona-e78c0f918bdc.pdf",
+      "size": 1779936,
+      "sha256": "e78c0f918bdc1daddf1aa09515838ce1b723b956c32f859758a899a5422f9619"
+    },
+    {
+      "path": "01-sources/originals/SRC-17b93fd509a7-zalacznik-nr-14-oswiadczenie-wnioskodawcy-okreslajace-wielkosc-przedsiebiorstwa-baf809ee6ceb.docx",
+      "size": 1598944,
+      "sha256": "baf809ee6ceb987fdc8b71c2a973e7e9de7e95ca6f5040a0c2b79e860c618e29"
+    },
+    {
+      "path": "01-sources/originals/SRC-195010cbdc2d-ogloszenie-o-naborze-940834818d6c.pdf",
+      "size": 228679,
+      "sha256": "940834818d6cd2c4063475c16ebc27fce9571693e355cd130b64ed65925363a1"
+    },
+    {
+      "path": "01-sources/originals/SRC-1a7961e08c4f-zalacznik-nr-10-do-regulaminu-poziomy-gotowosci-technologicznej-683ac0c01a7c.pdf",
+      "size": 184826,
+      "sha256": "683ac0c01a7c16e12bae8ae2070d2498e7fb53d4a1b508e8648f32ece59bc8a7"
+    },
+    {
+      "path": "01-sources/originals/SRC-2275549d9dec-zalacznik-nr-12-analiza-oddzialywania-na-srodowisko-z-uwzglednieniem-zasady-nie-czyn--327868f47aeb.docx",
+      "size": 1587339,
+      "sha256": "327868f47aeb4fb14add3021d4cb26e986c0dca29873bc08a38a9ca5c85896fe"
+    },
+    {
+      "path": "01-sources/originals/SRC-2979100954ab-zalacznik-nr-4b-analiza-ekonomiczno-finansowa-studium-wykonalnosci-69a31fedb61b.xlsm",
+      "size": 83882,
+      "sha256": "69a31fedb61bc1ce30ee38280ecc6d87b470e135310c9e6822bff95975538119"
+    },
+    {
+      "path": "01-sources/originals/SRC-2f3214a336b9-zalacznik-nr-1-oswiadczenia-wnioskodawcy-partnera-441a869d3beb.docx",
+      "size": 843248,
+      "sha256": "441a869d3beb952c7368371e6ead1963cedd327f52f46ffef1d648a64b31c9b5"
+    },
+    {
+      "path": "01-sources/originals/SRC-38380985741d-zalacznik-nr-4-kryteria-wyboru-projektow-dla-programu-regionalnego-fundusze-europejsk-c2dad7d470c8.pdf",
+      "size": 597839,
+      "sha256": "c2dad7d470c87f7f7f9abb2f75af33dd71bfb60f5970d94a63e2133f110044bd"
+    },
+    {
+      "path": "01-sources/originals/SRC-3bb8a4ab722f-zalacznik-nr-1-do-regulaminu-wzor-wniosku-o-dofinansowanie-dc527c9da036.pdf",
+      "size": 1183473,
+      "sha256": "dc527c9da0364dd2b5bc2d3d488e9304fcb00a63c66a431fb65331e5cddd5114"
+    },
+    {
+      "path": "01-sources/originals/SRC-4a7345621b47-regulamin-wyboru-projektow-3916d47dee55.pdf",
+      "size": 686761,
+      "sha256": "3916d47dee550a96851011281d40e901a8375eef4f7268442f48d515bcf82713"
+    },
+    {
+      "path": "01-sources/originals/SRC-4c1f7e3f5a7d-zalacznik-nr-8-do-regulaminu-wzor-protestu-3e82a1c8c2b1.pdf",
+      "size": 186033,
+      "sha256": "3e82a1c8c2b1956860a8e122e14cb18e6b6711d2866e2be59a0349fd13d81a84"
+    },
+    {
+      "path": "01-sources/originals/SRC-4f89bb5c8738-zalacznik-nr-4a-dokumenty-potwierdzajace-finansowanie-projektu-4aa441d5a659.xlsm",
+      "size": 121898,
+      "sha256": "4aa441d5a659e116ed1ad7ce33f522a828ed97dc8fb68a85de783fc6b6e1f458"
+    },
+    {
+      "path": "01-sources/originals/SRC-53e7742cd689-zalacznik-nr-6-do-regulaminu-lista-dokumentow-niezbednych-do-podpisania-umowy-5efa458a085b.pdf",
+      "size": 210286,
+      "sha256": "5efa458a085ba6416eef0a4ad3946fcc25e2565d37b6d29600bb795008821550"
+    },
+    {
+      "path": "01-sources/originals/SRC-64ab2cf1d24b-zalacznik-nr-9-do-regulaminu-gestosc-zaludnienia-wojewodztwo-lodzkie-2a704a0a14b6.pdf",
+      "size": 368009,
+      "sha256": "2a704a0a14b6f93d826606fa17ab8107aebe511d9d5d3f0236c4bfea70cceabb"
+    },
+    {
+      "path": "01-sources/originals/SRC-736266770738-zalacznik-nr-8-oswiadczenie-o-kwalifikowalnosci-podatku-od-towarow-i-uslug-vat-8379d83587ce.docx",
+      "size": 832237,
+      "sha256": "8379d83587ce5941234f37c14dcef6dcfb5a4dc1eba92fb12bfd673799c09eb1"
+    },
+    {
+      "path": "01-sources/originals/SRC-7f45004d5aab-zalacznik-nr-9-oswiadczenie-o-prawie-do-dysponowania-nieruchomoscia-na-cele-budowlane-c5f57e49e1d7.docx",
+      "size": 1579410,
+      "sha256": "c5f57e49e1d7a35880b123beea75c47849c7023c850b4c0afa707a8554f64f38"
+    },
+    {
+      "path": "01-sources/originals/SRC-89ed20fe8442-zalacznik-nr-2b-do-regulaminu-instrukcja-wypelniania-szablonu-analizy-ekonomiczno-fin-b1c2c02daf08.pdf",
+      "size": 352980,
+      "sha256": "b1c2c02daf085bb1937a76eb1458ebcca736c4d532438b75a0dd9c8148969e9c"
+    },
+    {
+      "path": "01-sources/originals/SRC-998c83996317-zalacznik-nr-7-specyfikacja-dostaw-i-uslug-5db5cdea11ff.docx",
+      "size": 1568731,
+      "sha256": "5db5cdea11ff772d1e60c241031341e86f153db2812250060166b8c9bbd21769"
+    },
+    {
+      "path": "01-sources/originals/SRC-9fa2beb5c8a8-zalacznik-nr-7-do-regulaminu-zasady-przygotowania-studium-wykonalnosci-dla-projektow--c1e6ed0ad144.pdf",
+      "size": 243843,
+      "sha256": "c1e6ed0ad14426eda29d03169e41b75b7bb742b292e87cd74a2cfb0c1142eaf3"
+    },
+    {
+      "path": "01-sources/originals/SRC-e26dda651c79-zalacznik-nr-5-opis-do-zalozen-przyjetych-w-analizie-finansowo-ekonomicznej-e877b05c715d.docx",
+      "size": 832607,
+      "sha256": "e877b05c715d09e562c841e8087b78e02b44a95b22ff0af99176ad785ab8cbf4"
+    },
+    {
+      "path": "01-sources/originals/SRC-f0a0f90dc962-zalacznik-nr-15-agenda-badawcza-873886456a7e.docx",
+      "size": 1609940,
+      "sha256": "873886456a7e7c12e45ae2b0cc3da1a5964ad081fe5d0e42df5fa80ce1b59e2d"
+    },
+    {
+      "path": "01-sources/originals/SRC-fa5d8af7a572-zalacznik-nr-13-formularz-dotyczacy-wystepowania-pomocy-publiczneji-pomocy-de-minimis-4c1dffc76723.docx",
+      "size": 1578941,
+      "sha256": "4c1dffc767234dfe08943e1aeb3fe84f522b97b02d910080ff961472af392129"
+    },
+    {
+      "path": "01-sources/originals/SRC-ffac00590e4b-zalacznik-nr-17-paliwa-alternatywne-30320b9d5bb8.docx",
+      "size": 1568946,
+      "sha256": "30320b9d5bb8e64968a081f46792596bf4312f55953dbf21c405dc249e02d98a"
+    },
+    {
+      "path": "01-sources/text/SRC-054f556443d1.md",
+      "size": 277047,
+      "sha256": "ef8f1e22d60985dee7320580e7235156c86c12effbb2c2793d4c2a6b9313b97f"
+    },
+    {
+      "path": "01-sources/text/SRC-094d5cc5a4a6.md",
+      "size": 25183,
+      "sha256": "afcadc2a87e80b7719e36a0b1d8be3e31a5c80c6985ada78a1896f011d201526"
+    },
+    {
+      "path": "01-sources/text/SRC-0f36d16a8f14.md",
+      "size": 193061,
+      "sha256": "453c1ff094709b138a60422e6ef9a5eb5908af4e2328950c495e1914b32cef94"
+    },
+    {
+      "path": "01-sources/text/SRC-1430f88d0eb0.md",
+      "size": 473660,
+      "sha256": "67695ccaf4f1c7dd428ff9bf1011626eab6e059711e092a198638d1ff5e2bccb"
+    },
+    {
+      "path": "01-sources/text/SRC-17b93fd509a7.md",
+      "size": 22274,
+      "sha256": "a1c0be09bf6f10630ca6afb08072f56000e051a7b2671403922ab2b16b83cddd"
+    },
+    {
+      "path": "01-sources/text/SRC-195010cbdc2d.md",
+      "size": 11398,
+      "sha256": "7fbdf29da0c53b71cd81ec9da7e1daf74dc98b92ba14e748a5be2663b4f9a050"
+    },
+    {
+      "path": "01-sources/text/SRC-1a7961e08c4f.md",
+      "size": 4752,
+      "sha256": "5021d143982911b1463096592c1b31a96c8cdd8512aa82c091416b74ee1c2141"
+    },
+    {
+      "path": "01-sources/text/SRC-2275549d9dec.md",
+      "size": 31986,
+      "sha256": "689d20a306bb3955d13674cdfac2a04cc0b300906ea51c83467dffbbd12326cb"
+    },
+    {
+      "path": "01-sources/text/SRC-2979100954ab.md",
+      "size": 138926,
+      "sha256": "df1c8db06d1440555243286c70a0794a5680c4b0fd5f2fa52d48bdb8249fc435"
+    },
+    {
+      "path": "01-sources/text/SRC-2f3214a336b9.md",
+      "size": 12827,
+      "sha256": "9d17ee4893ac69be1014ae0f6298a88df262d6d09b3328c85e5ca31662587faf"
+    },
+    {
+      "path": "01-sources/text/SRC-38380985741d-tabele.json",
+      "size": 118866,
+      "sha256": "4776b497afd1994a8702369e02cb033c765f6054c2dbbfa0fb72283d6c1b3cde"
+    },
+    {
+      "path": "01-sources/text/SRC-38380985741d.md",
+      "size": 167550,
+      "sha256": "c4646c74c19937ab73d5f54c4dc22bd693d94f0882db2b710b7f38a5479636c6"
+    },
+    {
+      "path": "01-sources/text/SRC-3bb8a4ab722f.md",
+      "size": 97105,
+      "sha256": "8c938660cf61fd806e6c01b5e979f8483522bd9bb92e6dfc8fdbf0fa06a40a7e"
+    },
+    {
+      "path": "01-sources/text/SRC-4a7345621b47.md",
+      "size": 171258,
+      "sha256": "93a3573d69a09e054002a20d7094737102556a41d782d48fdfe75f780fd6ae49"
+    },
+    {
+      "path": "01-sources/text/SRC-4c1f7e3f5a7d.md",
+      "size": 3943,
+      "sha256": "a3063c960d23cd2af3e6f8ec546a4e1bdac8ca5dc75a8ef98f2ef2a6689a30bd"
+    },
+    {
+      "path": "01-sources/text/SRC-4f89bb5c8738.md",
+      "size": 219926,
+      "sha256": "39b7d65f3324aa83c7357aa6e2a51191703a529d038675ce9153a5765c22c1b3"
+    },
+    {
+      "path": "01-sources/text/SRC-53e7742cd689.md",
+      "size": 6845,
+      "sha256": "decdf2d260b0de12eb807a0d43234219c207c707c19babb9da2ef12f266c177a"
+    },
+    {
+      "path": "01-sources/text/SRC-64ab2cf1d24b.md",
+      "size": 16554,
+      "sha256": "51fb99071e7f19cf30486e5779d00798f88e5c78355613e877209eb6634d8aeb"
+    },
+    {
+      "path": "01-sources/text/SRC-736266770738.md",
+      "size": 2781,
+      "sha256": "3694ffecb684cb5083d068e5d849f3e5760f60cbc8752d6638078fed680b5975"
+    },
+    {
+      "path": "01-sources/text/SRC-7f45004d5aab.md",
+      "size": 4283,
+      "sha256": "4a759a96b9969eba9dc1e013f91e41f40546cc7a8d9a7d139c397cc76045197b"
+    },
+    {
+      "path": "01-sources/text/SRC-89ed20fe8442.md",
+      "size": 28359,
+      "sha256": "b6a958b8bd19d64fd94815368a6041c83f2e38c28b2519ff7615df468a47614f"
+    },
+    {
+      "path": "01-sources/text/SRC-998c83996317.md",
+      "size": 1663,
+      "sha256": "e6868c290ba005ba60147793e3efa118008fd00e3fb35dd210449f423d739cd6"
+    },
+    {
+      "path": "01-sources/text/SRC-9fa2beb5c8a8.md",
+      "size": 24454,
+      "sha256": "f9e55b02965cb181cc6770d076511f5966a87ed6776b38c2ac0d7f62ad875b09"
+    },
+    {
+      "path": "01-sources/text/SRC-e26dda651c79.md",
+      "size": 2510,
+      "sha256": "207ec17ad13134c73992db5626da21274d2ef5355cdac226fa6de3b602297e87"
+    },
+    {
+      "path": "01-sources/text/SRC-f0a0f90dc962.md",
+      "size": 33595,
+      "sha256": "7cc594ff46465bfd5a4a45ae86b1c85f241ea7149fe335a0aced8d68c1ed5049"
+    },
+    {
+      "path": "01-sources/text/SRC-fa5d8af7a572.md",
+      "size": 12609,
+      "sha256": "1679bf66c9806af8a691d8175f459a64ca6ea4459f10a9ca4c0ee43af444ac3e"
+    },
+    {
+      "path": "01-sources/text/SRC-ffac00590e4b.md",
+      "size": 2068,
+      "sha256": "91c7df88bef248eea684968f7d6b3c696faf0466d034f807a8e20ac5ba55a64d"
+    },
+    {
+      "path": "01-sources/www/strona-db8ac18318192ed3.html",
+      "size": 264244,
+      "sha256": "db8ac18318192ed36fa1c0e582dc3a6748d149d9d4f2d0ebdcb39a876c3b30fa"
+    },
+    {
+      "path": "02-analysis/assessment-criteria.json",
+      "size": 181680,
+      "sha256": "e55d6fb3fa7e6d149d84b3034ed6ccd1e5e84c4939debfe81f6c8d08f338ce25"
+    },
+    {
+      "path": "02-analysis/assessment-profile.json",
+      "size": 24552,
+      "sha256": "b054c107c4e5e4f6a109cdd9b63e0b95c2b820c4404570e6ed90959d2e3cd29b"
+    },
+    {
+      "path": "02-analysis/coverage-check.md",
+      "size": 10803,
+      "sha256": "162f09fc26ecedc4f9108dd74c20ec3348cb8f1ad17fa67adc108846ebc9f357"
+    },
+    {
+      "path": "02-analysis/criteria.md",
+      "size": 8828,
+      "sha256": "9ab51defce329d9b7bb5099db723a709c62a4fc1d123173a52bc385ca079670d"
+    },
+    {
+      "path": "02-analysis/discrepancies.md",
+      "size": 3455,
+      "sha256": "79db56c701ca28a2643a6adeed1b86c07ac1f0da2045b5f990bfc806679af48b"
+    },
+    {
+      "path": "02-analysis/field-keys.json",
+      "size": 7951,
+      "sha256": "20edeeeca25ecaf6945df4338e929172aeb58000e47bded880d9ac0a286e9978"
+    },
+    {
+      "path": "02-analysis/finances-and-attachments.md",
+      "size": 3079,
+      "sha256": "e7adfef253d18e2ed08a345ba96a38b34cf44320a250b29b1c75972a6de0a5e0"
+    },
+    {
+      "path": "02-analysis/form-dictionaries.json",
+      "size": 22103,
+      "sha256": "d353e5a39f851b428e391c591837edccc8861ae091e876950581a344e9f0c785"
+    },
+    {
+      "path": "02-analysis/gaps-and-questions.md",
+      "size": 1671,
+      "sha256": "36aa89461990c899fc9480421e05baccaad97bd0ca66a3e5d32f0a4d8d17f92a"
+    },
+    {
+      "path": "02-analysis/requirements.md",
+      "size": 9917,
+      "sha256": "fe71700fc6c737ec5a44ae0b89f5ee4b4cbdd29ae5b47b2e82dc12a089f56e99"
+    },
+    {
+      "path": "02-analysis/source-criteria.json",
+      "size": 97287,
+      "sha256": "3b4b0a34ce18575499087fc74517d1bb41bb32e2445c7fb87fda3ede846a6be6"
+    },
+    {
+      "path": "02-analysis/source-form.json",
+      "size": 391295,
+      "sha256": "4cd9bfa743e994b1e3a63c6be6973f66022fd1d2275e61c55821182be58dcc61"
+    },
+    {
+      "path": "02-analysis/spreadsheet-check.json",
+      "size": 1209429,
+      "sha256": "c53e571a6ec6f9470807eadd50edca3410ab5699a69fee3096d92beca26013df"
+    },
+    {
+      "path": "03-application/README.md",
+      "size": 840,
+      "sha256": "8f15c6ee194fc97accf349fba54519369ba648ac5b9095cc6ceca0f8a05d5126"
+    },
+    {
+      "path": "03-application/fields.json",
+      "size": 405016,
+      "sha256": "e4f250feee54d61d4f2af0d253ed67313b8aec8fa05faec95947f895794497de"
+    },
+    {
+      "path": "03-application/form-map.md",
+      "size": 46427,
+      "sha256": "d797a4cee34aa95203bebefbffd2a9edfd7601217479e763e45d6e6036d9e5f5"
+    },
+    {
+      "path": "03-application/01-project/form.md",
+      "size": 915,
+      "sha256": "186cfd2b455520d8c0db722e00527d61896e96556a5577b2c8bba8fab781d49c"
+    },
+    {
+      "path": "03-application/01-project/locations/_template.md",
+      "size": 246,
+      "sha256": "8ec7658bd75d31fe5da8d994b7f8b2be1e351cf11d779bcca349d2dcfb030516"
+    },
+    {
+      "path": "03-application/01-project/specification/Q-001.md",
+      "size": 684,
+      "sha256": "ce874b10d4779bc0e5d28229b86c2da2f8e3e2a72ba35605bf8f0331599bfd9f"
+    },
+    {
+      "path": "03-application/01-project/specification/Q-002.md",
+      "size": 742,
+      "sha256": "5be5ca690a78b70bae212b25d40904bfbdd3ab961e9cd8f4320182d07b32a251"
+    },
+    {
+      "path": "03-application/01-project/specification/Q-003.md",
+      "size": 638,
+      "sha256": "6dd5856f2d7ab6f4d6026c931cb1cd932f786f98a10b4b945869b33336fa1c1f"
+    },
+    {
+      "path": "03-application/01-project/specification/Q-004.md",
+      "size": 743,
+      "sha256": "77db28d0609ab98445f1a9f3a901c8eac2e72732c9664b13fdeb266c988e9e24"
+    },
+    {
+      "path": "03-application/01-project/specification/Q-005.md",
+      "size": 543,
+      "sha256": "b315cbc30edacd25aa74d00e6217d375238859a6fb2e649d9ff1f6355115286f"
+    },
+    {
+      "path": "03-application/01-project/specification/Q-006.md",
+      "size": 981,
+      "sha256": "66d04033a95b20f5c2843d56503bcb5da36d4aa629995e0c4508c3da0b48a64b"
+    },
+    {
+      "path": "03-application/01-project/specification/Q-007.md",
+      "size": 542,
+      "sha256": "9a833d588ef1af2739702f78d52f80f60e7a5d4d8bed892c2c342d67ccba4cca"
+    },
+    {
+      "path": "03-application/01-project/specification/Q-008.md",
+      "size": 618,
+      "sha256": "13f693636586f7e30b8ced3fd0d85c5074a11874e1beb5a46e00f53365672876"
+    },
+    {
+      "path": "03-application/01-project/specification/Q-009.md",
+      "size": 592,
+      "sha256": "59c053933fdac5da41d5b73e1673b9bf9c734b413587239898a3384936defc1d"
+    },
+    {
+      "path": "03-application/01-project/specification/Q-010.md",
+      "size": 677,
+      "sha256": "468bc41ab61ac25c127e672216960a06411e3be79dfee1a930e0aa9fd530da30"
+    },
+    {
+      "path": "03-application/02-entities/form.md",
+      "size": 929,
+      "sha256": "b9f59b02e617ff0996ee458f28e0059d218a1e3372383a036f57a5b89adc4542"
+    },
+    {
+      "path": "03-application/02-entities/contacts/_template.md",
+      "size": 254,
+      "sha256": "560bf0de6c928bb5e5e379ba0708d3ab9b09f08e2b3e2efad43b57625a02f80d"
+    },
+    {
+      "path": "03-application/02-entities/implementers/_template.md",
+      "size": 632,
+      "sha256": "b068e0d193539dd7a148c6a82d2411ec1944f91120f9e85323e240d9331db89e"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-011.md",
+      "size": 546,
+      "sha256": "bd0029e275f1dde65277f8d46058716d567f414dea62d9b947335ba68c33627a"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-012.md",
+      "size": 4598,
+      "sha256": "7f569562f1d527f6ae71ad9f56f7f3c0ddf6ef54f76ebb5b89ff58d359b504f3"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-013.md",
+      "size": 719,
+      "sha256": "199b5d8882f2f75af34f77b8d0b361d9fd033cb462eedf6bff7f2ff632e1aaf3"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-014.md",
+      "size": 778,
+      "sha256": "3b6943bf799be305298c3485101e7b1a473a46940d7ffab59fe55f5f57170188"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-015.md",
+      "size": 691,
+      "sha256": "2d3981efd68d2fad56a8c3a37bca61c9db833fe3b17fb094823707bbe42f2cfc"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-016.md",
+      "size": 1276,
+      "sha256": "a2ec4da8f3f2d3311857946a86ca18a14b8f2d25b113570d90af5210b3aae53b"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-017.md",
+      "size": 530,
+      "sha256": "1fb836c677315b78e5c76b53ef02df0ed5342d14121b36de114650ecc1cd03d5"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-018.md",
+      "size": 529,
+      "sha256": "b88f7d1efcc7cc5d1cfd688b1b163dd6d0e8fba8b333cd53b0c5881a49517410"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-019.md",
+      "size": 522,
+      "sha256": "d5feb310ef394135fcb0673dfdc4f49666fe66f827a154b579b991616e41fb77"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-020.md",
+      "size": 530,
+      "sha256": "8df81212db3ecdd62e77a39e0817c6fcfa405c375c13204026e9e792a624e869"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-021.md",
+      "size": 493,
+      "sha256": "b6384527f96d90a5737caeac95b7d35cd19a114648912ed6dfd0c4ff63d1daad"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-022.md",
+      "size": 522,
+      "sha256": "05fec175a9e1216e0479b5d7a470abb84cf77c5969d49923abecaae00ab4075c"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-023.md",
+      "size": 524,
+      "sha256": "99e6a8e9d9b0e380dd865d1841c9503b1f16578455479d615bbfb19e4276b3e2"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-024.md",
+      "size": 491,
+      "sha256": "91d8ee9702ca70061d2fabac2fdcb581cc35ef1a2b3afbf54746ee7d2ee252a7"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-025.md",
+      "size": 632,
+      "sha256": "c2eab5338d5038425eb9d66cb55eb8387d0b6217a177c564ea573eb6e18b8840"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-026.md",
+      "size": 593,
+      "sha256": "8fc879ea3a7dfb22eca6315160244051a170dae72611ddb7ff5493091c4b68a3"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-027.md",
+      "size": 711,
+      "sha256": "43c1082816f1363f544f213ae97bab2d10118993460314d0b8123eb80324c026"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-028.md",
+      "size": 619,
+      "sha256": "e93f4f42a8cae4c29908fa566f1fbfae9e9f38f344fcc7ed2b81104576b837cf"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-029.md",
+      "size": 4671,
+      "sha256": "5942199690070f4ac8065eccbd2ee56d58455b41a6475109c941eceea242bac4"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-030.md",
+      "size": 792,
+      "sha256": "74f0955e71d625e7b28a8906c35341a8dc9c0de295a862f3495faca68c02c433"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-031.md",
+      "size": 851,
+      "sha256": "eaa585651170af91c73e95cf5bbd79fe7a195150bccd24976ce8009ed3c51740"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-032.md",
+      "size": 764,
+      "sha256": "bb02e6bfdf281e52f34c5c678337e77025d0e48db7156c4473e1fa53101375b6"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-033.md",
+      "size": 1349,
+      "sha256": "84831f75bab17330d4286f3d8a6ec6c3b8078b8ef2c607ef41494ecd0ddea615"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-034.md",
+      "size": 603,
+      "sha256": "40fc1155cc3f6f2ccebf497a241c62f4e5b7b3f5384fde2520c388d98a8c06ee"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-035.md",
+      "size": 602,
+      "sha256": "59cc5ca3850a25cac39600078fee1ec7f9497fba7066450532ed0635a47332d8"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-036.md",
+      "size": 595,
+      "sha256": "2107aac95e95a5593320d442f3a03b0855e0c1b0ca48e4cefb72adba6bd8abcc"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-037.md",
+      "size": 603,
+      "sha256": "8f9c20db4841a6f8a5e58b4ac27db8d5dd4a9d99ba653173c0bc0df685177c3c"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-038.md",
+      "size": 566,
+      "sha256": "c8c2a02cf03eab7f4bcda1bbf047d7669d3e2714fe8ce9eaf3ff1e7661cf394f"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-039.md",
+      "size": 595,
+      "sha256": "d19c15f580da59c92e9d94894187b5c047d9ec9bc0dcb11a8f4edca98e3bb2eb"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-040.md",
+      "size": 597,
+      "sha256": "7260ec3a4ab150d5fa70b99673b57bae5547112de2b2ac7ed755b84e76e42fef"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-041.md",
+      "size": 564,
+      "sha256": "512e2298390db133b617483fcfb3c297bc93231fb0b1c214ba320e1a3d0cb3d9"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-042.md",
+      "size": 705,
+      "sha256": "e7edc13770138e6a6631cb1735857ca6594767adfe0e7f384324ade3d308d01a"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-043.md",
+      "size": 666,
+      "sha256": "d2d2b83f43d6a914b2ab00f63720a885355bb7ad5e411d0421d7af7470e05276"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-044.md",
+      "size": 634,
+      "sha256": "62676aafa7626fb55462499da84ce5ae206a689614a43a0336d42bf14273d15d"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-045.md",
+      "size": 640,
+      "sha256": "f183e3ce03e18aa61168404e1417d28c482bd1fe28d2f8d5209199a503025b82"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-046.md",
+      "size": 634,
+      "sha256": "9f871b8177eb3248d171020908e76c91d7bb1170d94aba75bf1b83fb9806a3c2"
+    },
+    {
+      "path": "03-application/02-entities/specification/Q-047.md",
+      "size": 652,
+      "sha256": "1db5f911dd04a8769b50be285f7daaafff1b0fa5b9fcba6905406570bbad8a8c"
+    },
+    {
+      "path": "03-application/03-indicators/form.md",
+      "size": 456,
+      "sha256": "8c817e515e0cd744c2c020c1e83891ec0d27cace3d7d43533b77875348a8dd35"
+    },
+    {
+      "path": "03-application/03-indicators/output-indicators/_template.md",
+      "size": 821,
+      "sha256": "a22a52d437b841cae7c1adabb28eccbd88a1dc65756ae762b9807ca510f490bd"
+    },
+    {
+      "path": "03-application/03-indicators/result-indicators/_template.md",
+      "size": 960,
+      "sha256": "14eebf22bb34e5a2983d4ca412f3e4e9c7f40c114875bfa25f2fcfc220292ab6"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-048.md",
+      "size": 2165,
+      "sha256": "4615ded77035871132ad06eb632fe92a099a441b415f40a42b184db75e57307f"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-049.md",
+      "size": 3971,
+      "sha256": "11dbe2544451e444af10581bc2b787645a45749642aeeffa255238427e6fd70a"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-050.md",
+      "size": 691,
+      "sha256": "866ddf918560e07798f33cd3d30e4b99d8d81a1e22076a484112a24bec553995"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-051.md",
+      "size": 730,
+      "sha256": "c1559ed568605fb66c183430175fa465ddfa39e06449a7a40c5431db8a2dae74"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-052.md",
+      "size": 814,
+      "sha256": "205c88de30e30b70122da9dd193a5944df6effaf94624a46491a7b4729e912bd"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-053.md",
+      "size": 831,
+      "sha256": "24e56e46f88379cff62209a02b88410e4492b0e0fe70257d9c52148f30374f76"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-054.md",
+      "size": 836,
+      "sha256": "e36314c3abb8590edfea55cba013029c8525277998c2b06e94bb45f758d01eef"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-055.md",
+      "size": 796,
+      "sha256": "97d42a886c4cd5d2feca09ad17df682d3dbdd4b9777824dd4cfca85ac0f00afe"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-056.md",
+      "size": 2112,
+      "sha256": "7e7cfdbf483587186c2dc5fd3f88035ee19568b6df95109e67dc5b31a9a5b616"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-057.md",
+      "size": 3973,
+      "sha256": "33ed67709a4eca9624025d0e1211e16bc8fdd5a87ed4117adb00b6616b0feb31"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-058.md",
+      "size": 693,
+      "sha256": "706982b2ba13964d79c7610d8509d3d49b866f24fa1ccce1e5d07e500f198f1b"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-059.md",
+      "size": 732,
+      "sha256": "c6a302ea219e12a697a47c4a80855cc22185c34e0a3a6ad623b34b40122ff9ea"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-060.md",
+      "size": 814,
+      "sha256": "1fbd9fd8892a301b8fdc29f678c20d713cc74caea64fe39feab381ad38fbc788"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-061.md",
+      "size": 831,
+      "sha256": "69ce4fecfe2d149c8bab114818baa5ae8d7a56fdb5f6921f2cceb1bdbcc83feb"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-062.md",
+      "size": 836,
+      "sha256": "c68a1fabf0fdf176808232fa093c06ca7875e1113dd0ccc7981e72c62a578a35"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-063.md",
+      "size": 816,
+      "sha256": "1272d950eaef224ae9f08ffd62e883713b33af20546935cd32fbeafe5f7d680b"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-064.md",
+      "size": 833,
+      "sha256": "457545078f602d19898c510924bd73075a9682a9b560a71a6441e8d7e9d1f289"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-065.md",
+      "size": 838,
+      "sha256": "ba2a0f6a106d999ddda18b27bd4225394283d5dbc89942b4a1c9a85bfe3a38aa"
+    },
+    {
+      "path": "03-application/03-indicators/specification/Q-066.md",
+      "size": 797,
+      "sha256": "4ce7dae36c96c09cce56dae2a8067eedc44922febf9d6fda3d4c14b813c49871"
+    },
+    {
+      "path": "03-application/04-tasks/form.md",
+      "size": 122,
+      "sha256": "4e60dfa485a105fd7c92f9906a84c97c2614311676e1c2a8ef4d370b503ffee4"
+    },
+    {
+      "path": "03-application/04-tasks/specification/Q-067.md",
+      "size": 742,
+      "sha256": "116d3810063779375eac3f6526d1db416fc83eae6a26fd7cf1eef91b84e1ac84"
+    },
+    {
+      "path": "03-application/04-tasks/specification/Q-068.md",
+      "size": 655,
+      "sha256": "bcc3813fb0215ab42963cfdb430b0c4e11cc101b8a8095ae68ce391f4b68d2fe"
+    },
+    {
+      "path": "03-application/04-tasks/specification/Q-069.md",
+      "size": 655,
+      "sha256": "1eb9229991fe0f08b7e5cf049f211492af5277ade713573a54b78a6fc48e08a0"
+    },
+    {
+      "path": "03-application/04-tasks/specification/Q-070.md",
+      "size": 765,
+      "sha256": "bbca8ef95bd86266ebb844c2ca364e1caadf2dc3124757799b777f597ddd9dad"
+    },
+    {
+      "path": "03-application/04-tasks/specification/Q-071.md",
+      "size": 707,
+      "sha256": "6055ff9afe7acf82828a9b40455cf1f2b041a814712a6d967c154c2d75342482"
+    },
+    {
+      "path": "03-application/04-tasks/specification/Q-092.md",
+      "size": 743,
+      "sha256": "a1323216458abc2e1cc0e18d61e5653c19b35cdfad7889e4e7a48d3b4e323077"
+    },
+    {
+      "path": "03-application/04-tasks/specification/Q-093.md",
+      "size": 755,
+      "sha256": "d1071e26d2b623e514a931b8a49a829b766a96380f5dd5ef8b439ec1a88c8fac"
+    },
+    {
+      "path": "03-application/04-tasks/specification/Q-094.md",
+      "size": 739,
+      "sha256": "fa2ed0fe913ac9c08a62f25e65419aab5313fddcb91542355ba0e54ed6525724"
+    },
+    {
+      "path": "03-application/04-tasks/tasks/_template.md",
+      "size": 775,
+      "sha256": "31aca57c1847d0fb09773d5709afcdb7bbf04bbc1136942cf2b5c199343b4f3c"
+    },
+    {
+      "path": "03-application/05-budget/form.md",
+      "size": 475,
+      "sha256": "59a6dd271b97edf6f72905b194b156ff1534298ea8a93853eeb59e5f887d8220"
+    },
+    {
+      "path": "03-application/05-budget/costs/_template.md",
+      "size": 1365,
+      "sha256": "6b44178b447968173d665340cf2fdb77d5877870bfb681f2c9d41811653f1f88"
+    },
+    {
+      "path": "03-application/05-budget/flat-rate-indicators/_template.md",
+      "size": 343,
+      "sha256": "d00b22513a7760c21bde2cffb6e9e33e2b138b0b959c162ea6209f70dd66ab7b"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-072.md",
+      "size": 699,
+      "sha256": "4628c57dad0e85bbe81cf6d54b8ff205d45fe08246efc191d1e7c94724e1af0e"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-073.md",
+      "size": 736,
+      "sha256": "f89957db73dcefb1b6247508fbaaf05f23ec9795ebe8aa5d3d05d58dec4844f6"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-074.md",
+      "size": 732,
+      "sha256": "bdb9f97cd0095c8de14e11eb3df4defbb8af72d1975c20540aea2c057e3927ed"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-075.md",
+      "size": 771,
+      "sha256": "d7d725299850fc5fa17e932ac624e8fc25c6fad52bc3cc89d7cafbcbf2958517"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-076.md",
+      "size": 965,
+      "sha256": "04787e84b1c31a8c5d9c7605456d37cd0c99d7369b900275b4e8f51237e2b50b"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-077.md",
+      "size": 722,
+      "sha256": "96f94f79e6a4c5a04805b01d8222b3e71d7b9c7e023d6a8afd0246fbd71a3a10"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-078.md",
+      "size": 716,
+      "sha256": "70b0f168a9c9438bbbf629da7c21cb35d3221a8154692458fe65cf6b47ad1514"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-079.md",
+      "size": 1067,
+      "sha256": "0fb7eded98e2740a8c2c0c04a8174c88115b4baa0b9e6a89512aff0c423a66dc"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-080.md",
+      "size": 855,
+      "sha256": "42eb35d6ceb1df58a7a86e3cbf07a33237c4e55fa738364e49532f5034ab96f8"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-081.md",
+      "size": 1121,
+      "sha256": "83916c67bbec0cada5cea62605ab2d9892f84bc5e37080684011ed449683a238"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-082.md",
+      "size": 998,
+      "sha256": "27eaa0960b99cf90559204d61cd7b456a0866572dca2fad7b2f67791e4cef39f"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-083.md",
+      "size": 896,
+      "sha256": "ca1c85a9ca25551d11b791b6b64782c2c9f55e2f557bb3397341a18125d43628"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-084.md",
+      "size": 802,
+      "sha256": "14157017cd076ba7d62d93aaaa390da3d2e9879073e7d0476c8ae7572c4885de"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-085.md",
+      "size": 734,
+      "sha256": "10c4ff9a352c5cf60fc8931c0e8e70621b6f43e4eb090405ea4476a2bf514255"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-086.md",
+      "size": 701,
+      "sha256": "1f0322c07628db71c9c05b486bb18f90a98dc60639bcb70b0375fcd819b9c882"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-087.md",
+      "size": 761,
+      "sha256": "902324ba86aa56bc277a18eafbbf5310f3d444a3f46c6ba11615b0ee4e52e861"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-088.md",
+      "size": 794,
+      "sha256": "56a367dd35aa4674a6762f3c4eeac2c46881c5a77a559e4d6ceb543da86a418f"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-089.md",
+      "size": 754,
+      "sha256": "6e1a9b477f3819134c980d94314ea357c9e191d4650e4d6244ed478b227a1aa0"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-090.md",
+      "size": 772,
+      "sha256": "0dfab09a4f8dde9f6f6230b43ce246c9c7b27e411fed7ebc9a21f6208ac91eb6"
+    },
+    {
+      "path": "03-application/05-budget/specification/Q-091.md",
+      "size": 769,
+      "sha256": "aefed92b17ac6d5cbe2abec9f3ee0832cadc8fcebd66809426397bc5c50aa3d3"
+    },
+    {
+      "path": "03-application/06-summary/form.md",
+      "size": 403,
+      "sha256": "32d0a58ffe3ab10b830ca5e3c6f1a7935ff1de8267927ecbac6687adbaa79ac9"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-095.md",
+      "size": 679,
+      "sha256": "a8b64c0890ae571de13a22d5d6d0160990305d8f5a89d26cfd32c63a993e550d"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-096.md",
+      "size": 786,
+      "sha256": "280ef3cccfe59c9bd2ba5dfbc897ed8bb219e6e9d930a1e5282c1d2f6e60e4b5"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-097.md",
+      "size": 754,
+      "sha256": "b62758787311321263e102269c6e433499edb2e62f3d920c6f6b5c3737462998"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-098.md",
+      "size": 786,
+      "sha256": "c30a64d4ec176977cf0b346207e542c766ed25fb7fb3ff2608f3b1452b383947"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-099.md",
+      "size": 690,
+      "sha256": "893d68e5644f0b5b2bc79c4d197309fcec6620243c2b0be8b54154e0668a86e0"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-100.md",
+      "size": 702,
+      "sha256": "ba7373e4daeb6515ef92406d536c44cf1dda29750b73f09e825ccc20c25c83cf"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-101.md",
+      "size": 696,
+      "sha256": "817e006e6d4b54503cf0ab0444914d6f902d1b151c078a0e8343d6ddba8fe3e1"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-102.md",
+      "size": 691,
+      "sha256": "96c131bdc0b16d4f01b5584e72ad16cd05eed00223dee0504d70ec0f768f9b89"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-103.md",
+      "size": 798,
+      "sha256": "be0586d16c7c18fd8fd19f3e57c77f06224f671f2779d92e82a9bed4ce6b2579"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-104.md",
+      "size": 766,
+      "sha256": "c722f06ec341ad6c7ab48486cded31e4574145c907ebea7b2550e70a262660e8"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-105.md",
+      "size": 798,
+      "sha256": "b30ca127d271253a7797848856834a1698d2838139d60e69c238bc4e65a7a34e"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-106.md",
+      "size": 702,
+      "sha256": "9d54ecdc690177d3f95b4716dd3f396813918536275d6060fda266d5094d60af"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-107.md",
+      "size": 714,
+      "sha256": "c10483521c7774feed2481a206f6686e8d0401fdbfe81546b870037db55bc18d"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-108.md",
+      "size": 708,
+      "sha256": "ce95963dfc5b75633ad87d7bd70c5ef1fce03dcf7b6ecda18d20678adf4d3198"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-109.md",
+      "size": 675,
+      "sha256": "38c7d264d3fc9b8d57009500d275d8bdaed49efde76ad9349ade7fce67e47141"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-110.md",
+      "size": 782,
+      "sha256": "cbde639856c2e421ed096dc21cdc28914afef13230737e852e41cca9133d21ee"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-111.md",
+      "size": 750,
+      "sha256": "894743f756f451e6dc1148e0250c631082ae40871345471bd70f4dc8875a7ef8"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-112.md",
+      "size": 782,
+      "sha256": "f0ed45e592be4311f0840f804731f8504eccbcc096e5062474fcb1027bcf48c1"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-113.md",
+      "size": 686,
+      "sha256": "c587c3477b6e5fd6a33a47217742fdedd9539601d559acf7f04230378aedbc6a"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-114.md",
+      "size": 698,
+      "sha256": "8da0e1e96e5e946744dfd6a34815265c02be60d0cb98a888fcd37d9ba038851d"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-115.md",
+      "size": 692,
+      "sha256": "17f1fd8cc5c597f4802c3e942314c623d30273912955876380ffeac7288c6f85"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-116.md",
+      "size": 736,
+      "sha256": "6ffbb1637e5c8eccebdcad5157183e97b154247e4c67de041b1b5924303155b0"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-117.md",
+      "size": 748,
+      "sha256": "fb207959bdef230a07b943fdba8c657465abaeb5a55267dac4bbba4d5f8e78a7"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-118.md",
+      "size": 732,
+      "sha256": "bdbbaa61d8946311cafdb7c3555fa2e296e073437d4fe710129b51e40f182a4b"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-119.md",
+      "size": 742,
+      "sha256": "6c30bf58bca3cff5cfadfbb5a1ddc9794b2a4c5e16232f10b8c8b5c6d53345d9"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-120.md",
+      "size": 754,
+      "sha256": "35445df248aaedb8ee23a1289d37e7a7817cca808052e996df0b5d0fa11c2928"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-121.md",
+      "size": 738,
+      "sha256": "588ad203bd38cb14d5e9d76a025b86baa09374566af81dc52bcfbfff65278a27"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-122.md",
+      "size": 739,
+      "sha256": "b7caeed94c9ad5ef1efcdbfadce14e15bb376dee95b837af8b8ecb8c8b1682c5"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-123.md",
+      "size": 751,
+      "sha256": "cfec2b7d972b25ee55d90ac72c17fdfc67723cee28b26083ed002e4a95819593"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-124.md",
+      "size": 735,
+      "sha256": "0aed49d976fcb5a95dfa99d2a73d7d461fcb4178dfc925bfc332238a3fe2d249"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-125.md",
+      "size": 748,
+      "sha256": "20682346e72c29df71e657232ff3667e3b73dd6f35d4ea7c14469e0ee7093cac"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-126.md",
+      "size": 760,
+      "sha256": "a2769b1bca00de2cd4c20fd2887eefbe6e9a29c8fed783e9ae2f5dadea732a2c"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-127.md",
+      "size": 744,
+      "sha256": "6401262828b5abc2be79d4ab96a320bc5fab5ee23a95c8b0178bdf51e8cbf830"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-128.md",
+      "size": 744,
+      "sha256": "f13ed04c36776066cc6072f0235e15e6b166bd0ccb60f02e8b7957e2791407cf"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-129.md",
+      "size": 756,
+      "sha256": "39be817b6d63c48d58f64ca5e5c20f4a33005ed027f8947db40f6d52c7c6cca2"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-130.md",
+      "size": 740,
+      "sha256": "2368bdd22340753b7e02ed5896e0f4d3d822856cabc3fb22e76aa4fe9837c4f8"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-131.md",
+      "size": 757,
+      "sha256": "be52e6612b8f8962f62801049217f05ad1605daa9174211045dcc77bd4f844d7"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-132.md",
+      "size": 769,
+      "sha256": "6780c2712528bd00ab0cbe7e0e759c87d1683d687571e4e034bcfa62f94f5526"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-133.md",
+      "size": 753,
+      "sha256": "a09dda316ffb6a929395b6e190561c58230fc469bbba1c974b2a34811a28dadc"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-134.md",
+      "size": 742,
+      "sha256": "a434b47b87bc4e567c00738249eb4253b7c807d8455e8f6e7436837a54fe841c"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-135.md",
+      "size": 754,
+      "sha256": "6c6fb71277ae93d748b07f0f41bd2585fe5c6c6d9fcb811cd0a72f659360cabb"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-136.md",
+      "size": 738,
+      "sha256": "85afbc3beed5a577d4f4803432fe8ee5d098cf1cb1baf92f5c8f473eebe984e3"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-137.md",
+      "size": 741,
+      "sha256": "89802c8457b0e46b64309f59c518bd9c0fb3b7faaf2a70349d66946ca1ff368d"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-138.md",
+      "size": 753,
+      "sha256": "0b99d9e3d4086686d569feb03a362721a4548b91396dea7bc5e5f8fc6595f5ea"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-139.md",
+      "size": 737,
+      "sha256": "3405c6fe7f66487a800d5971661cc5ce2e8c55ae843a96c2b036c884f4b9a39c"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-140.md",
+      "size": 758,
+      "sha256": "8421ba7d9661fd7e10b923a585a7a25f855c5217401649ee819a47ea2acb7015"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-141.md",
+      "size": 770,
+      "sha256": "4ad6d143b23ce09c58571f1e2bfb65c4b5e76842be0cff9804207a757bc13d11"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-142.md",
+      "size": 754,
+      "sha256": "6b3e9bd5503cc1650462e3e5742bcd525b240e06a93fcc9cebeb9c5e09e9df9e"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-143.md",
+      "size": 760,
+      "sha256": "750159af51c068a2331ce653a512d3142face9139d4a3122e7adafbc49b042d6"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-144.md",
+      "size": 772,
+      "sha256": "73185527b90f05ef4c18647c455df4fb5b3ee5b1dfd568bf6423fcac4ba1f8cf"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-145.md",
+      "size": 756,
+      "sha256": "1dc0e94926fae4aa3db2b20681bc7b3b2aa5e0f55efe1d5ee0569148ac4e367d"
+    },
+    {
+      "path": "03-application/06-summary/specification/Q-146.md",
+      "size": 653,
+      "sha256": "bd032380e91d8a2cf57622dfd44037c97155a61ac40a0f8631d3f31abdebf08a"
+    },
+    {
+      "path": "03-application/07-funding/form.md",
+      "size": 675,
+      "sha256": "fff4a40162cb91ee838e81b11dfbd0dc6ad64c205d3141ef2f33e8e24834a170"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-147.md",
+      "size": 712,
+      "sha256": "da95ef6f4cfaab8985221509c28ec7a5064c487ec5e8838cc02bec1d8b8a4827"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-148.md",
+      "size": 718,
+      "sha256": "b5d86ea9cab4c61b9b172fa596b8d00b51c1ccd2753e38668247a926a9889b3c"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-149.md",
+      "size": 739,
+      "sha256": "81da899ac8d8f3542096d68d57a42dcf8d7f68cdfb9fb3466fa3c5269081b440"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-150.md",
+      "size": 745,
+      "sha256": "4fbcf6e605d9b752a2eff81dcb4b2fb6a2465eca37108d9a3545ff79bc3e5812"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-151.md",
+      "size": 710,
+      "sha256": "57a554d2fe6354bc8165f5e6c744c211eee70aa247d72a1aebea6adfd50e5bbb"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-152.md",
+      "size": 716,
+      "sha256": "260194a47f6edf01f1d985023ba2aa25f362fc83d798948d6c083f3de143060c"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-153.md",
+      "size": 704,
+      "sha256": "7925f2ed665a7ec74feba727ebf829fe97d0be0b9827344113776773dfcc003c"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-154.md",
+      "size": 710,
+      "sha256": "3cd75f3715b7ccac633fdd85c1f9891cd3d859f3473cd2bff037510c51bbd115"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-155.md",
+      "size": 634,
+      "sha256": "4d872967380ad23175a1244f71633ab17e5684b4294798fc719329215c6f50d8"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-156.md",
+      "size": 696,
+      "sha256": "ceb0877c4d0cd4b426f6ac25cf98d5c48712443c005a90ddb657fd22570fdba1"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-157.md",
+      "size": 658,
+      "sha256": "86d9db1a6985d7b2d984cf8b470d506013f3a0688b5e2f1d5ad082ab21a90078"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-158.md",
+      "size": 646,
+      "sha256": "4c04ffc855c7502505f947244d997d10078094ee537138fc0916913812c78771"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-159.md",
+      "size": 708,
+      "sha256": "07cb265de2293826a54e69d8d83c79f5123572d093785d96b31005b9478deb1b"
+    },
+    {
+      "path": "03-application/07-funding/specification/Q-160.md",
+      "size": 670,
+      "sha256": "daa3879a0933de41e27740bb4ebe38bd4b96ceb1e1e836fc17e0c61106ecd02e"
+    },
+    {
+      "path": "03-application/08-potential-and-risks/form.md",
+      "size": 1531,
+      "sha256": "2eb54628c82c8cbf20c837b1c5ce8e921e8f9a000d7e8a7b4b649f9a156302d0"
+    },
+    {
+      "path": "03-application/08-potential-and-risks/risks/_template.md",
+      "size": 658,
+      "sha256": "b965f41364064bbe7f4be4f4b2aaac4ab9177a06e644fb38d59204ae17df354f"
+    },
+    {
+      "path": "03-application/08-potential-and-risks/specification/Q-161.md",
+      "size": 699,
+      "sha256": "017654eebee82220c7aad811bcb26fdc1bc0990eda62b6b7ea63712d25004a88"
+    },
+    {
+      "path": "03-application/08-potential-and-risks/specification/Q-162.md",
+      "size": 713,
+      "sha256": "b283e37f1bf9f5c1c3bd97fe3ab5a6328648a450e47858e09f15f36fba9b9e43"
+    },
+    {
+      "path": "03-application/08-potential-and-risks/specification/Q-163.md",
+      "size": 709,
+      "sha256": "0ce6a8af17dcec19698652a950921de9921d161ed485216e80487400abfb98f6"
+    },
+    {
+      "path": "03-application/08-potential-and-risks/specification/Q-164.md",
+      "size": 718,
+      "sha256": "02ea9a5910d21b06c7d9dd5269d0dc35558e671789cb1d08be075a81e56fdfe1"
+    },
+    {
+      "path": "03-application/08-potential-and-risks/specification/Q-165.md",
+      "size": 620,
+      "sha256": "8ca9bffa92cf47de0fde2a6228907ef9add84c2d7ea2446dccbb9fcc72e22582"
+    },
+    {
+      "path": "03-application/08-potential-and-risks/specification/Q-166.md",
+      "size": 747,
+      "sha256": "d1a871fc7cef2f59c746a707ed522c56b44796f7d26017f95844d65071c9c2ab"
+    },
+    {
+      "path": "03-application/08-potential-and-risks/specification/Q-167.md",
+      "size": 939,
+      "sha256": "3221a50a9d0d2ac96c21a62e004e05b395cc0f5ac21de0b86437b5d471ce688a"
+    },
+    {
+      "path": "03-application/08-potential-and-risks/specification/Q-168.md",
+      "size": 619,
+      "sha256": "5b95ddb35525e7ba4949557d80c5a19a9a9f25a463947d82bc2f081e2ac5ff0d"
+    },
+    {
+      "path": "03-application/09-additional/form.md",
+      "size": 3888,
+      "sha256": "581351a345d921d71724a1002ffe7037aabf015519b8b9878a8867e7ef9388bd"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-169.md",
+      "size": 703,
+      "sha256": "10b4d770d8f97c45c43fd8766d88ef594ccee8db0678169675c5947f8df64ede"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-170.md",
+      "size": 1858,
+      "sha256": "bf9621774f36c5f908f74ad573d3c011620883296a9d81540de4e5dd435b5922"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-171.md",
+      "size": 952,
+      "sha256": "39849b5926f1a63c0c49255d4032b8d585ed835c87a2ab69ba1b947785e73f70"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-172.md",
+      "size": 605,
+      "sha256": "992714132571c1acdf05c5db534b21369e2d64df36201e4ad5f9a768aed15b32"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-173.md",
+      "size": 581,
+      "sha256": "fa69be79fe9724be63f45fc8231cf88903f48fc851b0836cb9549e32a8bd4944"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-174.md",
+      "size": 725,
+      "sha256": "3ca500f9e231af32002654f3bd282a312377ebec7311aeb72542e3da88275a9e"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-175.md",
+      "size": 675,
+      "sha256": "0b9805c30c92a0da2f3fa4e699e803c2ae3bcf1d9962a025e961dc4f4b0e2914"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-176.md",
+      "size": 806,
+      "sha256": "8d5584d31e0ef5a4b343ca29141a194b60de4e2e94356eff88046eae482ebccc"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-177.md",
+      "size": 616,
+      "sha256": "f270390bb05c7e75442269ae59e4a9d7de9bf9e77995d066490da2183089bd3a"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-178.md",
+      "size": 619,
+      "sha256": "9879aef741a5103bfaa2f6d23e7ca5e5897c1e37a2c6c0095dee118cd796d39c"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-179.md",
+      "size": 712,
+      "sha256": "0169e4cb796856220e703a97cfb9e0cb3c35ced4c6e5372a0f365cbc4ada44c0"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-180.md",
+      "size": 642,
+      "sha256": "6ccd6006cd465a935f21b49ff211fd211e77a615f9c653ca97cd65dfc446b61b"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-181.md",
+      "size": 703,
+      "sha256": "eba6f7fc8b69f0637446a85df0106bf2d3b8035898dd7600c7338237d0f1206d"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-182.md",
+      "size": 668,
+      "sha256": "8b00b7079124502da69c07e10094a273336505951c820d74eaf68ff573fc9172"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-183.md",
+      "size": 661,
+      "sha256": "d97d2e12e308a2e5163234c916e125a52d6ec75f63567767862aa1731b836535"
+    },
+    {
+      "path": "03-application/09-additional/specification/Q-184.md",
+      "size": 613,
+      "sha256": "6f09101e52a6e644ce52fe6e7ac3ed3557c0953f6dca75ab953a5b745b8a8f3a"
+    },
+    {
+      "path": "03-application/10-declarations/form.md",
+      "size": 204,
+      "sha256": "c91e6885af2ab6643a35d81772b1cd120912cd1c932d6debafe27029c7bad247"
+    },
+    {
+      "path": "03-application/10-declarations/specification/Q-185.md",
+      "size": 4526,
+      "sha256": "5d7bb6cac9cb864a82457a5f105551e27c6734e7f3906c5d463ca1dbfcf2960c"
+    },
+    {
+      "path": "03-application/11-attachments/form.md",
+      "size": 1519,
+      "sha256": "f0bfddfc701d08d2dd2d02c340d1ded54d7a17c150c87143c589627529d82df7"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-186.md",
+      "size": 895,
+      "sha256": "d0865cff8e8c3db4e969a2de0569aea021fe07229510efd39fa40ed117b03e57"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-187.md",
+      "size": 927,
+      "sha256": "d21cdf42d613cce76f6fdba22f23bcbb7dda38cd94bfe44d275c1aee9c0f1e1f"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-188.md",
+      "size": 929,
+      "sha256": "938c1715e57793f81074aa8e3142bb39860920931a61e12599cd772ffca3bc23"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-189.md",
+      "size": 1099,
+      "sha256": "279dccfc5be89bfdc5e0bd9156936ef1f33320bb96a5ac67c704fcc1f96c5b2d"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-190.md",
+      "size": 947,
+      "sha256": "7f74c0f9abef00234178bfcc180bd2a00e3304866bbd35c011f7b1cd90c801be"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-191.md",
+      "size": 962,
+      "sha256": "37129a48a64b0d13f2811dba97bcc00d2e12f0189dd7f74861e6bc5e5cef1c4e"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-192.md",
+      "size": 887,
+      "sha256": "13a91babdc9303d1044878fe92c234dee0766b4265515d7b177e62364f988804"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-193.md",
+      "size": 914,
+      "sha256": "2c5267431dda0731072dc0b08de5429633031d628532daad188b2c2a9401c0d6"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-194.md",
+      "size": 946,
+      "sha256": "b7ed6e84c4cda746fb3f310d4d612a6ca814ce2796721a17616668a7838a65e5"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-195.md",
+      "size": 951,
+      "sha256": "eedb6a815e5cec8001d325ffcedaa5f5f7015189beddd4d4b687c0c0058b9179"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-196.md",
+      "size": 955,
+      "sha256": "52e548f5e1a63697365b803946befa9f925809d806aa6d47b62469ddcb8d2e26"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-197.md",
+      "size": 953,
+      "sha256": "0f5da2e7f5a79ac9c6632af4005b86743647be5c07e5b7289a8cb2b943e609aa"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-198.md",
+      "size": 980,
+      "sha256": "1e969292dd3acfa97ed06f9bc5fd9ab3283d92f2a2d85c430db96f44929f51b0"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-199.md",
+      "size": 914,
+      "sha256": "e7f9d4487d358d8c2160343cd87fbfcf1e2710ea8c0b5cb283fc894e1ae57234"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-200.md",
+      "size": 882,
+      "sha256": "d0a28e6ac8c0e3bd692a8761d6b66fe2b51c037aceb822294a0df98540139555"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-201.md",
+      "size": 994,
+      "sha256": "4647d983d82fe1a55bbdb443d971ceb82fe415d9a96cc7346226472bc90a2498"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-202.md",
+      "size": 976,
+      "sha256": "393ccf2b456900b824cca53e779bcef375240f312c521a0afa23555c62742698"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-203.md",
+      "size": 957,
+      "sha256": "d01d6b88ebaee2c0deb52ec4adff07b1e1ff44e700e59b5101c87481449f366b"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-204.md",
+      "size": 1080,
+      "sha256": "1574333ab9533f2209977fee4831e90ccc36e46bb1f6f66ce0c4698498a1fea9"
+    },
+    {
+      "path": "03-application/11-attachments/specification/Q-205.md",
+      "size": 954,
+      "sha256": "e0cb06db259745e55a1cafd2ae0d4c99e876f1cf9ceef8f1f7db6c624fdcff39"
+    },
+    {
+      "path": "03-application/12-system/form.md",
+      "size": 45,
+      "sha256": "c84aec93c6dfbd056dac617c4a34c1d935b793ec3fff84a079cae4e657b8c4c1"
+    },
+    {
+      "path": "03-application/12-system/specification/Q-206.md",
+      "size": 567,
+      "sha256": "efb1fb923958daaa8a97a5a4dd224f207f9b8dbfa7addf75c9c53f0401077d3d"
+    },
+    {
+      "path": "03-application/12-system/specification/Q-207.md",
+      "size": 594,
+      "sha256": "a87713f4472729adddfcc7b2a73eda64ca05cafcedc50d9e0f7febc65d934114"
+    },
+    {
+      "path": "03-application/12-system/specification/Q-208.md",
+      "size": 605,
+      "sha256": "0ccaa31bf935709f4e577c270c21cb97afc4ecf9ea9cb0cfa58ed63ab519a5a0"
+    },
+    {
+      "path": "03-application/12-system/specification/Q-209.md",
+      "size": 554,
+      "sha256": "f0ad1383b2fc4e6ed4732b26f962900d265d204d63c2f30c07c0174e1baaf262"
+    },
+    {
+      "path": "03-application/12-system/specification/Q-210.md",
+      "size": 503,
+      "sha256": "9e1af9984e3c70b343de05a9b782b230cab0b14b92dd1d5e4ae5d10005d40f9b"
+    },
+    {
+      "path": "03-application/12-system/specification/Q-211.md",
+      "size": 495,
+      "sha256": "cc3e1c657374fbec41710f638957ec3c866730840b8d3e575e9e2c9a73c95cba"
+    },
+    {
+      "path": "03-application/12-system/specification/Q-212.md",
+      "size": 504,
+      "sha256": "d2f8cc622f0fd355874f98011303788a2976f1ed478c5cc645f8e44a2b111fb0"
+    },
+    {
+      "path": "03-application/12-system/specification/Q-213.md",
+      "size": 513,
+      "sha256": "512ba3f9a77e1b42e5107c1449c0de4e38f89b5fb405f76e93501a15f80f4593"
+    },
+    {
+      "path": "03-application/12-system/specification/Q-214.md",
+      "size": 512,
+      "sha256": "db746896c167a80ab77a52347622e51481c053de576d8bb3971ce01b15b969bb"
+    },
+    {
+      "path": "03-application/12-system/specification/Q-215.md",
+      "size": 504,
+      "sha256": "0f793e4505a1d54e4014bbacba58aa6406e669769d87d0fb4464df48e1745509"
+    },
+    {
+      "path": "03-application/12-system/specification/Q-216.md",
+      "size": 512,
+      "sha256": "3f401e812a4d0c9f6eabee6597ea48a48f55c94a458237528f2ecbc061671832"
+    },
+    {
+      "path": "03-application/13-defense-potential/form.md",
+      "size": 20504,
+      "sha256": "069458a6a5606103a9e220716b068b85be54c83fe7f886ba6cf41b963f064a4c"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-217.md",
+      "size": 731,
+      "sha256": "6d0c6da150e9d48fcc116c04cd0b7c8dbb956d3fc6ed135ee8f5688252d42d1c"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-218.md",
+      "size": 5507,
+      "sha256": "788d8deee428ed32c0cb1679ddbd413c5705faa8e712c84704fc6318e318525f"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-219.md",
+      "size": 2329,
+      "sha256": "5b0809d49e71b9f32dcd582ef51ec6bdc94f9fad5d47374e89456a81e235ec6f"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-220.md",
+      "size": 1792,
+      "sha256": "79d6c06dcb0cfb6310b4c5507bcfcd1c087016db901c5c8ad6085509c791005f"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-221.md",
+      "size": 2040,
+      "sha256": "2f1bd6970bade90516ec2e792d633e3d44346432bc17d1b2eee9e20fc3e8aafc"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-222.md",
+      "size": 858,
+      "sha256": "6946ddecd7b49b340c5b676e3add0fde3150c52e1f5b9cc8bc236008d275c92e"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-223.md",
+      "size": 1451,
+      "sha256": "450c076356bc8b4a33dae08d6cdaf258be35095cc5d980e8fe254392688edbea"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-224.md",
+      "size": 724,
+      "sha256": "1000b8fec7ec2600c8883d63929c56b6802bfeedb8101e5cb4829d799edf0417"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-225.md",
+      "size": 1756,
+      "sha256": "616743f5dbbab4ae4f37f36ad1c35ca20802cfe438a2c4cd5eac94497b21f57d"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-226.md",
+      "size": 1426,
+      "sha256": "3a6392ade4823dc0948859fbec986156386aa212384c0749a450e2b23e4afcb6"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-227.md",
+      "size": 2191,
+      "sha256": "2685e790b3406a6a8c47903133740a25c786d6e7dca9268434f4da3d8ac9fb57"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-228.md",
+      "size": 1393,
+      "sha256": "a4bd3f618ad3f7a337f6fcef9f629703c3adf47d6a0a5893b92cb29397bd963b"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-229.md",
+      "size": 1282,
+      "sha256": "20fa4eae25f8ff5f5acead774d79659f21d7c76922fada963ace3644c283132c"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-230.md",
+      "size": 1615,
+      "sha256": "e08435805ba22b0408a686341559cceebba551c6390b2c6def90e93ddd2eead4"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-231.md",
+      "size": 1373,
+      "sha256": "3e33642369da588f74ab5a197a72124a056eba5e4e914fed46de40bb66347ec7"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-232.md",
+      "size": 1407,
+      "sha256": "d2a5920d3c96c0b5f4410be49d53ca4014b3eb0798e6d38ebc7cc9f1b61071ea"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-233.md",
+      "size": 1488,
+      "sha256": "2a1a786168efd9807bb36081d9921a29b1e8bfc13d6649dd41db16e2fd1ba8a7"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-234.md",
+      "size": 1882,
+      "sha256": "fdf2417d3488af43c2ecb8260a359c2c261f24faca4f2d6db14c612658337054"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-235.md",
+      "size": 1116,
+      "sha256": "0d5c76aab02d01be8ef9152c6d3d0afe6fe6e24830655c1836db8fb4552a83ca"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-236.md",
+      "size": 1212,
+      "sha256": "eac00250ad701ffa56cf2b8318afd08affc322a29aefc77b377fad4dca715545"
+    },
+    {
+      "path": "03-application/13-defense-potential/specification/Q-237.md",
+      "size": 1474,
+      "sha256": "d0f4386dd07486c2934bf9a22d17865b9b3f6cd677fc93c9d0e487542838aea5"
+    },
+    {
+      "path": "03-application/14-agenda/form.md",
+      "size": 21044,
+      "sha256": "4307ab5b1851bc7dc8b8f9e96abf2098b33ac9285e9ef0723b331f8bee0d669a"
+    },
+    {
+      "path": "03-application/14-agenda/management-team/_template.md",
+      "size": 1181,
+      "sha256": "24e7984f423efd2575a458b49d4e19e1b5afb5593954a2b8d566c83b9254d762"
+    },
+    {
+      "path": "03-application/14-agenda/research-history/_template.md",
+      "size": 759,
+      "sha256": "6bf9b748c817e839a193281e585757cbb038739461aa1e00b5fb60d4f517838a"
+    },
+    {
+      "path": "03-application/14-agenda/research-stages/_template.md",
+      "size": 1156,
+      "sha256": "8a1695ada286f4e2a2d973ede3a85573988329ff2d242ef1b4863c1191cd5ea9"
+    },
+    {
+      "path": "03-application/14-agenda/research-team/_template.md",
+      "size": 3115,
+      "sha256": "ce92ae8bf66b40ea9fce59c829ba80a41ff34a07c8ac53b063198a5bf8a946df"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-238.md",
+      "size": 914,
+      "sha256": "a1536b36b5ed36126f7e3a6e67a593a88f48a5d4a259a95e1addd4b8bc78a688"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-239.md",
+      "size": 849,
+      "sha256": "71f0a484a8030402735e9405782f885fe2231b9e29bfb5444295295519fed317"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-240.md",
+      "size": 657,
+      "sha256": "af2969d2315ecd8647752fd6c2f88197069cc1dc0a0f8f883692efe068a9341f"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-241.md",
+      "size": 671,
+      "sha256": "2d501ad0343ff79b827a7a4a5c1315b3bb7450e44846eb481622d5b210603e04"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-242.md",
+      "size": 750,
+      "sha256": "63ac7ba49004daab31859ec3dc7096f876d67bf9c0543197f5c644361b417a6b"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-243.md",
+      "size": 931,
+      "sha256": "b3b99803d04c73316b9ba22c48fd9e7fd6218cb93ee43007329aaf7385f68d4d"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-244.md",
+      "size": 762,
+      "sha256": "481a62be53baa0bad93dd6cbef9307db480793f12cebf8ff273999d007c2d9c5"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-245.md",
+      "size": 751,
+      "sha256": "172d879cccd18b1655439a33f0ddb851f111783a4d34d92c4cab10049d2ab325"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-246.md",
+      "size": 555,
+      "sha256": "a39730575ae49db9e9ae145650f64f450532b3920a576254f563b3c30091010d"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-247.md",
+      "size": 6132,
+      "sha256": "ce41f3362cca004359b9ff7dde0c05a6897fc1269dffdce6854583947c6d6be0"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-248.md",
+      "size": 6030,
+      "sha256": "6de9b6319fcfcb7490780124073e33df057e4bcbdf1c66270f814d298435981e"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-249.md",
+      "size": 1831,
+      "sha256": "845845fc4fe3ddae3c0ae7767f32e37190f38e5329aa80dac0a9e7051d8d6bf9"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-250.md",
+      "size": 896,
+      "sha256": "374246e1507b0b9c5bdef564d3de98526ad1b4784989079f4f68fdee6c861dca"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-251.md",
+      "size": 1033,
+      "sha256": "f6c130c7582020dacd98ab66dc3ac30a0e028ff0458cc0569ca4e5bc545619e0"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-252.md",
+      "size": 837,
+      "sha256": "53794d2ba89951d610d712790fbb93aefbeb8ce124d7f7250f61150f66b07a1f"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-253.md",
+      "size": 710,
+      "sha256": "31f9d8afb008e609942397503ba28e03f8f09c0b58c756f0062733d958560bbe"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-254.md",
+      "size": 718,
+      "sha256": "455c361b601ad0e693e8e6208cec73fb99c061bc9c580182761f96335f31860c"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-255.md",
+      "size": 725,
+      "sha256": "136ef75608dc278a0d9f1cd483243e1bd716e273825c3b9c30bde26459a37099"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-256.md",
+      "size": 708,
+      "sha256": "75f932d0c48c8c269867f94876d31feb0c1c87bc0a14b2e600d32734868d49a0"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-257.md",
+      "size": 733,
+      "sha256": "41cd6f3bd1e617d96aec8c60e36c286c089af9e72805f77bd27ed8865197511d"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-258.md",
+      "size": 668,
+      "sha256": "4c6a6c092caa6652516fdadf96c11594ff75d1c9a13357ccfadcc2f1b7f9a3dd"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-259.md",
+      "size": 716,
+      "sha256": "3e0994677a2f6cb16a3992822785fb178a03f3a9c7ae0a362c96ef7c7624bd07"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-260.md",
+      "size": 677,
+      "sha256": "aec1dde3f0151b8379c710365407d124565a658830d538b6aba89a160b4ca9cb"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-261.md",
+      "size": 1246,
+      "sha256": "6e7c7863c843a8c6197421a1ff32fc587faff5ee1ebf998ad15d5f4ea4f70b38"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-262.md",
+      "size": 1068,
+      "sha256": "01b9d69c3138e91405a8801d0216f824fb100e265271f88fc011c07e003a43a9"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-263.md",
+      "size": 1682,
+      "sha256": "0bd3352b515d304f639b928beaba5a2fcbd1c670d1bba815112f34e4cf3aaea2"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-264.md",
+      "size": 1446,
+      "sha256": "842675cd5fd6a06fc16d4ea6f1d7041d89ad2e28f746b8492abd8058f8e0d3d1"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-265.md",
+      "size": 1661,
+      "sha256": "9dac840368df2bd397f36f3b1e945fa896353733f6b5133c213dceafd353327a"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-266.md",
+      "size": 1597,
+      "sha256": "bdfc750faf2c891e8305340e0f3d7981ec3a5eb038229f09a2b565fb1a90f3ca"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-267.md",
+      "size": 2155,
+      "sha256": "6f4833b0c9909ab0950f1e906fff559c53761ef52aeb94aac8cb2328907683d5"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-268.md",
+      "size": 1808,
+      "sha256": "d3f9308fb88e2af9046d81f948e2b89e005afaa20b3b4ccfc9bfe8114d9ac852"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-269.md",
+      "size": 1268,
+      "sha256": "51e88b00644d8664d53560260551514f35607ac4b65e4ab4e0955c5d1d29bf6f"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-270.md",
+      "size": 1081,
+      "sha256": "72c78929025edd426a96bc56575276a3164a1672bf2316b0e17f45686f6b1a4a"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-271.md",
+      "size": 1717,
+      "sha256": "af41951de946037a85fe7a5b58171fe4d13362e60fa7b467520e33b9148e649d"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-272.md",
+      "size": 1496,
+      "sha256": "b60338588c37901ec1a7416d53910fcbce1d509ad80945f31f571ce2139bc0f9"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-273.md",
+      "size": 726,
+      "sha256": "21b958613449fd199798c5cff4002a6f74ed52f951914604bb63a1cb1b877ee8"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-274.md",
+      "size": 1875,
+      "sha256": "612b51d11058175ab72d57cb5550fe5f09073bf17c0fed61ea2d0cf4c171f665"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-275.md",
+      "size": 1841,
+      "sha256": "a3ee63a2a5c89fd77ddde397e3aa19076dfff7ee6500a2a0a48437979c7a1e1e"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-276.md",
+      "size": 1849,
+      "sha256": "13300ad5a4f26b630bfa243ebbeda8ae9b2df31dfefd34b28842ee9137da5954"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-277.md",
+      "size": 1846,
+      "sha256": "b4cf18bf55d9560c8746bbedfeed0faa5234dbf011e865a8441c114c0c9e52b6"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-278.md",
+      "size": 754,
+      "sha256": "eac52eb23a312bca567fdbdc82b208e300ea8592723466d8d705e487b79dcfe7"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-279.md",
+      "size": 1837,
+      "sha256": "06101738b346c7108c502cf3bfe89b8f2670a2819324a14bb524e879f7df535b"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-280.md",
+      "size": 679,
+      "sha256": "b9862f8b124471201b492dc1e744bfb7e14907187461b99ce9e1d34680d14267"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-281.md",
+      "size": 680,
+      "sha256": "0922e9cdb978534aeeeccb79006063f1cf6f43def1c3e39794bd18be65f6e962"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-282.md",
+      "size": 665,
+      "sha256": "afb1bfbb6149dbd5ee9acadcdf9474a5610820c7f3e1cb092c4c520e8e709230"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-283.md",
+      "size": 662,
+      "sha256": "90e76ab474fc50b758509c7e06b19f75d98205a491e4eab6983f2b957cade429"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-284.md",
+      "size": 843,
+      "sha256": "a5a4fca21b9baf18377059d067a710e6a7b83e20b1abd4f2d437bc6f3f9b4e5f"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-285.md",
+      "size": 859,
+      "sha256": "172c586c41e657fdeba93d508d5a13c7381b5ab2b0c6e9659eee96154ce394c1"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-286.md",
+      "size": 849,
+      "sha256": "e363ea632e855817e254c9fa471bc8da1b085a8675c30801a4bc1ce422964af4"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-287.md",
+      "size": 777,
+      "sha256": "f7ad3241a3a34f17cdad7b33f2ad313aefba62ea2e1ad5f395f1629176ef3cd1"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-288.md",
+      "size": 855,
+      "sha256": "1bcc32c70274f063f3f5ee8dfd58578ec0170609af937f4a58cf50be97004ccf"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-289.md",
+      "size": 812,
+      "sha256": "7587dc1bf3a7e1f457779ef3b18891e9a09126268c5dacc51232624388905f59"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-290.md",
+      "size": 1253,
+      "sha256": "484f066eb1bfa04050e6f4d5971f9e3d2035cdc02348232f013a28b3702b424c"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-291.md",
+      "size": 1274,
+      "sha256": "7b63b06c8e72905051f9e73ff17acd9bce7f1214de27267a8fa3959a34ac9ff0"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-292.md",
+      "size": 1288,
+      "sha256": "c51d79701dc9f63de02d5a2394d91425536e2397281e954d6c81fdc975928a09"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-293.md",
+      "size": 1367,
+      "sha256": "d4ea0f8d1d2f4534f1166db9de69a07f3086ed98916e95182862e7793d293bb8"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-294.md",
+      "size": 800,
+      "sha256": "f8a382f118e558ffd1ea50bec1bf6e39fd14ff8f93fbde255cf452b07321930b"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-295.md",
+      "size": 816,
+      "sha256": "6bfb12812f43e1fff6a30ba6aad8b0f9144f4f1a5e58f0b0a3d2b5d2ad5dfaf8"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-296.md",
+      "size": 607,
+      "sha256": "07114900e59b6d05c3b64cc770aaaa804a2d6ec687626086e43217175c846547"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-297.md",
+      "size": 628,
+      "sha256": "24da56fb6b3be38b6de6c431e89dec5cdc8e68647583b6cfbac1363a5ccc8bd9"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-298.md",
+      "size": 642,
+      "sha256": "0d88e0b4355071be94eddd03097b091a009ef6fc7f61d5ba5c73cb569b41dcbe"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-299.md",
+      "size": 721,
+      "sha256": "fb5fb737c9b9e49a448f2bd72d13e2b2a3330d5806978b564a6f8e5a781980cf"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-300.md",
+      "size": 804,
+      "sha256": "2ec54d31ae587f92e98223d418a9d024db9fcb0fb7c9508864689ecb9d3e9ba5"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-301.md",
+      "size": 1474,
+      "sha256": "9ce7d79972bb89e4bca75aabd968b913e150181f40ee401fed1c27358345e6b2"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-302.md",
+      "size": 1393,
+      "sha256": "72251a146bde631a58654c6fa783cd1d0715e6e0043b76bc8a720408749f21a4"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-303.md",
+      "size": 1395,
+      "sha256": "2a8ab417adcc9e85122ac487f731c3d41d2356457ced1a1ba5e9fd7facc59559"
+    },
+    {
+      "path": "03-application/14-agenda/specification/Q-304.md",
+      "size": 1398,
+      "sha256": "4317251132fdb809c24e6f67699ea247430a538df2efc42959fe70d078058947"
+    },
+    {
+      "path": "03-application/14-agenda/subcontractors/_template.md",
+      "size": 2951,
+      "sha256": "65e56c821fb73536837503b8ff39467465e2032f6e3b797e7a2ab8596684a93e"
+    },
+    {
+      "path": "03-application/15-assumptions/form.md",
+      "size": 2507,
+      "sha256": "5bfa782c428514f1f8c62089e097482b9d10255342b598a7457491195f6fb5b0"
+    },
+    {
+      "path": "03-application/15-assumptions/specification/Q-305.md",
+      "size": 2482,
+      "sha256": "22a98cd7d80fd0f8107805365b5770ff4ca493021025892336063e2cc9f4c7e7"
+    },
+    {
+      "path": "03-application/15-assumptions/specification/Q-306.md",
+      "size": 728,
+      "sha256": "18a60006df98e35f7908b17d5df92abd922ff8c8f8a7640520061d9f6fdfac61"
+    },
+    {
+      "path": "04-project/budget.md",
+      "size": 192,
+      "sha256": "3c4a2ed5989613a28f87893d2488dc99a82f867010e47288615818536861d665"
+    },
+    {
+      "path": "04-project/findings.md",
+      "size": 272,
+      "sha256": "2e01926dda5d22e667ae1b7210cc46312a9d25b6cf56afaf29747c72fe6a417b"
+    },
+    {
+      "path": "04-project/indicators.md",
+      "size": 195,
+      "sha256": "22afc80c4cde16c46033ac1d5b3badebe93dd5455fd97686f772263a85d20d56"
+    },
+    {
+      "path": "04-project/schedule.md",
+      "size": 196,
+      "sha256": "555d096bbb6a9d6e4707f0075a4f016ea8a3a6315fee367b85841f726f833120"
+    },
+    {
+      "path": "05-diagrams/README.md",
+      "size": 331,
+      "sha256": "22f5d333690b3d80d1edc99c077adf3347e4377688ed8e42e5be51cb6cd6d606"
+    },
+    {
+      "path": "06-attachments/README.md",
+      "size": 159,
+      "sha256": "00ff31a04622d0fb7725494ec32a3db655c82193d95b0e215d188da742d00457"
+    }
+  ]
+}

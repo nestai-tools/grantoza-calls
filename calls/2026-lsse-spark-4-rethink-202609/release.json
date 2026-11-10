@@ -1,0 +1,497 @@
+{
+  "schema_version": 1,
+  "id": "2026-lsse-spark-4-rethink-202609",
+  "call_version": "1.0.0",
+  "files": [
+    {
+      "path": "00-overview.md",
+      "size": 1536,
+      "sha256": "d05b6e443a4f50dd2ec5acbdecf4e99a15c1050bf1c79954f3e5eab3405f82ce"
+    },
+    {
+      "path": "README.md",
+      "size": 2602,
+      "sha256": "997fa6401bdc3d94ecfb56e8c66afa460c6aea549a35587d94dde8cf3d321760"
+    },
+    {
+      "path": "call.json",
+      "size": 11106,
+      "sha256": "1908f7ebef9a9fc3300a82721ab40a4e1d57972e70ab32cf2fc8d5c7ee13d70d"
+    },
+    {
+      "path": "documents.json",
+      "size": 35342,
+      "sha256": "985e366102f691bbaf553becaa5571bf5367a84824434fb07a23949036c25822"
+    },
+    {
+      "path": "01-sources/ai-discovery.json",
+      "size": 1754,
+      "sha256": "240b8a53a0760f209c204b312b0d82ce5229fb59be3cd37c3e31113055490f2c"
+    },
+    {
+      "path": "01-sources/page.json",
+      "size": 26573,
+      "sha256": "f9b85a306f80a349ec2e3ee1593378ebcf64f00bf9e2f56370a936856672033d"
+    },
+    {
+      "path": "01-sources/page.md",
+      "size": 19973,
+      "sha256": "3543551d20ed499d8e8d856fe29e2fe38e07791d8303560e562ea4b23de33293"
+    },
+    {
+      "path": "01-sources/registry.md",
+      "size": 4000,
+      "sha256": "5aa127e7e92e260778190bb96f674431ed4f3463523299fb63bc0d963e745135"
+    },
+    {
+      "path": "01-sources/originals/SRC-04483061c324-zalacznik-5-klauzula-informacyjna-startup-41309e23f856.pdf",
+      "size": 150792,
+      "sha256": "41309e23f856b1ba8d032424b1bc6c91f4e52cafa1df387495b0bdc935f7d025"
+    },
+    {
+      "path": "01-sources/originals/SRC-1890717a5810-wzor-umowa-spark-4-0-d245ccb46c26.pdf",
+      "size": 433272,
+      "sha256": "d245ccb46c26143e3e3a32c2287054ee40a761ff4730573903ad53148eb750b7"
+    },
+    {
+      "path": "01-sources/originals/SRC-24d9e29a71fb-regulamin-spark-4-0-fddd36fb73db.pdf",
+      "size": 407103,
+      "sha256": "fddd36fb73db231e32ae7e2b93ffb5ec8e2f040e39aebb792aef2c0af33f0c6a"
+    },
+    {
+      "path": "01-sources/originals/SRC-2a2563594b37-zalacznik-nr-1-karta-oceny-spark-4-0-8a64a8a0f405.pdf",
+      "size": 363801,
+      "sha256": "8a64a8a0f405173bec2b76e26ab193f30a42584cb0c2dfec7f55c3368296ef53"
+    },
+    {
+      "path": "01-sources/originals/SRC-2cae94366ea3-zalacznik-nr-4-formularz-informacji-de-minimis-c86d5ada9c26.xlsx",
+      "size": 69029,
+      "sha256": "c86d5ada9c2617d684cab640bb96a62cd707dfff652960df502cc8b5756c2996"
+    },
+    {
+      "path": "01-sources/originals/SRC-3e8af0181b0e-regulamin-i-umowa-spark-4-0-z-zalacznikami-95f371941eb8.zip",
+      "size": 3417679,
+      "sha256": "95f371941eb8d605175a69b27c19e10d22bf56821dd5e6bc34dfd873bd39dac6"
+    },
+    {
+      "path": "01-sources/originals/SRC-55c2b0708b30-zalacznik-nr-7-wniosek-o-wyplate-zaliczki-wzor-3f33c0c3427e.xlsx",
+      "size": 195649,
+      "sha256": "3f33c0c3427ec2089bc113ba6e3efbcd12a14a19b151b54f157af1243362a5f6"
+    },
+    {
+      "path": "01-sources/originals/SRC-5b62f2bf36d0-zalacznik-nr-4-instrukcja-ipa-spark-4-0-df6e73286204.pdf",
+      "size": 239479,
+      "sha256": "df6e7328620462d017f0d19b8e7879d0db2f096bc6ad67a7bcd39f039a37e5cb"
+    },
+    {
+      "path": "01-sources/originals/SRC-7c87e9673f08-zal-11-klauzula-informacyjna-1603477479f9.docx",
+      "size": 806910,
+      "sha256": "1603477479f936ff04dcb4b994a051356b8f09cd4f438a2f89c7029c5484d3e0"
+    },
+    {
+      "path": "01-sources/originals/SRC-8a00f022b819-zalacznik-nr-5-oswiadczenie-o-spelnianie-kryteriow-msp-038e9a755ad0.doc",
+      "size": 353792,
+      "sha256": "038e9a755ad06be361d3bdfbb42d14ab314a10bba26af409708fc82524925859"
+    },
+    {
+      "path": "01-sources/originals/SRC-8b520017a356-zalacznik-nr-3-wzor-umowa-spark-4-0-5eaf35e8372a.pdf",
+      "size": 433232,
+      "sha256": "5eaf35e8372a5bf8bc92283debef4fc2910252b13f5f2ab1283960e25119217c"
+    },
+    {
+      "path": "01-sources/originals/SRC-913297dd7fc1-zalacznik-nr-6-klauzula-informacyjna-pracownicy-92c7854f867b.pdf",
+      "size": 162378,
+      "sha256": "92c7854f867b63643e218351e6f76366c8bf0a86d2b01b848ba3f42c4fab376a"
+    },
+    {
+      "path": "01-sources/originals/SRC-a3c0591268a7-zalacznik-nr-2-zasady-rozliczania-grantow-spark-4-0-79c0c877afb9.pdf",
+      "size": 289897,
+      "sha256": "79c0c877afb95c75af535b2415522b5b9ce173e31be43650d49e45d44f2f6de5"
+    },
+    {
+      "path": "01-sources/originals/SRC-ae7cbab4a4a8-zalacznik-nr-1-wzor-indywidualnego-planu-akceleracji-c5e53d4a3488.xlsx",
+      "size": 241875,
+      "sha256": "c5e53d4a34881e7923670effd85b49187b8d68594a5369b26213b4ac59e874bd"
+    },
+    {
+      "path": "01-sources/originals/SRC-ed16d1f3ac6f-zalacznik-nr-2-wzor-weksla-deklaracja-61afa66d51a1.docx",
+      "size": 39757,
+      "sha256": "61afa66d51a193a3da19ef686a4b74f003960f0ff373496bde6a6c8cde3b767b"
+    },
+    {
+      "path": "01-sources/text/SRC-04483061c324.md",
+      "size": 4468,
+      "sha256": "77774540e25d13765bc341dfe964d40255102e86ea9daa3b9f0b91d1e303f105"
+    },
+    {
+      "path": "01-sources/text/SRC-1890717a5810.md",
+      "size": 78919,
+      "sha256": "2009561711ef8efa33cd0082c65cf5f9816200f60b751f6af7591a5ca2edcbb1"
+    },
+    {
+      "path": "01-sources/text/SRC-24d9e29a71fb.md",
+      "size": 53037,
+      "sha256": "e3c6b693e877750fca522bf00013f36754c541b06b5d99d6dd76b0d1ead12af3"
+    },
+    {
+      "path": "01-sources/text/SRC-2a2563594b37.md",
+      "size": 14800,
+      "sha256": "3e06abe50d56039272c5e2792de24d2f4d7f83261dbe3b91ced1bd95cad4c72b"
+    },
+    {
+      "path": "01-sources/text/SRC-2cae94366ea3.md",
+      "size": 21005,
+      "sha256": "35b8072a3a037681320f6288a6ace048eda769319ab51f4c45cb477a76691a08"
+    },
+    {
+      "path": "01-sources/text/SRC-55c2b0708b30.md",
+      "size": 2159,
+      "sha256": "935fa8f6a96f895e5ce5222dab124d4f66a34f87f96597c5e23736b6976abbae"
+    },
+    {
+      "path": "01-sources/text/SRC-5b62f2bf36d0.md",
+      "size": 8273,
+      "sha256": "5a3f3d8c155ce78f6cf9a43c677b80c57ac5d478c49aafdc266f6b5de60e708c"
+    },
+    {
+      "path": "01-sources/text/SRC-7c87e9673f08.md",
+      "size": 8257,
+      "sha256": "6bc3c4f024290e8e0570b50fa03567a47196d6946bdaa89aeece1e1e9bbfc6dc"
+    },
+    {
+      "path": "01-sources/text/SRC-8a00f022b819.md",
+      "size": 69719,
+      "sha256": "8f6d4fb569da2e838b8bf2a5f0562b5eee1d75c89f6e4b6ef5bdf66e48665b4b"
+    },
+    {
+      "path": "01-sources/text/SRC-8b520017a356.md",
+      "size": 78949,
+      "sha256": "2a28a129e85c1d4625caa847e8517123a3f14699bb5c78327a38f3872c386e18"
+    },
+    {
+      "path": "01-sources/text/SRC-913297dd7fc1.md",
+      "size": 4511,
+      "sha256": "24e204f74dc0199502da50301ef1b9ea20113ca509f03282339f7caa8564a601"
+    },
+    {
+      "path": "01-sources/text/SRC-a3c0591268a7.md",
+      "size": 15337,
+      "sha256": "df2f7cdc96b8d56fdda49b92695832a83f693097ffe552999139d7a47c9f8390"
+    },
+    {
+      "path": "01-sources/text/SRC-ae7cbab4a4a8.md",
+      "size": 5846,
+      "sha256": "d1372818732de509ea27092528aba851c694bd513c0f1142286a79bb2f020a42"
+    },
+    {
+      "path": "01-sources/text/SRC-ed16d1f3ac6f.md",
+      "size": 5484,
+      "sha256": "5d95337fa116a47202eb7dbb0e4dda48fceb0f723d58370cd8280dbde7ba198c"
+    },
+    {
+      "path": "01-sources/text/SRC-f6s-zrzuty-20260926.md",
+      "size": 8612,
+      "sha256": "6fb5f043df7e83d2c9579ceb664048bfee9ac5f2ed6b0f8c533e1de2effd1eaf"
+    },
+    {
+      "path": "01-sources/www/strona-eff885d0e9c2a33f.html",
+      "size": 1613053,
+      "sha256": "eff885d0e9c2a33f8db64132fcebcb780539e95d38df332eb0409c0cce1f2ff4"
+    },
+    {
+      "path": "02-analysis/assessment-criteria.json",
+      "size": 92922,
+      "sha256": "b74159652989d50ab2358dce2774acdf1c89fee7853fb299f7148e014374968b"
+    },
+    {
+      "path": "02-analysis/assessment-profile.json",
+      "size": 12037,
+      "sha256": "8d679c48e2506c3e23a22e4b2c16e2224d31cd210381a82c4ab9d84c59be9b13"
+    },
+    {
+      "path": "02-analysis/coverage-check.md",
+      "size": 2527,
+      "sha256": "2bcebb15989bae4cbedb189dac1354469093d95e59ad0c56bfeef7ab975d8241"
+    },
+    {
+      "path": "02-analysis/criteria.md",
+      "size": 2108,
+      "sha256": "4ae560af1eeee62ee27208031f679d1f040e930cff93680d10fc4cb84a2ae293"
+    },
+    {
+      "path": "02-analysis/discrepancies.md",
+      "size": 4517,
+      "sha256": "76806ce23c31293c1dc4ba1a9869f9c8df77f7a8a54188d151ac8f4f498b421e"
+    },
+    {
+      "path": "02-analysis/gaps-and-questions.md",
+      "size": 1448,
+      "sha256": "724decbabc14e6386745bcd47002ee8032a0bfc47692a721781c613e5b04793b"
+    },
+    {
+      "path": "02-analysis/requirements.json",
+      "size": 15702,
+      "sha256": "17aabe5fe5a3d3ee639e43d20984ffefe09d1750850567187c35c7cf4a2c3afb"
+    },
+    {
+      "path": "02-analysis/requirements.md",
+      "size": 11669,
+      "sha256": "1136c88e949ed1cacfac5c16e3d37fc4342c7043cf6bfd0bfe933330a3763397"
+    },
+    {
+      "path": "02-analysis/source-form.json",
+      "size": 51089,
+      "sha256": "ab4720e05243ddbff47c2cd27a088d6e849a219690d8fd2004bbd14f5b131dc2"
+    },
+    {
+      "path": "03-application/README.md",
+      "size": 259,
+      "sha256": "ac78008f0b6feb3dc8b98e37d7ca5854be4aca2244d7d37ada66b11419040ce5"
+    },
+    {
+      "path": "03-application/fields.json",
+      "size": 53078,
+      "sha256": "37f2d59180cc3081addb18d7ba0717e240b1ffdcc83fe281a2007525089dcf1b"
+    },
+    {
+      "path": "03-application/form-map.md",
+      "size": 9315,
+      "sha256": "121b73a2914ba568ec36688af90aaaaf3bc318d7320042bcf43e383fd11e38fe"
+    },
+    {
+      "path": "03-application/01-information/form.md",
+      "size": 860,
+      "sha256": "efdf404a4fd17b49f4a6e939c27a3da9d41363ba7867dead574cf7ec1e27493b"
+    },
+    {
+      "path": "03-application/01-information/specification/Q-001.md",
+      "size": 692,
+      "sha256": "0c7694f7c9e3b7b1bd69b95ca1b711143a56992b45aef63fb048bc71bf10a7de"
+    },
+    {
+      "path": "03-application/01-information/specification/Q-002.md",
+      "size": 764,
+      "sha256": "a290b847fe47338308b8fd9de02567edd7f1caa28acbf6b82a56ccc6576ee059"
+    },
+    {
+      "path": "03-application/01-information/specification/Q-003.md",
+      "size": 729,
+      "sha256": "2c38c75b0ed8edc8ccc73e3a51f4e09227b4b6da2f01e97dcb71866355342e8b"
+    },
+    {
+      "path": "03-application/01-information/specification/Q-004.md",
+      "size": 728,
+      "sha256": "1b7510b331bfbcd3d6a786361d7b053146b51e557689d1525be1dd7e64a3b381"
+    },
+    {
+      "path": "03-application/01-information/specification/Q-005.md",
+      "size": 752,
+      "sha256": "1e7ade05e2c62cdd94e74317bdfcfeeca487b15a984f950c5e1d803ba8318883"
+    },
+    {
+      "path": "03-application/01-information/specification/Q-006.md",
+      "size": 871,
+      "sha256": "8961620cb827af27dd003d6954ff125ccbe2835bdb4e7273bdbff018a5ddde09"
+    },
+    {
+      "path": "03-application/01-information/specification/Q-007.md",
+      "size": 709,
+      "sha256": "3e2f3300a448cd58667c2e60c1b1ed2edc94f5c2bcd54f1ccd979aa65fcd24be"
+    },
+    {
+      "path": "03-application/01-information/specification/Q-008.md",
+      "size": 787,
+      "sha256": "7abcd31083d28a3485d696e6112a6091a25be79dd93ca25a4f7ce7e7660c80b6"
+    },
+    {
+      "path": "03-application/01-information/specification/Q-009.md",
+      "size": 725,
+      "sha256": "5037e6305b0b9732ced8e58b790c33d39853566105ddf3749f921483969eb1a8"
+    },
+    {
+      "path": "03-application/01-information/specification/Q-010.md",
+      "size": 710,
+      "sha256": "7de14b30d67b75e7eff26ffb9c2a7f1838a2537cf94e87b587e519d599700a6e"
+    },
+    {
+      "path": "03-application/01-information/specification/Q-011.md",
+      "size": 677,
+      "sha256": "76e7f6d312e8b0f70f27cfdba337f0b7bf4eebbe1c1fdedf8372968a1fc58e11"
+    },
+    {
+      "path": "03-application/01-information/specification/Q-012.md",
+      "size": 1125,
+      "sha256": "dd95aa9d7bee1b0c4ce07b9b8b5970435cabbea95a9d444d9877f6176e27e329"
+    },
+    {
+      "path": "03-application/01-information/specification/Q-013.md",
+      "size": 802,
+      "sha256": "fe7504e75397dd6d75045c50a58c88c46a58884a5088717214a5b5b651220e71"
+    },
+    {
+      "path": "03-application/02-eligibility-criteria/form.md",
+      "size": 821,
+      "sha256": "d61b96c36a06826afd3c60d56535acb3d666c5e64f8586a9c7017f1008c76dac"
+    },
+    {
+      "path": "03-application/02-eligibility-criteria/specification/Q-014.md",
+      "size": 797,
+      "sha256": "22ff5bad1c1fd5342075d21c04e9ae6175325fa5ee1c0b4177acc2050a7e4941"
+    },
+    {
+      "path": "03-application/02-eligibility-criteria/specification/Q-015.md",
+      "size": 870,
+      "sha256": "b7aaf0d560a139dcba99f8cbc95d100705b3249b2df2cf45798c7b3a133a9e30"
+    },
+    {
+      "path": "03-application/02-eligibility-criteria/specification/Q-016.md",
+      "size": 774,
+      "sha256": "16d96b79ebdaa903f022c4a143962331a5df96a0c28cd141ec6a56c3506f5d67"
+    },
+    {
+      "path": "03-application/03-substantive-criteria/form.md",
+      "size": 4738,
+      "sha256": "0d4dcc5c8027b191ad14658b7b37a228da0157329ea632464bd7d98ff27547be"
+    },
+    {
+      "path": "03-application/03-substantive-criteria/specification/Q-017.md",
+      "size": 909,
+      "sha256": "b48f317314b87a515a4867b7474b3f84012728da3de02e7d9b274cbc1b9f2b1d"
+    },
+    {
+      "path": "03-application/03-substantive-criteria/specification/Q-018.md",
+      "size": 943,
+      "sha256": "b257d56e1951a0f1dbd3339ef24874a5972355a275a9fe55182aa8b9db285710"
+    },
+    {
+      "path": "03-application/03-substantive-criteria/specification/Q-019.md",
+      "size": 817,
+      "sha256": "73052de2b5878df1c1b43914487379c5b8e73d4b7a5bb0f2d3a2dca295d2644d"
+    },
+    {
+      "path": "03-application/03-substantive-criteria/specification/Q-020.md",
+      "size": 854,
+      "sha256": "2f4fb56282dd15248aa6b41cc4cda194c501193ed9ca0abc55ab5167bb6a6c76"
+    },
+    {
+      "path": "03-application/03-substantive-criteria/specification/Q-021.md",
+      "size": 785,
+      "sha256": "c76152d01e0182fb8dcaa600431818c6f96536f4cd96485f352a1d91b17c7a84"
+    },
+    {
+      "path": "03-application/03-substantive-criteria/specification/Q-022.md",
+      "size": 782,
+      "sha256": "5e5b2f02e811182146541ed9e2d414701db02930b7be145b76079d2541e55ce5"
+    },
+    {
+      "path": "03-application/03-substantive-criteria/specification/Q-023.md",
+      "size": 888,
+      "sha256": "cbab15545da771f68624cd01289db795db96e8eb206816f2c673be70cc2b8f1f"
+    },
+    {
+      "path": "03-application/03-substantive-criteria/specification/Q-024.md",
+      "size": 893,
+      "sha256": "d473acb453b4db381d0efeeff416298c5260de7d9ba616acf7bdf614b233bfcf"
+    },
+    {
+      "path": "03-application/03-substantive-criteria/specification/Q-025.md",
+      "size": 858,
+      "sha256": "8f90ad2696e7408f8eb703261185aca71174b84836baa9f0b4cb13102cb7131c"
+    },
+    {
+      "path": "03-application/03-substantive-criteria/specification/Q-026.md",
+      "size": 905,
+      "sha256": "9e90ef6fd8180a325397e00215ed21fdba04c870657716d14577478af5c22b16"
+    },
+    {
+      "path": "03-application/03-substantive-criteria/specification/Q-027.md",
+      "size": 1005,
+      "sha256": "04c5eebc92a344bd3fa7456bf69456ee0cec3ef320ff64c23398c77bec3cf56f"
+    },
+    {
+      "path": "03-application/04-other/form.md",
+      "size": 854,
+      "sha256": "2bcde41e8872c1a34b161c28428d4f76ecda5426d5f1820de1a277ad15789ee2"
+    },
+    {
+      "path": "03-application/04-other/specification/Q-028.md",
+      "size": 1003,
+      "sha256": "b0e23b04cae7e5f34ca7b995c53315611d662e8b021605519d97411b1d82c203"
+    },
+    {
+      "path": "03-application/04-other/specification/Q-029.md",
+      "size": 779,
+      "sha256": "5f6b7233ddbcedcbb84e65862bdd8a41bfddceadab4c0c37155fbe4d9d7ae979"
+    },
+    {
+      "path": "03-application/04-other/specification/Q-030.md",
+      "size": 1182,
+      "sha256": "b17325a1125aa609aec571fbd30de947285b7a3576a064011adff260f95a19f0"
+    },
+    {
+      "path": "03-application/04-other/specification/Q-031.md",
+      "size": 1112,
+      "sha256": "481d0e88635a2dbc2f8b512f5203becaeaaeb0701a8b2e9f72c9faae8c7baf51"
+    },
+    {
+      "path": "03-application/04-other/specification/Q-032.md",
+      "size": 866,
+      "sha256": "d80034d684907759c96e6b1e819fd9a44f25dd4de1c513be4915c333172e6fdc"
+    },
+    {
+      "path": "03-application/04-other/specification/Q-033.md",
+      "size": 852,
+      "sha256": "288491ab30603c6e4ca75c6c7d1c914c7892a93bce3a6a99f6c88d7f28e64eda"
+    },
+    {
+      "path": "03-application/04-other/specification/Q-034.md",
+      "size": 1566,
+      "sha256": "7a23d74fbb4fbbe643bd6824f394719c13a19ed34c8b1e7d92c7bcddc4447727"
+    },
+    {
+      "path": "03-application/04-other/specification/Q-035.md",
+      "size": 971,
+      "sha256": "80cdba072fd77890f370359c033f01f7b624f37284f0e3b0be43d7327679fd94"
+    },
+    {
+      "path": "03-application/04-other/specification/Q-036.md",
+      "size": 820,
+      "sha256": "d31cae920020a2fcd92c20663041fd18b71ff39ef9e60330a2ececb4dacf708a"
+    },
+    {
+      "path": "03-application/04-other/specification/Q-037.md",
+      "size": 881,
+      "sha256": "04a280738bc555d1b6f9cf8e74b9151bc9154864a75d72b4116e6d3268038a7e"
+    },
+    {
+      "path": "04-project/budget.md",
+      "size": 282,
+      "sha256": "6817ee139148f4996ff4dc8a76e6ac6794604bf698c156926e6fc8eb7d507b71"
+    },
+    {
+      "path": "04-project/findings.md",
+      "size": 272,
+      "sha256": "2e01926dda5d22e667ae1b7210cc46312a9d25b6cf56afaf29747c72fe6a417b"
+    },
+    {
+      "path": "04-project/indicators.md",
+      "size": 285,
+      "sha256": "951f65e0dc25709327fdae070dab502b18feb6abb5bc9b7b245d69850b5f62a5"
+    },
+    {
+      "path": "04-project/schedule.md",
+      "size": 286,
+      "sha256": "4213ac807c3693147683e6ff202a7d25440d1b5246b68224993bb1b750353b96"
+    },
+    {
+      "path": "05-diagrams/README.md",
+      "size": 331,
+      "sha256": "22f5d333690b3d80d1edc99c077adf3347e4377688ed8e42e5be51cb6cd6d606"
+    },
+    {
+      "path": "06-attachments/README.md",
+      "size": 1124,
+      "sha256": "3ce969205cdd396a3d77127e00b0837f242a7429c19f8a3f5a64ebb24636bca9"
+    }
+  ]
+}

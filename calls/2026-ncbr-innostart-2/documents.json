@@ -1,0 +1,771 @@
+{
+  "schema_version": 1,
+  "nabor_id": "2026-ncbr-innostart-2",
+  "zapisano_at": "2026-09-26T16:40:37.611740+00:00",
+  "dokumenty": [
+    {
+      "url": "https://www.gov.pl/attachment/e95fc629-530e-45a2-8aed-f6e78f806d81",
+      "tytul": "Regulamin wyboru projektów_Innostart (II NABÓR)",
+      "nazwa_zrodlowa": "e95fc629-530e-45a2-8aed-f6e78f806d81",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe",
+      "id": "SRC-f764dfc4b0fd",
+      "pobrano_at": "2026-09-26T16:40:34.663318+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "69bee401926debc7578696b3c37cd3d0eaedfa4a9210ea5d82dc95b874b22c6a",
+          "plik": "01-sources/originals/SRC-f764dfc4b0fd-regulamin-wyboru-projektow-innostart-ii-nabor-69bee401926d.pdf",
+          "pobrano_at": "2026-09-26T11:34:35.579024+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/e95fc629-530e-45a2-8aed-f6e78f806d81",
+      "plik": "01-sources/originals/SRC-f764dfc4b0fd-regulamin-wyboru-projektow-innostart-ii-nabor-69bee401926d.pdf",
+      "sha256": "69bee401926debc7578696b3c37cd3d0eaedfa4a9210ea5d82dc95b874b22c6a",
+      "rozmiar": 641155,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 21,
+      "ekstrakt": "01-sources/text/SRC-f764dfc4b0fd.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Dokument przeczytany; ekstrakt zachowuje strony/tabele lub adresy komórek."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/9920bc7b-1beb-4a88-9264-326388d29553",
+      "tytul": "Przewodnik kwalifikowalności wydatków",
+      "nazwa_zrodlowa": "9920bc7b-1beb-4a88-9264-326388d29553",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe",
+      "id": "SRC-613d239e96cd",
+      "pobrano_at": "2026-09-26T16:40:34.788001+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "f5fbb2e43eb226afeb443b1386f85f1f77d7a7ee285c454b914456d7c8220d9d",
+          "plik": "01-sources/originals/SRC-613d239e96cd-przewodnik-kwalifikowalnosci-wydatkow-f5fbb2e43eb2.pdf",
+          "pobrano_at": "2026-09-26T11:34:35.728146+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/9920bc7b-1beb-4a88-9264-326388d29553",
+      "plik": "01-sources/originals/SRC-613d239e96cd-przewodnik-kwalifikowalnosci-wydatkow-f5fbb2e43eb2.pdf",
+      "sha256": "f5fbb2e43eb226afeb443b1386f85f1f77d7a7ee285c454b914456d7c8220d9d",
+      "rozmiar": 550912,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 19,
+      "ekstrakt": "01-sources/text/SRC-613d239e96cd.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Dokument przeczytany; ekstrakt zachowuje strony/tabele lub adresy komórek."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/71198e0f-ac79-4a2e-bd34-d8bd378486aa",
+      "tytul": "Wzór umowy o powierzenie Grantu",
+      "nazwa_zrodlowa": "71198e0f-ac79-4a2e-bd34-d8bd378486aa",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe",
+      "id": "SRC-1fdf48603cae",
+      "pobrano_at": "2026-09-26T16:40:34.904869+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "a1703d57e81c6da0d71202277c8d0cb3f72e1da3d7ab208d0fd2057f8237f7ff",
+          "plik": "01-sources/originals/SRC-1fdf48603cae-wzor-umowy-o-powierzenie-grantu-a1703d57e81c.pdf",
+          "pobrano_at": "2026-09-26T11:34:35.869782+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/71198e0f-ac79-4a2e-bd34-d8bd378486aa",
+      "plik": "01-sources/originals/SRC-1fdf48603cae-wzor-umowy-o-powierzenie-grantu-a1703d57e81c.pdf",
+      "sha256": "a1703d57e81c6da0d71202277c8d0cb3f72e1da3d7ab208d0fd2057f8237f7ff",
+      "rozmiar": 622511,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 19,
+      "ekstrakt": "01-sources/text/SRC-1fdf48603cae.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Dokument przeczytany; ekstrakt zachowuje strony/tabele lub adresy komórek."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/7a70ed8c-621d-4102-a9f7-7226133040c7",
+      "tytul": "Kryteria wyboru projektów",
+      "nazwa_zrodlowa": "7a70ed8c-621d-4102-a9f7-7226133040c7",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe",
+      "id": "SRC-06493a2de3ea",
+      "pobrano_at": "2026-09-26T16:40:35.044184+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "15baaeeb71f3e7fb111c2842fd9ce71bbbb54255f90f3a77a3a55926ffda8bab",
+          "plik": "01-sources/originals/SRC-06493a2de3ea-kryteria-wyboru-projektow-15baaeeb71f3.pdf",
+          "pobrano_at": "2026-09-26T11:34:36.025517+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/7a70ed8c-621d-4102-a9f7-7226133040c7",
+      "plik": "01-sources/originals/SRC-06493a2de3ea-kryteria-wyboru-projektow-15baaeeb71f3.pdf",
+      "sha256": "15baaeeb71f3e7fb111c2842fd9ce71bbbb54255f90f3a77a3a55926ffda8bab",
+      "rozmiar": 384801,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 18,
+      "ekstrakt": "01-sources/text/SRC-06493a2de3ea.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Dokument przeczytany; ekstrakt zachowuje strony/tabele lub adresy komórek."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/9f86de3c-b876-4a13-b91b-cf961879a1ee",
+      "tytul": "Wzór wniosku o wsparcie w projekcie Innostart",
+      "nazwa_zrodlowa": "9f86de3c-b876-4a13-b91b-cf961879a1ee",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe",
+      "id": "SRC-7e7d1dbb6220",
+      "pobrano_at": "2026-09-26T16:40:35.151198+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "92b1acd1457c6e21984b3041eed1fa75c2e7d4ea078ae849d0edb5592a79c9a0",
+          "plik": "01-sources/originals/SRC-7e7d1dbb6220-wzor-wniosku-o-wsparcie-w-projekcie-innostart-92b1acd1457c.pdf",
+          "pobrano_at": "2026-09-26T11:34:36.161557+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/9f86de3c-b876-4a13-b91b-cf961879a1ee",
+      "plik": "01-sources/originals/SRC-7e7d1dbb6220-wzor-wniosku-o-wsparcie-w-projekcie-innostart-92b1acd1457c.pdf",
+      "sha256": "92b1acd1457c6e21984b3041eed1fa75c2e7d4ea078ae849d0edb5592a79c9a0",
+      "rozmiar": 578946,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 25,
+      "ekstrakt": "01-sources/text/SRC-7e7d1dbb6220.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Wszystkie 25 stron; dodatkowe oględziny strony 3 oraz tabeli HRF na stronie 19."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/c5eee147-0f5e-4ad4-80fd-8aead6f205de",
+      "tytul": "Instrukcja wypełniania wniosku o wsparcie",
+      "nazwa_zrodlowa": "c5eee147-0f5e-4ad4-80fd-8aead6f205de",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe",
+      "id": "SRC-8100831efb32",
+      "pobrano_at": "2026-09-26T16:40:35.286757+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "0d30d2d6b4357b827de967e1df1ac8cee4ef26ad3cad76e439300652008e498d",
+          "plik": "01-sources/originals/SRC-8100831efb32-instrukcja-wypelniania-wniosku-o-wsparcie-0d30d2d6b435.pdf",
+          "pobrano_at": "2026-09-26T11:34:36.314308+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/c5eee147-0f5e-4ad4-80fd-8aead6f205de",
+      "plik": "01-sources/originals/SRC-8100831efb32-instrukcja-wypelniania-wniosku-o-wsparcie-0d30d2d6b435.pdf",
+      "sha256": "0d30d2d6b4357b827de967e1df1ac8cee4ef26ad3cad76e439300652008e498d",
+      "rozmiar": 913548,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 62,
+      "ekstrakt": "01-sources/text/SRC-8100831efb32.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Treść instrukcji s. 3–62 przeczytana; strony wstępne bez wpływu na mapę pól."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/f0980cc6-4517-4191-b96c-b8473344146f",
+      "tytul": "Zał. 4 do Umowy o powierzenie grantu HRF nabór 2",
+      "nazwa_zrodlowa": "f0980cc6-4517-4191-b96c-b8473344146f",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe",
+      "id": "SRC-00b8bd33efae",
+      "pobrano_at": "2026-09-26T16:40:35.439338+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "c7eede7462bf0e5ddba3e4f20dff560a0d997691c8b58626195f8eef0c7d7c4c",
+          "plik": "01-sources/originals/SRC-00b8bd33efae-zal-4-do-umowy-o-powierzenie-grantu-hrf-nabor-2-c7eede7462bf.xlsx",
+          "pobrano_at": "2026-09-26T11:34:36.485230+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/f0980cc6-4517-4191-b96c-b8473344146f",
+      "plik": "01-sources/originals/SRC-00b8bd33efae-zal-4-do-umowy-o-powierzenie-grantu-hrf-nabor-2-c7eede7462bf.xlsx",
+      "sha256": "c7eede7462bf0e5ddba3e4f20dff560a0d997691c8b58626195f8eef0c7d7c4c",
+      "rozmiar": 63215,
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "arkusze": [
+        "Harmonogram rzeczowo-finansowy",
+        "Instrukcje"
+      ],
+      "ekstrakt": "01-sources/text/SRC-00b8bd33efae.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Dokument przeczytany; ekstrakt zachowuje strony/tabele lub adresy komórek."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/3b43c66e-d7b1-4d8c-b41a-bebd0554bb46",
+      "tytul": "Oświadczenie woli dotyczące złożenia wniosku za pośrednictwem systemu informatycznego OSF",
+      "nazwa_zrodlowa": "3b43c66e-d7b1-4d8c-b41a-bebd0554bb46",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe",
+      "id": "SRC-e819526b1f28",
+      "pobrano_at": "2026-09-26T16:40:35.522023+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "909fcc2bae7f779f479711f9253fad6d30f7cc3aea81ce10df61c433160cfffd",
+          "plik": "01-sources/originals/SRC-e819526b1f28-oswiadczenie-woli-dotyczace-zlozenia-wniosku-za-posrednictwem-systemu-informatycznego-909fcc2bae7f.pdf",
+          "pobrano_at": "2026-09-26T11:34:36.551348+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/3b43c66e-d7b1-4d8c-b41a-bebd0554bb46",
+      "plik": "01-sources/originals/SRC-e819526b1f28-oswiadczenie-woli-dotyczace-zlozenia-wniosku-za-posrednictwem-systemu-informatycznego-909fcc2bae7f.pdf",
+      "sha256": "909fcc2bae7f779f479711f9253fad6d30f7cc3aea81ce10df61c433160cfffd",
+      "rozmiar": 301661,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 2,
+      "ekstrakt": "01-sources/text/SRC-e819526b1f28.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Dokument przeczytany; ekstrakt zachowuje strony/tabele lub adresy komórek."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/ff473117-c7e0-406d-9375-e6018f9cfa2b",
+      "tytul": "Oświadczenie o zapewnieniu wkładu własnego i źródle finansowania",
+      "nazwa_zrodlowa": "ff473117-c7e0-406d-9375-e6018f9cfa2b",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe",
+      "id": "SRC-477ec01b9862",
+      "pobrano_at": "2026-09-26T16:40:35.629714+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "348a577b37f00fb89bae4f605022232e9ace6c67d5f995a5d46458d214b21984",
+          "plik": "01-sources/originals/SRC-477ec01b9862-oswiadczenie-o-zapewnieniu-wkladu-wlasnego-i-zrodle-finansowania-348a577b37f0.pdf",
+          "pobrano_at": "2026-09-26T11:34:36.664891+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/ff473117-c7e0-406d-9375-e6018f9cfa2b",
+      "plik": "01-sources/originals/SRC-477ec01b9862-oswiadczenie-o-zapewnieniu-wkladu-wlasnego-i-zrodle-finansowania-348a577b37f0.pdf",
+      "sha256": "348a577b37f00fb89bae4f605022232e9ace6c67d5f995a5d46458d214b21984",
+      "rozmiar": 291379,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 1,
+      "ekstrakt": "01-sources/text/SRC-477ec01b9862.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Dokument przeczytany; ekstrakt zachowuje strony/tabele lub adresy komórek."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/8c81d876-4237-49c4-acd7-e1c404691a77",
+      "tytul": "Oświadczenie o spełnianiu kryteriów MŚP",
+      "nazwa_zrodlowa": "8c81d876-4237-49c4-acd7-e1c404691a77",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe",
+      "id": "SRC-598bad0d8a3d",
+      "pobrano_at": "2026-09-26T16:40:35.734622+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "dd3ebda1c7c8726759a9d592a4e3a7e5141668dafc4b2500ceebfe5cd817f43e",
+          "plik": "01-sources/originals/SRC-598bad0d8a3d-oswiadczenie-o-spelnianiu-kryteriow-msp-dd3ebda1c7c8.pdf",
+          "pobrano_at": "2026-09-26T11:34:36.768636+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/8c81d876-4237-49c4-acd7-e1c404691a77",
+      "plik": "01-sources/originals/SRC-598bad0d8a3d-oswiadczenie-o-spelnianiu-kryteriow-msp-dd3ebda1c7c8.pdf",
+      "sha256": "dd3ebda1c7c8726759a9d592a4e3a7e5141668dafc4b2500ceebfe5cd817f43e",
+      "rozmiar": 638054,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 20,
+      "ekstrakt": "01-sources/text/SRC-598bad0d8a3d.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Dokument przeczytany; ekstrakt zachowuje strony/tabele lub adresy komórek."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/3a440d8a-d17e-4c13-8572-ef2b00db121e",
+      "tytul": "Oświadczenie o pomocy na B+R ze środków UE",
+      "nazwa_zrodlowa": "3a440d8a-d17e-4c13-8572-ef2b00db121e",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe",
+      "id": "SRC-a467a1ed2136",
+      "pobrano_at": "2026-09-26T16:40:35.857083+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "41076450463b1b7dcd856f09ad9ac83c7e70f06a4e43b7e0a7ac62c4e3b49d59",
+          "plik": "01-sources/originals/SRC-a467a1ed2136-oswiadczenie-o-pomocy-na-b-r-ze-srodkow-ue-41076450463b.pdf",
+          "pobrano_at": "2026-09-26T11:34:36.913534+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/3a440d8a-d17e-4c13-8572-ef2b00db121e",
+      "plik": "01-sources/originals/SRC-a467a1ed2136-oswiadczenie-o-pomocy-na-b-r-ze-srodkow-ue-41076450463b.pdf",
+      "sha256": "41076450463b1b7dcd856f09ad9ac83c7e70f06a4e43b7e0a7ac62c4e3b49d59",
+      "rozmiar": 341673,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 1,
+      "ekstrakt": "01-sources/text/SRC-a467a1ed2136.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Dokument przeczytany; ekstrakt zachowuje strony/tabele lub adresy komórek."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/9856a8d3-dc46-4ddd-bffc-c243df60a891",
+      "tytul": "Oświadczenie o pomocy de minimis",
+      "nazwa_zrodlowa": "9856a8d3-dc46-4ddd-bffc-c243df60a891",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe",
+      "id": "SRC-66878f78252e",
+      "pobrano_at": "2026-09-26T16:40:35.960651+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "b64507ed77597ea523e287a13a6053a2a9dd3620cca6cb5ac8f956c4456ff85f",
+          "plik": "01-sources/originals/SRC-66878f78252e-oswiadczenie-o-pomocy-de-minimis-b64507ed7759.pdf",
+          "pobrano_at": "2026-09-26T11:34:37.036684+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/9856a8d3-dc46-4ddd-bffc-c243df60a891",
+      "plik": "01-sources/originals/SRC-66878f78252e-oswiadczenie-o-pomocy-de-minimis-b64507ed7759.pdf",
+      "sha256": "b64507ed77597ea523e287a13a6053a2a9dd3620cca6cb5ac8f956c4456ff85f",
+      "rozmiar": 399616,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 4,
+      "ekstrakt": "01-sources/text/SRC-66878f78252e.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Dokument przeczytany; ekstrakt zachowuje strony/tabele lub adresy komórek."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/1936f3f8-dad0-4e9c-9497-27f017ceb7f7",
+      "tytul": "Poradnik dla Wnioskodawcy INNOSTART dotyczący prac B+R",
+      "nazwa_zrodlowa": "1936f3f8-dad0-4e9c-9497-27f017ceb7f7",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe",
+      "id": "SRC-1081830b6486",
+      "pobrano_at": "2026-09-26T16:40:36.078190+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "489930dc3a75a4ade35d755825f483d56d3da90ef3cdb18deb3b3ad2e5dda41c",
+          "plik": "01-sources/originals/SRC-1081830b6486-poradnik-dla-wnioskodawcy-innostart-dotyczacy-prac-b-r-489930dc3a75.pdf",
+          "pobrano_at": "2026-09-26T11:34:37.161981+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/1936f3f8-dad0-4e9c-9497-27f017ceb7f7",
+      "plik": "01-sources/originals/SRC-1081830b6486-poradnik-dla-wnioskodawcy-innostart-dotyczacy-prac-b-r-489930dc3a75.pdf",
+      "sha256": "489930dc3a75a4ade35d755825f483d56d3da90ef3cdb18deb3b3ad2e5dda41c",
+      "rozmiar": 694904,
+      "mime": "application/pdf",
+      "odczyt": "czesciowo-przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 53,
+      "ekstrakt": "01-sources/text/SRC-1081830b6486.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Przegląd rozdziałów/spisu treści i początków wszystkich stron; pełny odczyt s. 8–10, 14, 20–21. Pozostałe przykłady i komentarze wykorzystane wyłącznie orientacyjnie; nie są podstawą nowych wymagań."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/f7f8284f-47e5-4590-b03e-27bb7174f43b",
+      "tytul": "Checklista przed wysłaniem wniosku Innostart",
+      "nazwa_zrodlowa": "f7f8284f-47e5-4590-b03e-27bb7174f43b",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Checklista",
+      "id": "SRC-d5f549a54e42",
+      "pobrano_at": "2026-09-26T16:40:36.214372+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "9483e891d7dc3313b85086a5ca1315b46238456c0ae996e049a4c40304c8c4f6",
+          "plik": "01-sources/originals/SRC-d5f549a54e42-checklista-przed-wyslaniem-wniosku-innostart-9483e891d7dc.docx",
+          "pobrano_at": "2026-09-26T11:34:37.350077+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/f7f8284f-47e5-4590-b03e-27bb7174f43b",
+      "plik": "01-sources/originals/SRC-d5f549a54e42-checklista-przed-wyslaniem-wniosku-innostart-9483e891d7dc.docx",
+      "sha256": "9483e891d7dc3313b85086a5ca1315b46238456c0ae996e049a4c40304c8c4f6",
+      "rozmiar": 85274,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "ekstrakt": "01-sources/text/SRC-d5f549a54e42.md",
+      "przeglad_at": "2026-09-26T12:37:48.411555+00:00",
+      "zakres_przegladu": "Dokument przeczytany; ekstrakt zachowuje strony/tabele lub adresy komórek."
+    },
+    {
+      "url": "https://www.gov.pl/attachment/5908e34a-628d-4d6e-b169-8ef553e64a56",
+      "tytul": "FAQ INNOSTART 2 — Infoday 03.09.2026",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/faq--najczesciej-zadawane-pytania-podczas-infoday",
+      "sekcja": "Materiały dodatkowe / infoday",
+      "nazwa_zrodlowa": "5908e34a-628d-4d6e-b169-8ef553e64a56",
+      "id": "SRC-7f179b199393",
+      "pobrano_at": "2026-09-26T16:40:36.290079+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "9b0b912d1ea295de516417a1b361bb04489d2da8f80b2cb0995d6cc35b5fe7bd",
+          "plik": "01-sources/originals/SRC-7f179b199393-faq-innostart-2-infoday-03-09-2026-9b0b912d1ea2.pdf",
+          "pobrano_at": "2026-09-26T16:40:36.290079+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/5908e34a-628d-4d6e-b169-8ef553e64a56",
+      "plik": "01-sources/originals/SRC-7f179b199393-faq-innostart-2-infoday-03-09-2026-9b0b912d1ea2.pdf",
+      "sha256": "9b0b912d1ea295de516417a1b361bb04489d2da8f80b2cb0995d6cc35b5fe7bd",
+      "rozmiar": 314255,
+      "mime": "application/pdf",
+      "odczyt": "czesciowo-przeczytane",
+      "w_biezacej_paczce": true,
+      "ekstrakt": "01-sources/text/SRC-7f179b199393.md",
+      "liczba_stron": 26,
+      "przeglad": {
+        "data": "2026-09-26",
+        "strony": [
+          1,
+          2,
+          3,
+          4,
+          23,
+          24,
+          25,
+          26
+        ],
+        "zakres": "Odczyt tekstu wybranych stron istotnych dla formularza; pozostałe strony i ilustracje nie zostały w całości przejrzane. Materiał pomocniczy, nie zastępuje wzoru i instrukcji."
+      }
+    },
+    {
+      "url": "https://www.gov.pl/attachment/1d5749a7-b421-4403-81a0-802d906abaf0",
+      "tytul": "Warsztaty: założenia projektu i kryteria wyboru",
+      "strona_pochodzenia": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+      "sekcja": "Materiały dodatkowe / warsztaty-materialy",
+      "nazwa_zrodlowa": "1d5749a7-b421-4403-81a0-802d906abaf0",
+      "id": "SRC-df3390093864",
+      "pobrano_at": "2026-09-26T16:40:36.411174+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "69a1ed5571f6ed6c63cf6b8e52089b72643e109cdcc15a4bb01d400262d09895",
+          "plik": "01-sources/originals/SRC-df3390093864-warsztaty-zalozenia-projektu-i-kryteria-wyboru-69a1ed5571f6.pdf",
+          "pobrano_at": "2026-09-26T16:40:36.411174+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/1d5749a7-b421-4403-81a0-802d906abaf0",
+      "plik": "01-sources/originals/SRC-df3390093864-warsztaty-zalozenia-projektu-i-kryteria-wyboru-69a1ed5571f6.pdf",
+      "sha256": "69a1ed5571f6ed6c63cf6b8e52089b72643e109cdcc15a4bb01d400262d09895",
+      "rozmiar": 1244021,
+      "mime": "application/pdf",
+      "odczyt": "czesciowo-przeczytane",
+      "w_biezacej_paczce": true,
+      "ekstrakt": "01-sources/text/SRC-df3390093864.md",
+      "liczba_stron": 28,
+      "przeglad": {
+        "data": "2026-09-26",
+        "strony": [
+          3,
+          5,
+          17,
+          23,
+          24
+        ],
+        "zakres": "Odczyt tekstu wybranych stron istotnych dla formularza; pozostałe strony i ilustracje nie zostały w całości przejrzane. Materiał pomocniczy, nie zastępuje wzoru i instrukcji."
+      }
+    },
+    {
+      "url": "https://www.gov.pl/attachment/5f9741d8-ba8e-453c-8094-7c46f99a153a",
+      "tytul": "Warsztaty: prace B+R",
+      "strona_pochodzenia": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+      "sekcja": "Materiały dodatkowe / warsztaty-materialy",
+      "nazwa_zrodlowa": "5f9741d8-ba8e-453c-8094-7c46f99a153a",
+      "id": "SRC-4f184f1af4b2",
+      "pobrano_at": "2026-09-26T16:40:36.617151+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "bbd8e531bcc21c345b9695b1fd25ad488de7e411ceb5699d06aef4e376a84498",
+          "plik": "01-sources/originals/SRC-4f184f1af4b2-warsztaty-prace-b-r-bbd8e531bcc2.pdf",
+          "pobrano_at": "2026-09-26T16:40:36.617151+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/5f9741d8-ba8e-453c-8094-7c46f99a153a",
+      "plik": "01-sources/originals/SRC-4f184f1af4b2-warsztaty-prace-b-r-bbd8e531bcc2.pdf",
+      "sha256": "bbd8e531bcc21c345b9695b1fd25ad488de7e411ceb5699d06aef4e376a84498",
+      "rozmiar": 1821104,
+      "mime": "application/pdf",
+      "odczyt": "czesciowo-przeczytane",
+      "w_biezacej_paczce": true,
+      "ekstrakt": "01-sources/text/SRC-4f184f1af4b2.md",
+      "liczba_stron": 52,
+      "przeglad": {
+        "data": "2026-09-26",
+        "strony": [
+          1,
+          12,
+          15,
+          16
+        ],
+        "zakres": "Odczyt tekstu wybranych stron istotnych dla formularza; pozostałe strony i ilustracje nie zostały w całości przejrzane. Materiał pomocniczy, nie zastępuje wzoru i instrukcji."
+      }
+    },
+    {
+      "url": "https://www.gov.pl/attachment/3e0e7b5f-80ec-41aa-8bbe-77adf1c111e5",
+      "tytul": "Warsztaty: System OSF i składanie wniosku",
+      "strona_pochodzenia": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+      "sekcja": "Materiały dodatkowe / warsztaty-materialy",
+      "nazwa_zrodlowa": "3e0e7b5f-80ec-41aa-8bbe-77adf1c111e5",
+      "id": "SRC-3749f2ea94a4",
+      "pobrano_at": "2026-09-26T16:40:36.879120+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "21b20ffc700d578bdd1ca4161058fc917d1bc1da1f1e0b8cd61e04af7446c29a",
+          "plik": "01-sources/originals/SRC-3749f2ea94a4-warsztaty-system-osf-i-skladanie-wniosku-21b20ffc700d.pdf",
+          "pobrano_at": "2026-09-26T16:40:36.879120+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/3e0e7b5f-80ec-41aa-8bbe-77adf1c111e5",
+      "plik": "01-sources/originals/SRC-3749f2ea94a4-warsztaty-system-osf-i-skladanie-wniosku-21b20ffc700d.pdf",
+      "sha256": "21b20ffc700d578bdd1ca4161058fc917d1bc1da1f1e0b8cd61e04af7446c29a",
+      "rozmiar": 4943482,
+      "mime": "application/pdf",
+      "odczyt": "czesciowo-przeczytane",
+      "w_biezacej_paczce": true,
+      "ekstrakt": "01-sources/text/SRC-3749f2ea94a4.md",
+      "liczba_stron": 31,
+      "przeglad": {
+        "data": "2026-09-26",
+        "strony": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "zakres": "Odczyt tekstu wybranych stron istotnych dla formularza; pozostałe strony i ilustracje nie zostały w całości przejrzane. Materiał pomocniczy, nie zastępuje wzoru i instrukcji."
+      }
+    },
+    {
+      "url": "https://www.gov.pl/attachment/ddd2bf7a-55f1-490e-a593-a1e973a5c59b",
+      "tytul": "Warsztaty: kwalifikowalność wydatków i finanse",
+      "strona_pochodzenia": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+      "sekcja": "Materiały dodatkowe / warsztaty-materialy",
+      "nazwa_zrodlowa": "ddd2bf7a-55f1-490e-a593-a1e973a5c59b",
+      "id": "SRC-1b024574191a",
+      "pobrano_at": "2026-09-26T16:40:37.371786+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "1e3a89dc5a96164856fa3ce44ae5834c504f34926797364883f258cdb0ae0374",
+          "plik": "01-sources/originals/SRC-1b024574191a-warsztaty-kwalifikowalnosc-wydatkow-i-finanse-1e3a89dc5a96.pdf",
+          "pobrano_at": "2026-09-26T16:40:37.371786+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.gov.pl/attachment/ddd2bf7a-55f1-490e-a593-a1e973a5c59b",
+      "plik": "01-sources/originals/SRC-1b024574191a-warsztaty-kwalifikowalnosc-wydatkow-i-finanse-1e3a89dc5a96.pdf",
+      "sha256": "1e3a89dc5a96164856fa3ce44ae5834c504f34926797364883f258cdb0ae0374",
+      "rozmiar": 1961590,
+      "mime": "application/pdf",
+      "odczyt": "czesciowo-przeczytane",
+      "w_biezacej_paczce": true,
+      "ekstrakt": "01-sources/text/SRC-1b024574191a.md",
+      "liczba_stron": 24,
+      "przeglad": {
+        "data": "2026-09-26",
+        "strony": [
+          2,
+          7,
+          9,
+          10,
+          21,
+          22
+        ],
+        "zakres": "Odczyt tekstu wybranych stron istotnych dla formularza; pozostałe strony i ilustracje nie zostały w całości przejrzane. Materiał pomocniczy, nie zastępuje wzoru i instrukcji."
+      }
+    }
+  ],
+  "linki_do_sprawdzenia": [],
+  "rozpoznanie_ai": {
+    "schema_version": 1,
+    "url": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+    "tytul": "INNOSTART — nabór 2/2026",
+    "kompletne": true,
+    "sprawdzono_at": "2026-09-26",
+    "sprawdzone_sekcje": [
+      "Dla kogo",
+      "Na co",
+      "Budżet i wsparcie",
+      "Harmonogram",
+      "Sposób składania i oceny",
+      "FAQ",
+      "Dokumenty konkursowe",
+      "Checklista",
+      "Aktualności naboru 2",
+      "Strona programu",
+      "FAQ Infoday",
+      "Materiały warsztatowe"
+    ],
+    "dokumenty": [
+      {
+        "url": "https://www.gov.pl/attachment/e95fc629-530e-45a2-8aed-f6e78f806d81",
+        "tytul": "Regulamin wyboru projektów_Innostart (II NABÓR)",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Dokumenty konkursowe"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/9920bc7b-1beb-4a88-9264-326388d29553",
+        "tytul": "Przewodnik kwalifikowalności wydatków",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Dokumenty konkursowe"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/71198e0f-ac79-4a2e-bd34-d8bd378486aa",
+        "tytul": "Wzór umowy o powierzenie Grantu",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Dokumenty konkursowe"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/7a70ed8c-621d-4102-a9f7-7226133040c7",
+        "tytul": "Kryteria wyboru projektów",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Dokumenty konkursowe"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/9f86de3c-b876-4a13-b91b-cf961879a1ee",
+        "tytul": "Wzór wniosku o wsparcie w projekcie Innostart",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Dokumenty konkursowe"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/c5eee147-0f5e-4ad4-80fd-8aead6f205de",
+        "tytul": "Instrukcja wypełniania wniosku o wsparcie",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Dokumenty konkursowe"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/f0980cc6-4517-4191-b96c-b8473344146f",
+        "tytul": "Zał. 4 do Umowy o powierzenie grantu HRF nabór 2",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Dokumenty konkursowe"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/3b43c66e-d7b1-4d8c-b41a-bebd0554bb46",
+        "tytul": "Oświadczenie woli dotyczące złożenia wniosku za pośrednictwem systemu informatycznego OSF",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Dokumenty konkursowe"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/ff473117-c7e0-406d-9375-e6018f9cfa2b",
+        "tytul": "Oświadczenie o zapewnieniu wkładu własnego i źródle finansowania",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Dokumenty konkursowe"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/8c81d876-4237-49c4-acd7-e1c404691a77",
+        "tytul": "Oświadczenie o spełnianiu kryteriów MŚP",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Dokumenty konkursowe"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/3a440d8a-d17e-4c13-8572-ef2b00db121e",
+        "tytul": "Oświadczenie o pomocy na B+R ze środków UE",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Dokumenty konkursowe"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/9856a8d3-dc46-4ddd-bffc-c243df60a891",
+        "tytul": "Oświadczenie o pomocy de minimis",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Dokumenty konkursowe"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/1936f3f8-dad0-4e9c-9497-27f017ceb7f7",
+        "tytul": "Poradnik dla Wnioskodawcy INNOSTART dotyczący prac B+R",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Dokumenty konkursowe"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/f7f8284f-47e5-4590-b03e-27bb7174f43b",
+        "tytul": "Checklista przed wysłaniem wniosku Innostart",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+        "sekcja": "Dokumenty / Checklista"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/5908e34a-628d-4d6e-b169-8ef553e64a56",
+        "tytul": "FAQ INNOSTART 2 — Infoday 03.09.2026",
+        "strona_pochodzenia": "https://www.gov.pl/web/ncbr/faq--najczesciej-zadawane-pytania-podczas-infoday",
+        "sekcja": "Materiały dodatkowe / infoday"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/1d5749a7-b421-4403-81a0-802d906abaf0",
+        "tytul": "Warsztaty: założenia projektu i kryteria wyboru",
+        "strona_pochodzenia": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+        "sekcja": "Materiały dodatkowe / warsztaty-materialy"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/5f9741d8-ba8e-453c-8094-7c46f99a153a",
+        "tytul": "Warsztaty: prace B+R",
+        "strona_pochodzenia": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+        "sekcja": "Materiały dodatkowe / warsztaty-materialy"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/3e0e7b5f-80ec-41aa-8bbe-77adf1c111e5",
+        "tytul": "Warsztaty: System OSF i składanie wniosku",
+        "strona_pochodzenia": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+        "sekcja": "Materiały dodatkowe / warsztaty-materialy"
+      },
+      {
+        "url": "https://www.gov.pl/attachment/ddd2bf7a-55f1-490e-a593-a1e973a5c59b",
+        "tytul": "Warsztaty: kwalifikowalność wydatków i finanse",
+        "strona_pochodzenia": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+        "sekcja": "Materiały dodatkowe / warsztaty-materialy"
+      }
+    ],
+    "pozostale_linki": [
+      {
+        "url": "https://www.gov.pl/web/innostart",
+        "status": "informacja",
+        "uzasadnienie": "Strona całego programu; budżet programu nie jest budżetem naboru 2.",
+        "snapshot": "01-sources/www/program-ac1258629e03.html",
+        "sha256": "ac1258629e03d9a059e56f97a0fc28791301ae8844558c6dc69222df04cdfeed"
+      },
+      {
+        "url": "https://www.gov.pl/web/ncbr/aktualnosci-innostart-2",
+        "status": "informacja",
+        "uzasadnienie": "Przejrzana lista aktualności naboru 2; dodatkowe FAQ i prezentacje rozliczone osobno.",
+        "snapshot": "01-sources/www/aktualnosci-fcab2d79a6e1.html",
+        "sha256": "fcab2d79a6e122352e10a1430b356ae6336e85de7057d3c2845da4d811ff2c28"
+      },
+      {
+        "url": "https://www.gov.pl/web/ncbr/faq--najczesciej-zadawane-pytania-podczas-infoday",
+        "status": "informacja",
+        "uzasadnienie": "FAQ z 18.09.2026 dotyczące naboru 2; załącznik dodany do listy dokumentów.",
+        "snapshot": "01-sources/www/infoday-fc4b9aa7ff30.html",
+        "sha256": "fc4b9aa7ff30757e56de122355f64c327a558e286268499f890c9f6ea9375cc5"
+      },
+      {
+        "url": "https://www.gov.pl/web/ncbr/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+        "status": "informacja",
+        "uzasadnienie": "Komunikat z 22.09.2026 prowadzi do strony z czterema prezentacjami.",
+        "snapshot": "01-sources/www/warsztaty-c7f9af3d193e.html",
+        "sha256": "c7f9af3d193e3c40b78743d74ab0706808d1494d8ce53c359bce83cfe66abf56"
+      },
+      {
+        "url": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+        "status": "informacja",
+        "uzasadnienie": "Cztery prezentacje dodane do listy pobrań. Nagrania wideo mają charakter pomocniczy; nie transkrybowano nagrań.",
+        "snapshot": "01-sources/www/warsztaty-materialy-df2d018068fd.html",
+        "sha256": "df2d018068fd2e69a5287a286cbfb42c1b17e78eb68cde24819b6f3fa20c2674"
+      }
+    ],
+    "uwagi": [
+      "14 plików z zakładki Dokumenty i 5 dodatkowych PDF z aktualności dotyczących naboru 2.",
+      "Publikacje i webinaria nie zmieniają samodzielnie wzoru; źródłami struktury są wzór i instrukcja.",
+      "Ograniczenie przeglądu: nagrania wideo bez transkrypcji."
+    ]
+  }
+}

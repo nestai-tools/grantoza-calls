@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "id": "2026-ncbr-innostart-2-ocena",
+  "wersja": 1,
+  "nabor_id": "2026-ncbr-innostart-2",
+  "nazwa": "INNOSTART — projekt B+R",
+  "zrodla_sha256": {
+    "SRC-06493a2de3ea": "15baaeeb71f3e7fb111c2842fd9ce71bbbb54255f90f3a77a3a55926ffda8bab",
+    "SRC-f764dfc4b0fd": "69bee401926debc7578696b3c37cd3d0eaedfa4a9210ea5d82dc95b874b22c6a"
+  },
+  "wejscie": {
+    "instrukcja": "Oceniaj projekt B+R INNOSTART: cel badawczy, zadania, kamienie milowe, potencjał i harmonogram rzeczowo-finansowy zgodnie z podanym kryterium. Deklaracje TAK/NIE są kompletną odpowiedzią na pole wyboru. Status MŚP, Innovation Coach, pomoc de minimis i finansowanie mają osobne deklaracje i załączniki. Nie żądaj narracji w polu wyboru. Samo wskazanie załącznika nie potwierdza jego treści ani podpisu.",
+    "pola_kontekstu": [],
+    "powiazania": true,
+    "krotka_odpowiedz_max": 180,
+    "budzet_powiazan": 12000
+  },
+  "wyjscie": {
+    "odpowiedz": {
+      "typ": "choice",
+      "warianty": {
+        "supported": {
+          "opis": "Przekazane odpowiedzi uzasadniają wskazany aspekt w zakresie wymaganym przez źródło.",
+          "status": "supported"
+        },
+        "partial": {
+          "opis": "Przekazane dane częściowo uzasadniają aspekt, ale wymagają uzupełnienia.",
+          "status": "partial"
+        },
+        "missing": {
+          "opis": "Brak odpowiedzi lub dowodów w polach przeznaczonych na ten aspekt.",
+          "status": "missing"
+        },
+        "contradicted": {
+          "opis": "Przekazane odpowiedzi są sprzeczne z aspektem lub ze sobą; wskaż wyłącznie rzeczywistą sprzeczność.",
+          "status": "contradicted"
+        },
+        "not_applicable": {
+          "opis": "Warunek zastosowania wskazany w źródle nie zachodzi i wynika to z danych.",
+          "status": "not_applicable"
+        },
+        "insufficient_context": {
+          "opis": "Ta część i wspólne fakty nie pozwalają rozstrzygnąć aspektu; potrzebna jest inna część lub weryfikacja zewnętrzna.",
+          "status": "insufficient_context"
+        }
+      }
+    },
+    "etykiety": {
+      "supported": "Uzasadnione w tekście",
+      "partial": "Częściowo uzasadnione",
+      "missing": "Brak danych",
+      "contradicted": "Sprzeczność",
+      "not_applicable": "Nie dotyczy",
+      "insufficient_context": "Wymaga oceny łącznej lub weryfikacji"
+    },
+    "agregacja": "sprawdzenia"
+  },
+  "kryteria": {
+    "K-T01": {
+      "tryb": "formularz",
+      "instrukcja": "Odczytaj wskazane deklaracje i dane. Nie przyznawaj na ich podstawie oceny wiarygodności dokumentów.",
+      "pola_kontekstu": []
+    },
+    "K-T02": {
+      "tryb": "formularz",
+      "instrukcja": "Odczytaj wskazane deklaracje i dane. Nie przyznawaj na ich podstawie oceny wiarygodności dokumentów.",
+      "pola_kontekstu": []
+    },
+    "K-T03": {
+      "tryb": "formularz",
+      "instrukcja": "Odczytaj wskazane deklaracje i dane. Nie przyznawaj na ich podstawie oceny wiarygodności dokumentów.",
+      "pola_kontekstu": []
+    },
+    "K-T04": {
+      "tryb": "formularz",
+      "instrukcja": "Odczytaj wskazane deklaracje i dane. Nie przyznawaj na ich podstawie oceny wiarygodności dokumentów.",
+      "pola_kontekstu": []
+    },
+    "K-T05": {
+      "tryb": "formularz",
+      "instrukcja": "Odczytaj wskazane deklaracje i dane. Nie przyznawaj na ich podstawie oceny wiarygodności dokumentów.",
+      "pola_kontekstu": []
+    },
+    "K-T06": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Brak działalności wykluczonych” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-T07": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „KIS” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-T08": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Zasady horyzontalne” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-T09": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Karta Praw Podstawowych” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-T10": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Konwencja o Prawach Osób Niepełnosprawnych” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-T11": {
+      "tryb": "formularz",
+      "instrukcja": "Odczytaj wskazane deklaracje i dane. Nie przyznawaj na ich podstawie oceny wiarygodności dokumentów.",
+      "pola_kontekstu": []
+    },
+    "K-P01": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Istota projektu” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-P02": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Potencjał projektu” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-P03": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Potencjał Wnioskodawcy, zespół projektowy” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-P04": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Doradca w projekcie” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-P05": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Harmonogram rzeczowo-finansowy” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-01": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Język polski” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-02": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Treść merytoryczna zamiast samych placeholderów” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-03": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Zweryfikuj wymagane załączniki i kwalifikowane podpisy osób uprawnionych w plikach źródłowych.",
+      "pola_kontekstu": []
+    },
+    "F-04": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Zweryfikuj potwierdzenie wysłania przez OSF i datę złożenia względem terminu naboru.",
+      "pola_kontekstu": []
+    }
+  },
+  "spojnosc": {
+    "aspekty": [
+      "Cele i opis problemu badawczego są spójne z zadaniami i kamieniami milowymi.",
+      "Terminy, koszty, zasoby zespołu i wskaźniki odpowiadają zakresowi projektu."
+    ],
+    "pola_kontekstu": []
+  },
+  "analiza_poglebiona": "Przygotuj ogólną ocenę gotowości projektu B+R i rekomendacje zmian w Markdown. Powiąż problem badawczy, zadania, kamienie milowe, zespół, koszty i wskaźniki. Rozróżnij deklarację MŚP i inne oświadczenia od weryfikacji dokumentów. Uwzględnij wyniki Systemu Oceniającego, ich niepewność i podział na części; nie przepisuj automatycznie jego błędów."
+}

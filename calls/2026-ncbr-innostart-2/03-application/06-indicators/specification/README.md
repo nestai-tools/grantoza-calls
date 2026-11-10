@@ -1,0 +1,20 @@
+# Specyfikacja — 6. Wskaźniki w projekcie
+
+[Formularz](../indicators.md) · [Mapa pól](../../form-map.md)
+
+- [Q-112 — Inwestycje prywatne uzupełniające wsparcie publiczne (w tym: dotacje, instrumenty finansowe) / Wartość bazowa](Q-112.md)
+- [Q-113 — Inwestycje prywatne uzupełniające wsparcie publiczne (w tym: dotacje, instrumenty finansowe) / Wartość docelowa](Q-113.md)
+- [Q-114 — Inwestycje prywatne uzupełniające wsparcie publiczne (w tym: dotacje, instrumenty finansowe) / Nazwa i opis](Q-114.md)
+- [Q-115 — Małe i średnie przedsiębiorstwa wprowadzające innowacje produktowe / Wartość bazowa](Q-115.md)
+- [Q-116 — Małe i średnie przedsiębiorstwa wprowadzające innowacje produktowe / Wartość docelowa](Q-116.md)
+- [Q-117 — Małe i średnie przedsiębiorstwa wprowadzające innowacje produktowe / Nazwa i opis](Q-117.md)
+- [Q-118 — Małe i średnie przedsiębiorstwa wprowadzające innowacje procesowe / Wartość bazowa](Q-118.md)
+- [Q-119 — Małe i średnie przedsiębiorstwa wprowadzające innowacje procesowe / Wartość docelowa](Q-119.md)
+- [Q-120 — Małe i średnie przedsiębiorstwa wprowadzające innowacje procesowe / Nazwa i opis](Q-120.md)
+- [Q-121 — Małe i średnie przedsiębiorstwa wprowadzające innowacje produktowe lub procesowe / Wartość bazowa](Q-121.md)
+- [Q-122 — Małe i średnie przedsiębiorstwa wprowadzające innowacje produktowe lub procesowe / Wartość docelowa](Q-122.md)
+- [Q-123 — Małe i średnie przedsiębiorstwa wprowadzające innowacje produktowe lub procesowe / Nazwa i opis](Q-123.md)
+- [Q-124 — Liczba wprowadzonych innowacji produktowych](Q-124.md)
+- [Q-125 — Miesiąc wprowadzenia innowacji produktowych](Q-125.md)
+- [Q-126 — Liczba wprowadzonych innowacji procesowych](Q-126.md)
+- [Q-127 — Miesiąc wprowadzenia innowacji procesowych](Q-127.md)

@@ -1,0 +1,999 @@
+{
+  "schema_version": 1,
+  "nabor_id": "2026-lsse-spark-4-rethink-202609",
+  "zakres": "Kryteria z lokalnej wersji dokumentacji. Podział pomocniczy oznaczono; brak wag pozostaje null. Oceny JEV dotyczą uzasadnienia w treści, bez przyznawania oficjalnych punktów.",
+  "uwagi": [
+    "Kryteria rozmowy zachowano, ale nie przypisano ich do pisemnych pól. Brak załączników w zrzutach nie usuwa wymagań z karty oceny."
+  ],
+  "zasady_laczne": {
+    "maksimum_merytoryczne": 35,
+    "minima_grup": {
+      "GOZ": 5,
+      "Innowacyjność": 7,
+      "Zespół i zasoby": 3,
+      "Współpraca z OT": 5,
+      "Inne": 1
+    },
+    "dostep_minimum_kazdego": 1,
+    "maksimum_rozmowa": 16,
+    "zrodlo_minimow": {
+      "id": "SRC-24d9e29a71fb",
+      "lokalizacja": "§4"
+    }
+  },
+  "zrodla_sha256": {
+    "SRC-2a2563594b37": "8a64a8a0f405173bec2b76e26ab193f30a42584cb0c2dfec7f55c3368296ef53"
+  },
+  "kryteria": [
+    {
+      "id": "F-01",
+      "nazwa": "Termin złożenia",
+      "rodzaj": "formalne",
+      "etap": "I — formalny",
+      "klasyfikacja": "ze źródła",
+      "pola": [],
+      "rozdzialy": [
+        "04-other"
+      ],
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "grupa": null,
+      "aspekty": [
+        "Kontekst zawiera potwierdzenie wysłania zgłoszenia w terminie."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "F-02",
+      "nazwa": "Kompletność i język polski",
+      "rodzaj": "formalne",
+      "etap": "I — formalny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-001",
+        "Q-002",
+        "Q-003",
+        "Q-004",
+        "Q-005",
+        "Q-006",
+        "Q-007",
+        "Q-008",
+        "Q-009",
+        "Q-010",
+        "Q-011",
+        "Q-012",
+        "Q-013",
+        "Q-014",
+        "Q-015",
+        "Q-016",
+        "Q-017",
+        "Q-018",
+        "Q-019",
+        "Q-020",
+        "Q-021",
+        "Q-022",
+        "Q-023",
+        "Q-024",
+        "Q-025",
+        "Q-026",
+        "Q-027",
+        "Q-028",
+        "Q-029",
+        "Q-030",
+        "Q-031",
+        "Q-032",
+        "Q-033",
+        "Q-034",
+        "Q-035",
+        "Q-036",
+        "Q-037"
+      ],
+      "rozdzialy": [
+        "01-information",
+        "02-eligibility-criteria",
+        "03-substantive-criteria",
+        "04-other"
+      ],
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "grupa": null,
+      "aspekty": [
+        "Sekcja odpowiada na właściwe pytania w języku polskim."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "F-03",
+      "nazwa": "Mikro/małe przedsiębiorstwo i art. 22",
+      "rodzaj": "formalne",
+      "etap": "I — formalny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-005",
+        "Q-006"
+      ],
+      "rozdzialy": [
+        "01-information"
+      ],
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "grupa": null,
+      "aspekty": [
+        "Dane podmiotu uzasadniają status mikro lub małego przedsiębiorstwa i spełnienie warunków art. 22."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "F-04",
+      "nazwa": "Wymagane dokumenty",
+      "rodzaj": "formalne",
+      "etap": "I — formalny",
+      "klasyfikacja": "ze źródła",
+      "pola": [],
+      "rozdzialy": [
+        "04-other"
+      ],
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "grupa": null,
+      "aspekty": [
+        "Kontekst zawiera dowody dołączenia wymaganych dokumentów."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "F-05",
+      "nazwa": "Akceptacja regulaminu",
+      "rodzaj": "formalne",
+      "etap": "I — formalny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-029"
+      ],
+      "rozdzialy": [
+        "04-other"
+      ],
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "grupa": null,
+      "aspekty": [
+        "Złożono oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "F-06",
+      "nazwa": "Zasady de minimis",
+      "rodzaj": "formalne",
+      "etap": "I — formalny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-028"
+      ],
+      "rozdzialy": [
+        "04-other"
+      ],
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "grupa": null,
+      "aspekty": [
+        "Kontekst uzasadnia zgodność z zasadami pomocy de minimis."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "F-07",
+      "nazwa": "Polityki horyzontalne UE",
+      "rodzaj": "formalne",
+      "etap": "I — formalny",
+      "klasyfikacja": "ze źródła",
+      "pola": [],
+      "rozdzialy": [
+        "04-other"
+      ],
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "grupa": null,
+      "aspekty": [
+        "Kontekst zawiera deklarację zgodności z politykami horyzontalnymi UE."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "F-08",
+      "nazwa": "Brak podwójnego finansowania",
+      "rodzaj": "formalne",
+      "etap": "I — formalny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-031"
+      ],
+      "rozdzialy": [
+        "04-other"
+      ],
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "grupa": null,
+      "aspekty": [
+        "Oświadczenie wskazuje brak wcześniejszego finansowania tych samych działań ze środków UE."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "F-09",
+      "nazwa": "Prawo do technologii",
+      "rodzaj": "formalne",
+      "etap": "I — formalny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-030"
+      ],
+      "rozdzialy": [
+        "04-other"
+      ],
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "grupa": null,
+      "aspekty": [
+        "Wskazano dowody prawa do dysponowania technologią, jeśli wymagane."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "F-10",
+      "nazwa": "Dostępny limit de minimis",
+      "rodzaj": "formalne",
+      "etap": "I — formalny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-028"
+      ],
+      "rozdzialy": [
+        "04-other"
+      ],
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "grupa": null,
+      "aspekty": [
+        "Dane pozwalają ustalić dostępny limit pomocy de minimis."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "F-11",
+      "nazwa": "Prawdziwość danych",
+      "rodzaj": "formalne",
+      "etap": "I — formalny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-033"
+      ],
+      "rozdzialy": [
+        "04-other"
+      ],
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "grupa": null,
+      "aspekty": [
+        "Złożono oświadczenie o prawdziwości danych; nie oznacza to niezależnego potwierdzenia faktów."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "F-12",
+      "nazwa": "Brak powiązań",
+      "rodzaj": "formalne",
+      "etap": "I — formalny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-032"
+      ],
+      "rozdzialy": [
+        "04-other"
+      ],
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "grupa": null,
+      "aspekty": [
+        "Złożono wymagane oświadczenie o braku powiązań."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "F-13",
+      "nazwa": "Zgodność z KIS 7",
+      "rodzaj": "formalne",
+      "etap": "I — formalny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-013",
+        "Q-017"
+      ],
+      "rozdzialy": [
+        "01-information",
+        "03-substantive-criteria"
+      ],
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "grupa": null,
+      "aspekty": [
+        "Opis wiąże rozwiązanie z KIS 7 i gospodarką obiegu zamkniętego."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "D-01",
+      "nazwa": "Obszary wskazane przez OT",
+      "rodzaj": "dostep",
+      "etap": "II — dostęp",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-012",
+        "Q-014",
+        "Q-015"
+      ],
+      "rozdzialy": [
+        "01-information",
+        "02-eligibility-criteria"
+      ],
+      "skala": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "grupa": null,
+      "aspekty": [
+        "Obszary wskazane przez OT"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy"
+    },
+    {
+      "id": "D-02",
+      "nazwa": "Gotowość technologiczna",
+      "rodzaj": "dostep",
+      "etap": "II — dostęp",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-016"
+      ],
+      "rozdzialy": [
+        "02-eligibility-criteria"
+      ],
+      "skala": [
+        0,
+        1,
+        2
+      ],
+      "minimum": 1,
+      "grupa": null,
+      "aspekty": [
+        "Gotowość technologiczna"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 2
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 1:\nKARTA OCENY W RAMACH NABORU DO PROJEKTU SPARK 4.0,\n EDYCJA: RETHINK\nNazwa firmy:\nTytuł projektu:\n ETAP I: KRYTERIA FORMALNE\n TAK NIE\n 1 Aplikacja złożona w terminie;\n 2 Aplikacja kompletna i poprawna, w tym: złożona w języku polskim;\n 3 Wnioskodawca to mikro lub małe przedsiębiorstwo w rozumieniu Załącznika I\n rozporządzenia KE nr 651/2014 oraz spełnia warunki określone w art. 22 tego\n rozporządzenia.\n 4 Załączono wymagane dokumenty;\n 5 Oświadczenie o zapoznaniu się z regulaminem i akceptacji warunków;\n 6 Oświadczenie o zgodności z zasadami de minimis;\n 7 Deklaracja zgodności z politykami horyzontalnymi UE1;\n 8 Zgłoszenie nie było wcześniej finansowane z innych środków UE na te same działania;\n 9 Startup złożył wymagane załączniki potwierdzające prawo do dysponowania\n technologią/innowacją (patenty, IP)2\n 10 Wnioskodawca dysponuje dostępnym poziomem pomocy de minimis;\n 11 Oświadczenie o prawdziwości danych zawartych w aplikacji;\n 12 Oświadczenie o braku powiązań kapitałowych lub osobowych z Akceleratorem, ŁSSE\n lub Partnerami Biznesowymi;\n 13 Rozwiązanie Wnioskodawcy wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego;\n SPEŁNIENIE WARUNKÓW FORMALNYCH, ZAKWALIFIKOWANO DO II ETAPU\n Uwagi:\n\n\n\n ETAP II\n KRYTERIA DOSTĘPU\n Aplikacja przechodzi do dalszej oceny w przypadku uzyskania co najmniej 1 pkt w każdym z kryteriów\n 1. Projekt wpisuje się w obszary wskazane przez\n Odbiorców Technologii 0-1 pkt 0 pkt: nie wpisuje się\n 1 pkt: wpisuje się\n 2. Faza rozwoju pomysłu\n (poziom gotowości technologicznej): 0-2 pkt\n 0 pkt: TRL na poziomie 0-4\n\n1 Równość szans, niedyskryminacja, dostępność dla osób z niepełnosprawnościami, równość płci, zrównoważony rozwój;\n2 Jeśli dotyczy\n\nStrona 2:\n1 pkt: TRL na poziomie 5-6\n 2 pkt: TRL na poziomie wyższym niż 6\n KRYTERIA MERYTORYCZNE\n GOSPODARKA OBIEGU ZAMKNIĘTEGO (0-8 PKT)\n1. Wpływ zgłaszanego rozwiązania\n na obszar GOZ:\n 0 pkt: brak realnego wpływu na GOZ (rozwiązanie nie odnosi\n się wprost do zasad GOZ, a potencjalny wpływ na środowisko\n jest marginalny, bez jasno opisanej zmiany w cyklu życia\n produktu/usługi Oceniający 1:\n 1-2 pkt: częściowy/pośredni wpływ na GOZ (rozwiązanie 0-4 pkt Oceniający 2: dotyka wybranych aspektów GOZ, ale w sposób pośredni, np. Oceniający 3: optymalizacja procesów, które może ograniczyć zużycie\n zasobów, ale nie jest to główny cel modelu biznesowego)\n 3-4 pkt: silny, bezpośredni wpływ na GOZ (rozwiązanie\n zaprojektowane wprost wokół zasad GOZ, Aplikujący pokazuje\n prosty proces „przed i po” – jaki element łańcucha wartości\n staje się bardziej cyrkularny dzięki rozwiązaniu)\n2. Planowane wskaźniki środowiskowe\n 0 pkt: brak zdefiniowanych wskaźników środowiskowych\n 1 pkt: Wnioskodawca wykazał wskaźniki środowiskowe, ale są\n one niepoliczalne\n 2 pkt: Wnioskodawca podaje 1-2 wskaźniki, ale brakuje Oceniający 1:\n wyraźnego powiązania z danymi i planu monitorowania 0-4 pkt Oceniający 2:\n w projekcie Oceniający 3:\n 3-4 pkt: Wnioskodawca przedstawia konkretny zestaw\n mierzalnych wskaźników powiązany z modelem biznesowym,\n opisuje jak będzie je mierzyć (tj. źródła danych, metoda, itp.)\n i w jakim horyzoncie czasowym\n INNOWACYJNOŚĆ (0-11 pkt)\n1. Innowacyjność\n 0 pkt: rozwiązanie nie jest innowacyjne, czyli podobne\n rozwiązania są powszechnie znane Oceniający 1: 1 pkt: rozwiązanie jest innowacyjne lokalnie\n 0-4 pkt Oceniający 2: 2-3 pkt: rozwiązanie jest innowacyjne ogólnopolsko/w skali\n Oceniający 3: branży\n 4 pkt: rozwiązanie jest innowacyjne globalnie w skali całego\n sektora gospodarki\n2. Potencjał rozwoju/rynkowy\n 0 pkt: Wnioskodawca nie posiada modelu biznesowego i\n określonej grupy docelowej rozwiązania\n 1 pkt: model biznesowy Wnioskodawcy jest możliwy do Oceniający 1:\n wdrożenia, startup określa grupę docelową rozwiązania 0-2 pkt Oceniający 2:\n 2 pkt: model biznesowy Wnioskodawcy Oceniający 3:\n został zwalidowany wśród grupy docelowej rozwiązania\n (walidacja została jasno\n i precyzyjnie opisana)\n3. Przewagi konkurencyjne Oceniający 1: 0-3 pkt Oceniający 2:"
+    },
+    {
+      "id": "M-01",
+      "nazwa": "Wpływ na GOZ",
+      "rodzaj": "merytoryczne",
+      "etap": "II — merytoryczny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-017"
+      ],
+      "rozdzialy": [
+        "03-substantive-criteria"
+      ],
+      "skala": "0–4",
+      "minimum": null,
+      "grupa": "GOZ",
+      "aspekty": [
+        "Wpływ na GOZ"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 2
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 2:\n1 pkt: TRL na poziomie 5-6\n 2 pkt: TRL na poziomie wyższym niż 6\n KRYTERIA MERYTORYCZNE\n GOSPODARKA OBIEGU ZAMKNIĘTEGO (0-8 PKT)\n1. Wpływ zgłaszanego rozwiązania\n na obszar GOZ:\n 0 pkt: brak realnego wpływu na GOZ (rozwiązanie nie odnosi\n się wprost do zasad GOZ, a potencjalny wpływ na środowisko\n jest marginalny, bez jasno opisanej zmiany w cyklu życia\n produktu/usługi Oceniający 1:\n 1-2 pkt: częściowy/pośredni wpływ na GOZ (rozwiązanie 0-4 pkt Oceniający 2: dotyka wybranych aspektów GOZ, ale w sposób pośredni, np. Oceniający 3: optymalizacja procesów, które może ograniczyć zużycie\n zasobów, ale nie jest to główny cel modelu biznesowego)\n 3-4 pkt: silny, bezpośredni wpływ na GOZ (rozwiązanie\n zaprojektowane wprost wokół zasad GOZ, Aplikujący pokazuje\n prosty proces „przed i po” – jaki element łańcucha wartości\n staje się bardziej cyrkularny dzięki rozwiązaniu)\n2. Planowane wskaźniki środowiskowe\n 0 pkt: brak zdefiniowanych wskaźników środowiskowych\n 1 pkt: Wnioskodawca wykazał wskaźniki środowiskowe, ale są\n one niepoliczalne\n 2 pkt: Wnioskodawca podaje 1-2 wskaźniki, ale brakuje Oceniający 1:\n wyraźnego powiązania z danymi i planu monitorowania 0-4 pkt Oceniający 2:\n w projekcie Oceniający 3:\n 3-4 pkt: Wnioskodawca przedstawia konkretny zestaw\n mierzalnych wskaźników powiązany z modelem biznesowym,\n opisuje jak będzie je mierzyć (tj. źródła danych, metoda, itp.)\n i w jakim horyzoncie czasowym\n INNOWACYJNOŚĆ (0-11 pkt)\n1. Innowacyjność\n 0 pkt: rozwiązanie nie jest innowacyjne, czyli podobne\n rozwiązania są powszechnie znane Oceniający 1: 1 pkt: rozwiązanie jest innowacyjne lokalnie\n 0-4 pkt Oceniający 2: 2-3 pkt: rozwiązanie jest innowacyjne ogólnopolsko/w skali\n Oceniający 3: branży\n 4 pkt: rozwiązanie jest innowacyjne globalnie w skali całego\n sektora gospodarki\n2. Potencjał rozwoju/rynkowy\n 0 pkt: Wnioskodawca nie posiada modelu biznesowego i\n określonej grupy docelowej rozwiązania\n 1 pkt: model biznesowy Wnioskodawcy jest możliwy do Oceniający 1:\n wdrożenia, startup określa grupę docelową rozwiązania 0-2 pkt Oceniający 2:\n 2 pkt: model biznesowy Wnioskodawcy Oceniający 3:\n został zwalidowany wśród grupy docelowej rozwiązania\n (walidacja została jasno\n i precyzyjnie opisana)\n3. Przewagi konkurencyjne Oceniający 1: 0-3 pkt Oceniający 2:"
+    },
+    {
+      "id": "M-02",
+      "nazwa": "Wskaźniki środowiskowe",
+      "rodzaj": "merytoryczne",
+      "etap": "II — merytoryczny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-018"
+      ],
+      "rozdzialy": [
+        "03-substantive-criteria"
+      ],
+      "skala": "0–4",
+      "minimum": null,
+      "grupa": "GOZ",
+      "aspekty": [
+        "Wskaźniki środowiskowe"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 2
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 2:\n1 pkt: TRL na poziomie 5-6\n 2 pkt: TRL na poziomie wyższym niż 6\n KRYTERIA MERYTORYCZNE\n GOSPODARKA OBIEGU ZAMKNIĘTEGO (0-8 PKT)\n1. Wpływ zgłaszanego rozwiązania\n na obszar GOZ:\n 0 pkt: brak realnego wpływu na GOZ (rozwiązanie nie odnosi\n się wprost do zasad GOZ, a potencjalny wpływ na środowisko\n jest marginalny, bez jasno opisanej zmiany w cyklu życia\n produktu/usługi Oceniający 1:\n 1-2 pkt: częściowy/pośredni wpływ na GOZ (rozwiązanie 0-4 pkt Oceniający 2: dotyka wybranych aspektów GOZ, ale w sposób pośredni, np. Oceniający 3: optymalizacja procesów, które może ograniczyć zużycie\n zasobów, ale nie jest to główny cel modelu biznesowego)\n 3-4 pkt: silny, bezpośredni wpływ na GOZ (rozwiązanie\n zaprojektowane wprost wokół zasad GOZ, Aplikujący pokazuje\n prosty proces „przed i po” – jaki element łańcucha wartości\n staje się bardziej cyrkularny dzięki rozwiązaniu)\n2. Planowane wskaźniki środowiskowe\n 0 pkt: brak zdefiniowanych wskaźników środowiskowych\n 1 pkt: Wnioskodawca wykazał wskaźniki środowiskowe, ale są\n one niepoliczalne\n 2 pkt: Wnioskodawca podaje 1-2 wskaźniki, ale brakuje Oceniający 1:\n wyraźnego powiązania z danymi i planu monitorowania 0-4 pkt Oceniający 2:\n w projekcie Oceniający 3:\n 3-4 pkt: Wnioskodawca przedstawia konkretny zestaw\n mierzalnych wskaźników powiązany z modelem biznesowym,\n opisuje jak będzie je mierzyć (tj. źródła danych, metoda, itp.)\n i w jakim horyzoncie czasowym\n INNOWACYJNOŚĆ (0-11 pkt)\n1. Innowacyjność\n 0 pkt: rozwiązanie nie jest innowacyjne, czyli podobne\n rozwiązania są powszechnie znane Oceniający 1: 1 pkt: rozwiązanie jest innowacyjne lokalnie\n 0-4 pkt Oceniający 2: 2-3 pkt: rozwiązanie jest innowacyjne ogólnopolsko/w skali\n Oceniający 3: branży\n 4 pkt: rozwiązanie jest innowacyjne globalnie w skali całego\n sektora gospodarki\n2. Potencjał rozwoju/rynkowy\n 0 pkt: Wnioskodawca nie posiada modelu biznesowego i\n określonej grupy docelowej rozwiązania\n 1 pkt: model biznesowy Wnioskodawcy jest możliwy do Oceniający 1:\n wdrożenia, startup określa grupę docelową rozwiązania 0-2 pkt Oceniający 2:\n 2 pkt: model biznesowy Wnioskodawcy Oceniający 3:\n został zwalidowany wśród grupy docelowej rozwiązania\n (walidacja została jasno\n i precyzyjnie opisana)\n3. Przewagi konkurencyjne Oceniający 1: 0-3 pkt Oceniający 2:"
+    },
+    {
+      "id": "M-03",
+      "nazwa": "Innowacyjność",
+      "rodzaj": "merytoryczne",
+      "etap": "II — merytoryczny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-019"
+      ],
+      "rozdzialy": [
+        "03-substantive-criteria"
+      ],
+      "skala": "0–4",
+      "minimum": null,
+      "grupa": "Innowacyjność",
+      "aspekty": [
+        "Innowacyjność"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 2
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 2:\n1 pkt: TRL na poziomie 5-6\n 2 pkt: TRL na poziomie wyższym niż 6\n KRYTERIA MERYTORYCZNE\n GOSPODARKA OBIEGU ZAMKNIĘTEGO (0-8 PKT)\n1. Wpływ zgłaszanego rozwiązania\n na obszar GOZ:\n 0 pkt: brak realnego wpływu na GOZ (rozwiązanie nie odnosi\n się wprost do zasad GOZ, a potencjalny wpływ na środowisko\n jest marginalny, bez jasno opisanej zmiany w cyklu życia\n produktu/usługi Oceniający 1:\n 1-2 pkt: częściowy/pośredni wpływ na GOZ (rozwiązanie 0-4 pkt Oceniający 2: dotyka wybranych aspektów GOZ, ale w sposób pośredni, np. Oceniający 3: optymalizacja procesów, które może ograniczyć zużycie\n zasobów, ale nie jest to główny cel modelu biznesowego)\n 3-4 pkt: silny, bezpośredni wpływ na GOZ (rozwiązanie\n zaprojektowane wprost wokół zasad GOZ, Aplikujący pokazuje\n prosty proces „przed i po” – jaki element łańcucha wartości\n staje się bardziej cyrkularny dzięki rozwiązaniu)\n2. Planowane wskaźniki środowiskowe\n 0 pkt: brak zdefiniowanych wskaźników środowiskowych\n 1 pkt: Wnioskodawca wykazał wskaźniki środowiskowe, ale są\n one niepoliczalne\n 2 pkt: Wnioskodawca podaje 1-2 wskaźniki, ale brakuje Oceniający 1:\n wyraźnego powiązania z danymi i planu monitorowania 0-4 pkt Oceniający 2:\n w projekcie Oceniający 3:\n 3-4 pkt: Wnioskodawca przedstawia konkretny zestaw\n mierzalnych wskaźników powiązany z modelem biznesowym,\n opisuje jak będzie je mierzyć (tj. źródła danych, metoda, itp.)\n i w jakim horyzoncie czasowym\n INNOWACYJNOŚĆ (0-11 pkt)\n1. Innowacyjność\n 0 pkt: rozwiązanie nie jest innowacyjne, czyli podobne\n rozwiązania są powszechnie znane Oceniający 1: 1 pkt: rozwiązanie jest innowacyjne lokalnie\n 0-4 pkt Oceniający 2: 2-3 pkt: rozwiązanie jest innowacyjne ogólnopolsko/w skali\n Oceniający 3: branży\n 4 pkt: rozwiązanie jest innowacyjne globalnie w skali całego\n sektora gospodarki\n2. Potencjał rozwoju/rynkowy\n 0 pkt: Wnioskodawca nie posiada modelu biznesowego i\n określonej grupy docelowej rozwiązania\n 1 pkt: model biznesowy Wnioskodawcy jest możliwy do Oceniający 1:\n wdrożenia, startup określa grupę docelową rozwiązania 0-2 pkt Oceniający 2:\n 2 pkt: model biznesowy Wnioskodawcy Oceniający 3:\n został zwalidowany wśród grupy docelowej rozwiązania\n (walidacja została jasno\n i precyzyjnie opisana)\n3. Przewagi konkurencyjne Oceniający 1: 0-3 pkt Oceniający 2:"
+    },
+    {
+      "id": "M-04",
+      "nazwa": "Potencjał rynkowy",
+      "rodzaj": "merytoryczne",
+      "etap": "II — merytoryczny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-020"
+      ],
+      "rozdzialy": [
+        "03-substantive-criteria"
+      ],
+      "skala": "0–2",
+      "minimum": null,
+      "grupa": "Innowacyjność",
+      "aspekty": [
+        "Potencjał rynkowy"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 2
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 2:\n1 pkt: TRL na poziomie 5-6\n 2 pkt: TRL na poziomie wyższym niż 6\n KRYTERIA MERYTORYCZNE\n GOSPODARKA OBIEGU ZAMKNIĘTEGO (0-8 PKT)\n1. Wpływ zgłaszanego rozwiązania\n na obszar GOZ:\n 0 pkt: brak realnego wpływu na GOZ (rozwiązanie nie odnosi\n się wprost do zasad GOZ, a potencjalny wpływ na środowisko\n jest marginalny, bez jasno opisanej zmiany w cyklu życia\n produktu/usługi Oceniający 1:\n 1-2 pkt: częściowy/pośredni wpływ na GOZ (rozwiązanie 0-4 pkt Oceniający 2: dotyka wybranych aspektów GOZ, ale w sposób pośredni, np. Oceniający 3: optymalizacja procesów, które może ograniczyć zużycie\n zasobów, ale nie jest to główny cel modelu biznesowego)\n 3-4 pkt: silny, bezpośredni wpływ na GOZ (rozwiązanie\n zaprojektowane wprost wokół zasad GOZ, Aplikujący pokazuje\n prosty proces „przed i po” – jaki element łańcucha wartości\n staje się bardziej cyrkularny dzięki rozwiązaniu)\n2. Planowane wskaźniki środowiskowe\n 0 pkt: brak zdefiniowanych wskaźników środowiskowych\n 1 pkt: Wnioskodawca wykazał wskaźniki środowiskowe, ale są\n one niepoliczalne\n 2 pkt: Wnioskodawca podaje 1-2 wskaźniki, ale brakuje Oceniający 1:\n wyraźnego powiązania z danymi i planu monitorowania 0-4 pkt Oceniający 2:\n w projekcie Oceniający 3:\n 3-4 pkt: Wnioskodawca przedstawia konkretny zestaw\n mierzalnych wskaźników powiązany z modelem biznesowym,\n opisuje jak będzie je mierzyć (tj. źródła danych, metoda, itp.)\n i w jakim horyzoncie czasowym\n INNOWACYJNOŚĆ (0-11 pkt)\n1. Innowacyjność\n 0 pkt: rozwiązanie nie jest innowacyjne, czyli podobne\n rozwiązania są powszechnie znane Oceniający 1: 1 pkt: rozwiązanie jest innowacyjne lokalnie\n 0-4 pkt Oceniający 2: 2-3 pkt: rozwiązanie jest innowacyjne ogólnopolsko/w skali\n Oceniający 3: branży\n 4 pkt: rozwiązanie jest innowacyjne globalnie w skali całego\n sektora gospodarki\n2. Potencjał rozwoju/rynkowy\n 0 pkt: Wnioskodawca nie posiada modelu biznesowego i\n określonej grupy docelowej rozwiązania\n 1 pkt: model biznesowy Wnioskodawcy jest możliwy do Oceniający 1:\n wdrożenia, startup określa grupę docelową rozwiązania 0-2 pkt Oceniający 2:\n 2 pkt: model biznesowy Wnioskodawcy Oceniający 3:\n został zwalidowany wśród grupy docelowej rozwiązania\n (walidacja została jasno\n i precyzyjnie opisana)\n3. Przewagi konkurencyjne Oceniający 1: 0-3 pkt Oceniający 2:"
+    },
+    {
+      "id": "M-05",
+      "nazwa": "Przewagi konkurencyjne",
+      "rodzaj": "merytoryczne",
+      "etap": "II — merytoryczny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-021"
+      ],
+      "rozdzialy": [
+        "03-substantive-criteria"
+      ],
+      "skala": "0–3",
+      "minimum": null,
+      "grupa": "Innowacyjność",
+      "aspekty": [
+        "Przewagi konkurencyjne"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 2
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 3
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 2:\n1 pkt: TRL na poziomie 5-6\n 2 pkt: TRL na poziomie wyższym niż 6\n KRYTERIA MERYTORYCZNE\n GOSPODARKA OBIEGU ZAMKNIĘTEGO (0-8 PKT)\n1. Wpływ zgłaszanego rozwiązania\n na obszar GOZ:\n 0 pkt: brak realnego wpływu na GOZ (rozwiązanie nie odnosi\n się wprost do zasad GOZ, a potencjalny wpływ na środowisko\n jest marginalny, bez jasno opisanej zmiany w cyklu życia\n produktu/usługi Oceniający 1:\n 1-2 pkt: częściowy/pośredni wpływ na GOZ (rozwiązanie 0-4 pkt Oceniający 2: dotyka wybranych aspektów GOZ, ale w sposób pośredni, np. Oceniający 3: optymalizacja procesów, które może ograniczyć zużycie\n zasobów, ale nie jest to główny cel modelu biznesowego)\n 3-4 pkt: silny, bezpośredni wpływ na GOZ (rozwiązanie\n zaprojektowane wprost wokół zasad GOZ, Aplikujący pokazuje\n prosty proces „przed i po” – jaki element łańcucha wartości\n staje się bardziej cyrkularny dzięki rozwiązaniu)\n2. Planowane wskaźniki środowiskowe\n 0 pkt: brak zdefiniowanych wskaźników środowiskowych\n 1 pkt: Wnioskodawca wykazał wskaźniki środowiskowe, ale są\n one niepoliczalne\n 2 pkt: Wnioskodawca podaje 1-2 wskaźniki, ale brakuje Oceniający 1:\n wyraźnego powiązania z danymi i planu monitorowania 0-4 pkt Oceniający 2:\n w projekcie Oceniający 3:\n 3-4 pkt: Wnioskodawca przedstawia konkretny zestaw\n mierzalnych wskaźników powiązany z modelem biznesowym,\n opisuje jak będzie je mierzyć (tj. źródła danych, metoda, itp.)\n i w jakim horyzoncie czasowym\n INNOWACYJNOŚĆ (0-11 pkt)\n1. Innowacyjność\n 0 pkt: rozwiązanie nie jest innowacyjne, czyli podobne\n rozwiązania są powszechnie znane Oceniający 1: 1 pkt: rozwiązanie jest innowacyjne lokalnie\n 0-4 pkt Oceniający 2: 2-3 pkt: rozwiązanie jest innowacyjne ogólnopolsko/w skali\n Oceniający 3: branży\n 4 pkt: rozwiązanie jest innowacyjne globalnie w skali całego\n sektora gospodarki\n2. Potencjał rozwoju/rynkowy\n 0 pkt: Wnioskodawca nie posiada modelu biznesowego i\n określonej grupy docelowej rozwiązania\n 1 pkt: model biznesowy Wnioskodawcy jest możliwy do Oceniający 1:\n wdrożenia, startup określa grupę docelową rozwiązania 0-2 pkt Oceniający 2:\n 2 pkt: model biznesowy Wnioskodawcy Oceniający 3:\n został zwalidowany wśród grupy docelowej rozwiązania\n (walidacja została jasno\n i precyzyjnie opisana)\n3. Przewagi konkurencyjne Oceniający 1: 0-3 pkt Oceniający 2:\n\nStrona 3:\n0 pkt: konkurencyjność na poziomie rozwiązań już Oceniający 3:\n stosowanych/ współpracujących z Odbiorcami Technologii\n 1-2 pkt: konkurencyjność na poziomie rozwiązań dla danej\n branży\n 3 pkt: konkurencyjność na globalnym poziomie dla całego\n sektora gospodarki\n4. Podmioty konkurencyjne\n 0 pkt: Wnioskodawca nie zdiagnozował konkurencji Oceniający 1: 1 pkt: Wnioskodawca zdiagnozował konkurencję na poziomie\n 0-2 pkt Oceniający 2: krajowym\n Oceniający 3: 2 pkt: Wnioskodawca zdiagnozował konkurencję na poziomie\n globalnym\n ZESPÓŁ I ZASOBY (0-4 pkt)\n Zespół\n 0 pkt: Wnioskodawca nie posiada wystarczającego\n i merytorycznego zespołu do stworzenia finalnego produktu\n 1 pkt: Wnioskodawca posiada niezbędny zespół do\n Oceniający 1: stworzenia finalnego produktu\n 0-2 pkt Oceniający 2: 2 pkt: Wnioskodawca posiada niezbędny zespół do\n Oceniający 3: stworzenia finalnego produktu i skalowania go\n\n Zespół jest oceniany na podstawie imiennego wskazania członków\n zespołu, ich doświadczenia, wdrożeń\n w obszarze GOZ.\n Zasoby\n 0 pkt: Wnioskodawca nie wskazał dodatkowych zasobów\n (technicznych, merytorycznych, technologicznych) do realizacji\n projektu Oceniający 1: 1 pkt: Wnioskodawca wskazał dodatkowe zasoby, które mogą\n 0-2 pkt Oceniający 2: w sposób umiarkowany przyczynić się do efektywnej realizacji\n Oceniający 3: projektu\n 2 pkt: Wnioskodawca wskazał dodatkowe zasoby, które mogą\n w sposób kluczowy przyczynić się do efektywnej realizacji\n projektu.\n WSPÓŁPRACA Z ODBIORCĄ TECHNOLOGII (0-8 pkt)\n Doświadczenie we współpracy z biznesem\n 0 pkt: startup nie ma doświadczenia\n w komercjalizacji rozwiązań i współpracy z Odbiorcami\n Technologii\n 1 pkt: startup ma małe doświadczenie w komercjalizacji\n rozwiązań i współpracy z Odbiorcami Oceniający 1:\n Technologii (jedno udokumentowane wdrożenie) 0-3 pkt Oceniający 2: 2 pkt: startup ma umiarkowane doświadczenie Oceniający 3: w komercjalizacji rozwiązań i współpracy\n z Odbiorcami Technologii (dwa udokumentowane wdrożenia)\n 3 pkt: startup ma duże doświadczenie w komercjalizacji\n rozwiązań i współpracy z Odbiorcami Technologii (co najmniej\n trzy udokumentowane wdrożenia)"
+    },
+    {
+      "id": "M-06",
+      "nazwa": "Podmioty konkurencyjne",
+      "rodzaj": "merytoryczne",
+      "etap": "II — merytoryczny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-022"
+      ],
+      "rozdzialy": [
+        "03-substantive-criteria"
+      ],
+      "skala": "0–2",
+      "minimum": null,
+      "grupa": "Innowacyjność",
+      "aspekty": [
+        "Podmioty konkurencyjne"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 3
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 3:\n0 pkt: konkurencyjność na poziomie rozwiązań już Oceniający 3:\n stosowanych/ współpracujących z Odbiorcami Technologii\n 1-2 pkt: konkurencyjność na poziomie rozwiązań dla danej\n branży\n 3 pkt: konkurencyjność na globalnym poziomie dla całego\n sektora gospodarki\n4. Podmioty konkurencyjne\n 0 pkt: Wnioskodawca nie zdiagnozował konkurencji Oceniający 1: 1 pkt: Wnioskodawca zdiagnozował konkurencję na poziomie\n 0-2 pkt Oceniający 2: krajowym\n Oceniający 3: 2 pkt: Wnioskodawca zdiagnozował konkurencję na poziomie\n globalnym\n ZESPÓŁ I ZASOBY (0-4 pkt)\n Zespół\n 0 pkt: Wnioskodawca nie posiada wystarczającego\n i merytorycznego zespołu do stworzenia finalnego produktu\n 1 pkt: Wnioskodawca posiada niezbędny zespół do\n Oceniający 1: stworzenia finalnego produktu\n 0-2 pkt Oceniający 2: 2 pkt: Wnioskodawca posiada niezbędny zespół do\n Oceniający 3: stworzenia finalnego produktu i skalowania go\n\n Zespół jest oceniany na podstawie imiennego wskazania członków\n zespołu, ich doświadczenia, wdrożeń\n w obszarze GOZ.\n Zasoby\n 0 pkt: Wnioskodawca nie wskazał dodatkowych zasobów\n (technicznych, merytorycznych, technologicznych) do realizacji\n projektu Oceniający 1: 1 pkt: Wnioskodawca wskazał dodatkowe zasoby, które mogą\n 0-2 pkt Oceniający 2: w sposób umiarkowany przyczynić się do efektywnej realizacji\n Oceniający 3: projektu\n 2 pkt: Wnioskodawca wskazał dodatkowe zasoby, które mogą\n w sposób kluczowy przyczynić się do efektywnej realizacji\n projektu.\n WSPÓŁPRACA Z ODBIORCĄ TECHNOLOGII (0-8 pkt)\n Doświadczenie we współpracy z biznesem\n 0 pkt: startup nie ma doświadczenia\n w komercjalizacji rozwiązań i współpracy z Odbiorcami\n Technologii\n 1 pkt: startup ma małe doświadczenie w komercjalizacji\n rozwiązań i współpracy z Odbiorcami Oceniający 1:\n Technologii (jedno udokumentowane wdrożenie) 0-3 pkt Oceniający 2: 2 pkt: startup ma umiarkowane doświadczenie Oceniający 3: w komercjalizacji rozwiązań i współpracy\n z Odbiorcami Technologii (dwa udokumentowane wdrożenia)\n 3 pkt: startup ma duże doświadczenie w komercjalizacji\n rozwiązań i współpracy z Odbiorcami Technologii (co najmniej\n trzy udokumentowane wdrożenia)"
+    },
+    {
+      "id": "M-07",
+      "nazwa": "Zespół",
+      "rodzaj": "merytoryczne",
+      "etap": "II — merytoryczny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-023"
+      ],
+      "rozdzialy": [
+        "03-substantive-criteria"
+      ],
+      "skala": "0–2",
+      "minimum": null,
+      "grupa": "Zespół i zasoby",
+      "aspekty": [
+        "Zespół"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 3
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 3:\n0 pkt: konkurencyjność na poziomie rozwiązań już Oceniający 3:\n stosowanych/ współpracujących z Odbiorcami Technologii\n 1-2 pkt: konkurencyjność na poziomie rozwiązań dla danej\n branży\n 3 pkt: konkurencyjność na globalnym poziomie dla całego\n sektora gospodarki\n4. Podmioty konkurencyjne\n 0 pkt: Wnioskodawca nie zdiagnozował konkurencji Oceniający 1: 1 pkt: Wnioskodawca zdiagnozował konkurencję na poziomie\n 0-2 pkt Oceniający 2: krajowym\n Oceniający 3: 2 pkt: Wnioskodawca zdiagnozował konkurencję na poziomie\n globalnym\n ZESPÓŁ I ZASOBY (0-4 pkt)\n Zespół\n 0 pkt: Wnioskodawca nie posiada wystarczającego\n i merytorycznego zespołu do stworzenia finalnego produktu\n 1 pkt: Wnioskodawca posiada niezbędny zespół do\n Oceniający 1: stworzenia finalnego produktu\n 0-2 pkt Oceniający 2: 2 pkt: Wnioskodawca posiada niezbędny zespół do\n Oceniający 3: stworzenia finalnego produktu i skalowania go\n\n Zespół jest oceniany na podstawie imiennego wskazania członków\n zespołu, ich doświadczenia, wdrożeń\n w obszarze GOZ.\n Zasoby\n 0 pkt: Wnioskodawca nie wskazał dodatkowych zasobów\n (technicznych, merytorycznych, technologicznych) do realizacji\n projektu Oceniający 1: 1 pkt: Wnioskodawca wskazał dodatkowe zasoby, które mogą\n 0-2 pkt Oceniający 2: w sposób umiarkowany przyczynić się do efektywnej realizacji\n Oceniający 3: projektu\n 2 pkt: Wnioskodawca wskazał dodatkowe zasoby, które mogą\n w sposób kluczowy przyczynić się do efektywnej realizacji\n projektu.\n WSPÓŁPRACA Z ODBIORCĄ TECHNOLOGII (0-8 pkt)\n Doświadczenie we współpracy z biznesem\n 0 pkt: startup nie ma doświadczenia\n w komercjalizacji rozwiązań i współpracy z Odbiorcami\n Technologii\n 1 pkt: startup ma małe doświadczenie w komercjalizacji\n rozwiązań i współpracy z Odbiorcami Oceniający 1:\n Technologii (jedno udokumentowane wdrożenie) 0-3 pkt Oceniający 2: 2 pkt: startup ma umiarkowane doświadczenie Oceniający 3: w komercjalizacji rozwiązań i współpracy\n z Odbiorcami Technologii (dwa udokumentowane wdrożenia)\n 3 pkt: startup ma duże doświadczenie w komercjalizacji\n rozwiązań i współpracy z Odbiorcami Technologii (co najmniej\n trzy udokumentowane wdrożenia)"
+    },
+    {
+      "id": "M-08",
+      "nazwa": "Zasoby",
+      "rodzaj": "merytoryczne",
+      "etap": "II — merytoryczny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-023"
+      ],
+      "rozdzialy": [
+        "03-substantive-criteria"
+      ],
+      "skala": "0–2",
+      "minimum": null,
+      "grupa": "Zespół i zasoby",
+      "aspekty": [
+        "Zasoby"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 3
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 3:\n0 pkt: konkurencyjność na poziomie rozwiązań już Oceniający 3:\n stosowanych/ współpracujących z Odbiorcami Technologii\n 1-2 pkt: konkurencyjność na poziomie rozwiązań dla danej\n branży\n 3 pkt: konkurencyjność na globalnym poziomie dla całego\n sektora gospodarki\n4. Podmioty konkurencyjne\n 0 pkt: Wnioskodawca nie zdiagnozował konkurencji Oceniający 1: 1 pkt: Wnioskodawca zdiagnozował konkurencję na poziomie\n 0-2 pkt Oceniający 2: krajowym\n Oceniający 3: 2 pkt: Wnioskodawca zdiagnozował konkurencję na poziomie\n globalnym\n ZESPÓŁ I ZASOBY (0-4 pkt)\n Zespół\n 0 pkt: Wnioskodawca nie posiada wystarczającego\n i merytorycznego zespołu do stworzenia finalnego produktu\n 1 pkt: Wnioskodawca posiada niezbędny zespół do\n Oceniający 1: stworzenia finalnego produktu\n 0-2 pkt Oceniający 2: 2 pkt: Wnioskodawca posiada niezbędny zespół do\n Oceniający 3: stworzenia finalnego produktu i skalowania go\n\n Zespół jest oceniany na podstawie imiennego wskazania członków\n zespołu, ich doświadczenia, wdrożeń\n w obszarze GOZ.\n Zasoby\n 0 pkt: Wnioskodawca nie wskazał dodatkowych zasobów\n (technicznych, merytorycznych, technologicznych) do realizacji\n projektu Oceniający 1: 1 pkt: Wnioskodawca wskazał dodatkowe zasoby, które mogą\n 0-2 pkt Oceniający 2: w sposób umiarkowany przyczynić się do efektywnej realizacji\n Oceniający 3: projektu\n 2 pkt: Wnioskodawca wskazał dodatkowe zasoby, które mogą\n w sposób kluczowy przyczynić się do efektywnej realizacji\n projektu.\n WSPÓŁPRACA Z ODBIORCĄ TECHNOLOGII (0-8 pkt)\n Doświadczenie we współpracy z biznesem\n 0 pkt: startup nie ma doświadczenia\n w komercjalizacji rozwiązań i współpracy z Odbiorcami\n Technologii\n 1 pkt: startup ma małe doświadczenie w komercjalizacji\n rozwiązań i współpracy z Odbiorcami Oceniający 1:\n Technologii (jedno udokumentowane wdrożenie) 0-3 pkt Oceniający 2: 2 pkt: startup ma umiarkowane doświadczenie Oceniający 3: w komercjalizacji rozwiązań i współpracy\n z Odbiorcami Technologii (dwa udokumentowane wdrożenia)\n 3 pkt: startup ma duże doświadczenie w komercjalizacji\n rozwiązań i współpracy z Odbiorcami Technologii (co najmniej\n trzy udokumentowane wdrożenia)"
+    },
+    {
+      "id": "M-09",
+      "nazwa": "Wdrożenia i doświadczenie z biznesem",
+      "rodzaj": "merytoryczne",
+      "etap": "II — merytoryczny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-024"
+      ],
+      "rozdzialy": [
+        "03-substantive-criteria"
+      ],
+      "skala": "0–3",
+      "minimum": null,
+      "grupa": "Współpraca z OT",
+      "aspekty": [
+        "Wdrożenia i doświadczenie z biznesem"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 3
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 4
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 3:\n0 pkt: konkurencyjność na poziomie rozwiązań już Oceniający 3:\n stosowanych/ współpracujących z Odbiorcami Technologii\n 1-2 pkt: konkurencyjność na poziomie rozwiązań dla danej\n branży\n 3 pkt: konkurencyjność na globalnym poziomie dla całego\n sektora gospodarki\n4. Podmioty konkurencyjne\n 0 pkt: Wnioskodawca nie zdiagnozował konkurencji Oceniający 1: 1 pkt: Wnioskodawca zdiagnozował konkurencję na poziomie\n 0-2 pkt Oceniający 2: krajowym\n Oceniający 3: 2 pkt: Wnioskodawca zdiagnozował konkurencję na poziomie\n globalnym\n ZESPÓŁ I ZASOBY (0-4 pkt)\n Zespół\n 0 pkt: Wnioskodawca nie posiada wystarczającego\n i merytorycznego zespołu do stworzenia finalnego produktu\n 1 pkt: Wnioskodawca posiada niezbędny zespół do\n Oceniający 1: stworzenia finalnego produktu\n 0-2 pkt Oceniający 2: 2 pkt: Wnioskodawca posiada niezbędny zespół do\n Oceniający 3: stworzenia finalnego produktu i skalowania go\n\n Zespół jest oceniany na podstawie imiennego wskazania członków\n zespołu, ich doświadczenia, wdrożeń\n w obszarze GOZ.\n Zasoby\n 0 pkt: Wnioskodawca nie wskazał dodatkowych zasobów\n (technicznych, merytorycznych, technologicznych) do realizacji\n projektu Oceniający 1: 1 pkt: Wnioskodawca wskazał dodatkowe zasoby, które mogą\n 0-2 pkt Oceniający 2: w sposób umiarkowany przyczynić się do efektywnej realizacji\n Oceniający 3: projektu\n 2 pkt: Wnioskodawca wskazał dodatkowe zasoby, które mogą\n w sposób kluczowy przyczynić się do efektywnej realizacji\n projektu.\n WSPÓŁPRACA Z ODBIORCĄ TECHNOLOGII (0-8 pkt)\n Doświadczenie we współpracy z biznesem\n 0 pkt: startup nie ma doświadczenia\n w komercjalizacji rozwiązań i współpracy z Odbiorcami\n Technologii\n 1 pkt: startup ma małe doświadczenie w komercjalizacji\n rozwiązań i współpracy z Odbiorcami Oceniający 1:\n Technologii (jedno udokumentowane wdrożenie) 0-3 pkt Oceniający 2: 2 pkt: startup ma umiarkowane doświadczenie Oceniający 3: w komercjalizacji rozwiązań i współpracy\n z Odbiorcami Technologii (dwa udokumentowane wdrożenia)\n 3 pkt: startup ma duże doświadczenie w komercjalizacji\n rozwiązań i współpracy z Odbiorcami Technologii (co najmniej\n trzy udokumentowane wdrożenia)\n\nStrona 4:\nUdokumentowanie wdrożeń oceniane będzie na podstawie opisu\n wdrożenia oraz referencji / pisemnej rekomendacji od Odbiorców\n Technologii / klientów.\n Dopasowanie do potrzeb Odbiorcy Technologii\n 0 pkt: rozwiązanie wpisuje się w obszary zdefiniowane\n przez Odbiorców Technologii w stopniu minimalnym Oceniający 1:\n 1 pkt: rozwiązanie wpisuje się w obszary zdefiniowanie przez 0-3 pkt Oceniający 2:\n Odbiorców Technologii w stopniu umiarkowanym Oceniający 3:\n 2-3 pkt: rozwiązanie wpisuje się w obszary zdefiniowane przez\n Odbiorców Technologii w stopniu wysokim\n Gotowość do współpracy z wybranym Odbiorcą\n Technologii\n 0 pkt: niskie prawdopodobieństwo przeprowadzenia testów we\n współpracy z Odbiorcą Technologii oraz niska znajomość\n Oceniający 1: branży OT\n 0-2 pkt Oceniający 2: 1 pkt: umiarkowane prawdopodobieństwo przeprowadzenia\n Oceniający 3: testów we współpracy z Odbiorcą Technologii, umiarkowana\n znajomość branży\n 2 pkt: duże prawdopodobieństwo przeprowadzenia testów we\n współpracy z Odbiorcą Technologii, dobra znajomość branży\n INNE (0-4 pkt)\n Działania mające na celu upowszechniane wiedzy na\n temat gospodarki obiegu zamkniętego wśród dużych\n przedsiębiorstw we współpracy\n z Akceleratorem\n 0 pkt: Aplikujący nie przedstawił kompletnych działań,\n Oceniający 1: a ich wartość dla Programu jest minimalna\n 0-3 pkt Oceniający 2: 1 pkt: Aplikujący przedstawił działania z zakresu\n Oceniający 3: upowszechniania wiedzy na temat GOZ, ich wartość dla\n Programu jest dobra\n 2-3 pkt: Aplikujący przedstawił kompleksowe działania\n z zakresu upowszechniania wiedzy na temat GOZ, ich\n tematyka i wartość dla Programu są unikatowe\n Oceniający 1:\n Startup istnieje na rynku nie dłużej niż 3 lata przed momentem 0-1 pkt Oceniający 2: złożenia aplikacji\n Oceniający 3:\n Oceniający 1:\n Oceniający 2:\n SUMA PUNKTÓW Z KRYTERIÓW MERYTORYCZNYCH 0-35 pkt Oceniający 3:\n\n ŚREDNIA:\nUwagi:\n\n\n\n\n\n ETAP III: ROZMOWA REKRUTACYJNA (0-16 pkt)"
+    },
+    {
+      "id": "M-10",
+      "nazwa": "Dopasowanie do potrzeb OT",
+      "rodzaj": "merytoryczne",
+      "etap": "II — merytoryczny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-025"
+      ],
+      "rozdzialy": [
+        "03-substantive-criteria"
+      ],
+      "skala": "0–3",
+      "minimum": null,
+      "grupa": "Współpraca z OT",
+      "aspekty": [
+        "Dopasowanie do potrzeb OT"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 4
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 4:\nUdokumentowanie wdrożeń oceniane będzie na podstawie opisu\n wdrożenia oraz referencji / pisemnej rekomendacji od Odbiorców\n Technologii / klientów.\n Dopasowanie do potrzeb Odbiorcy Technologii\n 0 pkt: rozwiązanie wpisuje się w obszary zdefiniowane\n przez Odbiorców Technologii w stopniu minimalnym Oceniający 1:\n 1 pkt: rozwiązanie wpisuje się w obszary zdefiniowanie przez 0-3 pkt Oceniający 2:\n Odbiorców Technologii w stopniu umiarkowanym Oceniający 3:\n 2-3 pkt: rozwiązanie wpisuje się w obszary zdefiniowane przez\n Odbiorców Technologii w stopniu wysokim\n Gotowość do współpracy z wybranym Odbiorcą\n Technologii\n 0 pkt: niskie prawdopodobieństwo przeprowadzenia testów we\n współpracy z Odbiorcą Technologii oraz niska znajomość\n Oceniający 1: branży OT\n 0-2 pkt Oceniający 2: 1 pkt: umiarkowane prawdopodobieństwo przeprowadzenia\n Oceniający 3: testów we współpracy z Odbiorcą Technologii, umiarkowana\n znajomość branży\n 2 pkt: duże prawdopodobieństwo przeprowadzenia testów we\n współpracy z Odbiorcą Technologii, dobra znajomość branży\n INNE (0-4 pkt)\n Działania mające na celu upowszechniane wiedzy na\n temat gospodarki obiegu zamkniętego wśród dużych\n przedsiębiorstw we współpracy\n z Akceleratorem\n 0 pkt: Aplikujący nie przedstawił kompletnych działań,\n Oceniający 1: a ich wartość dla Programu jest minimalna\n 0-3 pkt Oceniający 2: 1 pkt: Aplikujący przedstawił działania z zakresu\n Oceniający 3: upowszechniania wiedzy na temat GOZ, ich wartość dla\n Programu jest dobra\n 2-3 pkt: Aplikujący przedstawił kompleksowe działania\n z zakresu upowszechniania wiedzy na temat GOZ, ich\n tematyka i wartość dla Programu są unikatowe\n Oceniający 1:\n Startup istnieje na rynku nie dłużej niż 3 lata przed momentem 0-1 pkt Oceniający 2: złożenia aplikacji\n Oceniający 3:\n Oceniający 1:\n Oceniający 2:\n SUMA PUNKTÓW Z KRYTERIÓW MERYTORYCZNYCH 0-35 pkt Oceniający 3:\n\n ŚREDNIA:\nUwagi:\n\n\n\n\n\n ETAP III: ROZMOWA REKRUTACYJNA (0-16 pkt)"
+    },
+    {
+      "id": "M-11",
+      "nazwa": "Gotowość do współpracy z OT",
+      "rodzaj": "merytoryczne",
+      "etap": "II — merytoryczny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-026"
+      ],
+      "rozdzialy": [
+        "03-substantive-criteria"
+      ],
+      "skala": "0–2",
+      "minimum": null,
+      "grupa": "Współpraca z OT",
+      "aspekty": [
+        "Gotowość do współpracy z OT"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 4
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 4:\nUdokumentowanie wdrożeń oceniane będzie na podstawie opisu\n wdrożenia oraz referencji / pisemnej rekomendacji od Odbiorców\n Technologii / klientów.\n Dopasowanie do potrzeb Odbiorcy Technologii\n 0 pkt: rozwiązanie wpisuje się w obszary zdefiniowane\n przez Odbiorców Technologii w stopniu minimalnym Oceniający 1:\n 1 pkt: rozwiązanie wpisuje się w obszary zdefiniowanie przez 0-3 pkt Oceniający 2:\n Odbiorców Technologii w stopniu umiarkowanym Oceniający 3:\n 2-3 pkt: rozwiązanie wpisuje się w obszary zdefiniowane przez\n Odbiorców Technologii w stopniu wysokim\n Gotowość do współpracy z wybranym Odbiorcą\n Technologii\n 0 pkt: niskie prawdopodobieństwo przeprowadzenia testów we\n współpracy z Odbiorcą Technologii oraz niska znajomość\n Oceniający 1: branży OT\n 0-2 pkt Oceniający 2: 1 pkt: umiarkowane prawdopodobieństwo przeprowadzenia\n Oceniający 3: testów we współpracy z Odbiorcą Technologii, umiarkowana\n znajomość branży\n 2 pkt: duże prawdopodobieństwo przeprowadzenia testów we\n współpracy z Odbiorcą Technologii, dobra znajomość branży\n INNE (0-4 pkt)\n Działania mające na celu upowszechniane wiedzy na\n temat gospodarki obiegu zamkniętego wśród dużych\n przedsiębiorstw we współpracy\n z Akceleratorem\n 0 pkt: Aplikujący nie przedstawił kompletnych działań,\n Oceniający 1: a ich wartość dla Programu jest minimalna\n 0-3 pkt Oceniający 2: 1 pkt: Aplikujący przedstawił działania z zakresu\n Oceniający 3: upowszechniania wiedzy na temat GOZ, ich wartość dla\n Programu jest dobra\n 2-3 pkt: Aplikujący przedstawił kompleksowe działania\n z zakresu upowszechniania wiedzy na temat GOZ, ich\n tematyka i wartość dla Programu są unikatowe\n Oceniający 1:\n Startup istnieje na rynku nie dłużej niż 3 lata przed momentem 0-1 pkt Oceniający 2: złożenia aplikacji\n Oceniający 3:\n Oceniający 1:\n Oceniający 2:\n SUMA PUNKTÓW Z KRYTERIÓW MERYTORYCZNYCH 0-35 pkt Oceniający 3:\n\n ŚREDNIA:\nUwagi:\n\n\n\n\n\n ETAP III: ROZMOWA REKRUTACYJNA (0-16 pkt)"
+    },
+    {
+      "id": "M-12",
+      "nazwa": "Upowszechnianie wiedzy o GOZ",
+      "rodzaj": "merytoryczne",
+      "etap": "II — merytoryczny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-027"
+      ],
+      "rozdzialy": [
+        "03-substantive-criteria"
+      ],
+      "skala": "0–3",
+      "minimum": null,
+      "grupa": "Inne",
+      "aspekty": [
+        "Upowszechnianie wiedzy o GOZ"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 4
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 4:\nUdokumentowanie wdrożeń oceniane będzie na podstawie opisu\n wdrożenia oraz referencji / pisemnej rekomendacji od Odbiorców\n Technologii / klientów.\n Dopasowanie do potrzeb Odbiorcy Technologii\n 0 pkt: rozwiązanie wpisuje się w obszary zdefiniowane\n przez Odbiorców Technologii w stopniu minimalnym Oceniający 1:\n 1 pkt: rozwiązanie wpisuje się w obszary zdefiniowanie przez 0-3 pkt Oceniający 2:\n Odbiorców Technologii w stopniu umiarkowanym Oceniający 3:\n 2-3 pkt: rozwiązanie wpisuje się w obszary zdefiniowane przez\n Odbiorców Technologii w stopniu wysokim\n Gotowość do współpracy z wybranym Odbiorcą\n Technologii\n 0 pkt: niskie prawdopodobieństwo przeprowadzenia testów we\n współpracy z Odbiorcą Technologii oraz niska znajomość\n Oceniający 1: branży OT\n 0-2 pkt Oceniający 2: 1 pkt: umiarkowane prawdopodobieństwo przeprowadzenia\n Oceniający 3: testów we współpracy z Odbiorcą Technologii, umiarkowana\n znajomość branży\n 2 pkt: duże prawdopodobieństwo przeprowadzenia testów we\n współpracy z Odbiorcą Technologii, dobra znajomość branży\n INNE (0-4 pkt)\n Działania mające na celu upowszechniane wiedzy na\n temat gospodarki obiegu zamkniętego wśród dużych\n przedsiębiorstw we współpracy\n z Akceleratorem\n 0 pkt: Aplikujący nie przedstawił kompletnych działań,\n Oceniający 1: a ich wartość dla Programu jest minimalna\n 0-3 pkt Oceniający 2: 1 pkt: Aplikujący przedstawił działania z zakresu\n Oceniający 3: upowszechniania wiedzy na temat GOZ, ich wartość dla\n Programu jest dobra\n 2-3 pkt: Aplikujący przedstawił kompleksowe działania\n z zakresu upowszechniania wiedzy na temat GOZ, ich\n tematyka i wartość dla Programu są unikatowe\n Oceniający 1:\n Startup istnieje na rynku nie dłużej niż 3 lata przed momentem 0-1 pkt Oceniający 2: złożenia aplikacji\n Oceniający 3:\n Oceniający 1:\n Oceniający 2:\n SUMA PUNKTÓW Z KRYTERIÓW MERYTORYCZNYCH 0-35 pkt Oceniający 3:\n\n ŚREDNIA:\nUwagi:\n\n\n\n\n\n ETAP III: ROZMOWA REKRUTACYJNA (0-16 pkt)"
+    },
+    {
+      "id": "M-13",
+      "nazwa": "Startup istnieje nie dłużej niż 3 lata",
+      "rodzaj": "merytoryczne",
+      "etap": "II — merytoryczny",
+      "klasyfikacja": "ze źródła",
+      "pola": [
+        "Q-005"
+      ],
+      "rozdzialy": [
+        "01-information"
+      ],
+      "skala": "0–1",
+      "minimum": null,
+      "grupa": "Inne",
+      "aspekty": [
+        "Startup istnieje nie dłużej niż 3 lata"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 4
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 4:\nUdokumentowanie wdrożeń oceniane będzie na podstawie opisu\n wdrożenia oraz referencji / pisemnej rekomendacji od Odbiorców\n Technologii / klientów.\n Dopasowanie do potrzeb Odbiorcy Technologii\n 0 pkt: rozwiązanie wpisuje się w obszary zdefiniowane\n przez Odbiorców Technologii w stopniu minimalnym Oceniający 1:\n 1 pkt: rozwiązanie wpisuje się w obszary zdefiniowanie przez 0-3 pkt Oceniający 2:\n Odbiorców Technologii w stopniu umiarkowanym Oceniający 3:\n 2-3 pkt: rozwiązanie wpisuje się w obszary zdefiniowane przez\n Odbiorców Technologii w stopniu wysokim\n Gotowość do współpracy z wybranym Odbiorcą\n Technologii\n 0 pkt: niskie prawdopodobieństwo przeprowadzenia testów we\n współpracy z Odbiorcą Technologii oraz niska znajomość\n Oceniający 1: branży OT\n 0-2 pkt Oceniający 2: 1 pkt: umiarkowane prawdopodobieństwo przeprowadzenia\n Oceniający 3: testów we współpracy z Odbiorcą Technologii, umiarkowana\n znajomość branży\n 2 pkt: duże prawdopodobieństwo przeprowadzenia testów we\n współpracy z Odbiorcą Technologii, dobra znajomość branży\n INNE (0-4 pkt)\n Działania mające na celu upowszechniane wiedzy na\n temat gospodarki obiegu zamkniętego wśród dużych\n przedsiębiorstw we współpracy\n z Akceleratorem\n 0 pkt: Aplikujący nie przedstawił kompletnych działań,\n Oceniający 1: a ich wartość dla Programu jest minimalna\n 0-3 pkt Oceniający 2: 1 pkt: Aplikujący przedstawił działania z zakresu\n Oceniający 3: upowszechniania wiedzy na temat GOZ, ich wartość dla\n Programu jest dobra\n 2-3 pkt: Aplikujący przedstawił kompleksowe działania\n z zakresu upowszechniania wiedzy na temat GOZ, ich\n tematyka i wartość dla Programu są unikatowe\n Oceniający 1:\n Startup istnieje na rynku nie dłużej niż 3 lata przed momentem 0-1 pkt Oceniający 2: złożenia aplikacji\n Oceniający 3:\n Oceniający 1:\n Oceniający 2:\n SUMA PUNKTÓW Z KRYTERIÓW MERYTORYCZNYCH 0-35 pkt Oceniający 3:\n\n ŚREDNIA:\nUwagi:\n\n\n\n\n\n ETAP III: ROZMOWA REKRUTACYJNA (0-16 pkt)"
+    },
+    {
+      "id": "R-01",
+      "nazwa": "Merytoryczne i kompleksowe odpowiedzi podczas Q&A",
+      "rodzaj": "merytoryczne",
+      "etap": "III — rozmowa",
+      "klasyfikacja": "ze źródła",
+      "pola": [],
+      "rozdzialy": [],
+      "skala": "0–2 od ŁSSE i 0–2 od OT",
+      "minimum": null,
+      "grupa": "Rozmowa — bez odpowiednika w formularzu",
+      "aspekty": [
+        "Merytoryczne i kompleksowe odpowiedzi podczas Q&A"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 5
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 5:\nOcena Komisji Ocena OT\n Rekrutacyjnej\n 1. Merytoryczne i kompleksowe odpowiedzi podczas Q&A (0-2 pkt)\n 2. Uargumentowany oraz racjonalny budżet (podział kosztów) dla\n projektu w akceleracji (0-2 pkt)\n 3. Możliwość wdrożenia i testowania rozwiązania Wnioskodawcy\n u Odbiorcy Technologii (0-2 pkt)\n 4. Możliwość skalowania rozwiązania Wnioskodawcy we współpracy\n z Akceleratorem i Odbiorcą Technologii (postakceleracja) po\n zakończonym Programie (0-2 pkt)\n SUMA PUNKTÓW Łącznie:\n Rekomendacja do rozwoju rozwiązania i/lub zakwalifikowanie do TAK / NIE\n Programu akceleracyjnego Spark 4.0, edycja: RETHINK\n Uwagi:\n\n\n\n\nKRYTERIA DOSTĘPU: 0-3 pkt\nKRYTERIA MERYTORYCZNE: 0-35 pkt (% całości)\n\n • GOZ: 8 pkt (23%)\n • Innowacyjność: 11 pkt (31%)\n • Zespół / zasoby: 4 pkt (11%)\n • Dopasowanie do OT: 8 pkt (23%)\n • Upowszechnianie wiedzy i inne: 4 pkt (11%)\nKRYTERIA III ETAP: 0-16 pkt (0-8 ŁSSE, 0-8 OT)"
+    },
+    {
+      "id": "R-02",
+      "nazwa": "Uargumentowany i racjonalny budżet",
+      "rodzaj": "merytoryczne",
+      "etap": "III — rozmowa",
+      "klasyfikacja": "ze źródła",
+      "pola": [],
+      "rozdzialy": [],
+      "skala": "0–2 od ŁSSE i 0–2 od OT",
+      "minimum": null,
+      "grupa": "Rozmowa — bez odpowiednika w formularzu",
+      "aspekty": [
+        "Uargumentowany i racjonalny budżet"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 5
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 5:\nOcena Komisji Ocena OT\n Rekrutacyjnej\n 1. Merytoryczne i kompleksowe odpowiedzi podczas Q&A (0-2 pkt)\n 2. Uargumentowany oraz racjonalny budżet (podział kosztów) dla\n projektu w akceleracji (0-2 pkt)\n 3. Możliwość wdrożenia i testowania rozwiązania Wnioskodawcy\n u Odbiorcy Technologii (0-2 pkt)\n 4. Możliwość skalowania rozwiązania Wnioskodawcy we współpracy\n z Akceleratorem i Odbiorcą Technologii (postakceleracja) po\n zakończonym Programie (0-2 pkt)\n SUMA PUNKTÓW Łącznie:\n Rekomendacja do rozwoju rozwiązania i/lub zakwalifikowanie do TAK / NIE\n Programu akceleracyjnego Spark 4.0, edycja: RETHINK\n Uwagi:\n\n\n\n\nKRYTERIA DOSTĘPU: 0-3 pkt\nKRYTERIA MERYTORYCZNE: 0-35 pkt (% całości)\n\n • GOZ: 8 pkt (23%)\n • Innowacyjność: 11 pkt (31%)\n • Zespół / zasoby: 4 pkt (11%)\n • Dopasowanie do OT: 8 pkt (23%)\n • Upowszechnianie wiedzy i inne: 4 pkt (11%)\nKRYTERIA III ETAP: 0-16 pkt (0-8 ŁSSE, 0-8 OT)"
+    },
+    {
+      "id": "R-03",
+      "nazwa": "Możliwość wdrożenia i testowania u OT",
+      "rodzaj": "merytoryczne",
+      "etap": "III — rozmowa",
+      "klasyfikacja": "ze źródła",
+      "pola": [],
+      "rozdzialy": [],
+      "skala": "0–2 od ŁSSE i 0–2 od OT",
+      "minimum": null,
+      "grupa": "Rozmowa — bez odpowiednika w formularzu",
+      "aspekty": [
+        "Możliwość wdrożenia i testowania u OT"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 5
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 5:\nOcena Komisji Ocena OT\n Rekrutacyjnej\n 1. Merytoryczne i kompleksowe odpowiedzi podczas Q&A (0-2 pkt)\n 2. Uargumentowany oraz racjonalny budżet (podział kosztów) dla\n projektu w akceleracji (0-2 pkt)\n 3. Możliwość wdrożenia i testowania rozwiązania Wnioskodawcy\n u Odbiorcy Technologii (0-2 pkt)\n 4. Możliwość skalowania rozwiązania Wnioskodawcy we współpracy\n z Akceleratorem i Odbiorcą Technologii (postakceleracja) po\n zakończonym Programie (0-2 pkt)\n SUMA PUNKTÓW Łącznie:\n Rekomendacja do rozwoju rozwiązania i/lub zakwalifikowanie do TAK / NIE\n Programu akceleracyjnego Spark 4.0, edycja: RETHINK\n Uwagi:\n\n\n\n\nKRYTERIA DOSTĘPU: 0-3 pkt\nKRYTERIA MERYTORYCZNE: 0-35 pkt (% całości)\n\n • GOZ: 8 pkt (23%)\n • Innowacyjność: 11 pkt (31%)\n • Zespół / zasoby: 4 pkt (11%)\n • Dopasowanie do OT: 8 pkt (23%)\n • Upowszechnianie wiedzy i inne: 4 pkt (11%)\nKRYTERIA III ETAP: 0-16 pkt (0-8 ŁSSE, 0-8 OT)"
+    },
+    {
+      "id": "R-04",
+      "nazwa": "Skalowanie po akceleracji",
+      "rodzaj": "merytoryczne",
+      "etap": "III — rozmowa",
+      "klasyfikacja": "ze źródła",
+      "pola": [],
+      "rozdzialy": [],
+      "skala": "0–2 od ŁSSE i 0–2 od OT",
+      "minimum": null,
+      "grupa": "Rozmowa — bez odpowiednika w formularzu",
+      "aspekty": [
+        "Skalowanie po akceleracji"
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 5
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 5:\nOcena Komisji Ocena OT\n Rekrutacyjnej\n 1. Merytoryczne i kompleksowe odpowiedzi podczas Q&A (0-2 pkt)\n 2. Uargumentowany oraz racjonalny budżet (podział kosztów) dla\n projektu w akceleracji (0-2 pkt)\n 3. Możliwość wdrożenia i testowania rozwiązania Wnioskodawcy\n u Odbiorcy Technologii (0-2 pkt)\n 4. Możliwość skalowania rozwiązania Wnioskodawcy we współpracy\n z Akceleratorem i Odbiorcą Technologii (postakceleracja) po\n zakończonym Programie (0-2 pkt)\n SUMA PUNKTÓW Łącznie:\n Rekomendacja do rozwoju rozwiązania i/lub zakwalifikowanie do TAK / NIE\n Programu akceleracyjnego Spark 4.0, edycja: RETHINK\n Uwagi:\n\n\n\n\nKRYTERIA DOSTĘPU: 0-3 pkt\nKRYTERIA MERYTORYCZNE: 0-35 pkt (% całości)\n\n • GOZ: 8 pkt (23%)\n • Innowacyjność: 11 pkt (31%)\n • Zespół / zasoby: 4 pkt (11%)\n • Dopasowanie do OT: 8 pkt (23%)\n • Upowszechnianie wiedzy i inne: 4 pkt (11%)\nKRYTERIA III ETAP: 0-16 pkt (0-8 ŁSSE, 0-8 OT)"
+    }
+  ]
+}

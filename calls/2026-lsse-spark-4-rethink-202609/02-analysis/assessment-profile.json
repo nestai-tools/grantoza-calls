@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "id": "2026-lsse-spark-4-rethink-202609-ocena",
+  "wersja": 1,
+  "nabor_id": "2026-lsse-spark-4-rethink-202609",
+  "nazwa": "SPARK 4.0 RE-THINK — zgłoszenie do akceleracji",
+  "zrodla_sha256": {
+    "SRC-2a2563594b37": "8a64a8a0f405173bec2b76e26ab193f30a42584cb0c2dfec7f55c3368296ef53"
+  },
+  "wejscie": {
+    "instrukcja": "Oceniaj zgłoszenie do akceleracji SPARK: GOZ, wpływ środowiskowy, gotowość technologiczna, dopasowanie do Odbiorcy Technologii (OT), rynek i współpraca. Respektuj etapy formalny, dostępu, merytoryczny i rozmowy. Nie wymagaj pól pełnego wniosku B+R, których nie ma w tym zgłoszeniu. Deklaracje oceniaj jako deklaracje; sam tekst nie dowodzi spełnienia zewnętrznych warunków.",
+    "pola_kontekstu": [],
+    "powiazania": true,
+    "krotka_odpowiedz_max": 120,
+    "budzet_powiazan": 12000
+  },
+  "wyjscie": {
+    "odpowiedz": {
+      "typ": "choice",
+      "warianty": {
+        "supported": {
+          "opis": "Przekazane odpowiedzi uzasadniają wskazany aspekt w zakresie wymaganym przez źródło.",
+          "status": "supported"
+        },
+        "partial": {
+          "opis": "Przekazane dane częściowo uzasadniają aspekt, ale wymagają uzupełnienia.",
+          "status": "partial"
+        },
+        "missing": {
+          "opis": "Brak odpowiedzi lub dowodów w polach przeznaczonych na ten aspekt.",
+          "status": "missing"
+        },
+        "contradicted": {
+          "opis": "Przekazane odpowiedzi są sprzeczne z aspektem lub ze sobą; wskaż wyłącznie rzeczywistą sprzeczność.",
+          "status": "contradicted"
+        },
+        "not_applicable": {
+          "opis": "Warunek zastosowania wskazany w źródle nie zachodzi i wynika to z danych.",
+          "status": "not_applicable"
+        },
+        "insufficient_context": {
+          "opis": "Ta część i wspólne fakty nie pozwalają rozstrzygnąć aspektu; potrzebna jest inna część lub weryfikacja zewnętrzna.",
+          "status": "insufficient_context"
+        }
+      }
+    },
+    "etykiety": {
+      "supported": "Uzasadnione w tekście",
+      "partial": "Częściowo uzasadnione",
+      "missing": "Brak danych",
+      "contradicted": "Sprzeczność",
+      "not_applicable": "Nie dotyczy",
+      "insufficient_context": "Wymaga oceny łącznej lub weryfikacji"
+    },
+    "agregacja": "kryteria"
+  },
+  "kryteria": {
+    "F-01": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Zweryfikuj datę i potwierdzenie wysłania zgłoszenia.",
+      "pola_kontekstu": []
+    },
+    "F-02": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Kompletność i język polski” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-03": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Mikro/małe przedsiębiorstwo i art. 22” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-04": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Wymagane dokumenty” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-05": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Akceptacja regulaminu” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-06": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Zasady de minimis” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-07": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Polityki horyzontalne UE” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-08": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Brak podwójnego finansowania” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-09": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Prawo do technologii” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-10": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Dostępny limit de minimis” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-11": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Prawdziwość danych” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-12": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Brak powiązań” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "F-13": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Zgodność z KIS 7” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "D-01": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Obszary wskazane przez OT” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "D-02": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Gotowość technologiczna” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "M-01": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Wpływ na GOZ” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "M-02": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Wskaźniki środowiskowe” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "M-03": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Innowacyjność” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "M-04": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Potencjał rynkowy” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "M-05": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Przewagi konkurencyjne” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "M-06": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Podmioty konkurencyjne” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "M-07": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Zespół” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "M-08": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Zasoby” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "M-09": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Wdrożenia i doświadczenie z biznesem” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "M-10": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Dopasowanie do potrzeb OT” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "M-11": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Gotowość do współpracy z OT” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "M-12": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Upowszechnianie wiedzy o GOZ” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "M-13": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Startup istnieje nie dłużej niż 3 lata” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "R-01": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Kryterium etapu III — rozmowy. Oceń na podstawie przebiegu rozmowy i materiałów przedstawionych na tym etapie; zgłoszenie służy przygotowaniu, nie potwierdza wyniku rozmowy.",
+      "pola_kontekstu": []
+    },
+    "R-02": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Kryterium etapu III — rozmowy. Oceń na podstawie przebiegu rozmowy i materiałów przedstawionych na tym etapie; zgłoszenie służy przygotowaniu, nie potwierdza wyniku rozmowy.",
+      "pola_kontekstu": []
+    },
+    "R-03": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Kryterium etapu III — rozmowy. Oceń na podstawie przebiegu rozmowy i materiałów przedstawionych na tym etapie; zgłoszenie służy przygotowaniu, nie potwierdza wyniku rozmowy.",
+      "pola_kontekstu": []
+    },
+    "R-04": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Kryterium etapu III — rozmowy. Oceń na podstawie przebiegu rozmowy i materiałów przedstawionych na tym etapie; zgłoszenie służy przygotowaniu, nie potwierdza wyniku rozmowy.",
+      "pola_kontekstu": []
+    }
+  },
+  "spojnosc": {
+    "aspekty": [
+      "Rozwiązanie, efekty GOZ i wskaźniki środowiskowe są spójne z potrzebami OT.",
+      "Gotowość technologiczna, doświadczenie, zespół i zasoby odpowiadają opisowi współpracy i wdrożenia."
+    ],
+    "pola_kontekstu": []
+  },
+  "analiza_poglebiona": "Przygotuj ogólną ocenę zgłoszenia do akceleracji i rekomendacje w Markdown. Połącz rozwiązanie z GOZ, mierzalnymi efektami środowiskowymi, TRL i potrzebami OT. Wskaż materiał do przygotowania na rozmowę oddzielnie od zmian w polach zgłoszenia. Uwzględnij ocenę Systemu Oceniającego; nie traktuj niewykonanej rozmowy jako negatywnej oceny startupu."
+}

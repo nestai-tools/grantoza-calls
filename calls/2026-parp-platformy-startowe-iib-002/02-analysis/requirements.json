@@ -1,0 +1,874 @@
+{
+  "schema_version": 1,
+  "wymagania": [
+    {
+      "id": "REQ-001",
+      "rodzaj": "dostęp",
+      "tresc": "Mikro lub mała spółka kapitałowa; status z uwzględnieniem powiązań i partnerów. Pomoc dla nienotowanego przedsiębiorstwa do 5 lat od rejestracji; bez podziału zysku, z ograniczeniami przejęć i połączeń z art. 22 ust. 2 GBER (regulamin s. 3–4).",
+      "zrodla": [
+        {
+          "id": "SRC-894f1179eb3f",
+          "strona": 2
+        }
+      ],
+      "dowod": "KRS, struktura grupy i oświadczenie MŚP; historia spółki i pomocy.",
+      "pola": [
+        "Q-007",
+        "Q-008",
+        "Q-009",
+        "Q-010",
+        "Q-011",
+        "Q-012",
+        "Q-013",
+        "Q-025",
+        "Q-026",
+        "Q-027",
+        "Q-028",
+        "Q-029",
+        "Q-030",
+        "Q-031",
+        "Q-032",
+        "Q-033",
+        "Q-034"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-002",
+      "rodzaj": "dostęp",
+      "tresc": "Ukończony projekt IIa: przy aplikacji złożony wniosek o płatność końcową; przed umową IIb także rozliczony przez PARP. Produkt wprowadzony na rynek i pierwsza sprzedaż w IIa.",
+      "zrodla": [
+        {
+          "id": "SRC-894f1179eb3f",
+          "strona": 5
+        }
+      ],
+      "dowod": "Potwierdzenie CST2021, numer projektu IIa, dokumenty sprzedaży.",
+      "pola": [
+        "Q-007",
+        "Q-008",
+        "Q-009",
+        "Q-010",
+        "Q-011",
+        "Q-012",
+        "Q-013",
+        "Q-015"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-003",
+      "rodzaj": "obszar",
+      "tresc": "Działalność i wszystkie miejsca realizacji w Polsce Wschodniej: lubelskie, podkarpackie, podlaskie, świętokrzyskie, warmińsko-mazurskie lub mazowieckie bez Warszawy i powiatów: grodziskiego, legionowskiego, mińskiego, nowodworskiego, otwockiego, piaseczyńskiego, pruszkowskiego, warszawskiego zachodniego i wołomińskiego.",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 4
+        }
+      ],
+      "dowod": "Rejestr, adresy, aktywa i zasoby pracownicze w miejscach realizacji.",
+      "pola": [
+        "Q-036",
+        "Q-037",
+        "Q-038",
+        "Q-039",
+        "Q-040",
+        "Q-041",
+        "Q-042",
+        "Q-043",
+        "Q-067",
+        "Q-058",
+        "Q-059",
+        "Q-060",
+        "Q-061",
+        "Q-062",
+        "Q-064",
+        "Q-065",
+        "Q-066"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-004",
+      "rodzaj": "kryterium 4",
+      "tresc": "Produkt objęty wsparciem IIa, innowacja produktowa co najmniej w skali krajowej. Nowe funkcje istotne dla użytkownika i konkurencyjności; udostępniony na rynku produkt.",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 6
+        }
+      ],
+      "dowod": "Porównanie z konkurencją, parametry, źródła i dowody sprzedaży.",
+      "pola": [
+        "Q-018",
+        "Q-019",
+        "Q-020",
+        "Q-021",
+        "Q-079",
+        "Q-080",
+        "Q-081",
+        "Q-082",
+        "Q-083",
+        "Q-084"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-005",
+      "rodzaj": "kryterium 5",
+      "tresc": "Realna, mierzalna i opłacalna prognoza finansowa oraz opłacony pieniężnie kapitał na rozwój minimum 300 000 PLN. Premia: inwestycja uprawnionego inwestora kapitałowego co najmniej równa połowie dotacji; 1 albo 3 pkt.",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 7
+        }
+      ],
+      "dowod": "Model finansowy, umowy, dowody wpłat; dokumenty i profil inwestora.",
+      "pola": [
+        "Q-089",
+        "Q-090",
+        "Q-091",
+        "Q-092",
+        "Q-093",
+        "Q-094",
+        "Q-095"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-006",
+      "rodzaj": "kryterium 6",
+      "tresc": "Faktyczni niepowiązani płacący klienci; uzasadnione prace i kamienie milowe, wykonalne rezultaty; wzrost przychodów LUB płacących klientów minimum 150%; udokumentowane istniejące partnerstwo strategiczne z niepowiązanym kluczowym podmiotem. Premia za przygotowanie do wejścia na nowy rynek zagraniczny.",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 8
+        }
+      ],
+      "dowod": "Sprzedaż, model finansowy, dowody partnerstwa; dla premii analiza i przygotowanie rynku zagranicznego.",
+      "pola": [
+        "Q-014",
+        "Q-017",
+        "Q-085",
+        "Q-086",
+        "Q-087",
+        "Q-088",
+        "Q-206",
+        "Q-207",
+        "Q-208",
+        "Q-209",
+        "Q-210"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-007",
+      "rodzaj": "kryterium 7",
+      "tresc": "Adekwatny zespół, role, kompetencje, czas i proces zarządzania. 1 pkt podstawowy; +1 pkt za minimum 40% kobiet w zespole i +1 pkt za minimum roczne doświadczenie międzynarodowe co najmniej jednej osoby. Wakaty nie potwierdzają płci ani doświadczenia.",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 10
+        }
+      ],
+      "dowod": "CV, umowy lub dostępność osób; rzeczywiste informacje, bez wnioskowania o płci z imion.",
+      "pola": [
+        "Q-103",
+        "Q-096",
+        "Q-097",
+        "Q-098",
+        "Q-099",
+        "Q-100",
+        "Q-101",
+        "Q-102"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-008",
+      "rodzaj": "kryterium 8",
+      "tresc": "Koszty kwalifikowalne, racjonalne, uzasadnione i oszacowane na danych rynkowych. Kategorie: środki trwałe bez nieruchomości, WNiP, usługi zewnętrzne bez szkoleń, wynagrodzenia personelu i surowce/materiały; osobno koszty pośrednie. Maksymalnie 3 zadania merytoryczne z kamieniami milowymi.",
+      "zrodla": [
+        {
+          "id": "SRC-894f1179eb3f",
+          "strona": 6
+        }
+      ],
+      "dowod": "Oferty i kalkulacje, źródła cen, karty zadań i kosztów; instrukcja s. 31–41.",
+      "pola": [
+        "Q-085",
+        "Q-086",
+        "Q-087",
+        "Q-088",
+        "Q-089",
+        "Q-090",
+        "Q-091",
+        "Q-092",
+        "Q-093",
+        "Q-094",
+        "Q-095",
+        "Q-206",
+        "Q-207",
+        "Q-208",
+        "Q-209",
+        "Q-210",
+        "Q-267",
+        "Q-268",
+        "Q-269",
+        "Q-297",
+        "Q-211",
+        "Q-212",
+        "Q-213",
+        "Q-214",
+        "Q-215",
+        "Q-216",
+        "Q-217",
+        "Q-218",
+        "Q-219",
+        "Q-220",
+        "Q-221",
+        "Q-222",
+        "Q-223",
+        "Q-224",
+        "Q-225",
+        "Q-226",
+        "Q-227",
+        "Q-228",
+        "Q-229",
+        "Q-230",
+        "Q-231",
+        "Q-232",
+        "Q-233",
+        "Q-234",
+        "Q-235",
+        "Q-236",
+        "Q-237",
+        "Q-238",
+        "Q-239",
+        "Q-240",
+        "Q-241",
+        "Q-242",
+        "Q-243",
+        "Q-244",
+        "Q-245",
+        "Q-246",
+        "Q-247",
+        "Q-248",
+        "Q-249",
+        "Q-250",
+        "Q-251",
+        "Q-252",
+        "Q-253",
+        "Q-254",
+        "Q-255",
+        "Q-256",
+        "Q-257",
+        "Q-258",
+        "Q-259",
+        "Q-260",
+        "Q-261",
+        "Q-262",
+        "Q-263",
+        "Q-264",
+        "Q-265",
+        "Q-266"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-009",
+      "rodzaj": "kryterium 9",
+      "tresc": "Udokumentowany pieniężny wkład własny minimum 15% kosztów kwalifikowalnych. 1 pkt za 15%–poniżej 25%; 3 pkt za minimum 25%. Zapewnij też finansowanie VAT i innych kosztów niekwalifikowalnych.",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 12
+        }
+      ],
+      "dowod": "Źródła finansowania, wyciągi i umowy potwierdzające kwotę i dostępność.",
+      "pola": [
+        "Q-270",
+        "Q-271",
+        "Q-272",
+        "Q-273",
+        "Q-274",
+        "Q-275",
+        "Q-276",
+        "Q-277",
+        "Q-278",
+        "Q-279",
+        "Q-280",
+        "Q-281",
+        "Q-282",
+        "Q-283",
+        "Q-284",
+        "Q-285"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-010",
+      "rodzaj": "kryterium 10",
+      "tresc": "Wszystkie 19 wskaźników z predefiniowanej listy; mierzalne, realne i udokumentowane wartości oraz metody weryfikacji do 500 znaków. PLRR028 minimum 1; PLRR033 >0; RCR001 >0 przy finansowaniu personelu, z utrzymaniem nowych miejsc pracy minimum 13 miesięcy. Lata i wartości bazowe zgodnie z instrukcją.",
+      "zrodla": [
+        {
+          "id": "SRC-2499049d1cfe",
+          "strona": 23
+        }
+      ],
+      "dowod": "Kalkulacje, dowody pomiaru i zgodność z opisem oraz modelem; definicje s. 24–31.",
+      "pola": [
+        "Q-107",
+        "Q-108",
+        "Q-109",
+        "Q-110",
+        "Q-111",
+        "Q-112",
+        "Q-113",
+        "Q-114",
+        "Q-115",
+        "Q-116",
+        "Q-117",
+        "Q-118",
+        "Q-119",
+        "Q-120",
+        "Q-121",
+        "Q-122",
+        "Q-123",
+        "Q-124",
+        "Q-125",
+        "Q-126",
+        "Q-127",
+        "Q-128",
+        "Q-129",
+        "Q-130",
+        "Q-131",
+        "Q-132",
+        "Q-133",
+        "Q-134",
+        "Q-135",
+        "Q-136",
+        "Q-137",
+        "Q-138",
+        "Q-139",
+        "Q-140",
+        "Q-141",
+        "Q-142",
+        "Q-143",
+        "Q-144",
+        "Q-145",
+        "Q-146",
+        "Q-147",
+        "Q-148",
+        "Q-149",
+        "Q-150",
+        "Q-151",
+        "Q-152",
+        "Q-153",
+        "Q-154",
+        "Q-155",
+        "Q-156",
+        "Q-157",
+        "Q-158",
+        "Q-159",
+        "Q-160",
+        "Q-161",
+        "Q-162",
+        "Q-163",
+        "Q-164",
+        "Q-165",
+        "Q-166",
+        "Q-167",
+        "Q-168",
+        "Q-169",
+        "Q-170",
+        "Q-171",
+        "Q-172",
+        "Q-173",
+        "Q-174",
+        "Q-175",
+        "Q-176",
+        "Q-177",
+        "Q-178",
+        "Q-179",
+        "Q-180",
+        "Q-181",
+        "Q-182",
+        "Q-183",
+        "Q-184",
+        "Q-185",
+        "Q-186",
+        "Q-187",
+        "Q-188",
+        "Q-189",
+        "Q-190",
+        "Q-191",
+        "Q-192",
+        "Q-193",
+        "Q-194",
+        "Q-195",
+        "Q-196",
+        "Q-197",
+        "Q-198",
+        "Q-199",
+        "Q-200",
+        "Q-201",
+        "Q-202",
+        "Q-203",
+        "Q-204",
+        "Q-205"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-011",
+      "rodzaj": "kryterium 11",
+      "tresc": "Projekt zgodny z równością kobiet i mężczyzn: wpływ pozytywny albo konkretnie uzasadniony neutralny.",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 13
+        }
+      ],
+      "dowod": "Opis rozpoznanych nierówności i działań lub uzasadnienie neutralności.",
+      "pola": [
+        "Q-071",
+        "Q-072",
+        "Q-073"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-012",
+      "rodzaj": "kryterium 12",
+      "tresc": "Pozytywny wpływ na równość szans i niedyskryminację, w tym dostępność produktów/usług. Neutralność konkretnego produktu wymaga braku jego bezpośrednich użytkowników.",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 14
+        }
+      ],
+      "dowod": "Karty produktów i usług, rozwiązania dostępności i uzasadnienia.",
+      "pola": [
+        "Q-068",
+        "Q-069",
+        "Q-070"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-013",
+      "rodzaj": "kryterium 13",
+      "tresc": "Deklaracja zgodności z Kartą praw podstawowych UE i Konwencją o prawach osób niepełnosprawnych. Brak minimum oznacza ocenę negatywną. Wyjątek od możliwości wezwania do poprawy przed panelem KOP (§ 6 ust. 2 regulaminu).",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 15
+        }
+      ],
+      "dowod": "Zgodność zakresu i sposobu realizacji; prawidłowy wybór w formularzu.",
+      "pola": [
+        "Q-068",
+        "Q-069",
+        "Q-070",
+        "Q-071",
+        "Q-072",
+        "Q-073"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-014",
+      "rodzaj": "kryterium 14",
+      "tresc": "Zrównoważony rozwój i DNSH obowiązkowe (1 pkt). 2 pkt za dodatkowy wkład w zieloną gospodarkę przez co najmniej jedno wymienione rozwiązanie; uzasadnienia oparte na procesie wytwarzania lub korzystaniu z produktu.",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 16
+        }
+      ],
+      "dowod": "Wybrane działania i mierzalne efekty środowiskowe, uzasadnienia.",
+      "pola": [
+        "Q-068",
+        "Q-069",
+        "Q-070",
+        "Q-074",
+        "Q-075",
+        "Q-076",
+        "Q-077",
+        "Q-078"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-015",
+      "rodzaj": "kryterium 15",
+      "tresc": "Opcjonalny 1 pkt: zgodność przedmiotu ze wspólną inteligentną specjalizacją co najmniej dwóch województw Polski Wschodniej.",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 17
+        }
+      ],
+      "dowod": "Uzasadnienie z konkretnymi punktami katalogu RIS, nie tylko nazwą branży.",
+      "pola": [
+        "Q-022",
+        "Q-023",
+        "Q-024"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-016",
+      "rodzaj": "kryterium 16",
+      "tresc": "Opcjonalne 2 pkt: produkt rozwiązuje zidentyfikowany i uzasadniony problem w jakości edukacji, zmianach klimatycznych lub zdrowiu publicznym.",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 18
+        }
+      ],
+      "dowod": "Opis problemu, mechanizmu wpływu, znaczenia i źródeł danych.",
+      "pola": [
+        "Q-104",
+        "Q-105",
+        "Q-106"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-017",
+      "rodzaj": "budżet",
+      "tresc": "VAT zawsze stanowi wydatek niekwalifikowalny.",
+      "zrodla": [
+        {
+          "id": "SRC-894f1179eb3f",
+          "strona": 9
+        }
+      ],
+      "dowod": "Budżet netto kwalifikowalny, VAT i kwota brutto oraz źródła jego pokrycia.",
+      "pola": [
+        "Q-035",
+        "Q-211",
+        "Q-212",
+        "Q-213",
+        "Q-214",
+        "Q-215",
+        "Q-216",
+        "Q-219",
+        "Q-220",
+        "Q-221"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-018",
+      "rodzaj": "koszty pośrednie",
+      "tresc": "Ryczałt do 15% kwalifikowalnych kosztów personelu, zgodnie z regulaminem i umową. Bez przesunięć między kosztami pośrednimi i bezpośrednimi. Pomniejszenie podstawy wymaga proporcjonalnej korekty ryczałtu.",
+      "zrodla": [
+        {
+          "id": "SRC-894f1179eb3f",
+          "strona": 8
+        }
+      ],
+      "dowod": "Kwota kosztów pośrednich, podstawa wynagrodzeń; wzór umowy § 9, s. 14.",
+      "pola": [
+        "Q-211",
+        "Q-212",
+        "Q-213",
+        "Q-214",
+        "Q-215",
+        "Q-216",
+        "Q-219",
+        "Q-220",
+        "Q-221",
+        "Q-222",
+        "Q-223",
+        "Q-224",
+        "Q-225",
+        "Q-226",
+        "Q-227",
+        "Q-228",
+        "Q-229",
+        "Q-230",
+        "Q-231",
+        "Q-232",
+        "Q-233",
+        "Q-234",
+        "Q-235",
+        "Q-236",
+        "Q-237",
+        "Q-238",
+        "Q-239",
+        "Q-240",
+        "Q-241",
+        "Q-242",
+        "Q-243",
+        "Q-244",
+        "Q-245",
+        "Q-246",
+        "Q-247",
+        "Q-248",
+        "Q-249",
+        "Q-250",
+        "Q-251",
+        "Q-252",
+        "Q-253",
+        "Q-254",
+        "Q-255",
+        "Q-256",
+        "Q-257",
+        "Q-258",
+        "Q-259",
+        "Q-260",
+        "Q-261",
+        "Q-262",
+        "Q-263",
+        "Q-264",
+        "Q-265",
+        "Q-266"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-019",
+      "rodzaj": "załączniki",
+      "tresc": "Model finansowy; dokumenty kapitału, partnerstwa i wkładu własnego; dokumenty inwestora, jeśli dotyczy; inne do 3 plików. Maksymalnie 15 MB/plik. Formaty z instrukcji: PDF, JPG, XLS, XLSX, ODS, ZIP, 7-ZIP; model we właściwym oficjalnym arkuszu.",
+      "zrodla": [
+        {
+          "id": "SRC-2499049d1cfe",
+          "strona": 42
+        }
+      ],
+      "dowod": "Pełna checklista w 06-attachments/README.md; ścieżka w formularzu sama nie załącza pliku do LSI.",
+      "pola": [
+        "Q-286",
+        "Q-287",
+        "Q-288",
+        "Q-289",
+        "Q-290",
+        "Q-291"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-020",
+      "rodzaj": "dane i oświadczenia",
+      "tresc": "Dane zgodne ze stanem faktycznym i prawnym. Osoby, których dane podano, należy poinformować zgodnie z klauzulą we wzorze. Oświadczenia stają się skuteczne przy czynności wskazanej w LSI; nie są automatycznie podpisywane w panelu lokalnym.",
+      "zrodla": [
+        {
+          "id": "SRC-e5f4835ab250",
+          "strona": 9
+        }
+      ],
+      "dowod": "Przegląd pełnej treści oświadczeń i klauzuli s. 9–11; dowody spełnienia obowiązków.",
+      "pola": [
+        "Q-025",
+        "Q-030",
+        "Q-031",
+        "Q-032",
+        "Q-036",
+        "Q-037",
+        "Q-038",
+        "Q-039",
+        "Q-040",
+        "Q-041",
+        "Q-042",
+        "Q-043",
+        "Q-044",
+        "Q-045",
+        "Q-046",
+        "Q-292",
+        "Q-293",
+        "Q-294",
+        "Q-295",
+        "Q-296"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-021",
+      "rodzaj": "termin projektu",
+      "tresc": "Start po dniu złożenia płatności końcowej IIa; możliwy przed złożeniem IIb na ryzyko wnioskodawcy. Okres kwalifikowalnych prac i wydatków do 24 miesięcy, granica FEPW 31.12.2029 we wzorze umowy s. 13. Projekt nie może być fizycznie zakończony przed złożeniem.",
+      "zrodla": [
+        {
+          "id": "SRC-894f1179eb3f",
+          "strona": 5
+        }
+      ],
+      "dowod": "Harmonogram, płatność IIa i data złożenia; odróżnij daty kwalifikowalności, wniosku końcowego i końca umowy.",
+      "pola": [
+        "Q-015",
+        "Q-016",
+        "Q-207",
+        "Q-208"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-022",
+      "rodzaj": "limity wsparcia",
+      "tresc": "Dofinansowanie do 2 000 000 PLN i do 85% kosztów kwalifikowalnych. Budżet naboru: 10 000 000 PLN. Jest to pomoc publiczna z art. 22 GBER, nie schemat de minimis INNOSTART.",
+      "zrodla": [
+        {
+          "id": "SRC-894f1179eb3f",
+          "strona": 6
+        }
+      ],
+      "dowod": "Budżet i kumulacja właściwej pomocy, status przedsiębiorstwa.",
+      "pola": [
+        "Q-217",
+        "Q-218"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-023",
+      "rodzaj": "ocena",
+      "tresc": "16 kryteriów: minimum 17/29 pkt oraz każde obowiązkowe minimum. Przy remisie kolejno: zakres, warunki finansowe, zespół, wkład własny. Ocena z panelem KOP ok. 30 minut, maksymalnie 4 przedstawicieli; wezwania do poprawy w terminach regulaminu.",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 3
+        }
+      ],
+      "dowod": "Macierz punktowa i dowody; regulamin § 6, s. 12–16.",
+      "pola": [],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-024",
+      "rodzaj": "przed umową",
+      "tresc": "Rozliczony projekt IIa; zachowane kryteria, właściwy status MŚP i art. 22, brak wykluczeń, zaległości oraz niedopuszczalnych sankcji. Dokumenty na wezwanie w SL2021; wskazanie osoby zarządzającej i dostarczenie dokumentów w terminach po 7 dni określonych w § 9 ust. 4.",
+      "zrodla": [
+        {
+          "id": "SRC-894f1179eb3f",
+          "strona": 19
+        }
+      ],
+      "dowod": "Dokumenty rejestrowe, MŚP, pomocy, niekaralności, ZUS/US i pozostałe objęte wezwaniem. Wzory archiwalnego naboru nie są automatycznie aktualne.",
+      "pola": [],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-025",
+      "rodzaj": "płynność i rozliczenia",
+      "tresc": "Zaliczka albo refundacja. Płatności pośrednie do 95% dotacji; jednorazowo do 40% dotacji w dyspozycji jako zaliczka; rozliczenie transzy w 180 dni i co najmniej 70% łącznych zaliczek przed kolejną transzą, z zastrzeżeniem przypisu 14 umowy. Wnioski o płatność nie rzadziej niż co 3 miesiące; odrębna ewidencja i rachunek zaliczkowy.",
+      "zrodla": [
+        {
+          "id": "SRC-f76bcd1c04a4",
+          "strona": 23
+        }
+      ],
+      "dowod": "Harmonogram płatności, płynność, księgowość; umowa s. 15–16, 21, 23–24.",
+      "pola": [],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-026",
+      "rodzaj": "trwałość",
+      "tresc": "Trwałość MŚP: 3 lata od zakończenia w rozumieniu umowy, czyli płatności końcowej na rachunek lub zatwierdzenia wniosku końcowego. To inny moment niż planowana data wpisywana do formularza. Monitorowanie wskaźników i ryzyko proporcjonalnego pomniejszenia.",
+      "zrodla": [
+        {
+          "id": "SRC-f76bcd1c04a4",
+          "strona": 24
+        }
+      ],
+      "dowod": "Plan utrzymania produktu, miejsc pracy i dowodów; umowa § 6, § 14–15 i § 29.",
+      "pola": [
+        "Q-016"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-027",
+      "rodzaj": "realizacja",
+      "tresc": "Zarządzanie ryzykiem; rejestr do 2 miesięcy od rozpoczęcia, aktualizacja do 7 dni roboczych od potrzeby zmiany. Obowiązki oznaczeń, opisu projektu na WWW (jeśli posiadana) i w mediach społecznościowych, plakatu/wyświetlacza oraz oznakowania sprzętu. Pomniejszenia za komunikację łącznie do 3% dotacji.",
+      "zrodla": [
+        {
+          "id": "SRC-f76bcd1c04a4",
+          "strona": 41
+        }
+      ],
+      "dowod": "Rejestr ryzyk i dowody działań komunikacyjnych. Szczegóły załączników 5–7 do umowy.",
+      "pola": [],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-028",
+      "rodzaj": "złożenie",
+      "tresc": "Wniosek po polsku przez LSI PARP od 06.10.2026 do 10.12.2026 godz. 16:00 według serwera PARP. Obcojęzyczne dokumenty wymagają tłumaczenia przysięgłego zgodnie z regulaminem. Potwierdzenie numeru i daty stanowi dowód złożenia; wersja lokalna nim nie jest.",
+      "zrodla": [
+        {
+          "id": "SRC-894f1179eb3f",
+          "strona": 4
+        }
+      ],
+      "dowod": "Potwierdzenie LSI, finalny przegląd i komplet plików; regulamin § 5, s. 10–12.",
+      "pola": [
+        "Q-001",
+        "Q-002",
+        "Q-003",
+        "Q-004",
+        "Q-005",
+        "Q-006",
+        "Q-044",
+        "Q-045",
+        "Q-047",
+        "Q-048",
+        "Q-049",
+        "Q-050",
+        "Q-051",
+        "Q-052",
+        "Q-053",
+        "Q-054",
+        "Q-055",
+        "Q-056",
+        "Q-057",
+        "Q-292",
+        "Q-293",
+        "Q-294",
+        "Q-295",
+        "Q-296"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-029",
+      "rodzaj": "wykluczenia",
+      "tresc": "Przedmiot projektu poza rodzajami działalności wykluczonymi z pomocy (§ 6 rozporządzenia wskazanego w regulaminie). Sprawdź rzeczywisty zakres działalności i PKD, a także status firmy przed podpisaniem umowy.",
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 5
+        }
+      ],
+      "dowod": "Opis działalności i aktualne podstawy prawne wskazane w dokumentacji; ocena dla konkretnej firmy.",
+      "pola": [
+        "Q-018",
+        "Q-019",
+        "Q-020",
+        "Q-021",
+        "Q-033",
+        "Q-034"
+      ],
+      "ocena": "do-sprawdzenia"
+    },
+    {
+      "id": "REQ-030",
+      "rodzaj": "model finansowy",
+      "tresc": "Oficjalny Excel z zachowanymi formułami. Kwoty netto w pełnych PLN, całkowite liczby klientów. Do 3 strumieni przychodów; projekt i 12 miesięcy po nim; realne koszty także poza dotacją. Uzupełnij identyfikację, przychody, koszty i żółte pola analizy opłacalności.",
+      "zrodla": [
+        {
+          "id": "SRC-5dddf09c0cf4",
+          "strona": 1
+        }
+      ],
+      "dowod": "Model i wyjaśnienia metodologii; rozbieżności dotyczące roku bazowego, 12 miesięcy i mianownika zerowego.",
+      "pola": [
+        "Q-286"
+      ],
+      "ocena": "do-sprawdzenia"
+    }
+  ]
+}

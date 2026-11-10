@@ -1,0 +1,6 @@
+{
+  "schema_version": 2,
+  "tryb": "wykrywane-z-kart-i-wierszy",
+  "wynik": "90-export/answers.json",
+  "instrukcja": "03-application/repeatable.md"
+}

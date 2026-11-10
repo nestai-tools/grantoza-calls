@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "kryteria": [
+    {
+      "id": "K-T01",
+      "nazwa": "Innovation Coach",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Raport rekomendacji zgodny z firmą i zakresem projektu",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 1
+        }
+      ]
+    },
+    {
+      "id": "K-T02",
+      "nazwa": "Brak wcześniejszego B+R finansowanego z UE",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Oświadczenie, historia pomocy z oceną jej celu i źródła",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 2
+        }
+      ]
+    },
+    {
+      "id": "K-T03",
+      "nazwa": "Warunki pomocy de minimis",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Jedno przedsiębiorstwo, ruchome 3 lata, limity, oświadczenie i posiadane zaświadczenia",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 2
+        }
+      ]
+    },
+    {
+      "id": "K-T04",
+      "nazwa": "Miejsce i aktywność działalności",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Aktualny rejestr, adresy PL, brak przesłanek wykluczenia",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 3
+        }
+      ]
+    },
+    {
+      "id": "K-T05",
+      "nazwa": "Status MŚP",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Zatrudnienie i dane finansowe; agregacja relacji oraz oświadczenie",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 4
+        }
+      ]
+    },
+    {
+      "id": "K-T06",
+      "nazwa": "Brak działalności wykluczonych",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Zakres, PKD i koszty kwalifikujące się do wsparcia",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 4
+        }
+      ]
+    },
+    {
+      "id": "K-T07",
+      "nazwa": "KIS",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Pozycja KIS z wersji na dzień ogłoszenia i uzasadnienie",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 5
+        }
+      ]
+    },
+    {
+      "id": "K-T08",
+      "nazwa": "Zasady horyzontalne",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Konkretne działania, dostępność i równość kobiet i mężczyzn",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 5
+        }
+      ]
+    },
+    {
+      "id": "K-T09",
+      "nazwa": "Karta Praw Podstawowych",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Każdy wskazany artykuł z uzasadnieniem zgodności/neutralności",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 6
+        }
+      ]
+    },
+    {
+      "id": "K-T10",
+      "nazwa": "Konwencja o Prawach Osób Niepełnosprawnych",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Każdy wskazany artykuł z uzasadnieniem zgodności/neutralności",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 7
+        }
+      ]
+    },
+    {
+      "id": "K-T11",
+      "nazwa": "Zdolność finansowa",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Realnie zapewniony wkład i dowody, aktualność dokumentów",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 8
+        }
+      ]
+    },
+    {
+      "id": "K-P01",
+      "nazwa": "Istota projektu",
+      "typ": "punktowe",
+      "skala": "0–5",
+      "minimum": "≥3",
+      "dowod": "Cel powiązany z IC/KIS, innowacja co najmniej w firmie, realne B+R, zadania PRZ/PRO, kamienie i ryzyka. Wysoka ocena wymaga uzasadnienia i spójności całego planu.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 10
+        }
+      ]
+    },
+    {
+      "id": "K-P02",
+      "nazwa": "Potencjał projektu",
+      "typ": "punktowe",
+      "skala": "0–5",
+      "minimum": "≥3",
+      "dowod": "Potrzeba, odbiorca, różnica/przewaga, praktyczne wykorzystanie. Na 5 pkt: mocne uzasadnienie, konkretne korzyści/mierniki i dowody rozpoznania potrzeb, np. rzeczywiste rozmowy.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 13
+        }
+      ]
+    },
+    {
+      "id": "K-P03",
+      "nazwa": "Potencjał Wnioskodawcy, zespół projektowy",
+      "typ": "punktowe",
+      "skala": "0–5",
+      "minimum": "≥3",
+      "dowod": "Kompetencje osób, zarządzanie, zasoby dobrane do zadań i dostępna infrastruktura; doświadczenie potwierdzone przykładami.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 14
+        }
+      ]
+    },
+    {
+      "id": "K-P04",
+      "nazwa": "Doradca w projekcie",
+      "typ": "punktowe",
+      "skala": "0–1",
+      "minimum": "brak; opcjonalne",
+      "dowod": "1 pkt za wskazanego doradcę o istotnych kompetencjach, z konkretną rolą i dwustronną umową oraz poprawnym ujęciem w HRF.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 15
+        }
+      ]
+    },
+    {
+      "id": "K-P05",
+      "nazwa": "Harmonogram rzeczowo-finansowy",
+      "typ": "punktowe",
+      "skala": "0 albo 3",
+      "minimum": "3",
+      "dowod": "Wszystkie warunki HRF spełnione łącznie: kompletność, kwalifikowalność, limity, kategorie, people/stanowiska, spójność i źródła wyceny.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 16
+        }
+      ]
+    }
+  ],
+  "maksimum_punktow": 19,
+  "suma_minimow": 12,
+  "wymaga_spelnienia_kazdego_minimum": true,
+  "rozstrzyganie_remisu": [
+    "K-P01",
+    "K-P02",
+    "K-P03",
+    "wczesniejsza-data-zlozenia"
+  ]
+}

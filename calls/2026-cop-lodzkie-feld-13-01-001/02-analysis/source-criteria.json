@@ -1,0 +1,630 @@
+[
+  {
+    "id": "F-01",
+    "nazwa": "Typ beneficjenta",
+    "definicja": "Czy wnioskodawca (partner) znajduje się w katalogu beneficjentów wskazanym dla typu projektu,\nktórego dotyczy projekt, zawartym w opisie danego działania Szczegółowego opisu priorytetów\nFEŁ2027 (obowiązującego na dzień ogłoszenia o naborze) i w Regulaminie wyboru projektów.\nW przypadku realizacji projektu hybrydowego (zgodnie z art. 40 Ustawy z dnia 28 kwietnia\n2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie\nfinansowej 2021-2027) partner prywatny nie musi znajdować się w ww. katalogu beneficjentów.\nKryterium weryfikowane pod kątem posiadania odpowiedniego statusu prawnego (w tym\nw zakresie wielkości przedsiębiorstwa – jeśli dotyczy) na podstawie statutu lub innego\nrównoważnego dokumentu założycielskiego, dokumentu rejestrowego wnioskodawcy (partnera)\noraz informacji zawartych we wniosku o dofinansowanie, w tym oświadczenia wnioskodawcy\n(partnera).\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "F-02",
+    "nazwa": "Zgodność z instrukcją wypełniania wniosku",
+    "definicja": "Czy wniosek o dofinansowanie oraz załączniki zostały przygotowane zgodnie z zapisami instrukcji\nwypełniania wniosku?\nOcenie podlega czy:\n− pola we wniosku i załączniki zostały wypełnione zgodnie z wymogami instrukcji wypełniania\nwniosku i instrukcjami zawartymi w załącznikach;\n− złożono wszystkie wymagane załączniki;\n− wszystkie załączniki są możliwe do otworzenia;\n− złożone dokumenty potwierdzają posiadanie przez Wnioskodawcę prawa do dysponowania\nnieruchomością na cele budowlane lub projektu w całym okresie realizacji i trwałości\nprojektu.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      3
+    ]
+  },
+  {
+    "id": "F-03",
+    "nazwa": "Zgodność z regulaminem wyboru projektów",
+    "definicja": "Czy wniosek o dofinansowanie został przygotowany zgodnie z wymaganiami\nokreślonymi w regulaminie wyboru projektów?\nOcenie podlega czy:\n− określone w projekcie kwoty dotyczące całkowitej wartości projektu, wartości\ncałkowitych wydatków kwalifikowalnych, całkowitej kwoty dofinansowania projektu\nsą zgodne z minimalnymi lub maksymalnymi wartościami podanymi\nw Regulaminie wyboru projektów (o ile określono);\n− okres realizacji projektu nie wykracza poza okres wskazany w regulaminie wyboru\nprojektów (o ile określono).\nNa etapie realizacji projektu, w przypadku zmian wartości projektu, wartości wydatków\nkwalifikowalnych lub kwoty dofinansowania wynikających z uzasadnionych przesłanek\ni zaakceptowanych przez IZ FEŁ2027, pod warunkiem braku w danym naborze\nkryteriów punktowych dotyczących wysokości ww. elementów, kryterium uznaje się za\nspełnione.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      3
+    ]
+  },
+  {
+    "id": "F-04",
+    "nazwa": "Partnerstwo",
+    "definicja": "Czy występujące w projekcie partnerstwo spełnia warunki określone w art. 39 Ustawy z dnia 28\nkwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich\nw perspektywie finansowej 2021-2027, a także czy partner (partnerzy) jest wymieniony we\nwniosku o dofinansowanie projektu oraz wykazano, że realizacja projektu bez partnera\n(partnerów) nie byłaby możliwa?\nNie jest projektem realizowanym w partnerstwie przedsięwzięcie, w którym partnerem\nwnioskodawcy (beneficjenta) ma być jego jednostka organizacyjna, mająca status realizatora\nprojektu.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK” LUB „NIE DOTYCZY”.",
+    "ocena": "TAK / NIE / NIE\nDOTYCZY\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "F-05",
+    "nazwa": "Projekt hybrydowy",
+    "definicja": "Jeśli projekt jest po etapie wyboru partnera prywatnego, to czy spełnia:\n− warunki określone w art. 40 Ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań\nfinansowanych ze środków europejskich w perspektywie finansowej 2021-2027, tj.:\no czy projekt polega na wspólnej realizacji projektu przez partnerstwo publiczno-prywatne,\no którym mowa w art. 2 pkt 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr\n2021/1060 z dnia 24 czerwca 2021 r. oraz\no czy wybór partnera prywatnego w celu realizacji projektu hybrydowego został\nprzeprowadzony zgodnie z przepisami prawa wynikającymi z art. 4 ustawy z dnia\n19 grudnia 2008 r. o partnerstwie publiczno-prywatnym;\n− wymogi dotyczące projektów hybrydowych, określone w Wytycznych dotyczących zagadnień\nzwiązanych z przygotowaniem projektów inwestycyjnych, w tym hybrydowych na lata 2021-\n2027 (obowiązujących na dzień ogłoszenia o naborze), w szczególności związane\nz przygotowaniem oceny efektywności, stanowiącej załącznik do wniosku o dofinansowanie\ni wskazującej, że formuła hybrydowa jest optymalna do realizacji projektu.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK” LUB „NIE DOTYCZY”.",
+    "ocena": "TAK / NIE / NIE\nDOTYCZY\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      4
+    ]
+  },
+  {
+    "id": "F-06",
+    "nazwa": "Miejsce realizacji projektu",
+    "definicja": "Czy projekt będzie realizowany w granicach administracyjnych województwa łódzkiego?\nWeryfikacji podlega miejsce realizacji projektu wskazane we wniosku o dofinansowanie.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      4
+    ]
+  },
+  {
+    "id": "F-07",
+    "nazwa": "Zasady równościowe",
+    "definicja": "Ocenie podlega:\n1) czy projekt będzie miał pozytywny wpływ na realizację zasady równości szans\ni niedyskryminacji, w tym dostępności dla osób z niepełnosprawnościami poprzez\nzaplanowanie dostępności dla wszystkich użytkowników produktów (w tym usług) projektów,\nbez jakiejkolwiek dyskryminacji w zgodzie z Wytycznymi dotyczącymi realizacji zasad\nrównościowych w ramach funduszy unijnych na lata 2021-2027 (obowiązujących na dzień\nogłoszenia o naborze);\n2) czy projekt jest zgodny z zasadą równości kobiet i mężczyzn w rozumieniu wskazanym\nw Wytycznych dotyczących realizacji zasad równościowych w ramach funduszy unijnych na\nlata 2021-2027 (obowiązujących na dzień ogłoszenia o naborze)?\nOcena będzie prowadzona oddzielnie w odniesieniu do każdej z ww. zasad.\n3) Jeśli planowane są inwestycje w infrastrukturę lub usługi edukacyjne, społeczne lub\nzdrowotne, czy projekt jest zgodny z:\n− Komentarzami Ogólnymi 4 i 5 i uwagami końcowymi dla Polski Komitetu ONZ ds. Praw\nOsób Niepełnosprawnych;\n− Strategią na rzecz praw osób z niepełnosprawnościami na lata 2021-2030;\n− Europejskim Filarem Praw Socjalnych;\n− Konwencją ONZ o Prawach Dziecka;\n− strategią deinstytucjonalizacji (tj. Strategią rozwoju usług społecznych, polityka publiczna\ndo roku 2030 (z perspektywą do 2035 r.) oraz z Regionalnym planem rozwoju usług\nspołecznych i deinstytucjonalizacji dla województwa łódzkiego na lata 2026-2027 w\nzakresie infrastruktury i usług społecznych oraz Zdrową Przyszłością. Ramy strategiczne\nrozwoju systemu ochrony zdrowia na lata 2021-2027, z perspektywą do 2030 roku w\nzakresie infrastruktury i usług zdrowotnych)?\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK” DLA PUNKTÓW 1-2\nORAZ GDY OCENA BRZMI „TAK” LUB „NIE DOTYCZY” DLA PUNKTU 3.",
+    "ocena": "TAK / NIE / NIE\nDOTYCZY (DLA\nPUNKTU 3)\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "F-08",
+    "nazwa": "Działania dyskryminujące",
+    "definicja": "Jeśli wnioskodawcą (partnerem) jest jednostka samorządu terytorialnego (lub podmiot przez nią\nkontrolowany lub od niej zależny), ocenie podlega, czy jednostka ta (lub podmiot przez nią\nkontrolowany lub od niej zależny) nie podjęła jakichkolwiek działań dyskryminujących,\nw szczególności nie przyjęła obowiązujących aktów prawnych, które są sprzeczne z zasadami,\no których mowa w art. 9 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr\n2021/1060 z dnia 24 czerwca 2021 r. w zakresie odnoszącym się do płci, rasy, pochodzenia\netnicznego, religii lub światopoglądu, niepełnosprawności, wieku lub orientacji seksualnej.\nWeryfikacja dokonywana będzie na podstawie treści wniosku oraz oświadczenia składanego\nprzez wnioskodawcę (partnera) oraz innych źródeł informacji, znanych na etapie oceny i wyboru\nprojektu, na podstawie których IZ lub IP może stwierdzić podejmowanie działań dyskryminujących\n(np. wyników kontroli, prawomocnych wyroków sądu, opinii Rzecznika Praw Obywatelskich).\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK” LUB „NIE DOTYCZY”.",
+    "ocena": "TAK / NIE / NIE\nDOTYCZY\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      5
+    ]
+  },
+  {
+    "id": "F-09",
+    "nazwa": "KPP",
+    "definicja": "Czy projekt jest zgodny z Kartą Praw Podstawowych Unii Europejskiej z dnia 7 czerwca 2016 r.,\nco na etapie oceny wniosku o dofinansowanie należy rozumieć jako brak sprzeczności pomiędzy\nzapisami wniosku o dofinansowanie a wymogami KPP odnoszącymi się do zakresu projektu lub\nstwierdzenie, że te wymagania są neutralne wobec zakresu i zawartości projektu.\nDla wnioskodawców i oceniających mogą być pomocne przyjęte przez Komisję Europejską\nWytyczne dotyczące zapewnienia poszanowania Karty praw podstawowych Unii Europejskiej przy\nwdrażaniu europejskich funduszy strukturalnych i inwestycyjnych, w szczególności załącznik nr\nIII.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      6
+    ]
+  },
+  {
+    "id": "F-10",
+    "nazwa": "KPON",
+    "definicja": "Czy projekt jest zgodny z Konwencją o Prawach Osób Niepełnosprawnych sporządzoną w Nowym\nJorku dnia 13 grudnia 2006 roku, co na etapie oceny wniosku o dofinansowanie należy rozumieć\njako brak sprzeczności pomiędzy zapisami wniosku o dofinansowanie a wymogami KPON\nodnoszącymi się do zakresu projektu lub stwierdzenie, że te wymagania są neutralne wobec\nzakresu i zawartości projektu.\nW kontekście art. 19 Konwencji dla wnioskodawców i oceniających mogą być pomocne przyjęte\nprzez Komisję Europejską Wytyczne dotyczące niezależnego życia i włączenia społecznego osób\nz niepełnosprawnościami w kontekście finansowania UE.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      6
+    ]
+  },
+  {
+    "id": "F-11",
+    "nazwa": "Zrównoważony rozwój",
+    "definicja": "Ocenie podlega czy działania przewidziane do realizacji w projekcie są zgodne z zasadą\nzrównoważonego rozwoju wynikającą z art. 9 ust. 4 rozporządzenia Parlamentu Europejskiego\ni Rady (UE) nr 2021/1060 z dnia 24 czerwca 2021 r.\nWe wniosku o dofinansowanie należy przedstawić uzasadnienie dla zgodności z celami\nzrównoważonego rozwoju ONZ, Porozumienia Paryskiego oraz zasadą \"nie czyń poważnych\nszkód\" . W ramach potwierdzenia spełnienia przez projekt:\n− celów zrównoważonego rozwoju ONZ – należy odnieść się do tych celów, które dotyczą\ndanego rodzaju projektów,\n− celów Porozumienia Paryskiego – należy przedstawić jak projekt wspiera działania\nrespektujące standardy i priorytety klimatyczne UE,\n− zasady „nie czyń poważnych szkód” – wnioskodawca potwierdza, że realizacja projektu nie\nspowoduje znaczących szkód (zapewniona jest zgodność z zapisami dla danego typu\nprojektu, w ramach którego realizowany jest projekt, zawartymi w analizie pn. Ocena DNSH\ntypów przedsięwzięć realizowanych w ramach programu regionalnego Fundusze Europejskie\ndla Łódzkiego 2021-2027).\nWnioskodawca przedstawia uzasadnienie spełnienia zasady zrównoważonego rozwoju\nw odniesieniu do całego projektu, wykazując spójność działań projektowych z ww. zasadami oraz\nich wpływ na ograniczenie negatywnego oddziaływania na środowisko i klimat.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "F-12",
+    "nazwa": "Przeniesienie produkcji",
+    "definicja": "Czy projekt nie obejmuje działań, które stanowiły część operacji podlegającej przeniesieniu\nprodukcji zgodnie z art. 66 rozporządzenia Parlamentu Europejskiego\ni Rady (UE) nr 2021/1060 z dnia 24 czerwca 2021 r. lub które stanowiłyby przeniesienie\ndziałalności produkcyjnej zgodnie z art. 65 ust. 1 lit. a) tego rozporządzenia.\nWeryfikacja dokonywana będzie na podstawie oświadczenia składanego przez wnioskodawcę\n(partnera).\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK” .",
+    "ocena": "TAK/NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      7
+    ]
+  },
+  {
+    "id": "F-13",
+    "nazwa": "Właściwa metoda rozliczania wydatków",
+    "definicja": "Czy zastosowano właściwą metodę rozliczania wydatków?\nOcenie podlega, czy w przypadku, gdy wyrażony w PLN łączny koszt projektu:\n− nie przekroczy równowartości 200 tys. EUR, projekt rozliczany jest za pomocą uproszczonych\nmetod rozliczania wydatków określonych w Regulaminie wyboru projektów (do przeliczenia\nłącznego kosztu projektu stosuje się miesięczny obrachunkowy kurs wymiany waluty\nstosowany przez KE, aktualny na dzień ogłoszenia naboru: https://ec.europa.eu/info/funding-\ntenders/procedures-guidelines-tenders/information-contractors-and-beneficiaries/exchange-\nrate-inforeuro en)?\n_\nObowiązek zastosowania uproszczonych metod rozliczania wydatków nie dotyczy projektów\notrzymujących wsparcie w ramach pomocy publicznej, które nie stanowi pomocy de minimis,\nw tym projektów łączących pomoc publiczną i pomoc de minimis. Jeśli jednak w projekcie\nkwalifikowane są koszty pośrednie, wówczas obowiązkowe jest ich rozliczenie stawką\nryczałtową.\n− przekracza równowartość 200 tys. EUR, koszty bezpośrednie projektu rozliczane są na\npodstawie rzeczywiście ponoszonych wydatków (do przeliczenia łącznego kosztu projektu\nstosuje się miesięczny obrachunkowy kurs wymiany waluty stosowany przez KE, aktualny na\ndzień ogłoszenia naboru: https://ec.europa.eu/info/funding-tenders/procedures-guidelines-\ntenders/information-contractors-and-beneficiaries/exchange-rate-inforeuro en)?\n_\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      7
+    ]
+  },
+  {
+    "id": "M-01",
+    "nazwa": "Zgodność z typem projektu",
+    "definicja": "Czy projekt jest zgodny z wynikającym z programu FEŁ2027 co najmniej jednym z typów projektów\n(i jego doprecyzowaniem w opisie działania) określonych w Szczegółowym opisie priorytetów\nFEŁ2027 (obowiązującym na dzień ogłoszenia o naborze) i wskazanych w Regulaminie wyboru\nprojektów?\nCzy projekt wpisuje się w cel szczegółowy dla danego działania wskazany w Regulaminie wyboru\nprojektów?\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      8
+    ]
+  },
+  {
+    "id": "M-02",
+    "nazwa": "Zgodność projektu z obowiązującymi przepisami",
+    "definicja": "W ramach kryterium ocenie podlegać będzie czy projekt został przygotowany zgodnie\nz obowiązującymi przepisami, dotyczącymi zakresu przedstawionego w projekcie, odnoszącymi\nsię do:\n− pomocy publicznej lub pomocy de minimis,\n− prawa budowlanego,\n− ochrony środowiska, w tym:\no Ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego\nochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania\nna środowisko i Dyrektywą Parlamentu Europejskiego i Rady 2011/92/UE z dnia\n13 grudnia 2011 r. w sprawie oceny skutków wywieranych przez niektóre przedsięwzięcia\npubliczne i prywatne na środowisko;\no Ustawą z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska i Dyrektywą Parlamentu\nEuropejskiego i Rady 2009/147/WE z dnia 30 listopada 2009 r. w sprawie ochrony\ndzikiego ptactwa;\no Ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody i Dyrektywą Rady 92/43/EWG\nz dnia 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory;\no Ustawą z dnia 20 lipca 2017 r. Prawo wodne i Dyrektywą Parlamentu Europejskiego\ni Rady 2000/60/WE z dnia 23 października 2000 r. ustanawiającą ramy wspólnotowego\ndziałania w dziedzinie polityki wodnej\noraz\nWytycznymi w sprawie działań naprawczych w odniesieniu do projektów współfinansowanych\nw okresie programowania 2014 – 2020 oraz ubiegających się o współfinansowanie w okresie 2021\n– 2027 z Funduszy UE, dotkniętych naruszeniem 2016/2046 w zakresie specustaw, dla których\nprowadzone jest postępowanie w sprawie oceny oddziaływania na środowisko.\nJeżeli realizacja projektu zgłoszonego do objęcia dofinansowaniem rozpoczęła się przed dniem\nzłożenia wniosku o dofinansowanie, oceniane będzie, czy w okresie tym przy realizacji projektu\nprzestrzegano ww. przepisów prawa dotyczących danego projektu.\nW ramach oceny zgodności projektu z obowiązującymi przepisami odnoszącymi się do pomocy\npublicznej lub pomocy de minimis, weryfikacji podlega także, czy wnioskodawca (partner)\nwystępujący o wsparcie na ich podstawie nie podlega wykluczeniu z ubiegania się\no dofinansowanie na podstawie warunków określonych w tych rozporządzeniach.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK” LUB „NIE DOTYCZY”.",
+    "ocena": "TAK / NIE / NIE\nDOTYCZY\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      8,
+      9
+    ]
+  },
+  {
+    "id": "M-03",
+    "nazwa": "Wykonalność techniczna, technologiczna projektu",
+    "definicja": "Ocenie podlegają następujące elementy:\n− czy opis proponowanych technologii, elementów inwestycji, parametrów technicznych\ninwestycji jest poprawny;\n− czy zaplanowane działania, materiały, technologie, usługi wystarczą do zrealizowania\nprojektu;\n− czy projekt jest wykonalny według planowanego harmonogramu, zakresu rzeczowego,\nokoliczności warunkujących terminową realizację projektu (w tym czy wnioskodawca\nuwzględnił możliwe do przewidzenia ryzyka, wpływające na okres realizacji projektu, takie jak\nm.in. czasochłonny proces wykonania ekspertyz, uzyskania opinii, pozwoleń, opóźnienia\nw wyborze wykonawcy, czy realizacji robót budowlanych);\n− czy przyjęte rozwiązania techniczne, technologiczne są co najmniej zgodne z obowiązującymi\nstandardami w danym zakresie, czy są zgodne z wymogami prawa.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      9
+    ]
+  },
+  {
+    "id": "M-04",
+    "nazwa": "Wykonalność finansowa i trwałość projektu",
+    "definicja": "Ocenie podlega:\n1) czy wnioskodawca zapewni środki niezbędne do sfinansowania wkładu własnego na\npodstawie złożonego oświadczenia we wniosku o dofinansowanie (weryfikacja na podstawie\nzłożonego oświadczenia i ewentualnych dodatkowych dokumentów przedstawionych na\nwezwanie oceniających)..\nŹródła finansowania projektu muszą zapewniać finansowanie wkładu własnego z tytułu\nwydatków kwalifikowalnych oraz niekwalifikowalnych;\n2) czy wnioskodawca wykazał potencjał finansowy do realizacji projektu – ocenie podlegać\nbędzie kondycja finansowa wnioskodawcy, w tym dołączone do wniosku o dofinansowanie\ndokumenty określone w Regulaminie wyboru projektów;\nW przypadku powstania wątpliwości w zakresie posiadanego przez Wnioskodawcę\npotencjału finansowego do realizacji projektu lub deklarowanego w oświadczeniu\nzapewnienia wkładu własnego, wnioskodawca zostanie poproszony o przedstawienie\ndokumentów potwierdzających możliwość zapewnienia wkładu własnego lub\npotwierdzających realność i dostępność źródeł finansowania wkładu własnego.\nOcena, że Wnioskodawca wykazuje potencjał finansowy do realizacji projektu nie jest\ndokonywana wyłącznie na podstawie oświadczenia o zapewnieniu środków niezbędnych na\nsfinansowanie wkładu własnego.\n3) czy wnioskodawca ma niezbędne zasoby i mechanizmy finansowe, aby pokryć koszty\neksploatacji i utrzymania objętych projektem inwestycji w infrastrukturę lub inwestycji\nprodukcyjnych, tak by zapewnić stabilność ich finansowania co najmniej w okresie trwałości\nprojektu, zgodnie z podrozdziałem 2.6 Trwałość projektu z Wytycznych dotyczących\nkwalifikowalności wydatków na lata 2021-2027 (obowiązujących na dzień ogłoszenia\no naborze);\n4) czy wnioskodawca nie znajduje się w trudnej sytuacji w rozumieniu unijnych przepisów\ndotyczących pomocy państwa, w szczególności Rozporządzenia Komisji (UE) Nr 651/2014\nz dnia 17 czerwca 2014 r.;\n5) jeśli w regulaminie wyboru projektów wymagane jest załączenie analizy finansowo-\nekonomicznej:\n− czy założenia przyjęte w analizie finansowo-ekonomicznej projektu zostały przygotowane\nprawidłowo, w szczególności, czy podane źródła szacunku nakładów i przychodów są\npoprawne, czy założenia i uwarunkowania ekonomiczne są racjonalne i umożliwiają\nosiągnięcie jak najwyższego stopnia wykorzystania inwestycji przez odbiorców.\nWeryfikacji podlegać będzie również prawidłowość metodologiczna i rachunkowa, tj.\npoprawność dokonanych wyliczeń, kalkulacji przychodów, prognozy kosztów.\nW przypadku projektów o wartości nakładów inwestycyjnych powyżej 50 mln PLN\nweryfikowana jest zgodność analizy finansowo-ekonomicznej z Wytycznymi dotyczącymi\nzagadnień związanych z przygotowaniem projektów inwestycyjnych, w tym hybrydowych\nna lata 2021-2027 (obowiązujących na dzień ogłoszenia o naborze);\n− czy dołączony opis do założeń przyjętych w analizie finansowo-ekonomicznej projektu\nzawiera uzasadnienie i wyjaśnienia w zakresie przyjętej metodyki sporządzenia analizy\noraz danych zawartych w analizie finansowo-ekonomicznej projektu, w tym prognoz\ndotyczących m.in. przychodów, kosztów, przepływów pieniężnych etc.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK” DLA PUNKTÓW 1-4\nORAZ „TAK” LUB „NIE DOTYCZY” DLA PUNKTU 5.",
+    "ocena": "TAK / NIE / NIE\nDOTYCZY (DLA\nPUNKTU 5)\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      9,
+      10
+    ]
+  },
+  {
+    "id": "M-05",
+    "nazwa": "Wykonalność instytucjonalna projektu",
+    "definicja": "Oceniana jest zdolność instytucjonalna do realizacji projektu, a także zapewnienia jego trwałości\n(zgodnie Podrozdziałem 2.6. Trwałość projektu Wytycznych dotyczących kwalifikowalności\nwydatków na lata 2021-2027, obowiązujących na dzień ogłoszenia o naborze), w tym posiadanie\nkadry i zaplecza technicznego gwarantującego wykonalność i trwałość projektu pod względem\ntechnicznym i organizacyjnym, w tym czy:\n− wnioskodawca jest gotowy do realizacji projektu, tj. czy przygotowano odpowiedni do skali\ni złożoności projektu sposób jego wdrażania ;\n− sposób zarządzania projektem jest adekwatny do jego zakresu i zapewni jego sprawną,\nefektywną i terminową realizację;\n− wnioskodawca posiada zdolność do zapewnienia trwałości efektów projektu,\nw szczególności poprzez utrzymanie rezultatów oraz zasobów niezbędnych do ich\nfunkcjonowania po zakończeniu realizacji projektu.\nProjekt uznaje się za spełniający kryterium, jeżeli wnioskodawca wykazuje przygotowanie\ninstytucjonalne zapewniające sprawną, efektywną i terminową realizację projektu oraz jego\ntrwałość w wymaganym okresie.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      10,
+      11
+    ]
+  },
+  {
+    "id": "M-06",
+    "nazwa": "Kwalifikowalność kosztów w projekcie",
+    "definicja": "Ocenie podlega, czy koszty wykazane we wniosku jako kwalifikowalne są uzasadnione,\nracjonalne, niezbędne do realizacji projektu i zaplanowane w odpowiedniej wysokości oraz są\nzgodne z warunkami i procedurami dotyczącymi kwalifikowalności wydatków określonymi\nw Wytycznych dotyczących kwalifikowalności wydatków na lata 2021-2027 oraz Zasadach\nkwalifikowania wydatków w ramach programu regionalnego Fundusze Europejskie dla Łódzkiego\n2021-2027 w wersji obowiązującej w dniu poniesienia wydatku lub, jeśli wydatek nie został jeszcze\nponiesiony – w dniu ogłoszenia o naborze.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      11
+    ]
+  },
+  {
+    "id": "M-07",
+    "nazwa": "Budżet projektu",
+    "definicja": "Czy w projekcie:\n− kwota dofinansowania jest zgodna z przyjętym poziomem dofinansowania;\n− wysokość dofinansowania jest zgodna z przepisami dotyczącymi pomocy publicznej;\n− procentowa wysokość dofinansowania jest zgodna z wartością określoną\nw Regulaminie wyboru projektów;\n− zastosowano odpowiednią stawkę ryczałtową i określono właściwą wysokość kosztów\npośrednich;\n− wysokość i źródło wkładu własnego są zgodne z Regulaminem wyboru projektów;\n− prawidłowo oznaczono kategorie wydatków;\n− wybrano prawidłowy limit kosztów i prawidłowo określono wysokość wydatków nim objętych;\n− wysokość wydatków jest zgodna z limitem w zakresie cross-financingu określonym\nw Szczegółowym opisie priorytetów FEŁ2027 (obowiązującym na dzień ogłoszenia\no naborze) dla działania, które zostało wskazane w Regulaminie wyboru projektów.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      11,
+      12
+    ]
+  },
+  {
+    "id": "M-08",
+    "nazwa": "Realność wskaźników",
+    "definicja": "Ocenie podlega, czy:\n− Wnioskodawca wybrał z listy wskaźników wszystkie wskaźniki, które wraz z przyjętymi\nwartościami są adekwatne do zakresu rzeczowego projektu i celów, jakie projekt ma osiągnąć\noraz wskazują, że projekt skutecznie przyczynia się do osiągnięcia celu szczegółowego dla\ndanego działania, wskazanego w Regulaminie wyboru projektów,\n− określone wartości wskaźników zostały uzasadnione i są oszacowane na podstawie realnych\nzałożeń uwzględnionych we wniosku o dofinansowanie i mogą zostać osiągnięte przy danych\nnakładach i założonym sposobie realizacji projektu,\n− prawidłowo określono sposób pomiaru wskaźników,\n− poprawnie dobrano wskaźniki dla rozliczenia kwot ryczałtowych (jeśli dotyczy).\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      12
+    ]
+  },
+  {
+    "id": "M-09",
+    "nazwa": "Odporność infrastruktury na zmiany klimatu",
+    "definicja": "Czy Wnioskodawca przedłożył oświadczenie, że planowana infrastruktura o przewidywanej\ntrwałości wynoszącej co najmniej pięć lat przewidziana w ramach projektu jest odporna na zmiany\nklimatu, zgodnie z podrozdziałem 3.3. Przystosowanie się do zmiany klimatu (odporność na\nzmianę klimatu) z Wytycznych technicznych dotyczących weryfikacji infrastruktury pod względem\nwpływu na klimat w latach 2021–2027 (2021/C 373/01).\nPrzez infrastrukturę należy rozumieć budynki, elementy infrastruktury oparte na zasobach\nprzyrody, infrastrukturę sieciową kluczową dla funkcjonowania współczesnej gospodarki\ni społeczeństwa, systemy gospodarowania odpadami wygenerowanymi przez przedsiębiorstwa\ni gospodarstwa domowe oraz inne rzeczowe aktywa trwałe z szerszych obszarów polityki, w tym\nkomunikacji, służb ratunkowych, energetyki, finansów, żywności, sektora rządowego, opieki\nzdrowotnej, kształcenia i szkolenia, badań, ochrony ludności, transportu i gospodarki odpadami\nlub wodnej.\nPrzez uodparnianie na zmiany klimatu należy rozumieć proces mający na celu zapobieganie\npodatności infrastruktury na potencjalne długoterminowe skutki zmian klimatu, przy jednoczesnym\nzapewnieniu przestrzegania zasady „efektywności energetycznej przede wszystkim” oraz\nzgodności poziomu emisji gazów cieplarnianych wynikających z projektu z celem osiągnięcia\nneutralności klimatycznej w 2050 r.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK” LUB „NIE DOTYCZY”.",
+    "ocena": "TAK / NIE / NIE\nDOTYCZY\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      12
+    ]
+  },
+  {
+    "id": "M-10",
+    "nazwa": "Inwestycje produkcyjne w przedsiębiorstwach innych niż MŚP",
+    "definicja": "Czy projekt dotyczący wsparcia inwestycji produkcyjnych w rozumieniu motywu 38\nRozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1058 z dnia 24 czerwca 2021 r.\nw sprawie Europejskiego Funduszu Rozwoju Regionalnego i Funduszu Spójności\nw przedsiębiorstwach innych niż MŚP, spełnia przynajmniej jeden z warunków wskazanych w art.\n5 ust. 2 ww. Rozporządzenia .\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK” LUB „NIE DOTYCZY”.",
+    "ocena": "TAK / NIE / NIE\nDOTYCZY\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      12,
+      13
+    ]
+  },
+  {
+    "id": "M-11",
+    "nazwa": "Uzasadniona opinia Komisji Europejskiej",
+    "definicja": "Czy projektu nie dotyczy bezpośrednio uzasadniona opinia Komisji Europejskiej\nw sprawie naruszenia, na mocy art. 258 Traktatu o funkcjonowaniu Unii Europejskiej,\nkwestionująca zgodność z prawem i prawidłowość wydatków lub wykonania projektu.\nDotyczy to projektów, które miałyby zostać zrealizowane na podstawie prawa, co do którego\nKomisja ma wątpliwości opisane w uzasadnionej opinii wydanej na podstawie art. 258 TFUE.\nKryterium nie dotyczy projektów, które rozwiązują problemy wskazane przez Komisję w takiej\nopinii.\nWeryfikacja dokonywana będzie na podstawie wykazu decyzji dotyczących uchybień\nzobowiązaniom państwa członkowskiego dostępnego na stronie internetowej\nhttps://ec.europa.eu/implementing-eu-law/search-infringement-\ndecisions/?lang code=pl&langCode=PL\n_\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK” LUB „NIE DOTYCZY”.",
+    "ocena": "TAK / NIE / NIE\nDOTYCZY\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      13
+    ]
+  },
+  {
+    "id": "G-01",
+    "nazwa": "Przygotowanie projektu",
+    "definicja": "Ocenie podlega stopień przygotowania projektu do wdrożenia.\nW zależności od typu projektu badane będzie dołączenie\ndo wniosku o dofinansowanie dokumentów niezbędnych\ndo rozpoczęcia wszystkich inwestycji objętych projektem, m.in.\nposiadanie wymaganej dokumentacji technicznej i projektowej,\ndokumentacji niezbędnej do przeprowadzenia zamówień.\nW rozumieniu niniejszego kryterium przez inwestycję należy\npojmować działania stanowiące główny przedmiot projektu (roboty\nbudowlane, dostawy, usługi). Natomiast, nie stanowią inwestycji\ndziałania je poprzedzające, tj. uzyskanie niezbędnych\ndokumentów, bez których nie jest możliwe rozpoczęcie realizacji\ninwestycji (np. projektu budowlanego, pozwolenia na budowę),\ntakże wtedy gdy są one elementem jednego zamówienia\npublicznego w ramach trybu „zaprojektuj i wybuduj”.\nPUNKTACJA:\n0 – wnioskodawca nie dołączył do wniosku o dofinansowanie\nwszystkich dokumentów niezbędnych do rozpoczęcia inwestycji\nobjętych projektem, co oznacza, że w momencie składania\nwniosku o dofinansowanie do rozpoczęcia realizacji wszystkich\ninwestycji objętych projektem konieczne jest pozyskanie\ndokumentów innych niż umowa o dofinansowanie projektu.\n6 – wnioskodawca dołączył do wniosku o dofinansowanie\nwszystkie dokumenty niezbędne do rozpoczęcia wszystkich\ninwestycji objętych projektem, co oznacza, że w momencie\nskładania wniosku o dofinansowanie do rozpoczęcia realizacji\nwszystkich inwestycji objętych projektem nie jest konieczne\npozyskanie innych dokumentów niż umowa o dofinansowanie\nprojektu.\nW przypadku wniosku obejmującego roboty budowlane\ndokumenty te stanowią dokumentację techniczną będącą\nzałącznikiem do wniosku o wydanie pozwolenia na budowę bądź\ntożsamego zezwolenia na realizację robót albo stanowią\nprzygotowane zgłoszenie budowy lub wykonywania innych robót\nbudowlanych.\nW przypadku wniosku obejmującego dostawy lub usługi\ndokumenty te stanowią obligatoryjny załącznik do wniosku o\ndofinansowanie „Specyfikację dostaw i usług”.",
+    "ocena": "0/6",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      13,
+      14
+    ]
+  },
+  {
+    "id": "G-02",
+    "nazwa": "Zasada „n+3”",
+    "definicja": "Czy wnioskodawca zaplanował zakończenie projektu w ciągu 36 miesięcy\nod planowanego terminu jego rozpoczęcia.\nPUNKTACJA:\n0 – projekt nie spełnia powyższego wymogu\n6 – projekt spełnia powyższy wymóg",
+    "ocena": "0/6",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      14
+    ]
+  },
+  {
+    "id": "G-03",
+    "nazwa": "Współpraca międzynarodowa",
+    "definicja": "Czy projekt jest powiązany z innymi programami międzynarodowymi lub\nprojektami międzynarodowymi tj.:\n− Wnioskodawca opisał we wniosku o dofinansowanie jak planuje\nwykorzystać w swoim projekcie dobre praktyki wypracowane\nw ramach programów międzynarodowych lub projektów\nmiędzynarodowych, lub\n− Wnioskodawca opisał we wniosku o dofinansowanie w jaki sposób\ni w jakim zakresie planuje wymianę wiedzy, konsultacje lub realizację\nprojektu we współpracy z partnerami z innych krajów w ramach\nprogramów międzynarodowych lub projektów międzynarodowych, lub\n− Wnioskodawca opisał we wniosku o dofinansowanie w jakim zakresie\njego projekt jest komplementarny (wzajemnie uzupełniający się w celu\nosiągnięcia wspólnego, większego efektu – synergii) z programem lub\nprojektem międzynarodowym.\nPUNKTACJA:\n0 – projekt nie spełnia powyższego warunku\n1 – projekt spełnia powyższy warunek",
+    "ocena": "0/1",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      14,
+      15
+    ]
+  },
+  {
+    "id": "G-04",
+    "nazwa": "Zielone zamówienia",
+    "definicja": "Oceniane będzie zastosowanie zielonych zamówień.\nPrzez zielone zamówienia należy rozumieć politykę, w ramach której\nzamawiający włącza kryteria lub wymagania ekologiczne do procesu\nzakupów (procedur udzielania zamówień) i poszukuje rozwiązań\nograniczających negatywny wpływ towarów, usług i robót budowlanych\nna środowisko oraz uwzględniających cały cykl życia produktów,\na poprzez to wpływa na rozwój i upowszechnienie technologii\nśrodowiskowych.\nW ramach kryterium ocenie podlega w szczególności:\n– zakres zastosowania zielonych zamówień w projekcie,\n– jakie kryteria zamierza zastosować Wnioskodawca pod kątem\nuwzględnienia aspektów środowiskowych w odniesieniu do inwestycji\nprzewidzianych w projekcie (uwzględniając rodzaj tych inwestycji);\n– adekwatność i trafność przyjętych kryteriów środowiskowych\nw odniesieniu do zakresu projektu,\n– wpływ zastosowanych rozwiązań na ograniczenie negatywnego\noddziaływania projektu na środowisko.\nPUNKTACJA:\n0 – w projekcie nie planuje się zastosować zielonych zamówień\n1 – w projekcie planuje się zastosować zielone zamówienia",
+    "ocena": "0/1",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      15
+    ]
+  },
+  {
+    "id": "G-05",
+    "nazwa": "Obszary wiejskie (nie dotyczy działań: FELD.01.01 Publiczna infrastruktura badawcza FELD.01.03 PPO FELD.05.02 Rewitalizacja obszarów miejskich FELD.05.03 Rewitalizacja obszarów wiejskich)",
+    "definicja": "Czy planuje się realizację projektu na obszarze wiejskim.\nPołożenie na obszarze wiejskim weryfikowane będzie na podstawie\nrejestru TERYT dostępnego na stronie internetowej Głównego Urzędu\nStatystycznego https://stat.gov.pl/. Kryterium spełniać będzie projekt\nzlokalizowany na obszarze wiejskim, tj.:\n− w gminie wiejskiej (symbol rodzaju jednostki: 2) lub\n− na obszarze wiejskim w gminie miejsko-wiejskiej (symbol rodzaju\njednostki: 5).\nPUNKTACJA:\n0 – nie planuje się realizacji projektu na obszarze wiejskim\n2 – planuje się realizację projektu na obszarze wiejskim",
+    "ocena": "0/2",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      16
+    ]
+  },
+  {
+    "id": "G-06",
+    "nazwa": "Gęstość zaludnienia",
+    "definicja": "Premiowane będą projekty planowane do realizacji na obszarach\no wysokiej koncentracji ludności, tj. obszarach o dużej gęstości\nzaludnienia wg danych Banku Danych Lokalnych dotyczących\nwojewództwa łódzkiego w kategorii: Ludność, grupie: Stan Ludności,\npodgrupie: Gęstość zaludnienia oraz wskaźniki, dostępnych na stronie\ninternetowej Głównego Urzędu Statystycznego\nhttps://bdl.stat.gov.pl/bdl/start wg ostatnich dostępnych na dzień\nogłoszenia naboru danych. W przypadku gmin miejsko-wiejskich\ngęstość zaludnienia brana jest pod uwagę osobno dla obszaru\nmiejskiego i obszaru wiejskiego.\nW sytuacji, gdy projekt planowany jest do realizacji na więcej niż jednym\nobszarze, o liczbie punktów decyduje wyższa z wartości gęstości\nzaludnienia dla poszczególnych obszarów.\nPUNKTACJA:\n0 – planuje się realizację projektu na obszarze o gęstości zaludnienia\nponiżej 80 osób/km2\n1 – planuje się realizację projektu na obszarze o gęstości zaludnienia od\n80 do 500 osób/km2\n2 – planuje się realizację projektu na obszarze o gęstości zaludnienia\npowyżej 500 osób/km2",
+    "ocena": "0/2",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      16
+    ]
+  },
+  {
+    "id": "D1-01",
+    "nazwa": "Kwalifikacja produktu według SAFE",
+    "definicja": "Czy produkt objęty inwestycją jest produktem związanym z obronnością albo innym produktem\ndo celów obronnych w rozumieniu art. 2 pkt 1 albo 2 rozporządzenia Rady (UE) 2025/1106\n(SAFE)?\nProduktem objętym oceną może być produkt końcowy, komponent, podsystem, podzespół albo\noprogramowanie.\nOcenie podlega produkt, którego dotyczy przyrost zdolności przemysłowych wykazany w\nkryterium „Przyrost zdolności przemysłowych”.\nProdukt kwalifikuje się, jeżeli spełnia warunki jednej z poniższych ścieżek.\n1. Produkt związany z obronnością. Wnioskodawca:\n• wskazuje przesłankę określoną w art. 2 lit. a–d dyrektywy 2009/81/WE stanowiącą\npodstawę kwalifikacji produktu;\n• wykazuje cechy, funkcje, właściwości, parametry techniczne lub wymagania produktu\npotwierdzające spełnienie tej przesłanki;\n• określa przeznaczenie i rolę produktu, a jeżeli produkt stanowi część lub rozwiązanie\nskładowe innego produktu lub systemu – wskazuje ten produkt, system lub klasę\nsystemów oraz funkcję, którą w nim pełni.\nJeżeli produkt jest objęty Wspólnym wykazem uzbrojenia Unii Europejskiej, o którym mowa w\nart. 12 wspólnego stanowiska Rady 2008/944/WPZiB, obowiązującym na dzień ogłoszenia\nnaboru, wnioskodawca wskazuje właściwą pozycję i wykazuje zgodność produktu z wykazem.\nBrak produktu w wykazie nie wyklucza jego kwalifikacji, jeżeli wnioskodawca wykaże inną\nwłaściwą podstawę objęcia go zakresem art. 2 dyrektywy 2009/81/WE.\n2. Inny produkt do celów obronnych. Wnioskodawca:\n• wykazuje, że produkt jest niezbędny do celów obronnych lub przeznaczony do takich\ncelów oraz określa jego konkretne i planowane zastosowanie obronne;\n• wykazuje bezpośredni i weryfikowalny związek produktu ze wskazanym zastosowaniem\nobronnym, a jeżeli produkt bezpośrednio służy innemu produktowi, systemowi,\nprocesowi lub zdolności obronnej - wskazuje je i określa rolę produktu.\nW przypadku produktu ogólnego zastosowania bezpośredni związek ze wskazanym\nzastosowaniem obronnym uznaje się za wykazany, jeżeli spełniona jest co najmniej jedna z\nnastępujących przesłanek:\n1. produkt jest projektowany, modyfikowany lub konfigurowany ze względu na wskazane\nzastosowanie obronne, co znajduje odzwierciedlenie w jego cechach, funkcjach,\nparametrach lub wymaganiach;\n2. produkt musi spełniać określone wymagania techniczne, jakościowe, bezpieczeństwa,\ninteroperacyjności, kwalifikacji lub testowania wynikające ze wskazanego zastosowania\nobronnego;\n3. produkt stanowi identyfikowalny element określonego produktu lub systemu obronnego\ni pełni w nim określoną funkcję;\n4. produkt jest niezbędny do wykonania określonego etapu rozwoju, wytwarzania,\ntestowania, integracji, eksploatacji, utrzymania, ochrony, naprawy lub zapewnienia\nciągłości działania określonego produktu lub systemu obronnego, a wnioskodawca\nwskazuje ten produkt lub system, konkretny etap oraz funkcję, której bez zastosowania\nproduktu objętego inwestycją nie można wykonać albo nie można wykonać zgodnie z\nwymaganiami właściwymi dla zastosowania obronnego.\nSamo potencjalne lub ogólne zastosowanie produktu w sektorze obronnym nie wystarcza do\njego kwalifikacji. Związek ze wskazanym zastosowaniem obronnym musi wynikać z cech,\nfunkcji, parametrów, wymagań lub określonej roli produktu.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "id": "D1-02",
+    "nazwa": "Przyrost zdolności przemysłowych",
+    "definicja": "Czy projekt powoduje bezpośredni, mierzalny i weryfikowalny przyrost zdolności przemysłowych\ndotyczących produktu objętego inwestycją?\nPrzyrost względem stanu bazowego może polegać na jednej lub kilku zmianach,\nw szczególności na:\n• uruchomieniu wytwarzania produktu albo nowego procesu lub technologii bezpośrednio\nsłużących jego wytwarzaniu;\n• zwiększeniu zdolności produkcyjnej, skali lub przepustowości;\n• uzyskaniu zdolności do wytwarzania produktu o nowych parametrach technicznych,\njakościowych, użytkowych, niezawodnościowych lub bezpieczeństwa albo spełniającego\nnowe normy, standardy lub wymagania;\n• zwiększeniu elastyczności produkcji, czyli mierzalnej możliwości wytwarzania nowych\nwariantów produktu lub dostosowania profilu produkcji do jego wytwarzania.\nWnioskodawca:\n• określa stan bazowy i docelowy za pomocą tych samych wskaźników, a jeżeli nie jest to\nmożliwe - porównywalnych parametrów technicznych lub jednoznacznych kamieni\nmilowych;\n• wskazuje wartości, jednostki, termin i sposób weryfikacji przyrostu;\n• wskazuje elementy inwestycji bezpośrednio odpowiedzialne za zmianę.\nSam zakup, wymiana, odtworzenie lub modernizacja aktywów nie stanowią przyrostu zdolności\nprzemysłowych, jeżeli nie tworzą nowej ani nie zwiększają istniejącej możliwości wytwarzania\nproduktu.\nStan bazowy ustala się na dzień złożenia wniosku. Zdolność produkcyjną lub przepustowość\nokreśla się przy normalnych i realistycznych warunkach operacyjnych, na podstawie parametrów\ntechnicznych i organizacji produkcji. Pozostałe zdolności określa się za pomocą parametrów\ntechnicznych, zakresu funkcjonalnego albo jednoznacznych kamieni milowych.\nProdukcja pilotażowa lub niskoseryjna musi być ograniczona do zakresu, skali i czasu\nniezbędnych do testowania, walidacji, demonstracji, integracji, potwierdzenia parametrów lub\nprzygotowania produkcji seryjnej.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      19,
+      20
+    ]
+  },
+  {
+    "id": "D1-03",
+    "nazwa": "Szczególne wymogi regulacyjne",
+    "definicja": "Czy wnioskodawca zidentyfikował szczególne wymogi prawne dotyczące projektu i wykazał,\nże może je spełnić w terminie wymaganym do zgodnej z prawem realizacji projektu?\nWnioskodawca:\n• określa status regulacyjny i klasyfikację produktów, technologii, procesów i planowanych\nczynności;\n• identyfikuje mające zastosowanie ograniczenia i obowiązki, w szczególności dotyczące\nwytwarzania, obrotu, transferu technologii, wywozu, pośrednictwa, użytkownika\nkońcowego, wynikające z obowiązujących środków ograniczających (sankcji), a także\ndotyczące ochrony informacji;\n• wskazuje próby, kwalifikacje, certyfikaty i dopuszczenia wymagane przepisami lub\nniezbędne do uzyskania wymaganej decyzji, koncesji, zezwolenia albo uprawnienia oraz\nwymagane rozwiązania organizacyjne, w tym Wewnętrzny System Kontroli, jeżeli jest\nwymagany;\n• określa stan, sposób i termin zapewnienia brakujących elementów oraz wykazuje,\nże zostaną zapewnione przed rozpoczęciem czynności, których dotyczą.\nBrak szczególnych wymogów wymaga uzasadnienia. Samo złożenie wniosku o wydanie\ndokumentu lub uprawnienia nie jest wystarczające, jeżeli z pozostałej dokumentacji nie wynika\nmożliwość i termin jego uzyskania.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      20
+    ]
+  },
+  {
+    "id": "D1-04",
+    "nazwa": "Zapotrzebowanie i przewidywane wykorzystanie produktu",
+    "definicja": "Czy wnioskodawca uzasadnił zapotrzebowanie na produkt objęty inwestycją oraz przedstawił\nkonkretny sposób jego wykorzystania na rynku UE lub w europejskim łańcuchu wartości?\nWnioskodawca:\n• przedstawia aktualne i weryfikowalne informacje uzasadniające zapotrzebowanie na\nprodukt objęty inwestycją;\n• określa przewidywane zastosowanie produktu oraz konkretny sposób jego\nwykorzystania, w szczególności przez sprzedaż, dostawę, integrację lub wykorzystanie\nw dalszym wytwarzaniu.\nSamo ogólne powołanie się na sytuację geopolityczną, wzrost wydatków obronnych lub priorytet\nstrategiczny nie jest wystarczającym uzasadnieniem zapotrzebowania.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      20,
+      21
+    ]
+  },
+  {
+    "id": "P1-01",
+    "nazwa": "Priorytet produktów podwójnego zastosowania",
+    "definicja": "Czy produkt objęty inwestycją jest wymieniony w załączniku I do\nrozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/821,\nw brzmieniu obowiązującym na dzień ogłoszenia naboru?\nPunktacja:\n0 - produkt objęty inwestycją nie jest wymieniony w załączniku I do\nrozporządzenia (UE) 2021/821.\n6 - produkt objęty inwestycją jest wymieniony w załączniku I do\nrozporządzenia (UE) 2021/821.\nWnioskodawca wskazuje właściwą kategorię i pozycję załącznika I\noraz wykazuje zgodność cech, funkcji, parametrów technicznych\nlub wymagań produktu z warunkami tej pozycji.\nPunkty przyznaje się tylko wtedy, gdy pozycja załącznika I\nobejmuje produkt, którego dotyczy przyrost zdolności\nprzemysłowych wykazany w kryterium dostępu. Nie wystarczy, że\nobejmuje jedynie urządzenie, oprogramowanie lub technologię\nwykorzystywane do wytwarzania produktu objętego inwestycją.",
+    "ocena": "0/6",
+    "rozstrzygajace": "Kryterium rozstrzygające I\nstopnia\nJeśli więcej niż jeden projekt\nspełnił kryteria wyboru\nprojektów i uzyskał tę samą\nliczbę punktów, ale kwota\nprzeznaczona na\ndofinansowanie projektów w\ndanym naborze nie pozwala\nna wybór do dofinansowania\nwszystkich projektów o tej\nsamej liczbie punktów,\nwówczas o wyborze projektu\ndo dofinansowania decydują\nkryteria rozstrzygające.",
+    "strony": [
+      21
+    ]
+  },
+  {
+    "id": "P1-02",
+    "nazwa": "Wkład w priorytetowe obszary zdolności obronnych",
+    "definicja": "Czy projekt tworzy lub zwiększa zdolność przemysłową w co\nnajmniej jednym z priorytetowych obszarów zdolności obronnych?\nPrzez priorytetowe obszary zdolności obronnych rozumie się\nobszary ujęte w kategorii pierwszej albo drugiej, o których mowa w\nart. 1 rozporządzenia Rady (UE) 2025/1106 (SAFE), w brzmieniu\nobowiązującym na dzień ogłoszenia naboru.\nPunktacja:\n0 - nie są spełnione warunki przyznania 4 pkt.\n4 – projekt tworzy lub zwiększa zdolność do wytwarzania produktu\nmieszczącego się w co najmniej jednym z powyższych obszarów\nalbo produktu będącego komponentem, podsystemem,\npodzespołem lub oprogramowaniem bezpośrednio służącym\nrozwojowi lub funkcjonowaniu produktu, systemu lub zdolności\nobjętych takim obszarem.\nWnioskodawca wskazuje właściwą kategorię oraz konkretny obszar\nzdolności obronnych ujęty w tej kategorii i wykazuje bezpośredni\nzwiązek produktu objętego inwestycją z produktem, systemem lub\nzdolnością objętymi tym obszarem, w szczególności przez jego\nfunkcje, cechy, parametry lub przewidywane zastosowanie.\nSama możliwość wykorzystania produktu objętego inwestycją we\nwskazanym obszarze nie wystarcza do przyznania punktów.\nWnioskodawca musi wykazać, że produkt mieści się w tym\nobszarze. Jeżeli produkt jest komponentem, podsystemem,\npodzespołem lub oprogramowaniem, musi wykazać, że pełni\nbezpośrednią funkcję w produkcie, systemie lub zdolności objętych\ntym obszarem.",
+    "ocena": "0/4",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      22,
+      23
+    ]
+  },
+  {
+    "id": "P1-03",
+    "nazwa": "Utworzenie nowej zdolności przemysłowej w województwie łódzkim lub w Polsce",
+    "definicja": "Czy projekt tworzy zdolność przemysłową do wytwarzania produktu\nobjętego inwestycją, której dotychczas nie zidentyfikowano w\nwojewództwie łódzkim lub w Polsce?\nPrzez zdolność przemysłową rozumie się techniczną i prawną\nmożliwość powtarzalnego wytwarzania produktu.\nIstnienie zdolności przemysłowej ocenia się przez porównanie\npodstawowej funkcji i przewidywanego zastosowania produktów.\nRóżnice dotyczące modelu, wersji, konfiguracji, producenta lub\nparametrów, które nie powodują zmiany podstawowej funkcji lub\nprzewidywanego zastosowania produktu, nie stanowią podstawy do\nuznania zdolności za nową.\nPunktacja:\n0 - w województwie łódzkim istnieje zdolność przemysłowa do\npowtarzalnego wytwarzania produktu o tej samej podstawowej\nfunkcji i przewidywanym zastosowaniu albo nie wykazano braku\ntakiej zdolności.\n3 - na dzień złożenia wniosku nie zidentyfikowano istniejącej w\nwojewództwie łódzkim zdolności przemysłowej do powtarzalnego\nwytwarzania produktu o tej samej podstawowej funkcji i\nprzewidywanym zastosowaniu, a projekt prowadzi do utworzenia\ntakiej zdolności.\n5 - na dzień złożenia wniosku nie zidentyfikowano istniejącej w\nPolsce zdolności przemysłowej do powtarzalnego wytwarzania\nproduktu o tej samej podstawowej funkcji i przewidywanym\nzastosowaniu, a projekt prowadzi do utworzenia takiej zdolności.\nWnioskodawca wskazuje:\n• produkt objęty inwestycją, jego podstawową funkcję i\nprzewidywane zastosowanie;\n• zakres zdolności przemysłowej tworzonej w wyniku\nprojektu;\n• istniejący stan zdolności przemysłowych w województwie\nłódzkim oraz, w przypadku ubiegania się o 5 pkt, w Polsce,\nw zakresie objętym oceną;\n• źródła informacji stanowiące podstawę ustalenia tego\nstanu.\nBrak istniejącej zdolności przemysłowej w województwie łódzkim\nalbo w Polsce wykazuje się na podstawie udokumentowanego\nrozpoznania obejmującego co najmniej jedno oficjalne źródło\nrejestrowe lub sektorowe oraz co najmniej jedno inne, niezależne\nod wnioskodawcy źródło branżowe, techniczne albo dotyczące\ndostaw lub zamówień. Samo oświadczenie wnioskodawcy nie\nstanowi podstawy przyznania punktów.\nOcena nie obejmuje dostępności produktu, czasu dostaw, wielkości\nzdolności produkcyjnych w UE, liczby lub lokalizacji źródeł dostaw\nani skutków ich zakłócenia.\nPunkty nie sumują się.",
+    "ocena": "0/5",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      23,
+      24
+    ]
+  },
+  {
+    "id": "P1-04",
+    "nazwa": "Skalowalność zdolności przemysłowej",
+    "definicja": "Czy zdolność przemysłowa utworzona lub zwiększona w projekcie\npozwala dalej zwiększyć produkcję ponad wartość docelową\nprzyjętą w projekcie?\nSkalowanie oznacza zwiększenie zdolności ponad wartość\ndocelową przyjętą w projekcie. Nie obejmuje zdolności\nuwzględnionej w wartości docelowej projektu.\nPunktacja:\n0 - nie spełniono warunków wymaganych dla 1 pkt.\n1 - wykazano prognozowaną możliwość zwiększenia docelowej\nzdolności przemysłowej o co najmniej 25% w ciągu 12 miesięcy od\nrozpoczęcia skalowania, bez konieczności realizacji nowej\ninwestycji porównywalnej zakresem z projektem podstawowym.\n2 - wykazano prognozowaną możliwość zwiększenia docelowej\nzdolności przemysłowej o co najmniej 50% w ciągu 12 miesięcy od\nrozpoczęcia skalowania, bez konieczności realizacji nowej\ninwestycji porównywalnej zakresem z projektem podstawowym.\nZwiększenie zdolności może wynikać w szczególności z\npełniejszego wykorzystania mocy produkcyjnych utworzonych lub\nzwiększonych w projekcie, zmiany organizacji produkcji,\nuruchomienia dodatkowych zmian lub rozbudowy tych mocy.\nWnioskodawca wskazuje sposób zwiększenia zdolności,\nwymagane działania, przewidywany czas ich realizacji oraz\ndodatkową zdolność możliwą do osiągnięcia. Prognoza musi\nopierać się na przedstawionych założeniach i być spójna z\nparametrami technicznymi inwestycji.\nPunkty nie sumują się.",
+    "ocena": "0/2",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      25,
+      26
+    ]
+  },
+  {
+    "id": "P1-05",
+    "nazwa": "Kontrola nad kluczową technologią",
+    "definicja": "W jakim stopniu wnioskodawca będzie samodzielny w utrzymaniu i\nwykorzystywaniu kluczowej technologii związanej ze zdolnością\nprzemysłową tworzoną lub zwiększaną w projekcie?\nKluczowa technologia to technologia, oprogramowanie,\ndokumentacja techniczna lub know-how niezbędne do\nuruchomienia albo ciągłego wykorzystywania zdolności\nprzemysłowej objętej projektem.\nPunktacja:\n0 - nie spełniono warunków przyznania 1 pkt.\n1 - wnioskodawca będzie dysponował prawami oraz wiedzą lub\ndostępem technicznym pozwalającymi mu samodzielnie albo przez\nwybrany przez niego podmiot utrzymywać, serwisować lub\nkonfigurować kluczową technologię, bez wyłącznej zależności od\njednego zewnętrznego podmiotu.\n2 - wnioskodawca będzie dysponował prawami oraz wiedzą lub\ndostępem technicznym pozwalającymi mu samodzielnie albo przez\nwybrany przez siebie podmiot utrzymywać, serwisować lub\nkonfigurować kluczową technologię bez wyłącznej zależności od\njednego zewnętrznego podmiotu, a także ją modyfikować lub\nrozwijać, aby dostosować zdolność przemysłową do zmian w\nprodukcie, procesie lub wymaganiach technicznych.\nWnioskodawca wskazuje kluczową technologię, posiadane i\nplanowane prawa, wiedzę i dostęp techniczny oraz sposób i termin\nich zapewnienia.\nWnioskodawca potwierdza te informacje dokumentami\nodpowiednimi do danej technologii, np. warunkami licencji,\ndokumentacją techniczną, ofertą, projektem umowy,\npotwierdzeniem dostawcy albo warunkami mechanizmu escrow.\nSama deklaracja nie wystarcza.\nNa dzień złożenia wniosku nie jest wymagane posiadanie\nwszystkich praw ani zawarcie wiążącej umowy. Jeżeli mają zostać\nzapewnione później, przedstawione dokumenty muszą\npotwierdzać, że jest to realne.\nSpełnienie warunków, za które przyznano punkty, będzie\nweryfikowane w toku realizacji projektu, zgodnie z umową\no dofinansowanie.\nPunkty nie sumują się.",
+    "ocena": "0/2",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      26,
+      27
+    ]
+  },
+  {
+    "id": "P1-06",
+    "nazwa": "Zewnętrzne potwierdzenie zapotrzebowania",
+    "definicja": "Czy zapotrzebowanie i przewidywane wykorzystanie produktu,\nwykazane w kryterium dostępu, zostały potwierdzone przez\npotencjalnego odbiorcę, użytkownika, integratora albo inny\npodmiot, którego działalność jest związana z planowanym\nzastosowaniem obronnym produktu lub europejskim łańcuchem\nwartości, w którym produkt ma być wykorzystany?\nPunktacja:\n0 - nie spełniono warunków do przyznania 2 pkt;\n2 - potencjalny odbiorca, użytkownik, integrator albo inny podmiot,\nktórego działalność jest związana z planowanym zastosowaniem\nobronnym produktu lub europejskim łańcuchem wartości, w którym\nprodukt ma być wykorzystany, potwierdził konkretną potrzebę lub\nzainteresowanie produktem objętym inwestycją oraz jego\nprzewidywane zastosowanie lub sposób wykorzystania.\nPotwierdzenie musi:\n• pozwalać jednoznacznie zidentyfikować produkt albo jego\nkluczowe funkcje, cechy lub parametry;\n• wskazywać własną, konkretną potrzebę lub\nzainteresowanie podmiotu potwierdzającego;\n• określać przewidywane zastosowanie lub sposób\nwykorzystania produktu albo jego miejsce w europejskim\nłańcuchu wartości;\n• wykazywać związek działalności podmiotu\npotwierdzającego z takim zastosowaniem lub\nwykorzystaniem.\nPotwierdzenie musi być aktualne na dzień złożenia wniosku oraz\npozwalać na identyfikację podmiotu i osoby, która je złożyła.\nPotwierdzenie podmiotu powiązanego może stanowić podstawę\npunktacji, jeżeli wskazuje jego własną, konkretną potrzebę oraz\nsposób, w jaki zamierza wykorzystać produkt.\nZa wystarczające potwierdzenie nie uznaje się ogólnych\nrekomendacji, listów poparcia, deklaracji współpracy ani\ndokumentów jedynie powtarzających informacje przedstawione\nprzez wnioskodawcę, jeżeli nie zawierają elementów wskazanych\npowyżej.\nPotwierdzenie nie musi stanowić zobowiązania do zakupu produktu\nani zawarcia współpracy. O przyznaniu punktów decyduje jego\ntreść, a nie forma lub nazwa.",
+    "ocena": "0/2",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "id": "P1-07",
+    "nazwa": "Wkład w bezpieczeństwo i ciągłość dostaw",
+    "definicja": "Czy projekt zwiększa dostępność produktu w UE albo zmniejsza\nzależność dostaw do UE od jednego źródła, ograniczonej liczby\nźródeł lub źródeł trudno zastępowalnych, zlokalizowanych w UE lub\npoza UE?\nPunktacja:\n0 – nie wykazano wpływu projektu;\n2 - poprawa bieżącej dostępności lub ciągłości dostaw w UE.\nWykazano co najmniej jeden z następujących problemów:\n• produkt jest dostępny w UE w ilości niewystarczającej w\nstosunku do wykazanego zapotrzebowania;\n• terminy dostaw do odbiorców w UE są zbyt długie;\n• dostawy do UE są nieregularne lub występują w nich\nistotne przerwy;\nProjekt bezpośrednio ograniczy wskazany problem przez\nzwiększenie dostępności produktu w UE, w szczególności dzięki\nzwiększeniu zdolności produkcyjnych, skróceniu terminów dostaw\nalbo poprawie ciągłości dostaw.\n4 - zmniejszenie zależności od źródeł dostaw. Wykazano co\nnajmniej jeden z następujących problemów:\n• brak jest dostępnego źródła dostaw produktu do UE;\n• dostawy do UE zależą od jednego lub ograniczonej liczby\nźródeł w UE lub poza UE;\n• kilku dostawców korzysta z tego samego źródła\nkluczowego materiału lub komponentu;\nProjekt bezpośrednio ograniczy wskazaną zależność przez\nutworzenie w UE nowego, niezależnego źródła dostaw albo\nzastąpienie dotychczasowego źródła źródłem w UE. Nowe źródło\nmoże służyć również własnej dalszej produkcji wnioskodawcy.\nProblem oraz wpływ projektu wykazuje się aktualnymi\ni weryfikowalnymi informacjami wskazującymi źródło danych,\ncharakter problemu, jego związek z produktem objętym inwestycją\ni oczekiwaną zmianę.\nSamo potwierdzenie zapotrzebowania lub zainteresowania\nproduktem nie stanowi podstawy przyznania punktów, jeżeli nie\nwykazano problemu określonego w kryterium.\nDo przyznania 4 pkt nie jest wymagane spełnienie",
+    "ocena": "0/4",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      29,
+      30
+    ]
+  },
+  {
+    "id": "P1-08",
+    "nazwa": "Wielkość przedsiębiorstwa",
+    "definicja": "Jaki status przedsiębiorstwa posiada wnioskodawca na dzień\nzłożenia wniosku?\nStatus ustala się zgodnie z definicją mikro-, małych i średnich\nprzedsiębiorstw określoną w załączniku I do rozporządzenia\nKomisji (UE) nr 651/2014, w brzmieniu obowiązującym na dzień\nzłożenia wniosku, z uwzględnieniem danych przedsiębiorstw\npartnerskich i powiązanych.\nPunktacja:\n0 - wnioskodawca nie posiada statusu MŚP;\n1 - wnioskodawca jest średnim przedsiębiorstwem;\n2 - wnioskodawca jest małym przedsiębiorstwem;\n3 - wnioskodawca jest mikroprzedsiębiorstwem.\nPunkty nie sumują się.",
+    "ocena": "0/3",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      30,
+      31
+    ]
+  },
+  {
+    "id": "P1-09",
+    "nazwa": "Realizacja wskaźnika",
+    "definicja": "Czy wnioskodawca planuje realizację wskaźnika rezultatu „Miejsca\npracy utworzone we wspieranych jednostkach”?\nPunktacja:\n0 - wnioskodawca nie planuje realizacji powyższego wskaźnika\nalbo, w przypadku dużego przedsiębiorstwa, planuje utworzenie 1\nmiejsca pracy.\n1 - wnioskodawca jest małym przedsiębiorcą i planuje realizację\nwskaźnika na poziomie 1\n1 - wnioskodawca jest średnim przedsiębiorcą i planuje realizację\nwskaźnika na poziomie 1 lub 2\n1 - wnioskodawca jest dużym przedsiębiorcą i planuje realizację\nwskaźnika na poziomie od 2 do 4\n2 - wnioskodawca jest małym przedsiębiorcą i planuje realizację\nwskaźnika na poziomie 2 lub więcej\n2 - wnioskodawca jest średnim przedsiębiorcą i planuje realizację\nwskaźnika na poziomie 3 lub więcej\n2 - wnioskodawca jest dużym przedsiębiorcą i planuje realizację\nwskaźnika na poziomie 5 lub więcej\n3 - wnioskodawca jest mikroprzedsiębiorcą i planuje realizację\nwskaźnika na poziomie 1 lub więcej\nPunkty nie sumują się.",
+    "ocena": "0/3",
+    "rozstrzygajace": "TAK\nKryterium rozstrzygające II\nstopnia\nJeśli więcej niż jeden projekt\nspełnił kryteria wyboru\nprojektów i uzyskał tę samą\nliczbę punktów, ale kwota\nprzeznaczona na\ndofinansowanie projektów w\ndanym naborze nie pozwala\nna wybór do dofinansowania\nwszystkich projektów o tej\nsamej liczbie punktów,\nwówczas o wyborze projektu\ndo dofinansowania decydują\nkryteria rozstrzygające.",
+    "strony": [
+      31,
+      32
+    ]
+  },
+  {
+    "id": "P1-10",
+    "nazwa": "Potwierdzone kompetencje",
+    "definicja": "Czy kompetencje technologiczne wnioskodawcy w obszarze,\nktórego dotyczy projekt, zostały potwierdzone udziałem w\nprogramie akceleracyjnym, udziałem w projekcie wybranym do\nfinansowania w ramach Europejskiego Funduszu Obronnego (EDF)\nalbo uzyskaniem międzynarodowej nagrody lub wyróżnienia?\nPunktacja:\n0 - nie spełniono warunku przyznania punktu.\n1 - wnioskodawca:\n• został zakwalifikowany do udziału w programie DIANA,\nOSA albo równoważnym programie akceleracyjnym w\nwyniku konkurencyjnego naboru oraz uczestniczył w części\nakceleracyjnej tego programu; albo\n• uczestniczył w projekcie wybranym do finansowania w\nramach Europejskiego Funduszu Obronnego (EDF) w\nwyniku konkurencyjnego naboru oraz realizował w nim\nprace technologiczne związane z obszarem, którego\ndotyczy projekt; albo\n• uzyskał międzynarodową nagrodę lub wyróżnienie\nspełniające warunki określone poniżej.\nProgram równoważny musi dotyczyć technologii obronnych lub\npodwójnego zastosowania, obejmować konkurencyjny nabór\ni merytoryczną ocenę uczestników oraz służyć rozwojowi lub\nprzygotowaniu technologii do wdrożenia lub zastosowania.\nNagroda lub wyróżnienie muszą zostać przyznane w konkursie\notwartym dla podmiotów z więcej niż jednego państwa,\nprowadzonym według opublikowanych zasad i na podstawie oceny\nniezależnego jury.\nUdział w programie albo udział w projekcie wybranym do\nfinansowania w ramach EDF albo uzyskanie nagrody lub\nwyróżnienia muszą dotyczyć bezpośrednio wnioskodawcy, nastąpić\nw okresie 5 lat przed złożeniem wniosku oraz potwierdzać\nkompetencje technologiczne przydatne do realizacji projektu\ni związane z obszarem, którego projekt dotyczy.\nSamo zgłoszenie, udział w szkoleniu lub wydarzeniu, członkostwo,\nranking, odpłatne wyróżnienie albo osiągnięcie podmiotu\npowiązanego nie stanowią podstawy przyznania punktu.",
+    "ocena": "0/1",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      32,
+      33
+    ]
+  },
+  {
+    "id": "D2-01",
+    "nazwa": "Miejsce działalności",
+    "definicja": "Czy na dzień złożenia wniosku wnioskodawca posiada siedzibę lub oddział, a w przypadku\nosoby fizycznej prowadzącej działalność gospodarczą - stałe albo dodatkowe stałe miejsce\nwykonywania działalności na terenie województwa łódzkiego?\nW przypadku projektu konsorcjalnego warunek musi spełniać również każdy pozostały członek\nkonsorcjum będący przedsiębiorcą.\nOceny dokonuje się na podstawie właściwych dokumentów rejestrowych.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      34
+    ]
+  },
+  {
+    "id": "D2-02",
+    "nazwa": "Realizacja projektu w konsorcjum (jeżeli dotyczy)",
+    "definicja": "Czy skład konsorcjum i podział zadań zapewniają merytoryczny udział każdego członka\nkonsorcjum w realizacji projektu B+R?\nWnioskodawca wykazuje, że:\n- liderem konsorcjum jest przedsiębiorstwo;\n- poza liderem w projekcie uczestniczy maksymalnie dwóch pozostałych członków konsorcjum;\n- organizacja badawcza, jeżeli uczestniczy w projekcie, jest partnerem projektu, realizuje\nmerytoryczne prace B+R i nie jest podmiotem odpowiedzialnym za gospodarcze wdrożenie\nwyników projektu;\n- każdy członek konsorcjum, w tym lider, realizuje co najmniej jedno merytoryczne zadanie B+R\nzgodne z jego rolą i kompetencjami;\n- zadania członków konsorcjum tworzą spójny zakres prac służący osiągnięciu wspólnego celu\nB+R, a udział każdego członka jest uzasadniony jego kompetencjami i wkładem w osiągnięcie\ntego celu;\n- zadania członków konsorcjum nie polegają na dostarczaniu towarów, świadczeniu usług ani\nwykonywaniu robót budowlanych na rzecz pozostałych członków; członkowie konsorcjum nie\nmogą też zlecać sobie nawzajem prac w projekcie jako podwykonawstwa;\n- łączny udział kosztów kwalifikowalnych przedsiębiorstwa lub przedsiębiorstw stanowi co\nnajmniej 50% kosztów kwalifikowalnych projektu.\nWnioskodawcą jest lider konsorcjum, a pozostali członkowie konsorcjum są partnerami\nprojektu partnerskiego w rozumieniu ustawy wdrożeniowej.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK” LUB „NIE DOTYCZY”.",
+    "ocena": "TAK / NIE / NIE\nDOTYCZY\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      34
+    ]
+  },
+  {
+    "id": "D2-03",
+    "nazwa": "Kwalifikacja rezultatu B+R według SAFE",
+    "definicja": "Czy główny rezultat B+R jest produktem związanym z obronnością albo innym produktem do\ncelów obronnych w rozumieniu art. 2 pkt 1 albo 2 rozporządzenia Rady (UE) 2025/1106 (SAFE)\nlub – jeżeli głównym rezultatem jest technologia albo proces – bezpośrednio służy takiemu\nproduktowi?\nGłównym rezultatem B+R może być produkt końcowy, komponent, podsystem, podzespół,\noprogramowanie, technologia albo proces.\nPrzedmiotem oceny jest główny rezultat B+R. Jeżeli jednak rezultatem jest technologia lub\nproces, ocenie podlega produkt, któremu rezultat ten bezpośrednio służy. Wnioskodawca\nwykazuje bezpośredni związek rezultatu z tym produktem.\nPrzedmiot oceny kwalifikuje się, jeżeli spełnia warunki jednej z poniższych ścieżek:\n1. Produkt związany z obronnością. Wnioskodawca:\n• wskazuje przesłankę określoną w art. 2 lit. a–d dyrektywy 2009/81/WE stanowiącą\npodstawę kwalifikacji przedmiotu oceny;\n• wykazuje cechy, funkcje, właściwości, parametry techniczne lub wymagania przedmiotu\noceny potwierdzające spełnienie tej przesłanki;\n• określa przeznaczenie i rolę przedmiotu oceny, a jeżeli stanowi część lub rozwiązanie\nskładowe innego produktu lub systemu - wskazuje ten produkt, system lub klasę\nsystemów oraz funkcję, którą w nim pełni.\nJeżeli przedmiot oceny jest objęty Wspólnym wykazem uzbrojenia Unii Europejskiej, o którym\nmowa w art. 12 wspólnego stanowiska Rady 2008/944/WPZiB, obowiązującym na dzień\nogłoszenia naboru, wnioskodawca wskazuje właściwą pozycję i wykazuje jego zgodność z\nwykazem. Brak przedmiotu oceny w wykazie nie wyklucza jego kwalifikacji, jeżeli wnioskodawca\nwykaże inną właściwą podstawę objęcia go zakresem art. 2 dyrektywy 2009/81/WE.\n2. Inny produkt do celów obronnych. Wnioskodawca:\n• wykazuje, że przedmiot oceny jest niezbędny do celów obronnych lub przeznaczony do\ntakich celów oraz określa jego konkretne i planowane zastosowanie obronne;\n• wykazuje bezpośredni i weryfikowalny związek przedmiotu oceny ze wskazanym\nzastosowaniem obronnym, a jeżeli przedmiot oceny bezpośrednio służy innemu\nproduktowi, systemowi, procesowi lub zdolności obronnej - wskazuje je i określa rolę\nprzedmiotu oceny.\nW przypadku przedmiotu oceny o ogólnym zastosowaniu bezpośredni związek ze wskazanym\nzastosowaniem obronnym uznaje się za wykazany, jeżeli przedmiot oceny spełnia co najmniej\njedną z następujących przesłanek:\n1. jest projektowany, modyfikowany lub konfigurowany ze względu na wskazane\nzastosowanie obronne, co znajduje odzwierciedlenie w jego cechach, funkcjach,\nparametrach lub wymaganiach;\n2. musi spełniać określone wymagania techniczne, jakościowe, bezpieczeństwa,\ninteroperacyjności, kwalifikacji lub testowania wynikające ze wskazanego zastosowania\nobronnego;\n3. stanowi identyfikowalny element określonego produktu lub systemu obronnego i pełni\nw nim określoną funkcję;\n4. jest niezbędny do wykonania określonego etapu rozwoju, wytwarzania, testowania,\nintegracji, eksploatacji, utrzymania, ochrony, naprawy lub zapewnienia ciągłości\ndziałania określonego produktu lub systemu obronnego, a wnioskodawca wskazuje ten\nprodukt lub system, konkretny etap oraz funkcję, której bez zastosowania przedmiotu\noceny nie można wykonać albo nie można wykonać zgodnie z wymaganiami właściwymi\ndla zastosowania obronnego.\nSamo potencjalne lub ogólne zastosowanie przedmiotu oceny w sektorze obronnym nie\nwystarcza do jego kwalifikacji. Związek ze wskazanym zastosowaniem obronnym musi wynikać\nz jego cech, funkcji, parametrów, wymagań lub określonej roli.\nJeżeli projekt obejmuje kilka rezultatów, warunki jednej ze ścieżek musi spełniać przedmiot\noceny właściwy dla głównego rezultatu B+R, objętego zasadniczym zakresem prac B+R.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      35,
+      36
+    ]
+  },
+  {
+    "id": "D2-04",
+    "nazwa": "Badawczo-rozwojowy charakter projektu",
+    "definicja": "Czy projekt ma charakter B+R, a plan prac B+R jest uzasadniony, spójny i prowadzi do\nokreślonego rezultatu?\nWnioskodawca:\n• przedstawia stan wiedzy i techniki oraz rozwiązanie referencyjne; wskazuje problem\nbadawczy lub technologiczny i wyjaśnia, dlaczego standardowe lub rutynowe\nrozwiązania są niewystarczające;\n• określa nowy lub istotnie ulepszony produkt, proces albo technologię oraz planowane\nfunkcje, cechy, zdolności, parametry lub wymagania rezultatu;\n• przypisuje zadania do badań przemysłowych albo eksperymentalnych prac rozwojowych\ni określa początkowy oraz docelowy poziom TRL; sam początkowy lub docelowy poziom\nTRL nie przesądza o kwalifikacji zadania jako prac B+R;\n• opisuje metody, eksperymenty, testy i walidację, ich przewidywane wyniki oraz\nmierzalne kamienie milowe;\n• identyfikuje kluczowe ryzyka techniczne i badawcze oraz sposób postępowania w razie\nnieosiągnięcia zakładanych wyników.\nRozwiązanie referencyjne to istniejący produkt, proces, technologia albo sposób wykonywania\nzadania lub funkcji, który stanowi adekwatny i porównywalny punkt odniesienia dla głównego\nrezultatu B+R.\nWnioskodawca wskazuje planowaną nowość lub istotne ulepszenie względem rozwiązania\nreferencyjnego oraz sposób weryfikacji tej zmiany. Zmiana musi mieć bezpośrednie znaczenie\ndla planowanego zastosowania obronnego głównego rezultatu B+R albo produktu, któremu\nrezultat ten bezpośrednio służy.\nZakup, integracja, dostosowanie, certyfikacja, wdrożenie ani rutynowe testowanie dostępnych\nrozwiązań nie są same w sobie pracami B+R. Istotne ulepszenie musi prowadzić do nowych lub\nwyraźnie poprawionych funkcji, cech, parametrów, wymagań albo zdolności i wykraczać poza\nrutynowe zmiany lub standardowe dostosowanie.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      36,
+      37
+    ]
+  },
+  {
+    "id": "D2-05",
+    "nazwa": "Szczególne wymogi regulacyjne",
+    "definicja": "Czy wnioskodawca zidentyfikował szczególne wymogi prawne dotyczące prac B+R\ni wdrożenia ich wyników oraz wykazał, że może je spełnić w wymaganym terminie?\nWnioskodawca:\n• określa status regulacyjny i klasyfikację przedmiotu prac B+R, planowanego rezultatu\ni czynności wdrożeniowych;\n• identyfikuje mające zastosowanie ograniczenia i obowiązki, w szczególności dotyczące\nwytwarzania, obrotu, transferu technologii, wywozu, pośrednictwa\ni użytkownika końcowego, wynikające z obowiązujących środków ograniczających\n(sankcji), a także dotyczące ochrony informacji;\n• wskazuje próby, kwalifikacje, certyfikaty i dopuszczenia wymagane przepisami lub\nniezbędne do uzyskania wymaganej decyzji, koncesji, zezwolenia albo uprawnienia oraz\nwymagane rozwiązania organizacyjne, w tym Wewnętrzny System Kontroli, jeżeli jest\nwymagany;\n• wskazuje elementy już zapewnione, a dla brakujących - sposób i termin ich\nzapewnienia, oraz wykazuje, że nastąpi to przed rozpoczęciem czynności, których\ndotyczą.\nBrak szczególnych wymogów wymaga uzasadnienia.\nSamo złożenie wniosku o wydanie dokumentu lub uprawnienia nie jest wystarczające, jeżeli\nz pozostałej dokumentacji nie wynika możliwość i termin jego uzyskania.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      37,
+      38
+    ]
+  },
+  {
+    "id": "D2-06",
+    "nazwa": "Zapotrzebowanie, wdrożenie i wykorzystanie wyników B+R",
+    "definicja": "Czy wnioskodawca uzasadnił zapotrzebowanie na planowany główny rezultat B+R oraz\nprzedstawił sposób jego wdrożenia i wykorzystania na rynku UE lub w europejskim łańcuchu\nwartości?\n1. Zapotrzebowanie i przewidywane wykorzystanie głównego rezultatu B+R\nWnioskodawca:\n• przedstawia aktualne i weryfikowalne informacje uzasadniające zapotrzebowanie na\nplanowany główny rezultat B+R;\n• określa planowane zastosowanie głównego rezultatu B+R oraz sposób jego\nwykorzystania po zakończeniu prac B+R, w szczególności przez wdrożenie we własnej\ndziałalności, sprzedaż, licencjonowanie, integrację lub wykorzystanie w dalszym\nwytwarzaniu.\nSamo ogólne powołanie się na sytuację geopolityczną, wzrost wydatków obronnych lub priorytet\nstrategiczny nie jest wystarczającym uzasadnieniem zapotrzebowania.\n2. Sposób wdrożenia\nWnioskodawca:\n• wybiera i uzasadnia formę wdrożenia: wykorzystanie głównego rezultatu B+R we\nwłasnej działalności gospodarczej, udzielenie licencji na zasadach rynkowych albo\nsprzedaż praw;\n• w przypadku udzielenia licencji albo sprzedaży praw wskazuje przedsiębiorstwo\nwdrażające, a jeżeli nie zostało wybrane - sposób jego wyboru;\n• określa termin, etapy i działania niezbędne do wdrożenia, z uwzględnieniem docelowego\npoziomu TRL;\n• identyfikuje kluczowe ryzyka związane z wdrożeniem oraz sposób ich ograniczenia.\nW przypadku licencji lub sprzedaży praw wnioskodawca wykazuje rynkowy charakter transakcji.\nJeżeli wskazano przedsiębiorstwo wdrażające, wnioskodawca wykazuje jego zdolność do\ngospodarczego wykorzystania wyników. Jeżeli przedsiębiorstwo nie zostało wskazane, określa\nsposób wyboru zapewniający taką zdolność.\n3. Prawa do wiedzy i wyników\nWnioskodawca:\n• wykazuje, że posiada albo zapewni prawa niezbędne do realizacji projektu i wdrożenia,\na w odniesieniu do praw jeszcze nieposiadanych wskazuje sposób i termin ich\nuzyskania;\n• identyfikuje prawa osób trzecich oraz inne ograniczenia prawne lub umowne, które\nmogą utrudnić realizację projektu lub wdrożenie wyników, i wskazuje sposób ich\nusunięcia lub ograniczenia, w szczególności w odniesieniu do praw własności\nprzemysłowej, praw autorskich, warunków licencji, know-how i tajemnicy\nprzedsiębiorstwa;\n• określa, czy rezultaty projektu wymagają ochrony, a jeżeli tak – wskazuje sposób\nochrony odpowiedni do ich charakteru i planowanego wdrożenia.\nW projekcie konsorcjalnym podział praw do wyników oraz zasady dostępu do nich muszą\nodpowiadać zadaniom, wkładowi i uzasadnionym interesom członków konsorcjum, zapewniać\nprzedsiębiorstwu wdrażającemu możliwość wykorzystania wyników oraz być zgodne z zasadami\npomocy publicznej.\nKRYTERIUM UZNAJE SIĘ ZA SPEŁNIONE, GDY OCENA BRZMI „TAK”.",
+    "ocena": "TAK / NIE\nSpełnienie kryterium jest\nkonieczne do przyznania\ndofinansowania.",
+    "rozstrzygajace": "",
+    "strony": [
+      38,
+      39
+    ]
+  },
+  {
+    "id": "P2-01",
+    "nazwa": "Priorytet produktów podwójnego zastosowania",
+    "definicja": "Czy główny rezultat B+R, w tym produkt, oprogramowanie lub\ntechnologia, jest wymieniony w załączniku I do rozporządzenia\nParlamentu Europejskiego i Rady (UE) 2021/821, w brzmieniu\nobowiązującym na dzień ogłoszenia naboru?\nPunktacja:\n0 - główny rezultat B+R nie jest wymieniony w załączniku I do\nrozporządzenia (UE) 2021/821.\n6 - główny rezultat B+R jest wymieniony w załączniku I do\nrozporządzenia (UE) 2021/821.\nWnioskodawca wskazuje właściwą kategorię i pozycję załącznika I\noraz wykazuje zgodność cech, funkcji, parametrów technicznych\nlub wymagań rezultatu z warunkami tej pozycji.\nPunkty przyznaje się tylko wtedy, gdy pozycja załącznika I\nobejmuje główny rezultat B+R albo jego integralny element objęty\nzasadniczym zakresem prac B+R. Nie wystarczy, że obejmuje\nwyłącznie urządzenie, oprogramowanie lub technologię\nwykorzystywane jako narzędzie do opracowania, testowania lub\nwalidacji głównego rezultatu B+R.",
+    "ocena": "0/6",
+    "rozstrzygajace": "TAK\nKryterium rozstrzygające I\nstopnia\nJeśli więcej niż jeden projekt\nspełnił kryteria wyboru\nprojektów i uzyskał tę samą\nliczbę punktów, ale kwota\nprzeznaczona na\ndofinansowanie projektów w\ndanym naborze nie pozwala\nna wybór do dofinansowania\nwszystkich projektów o tej\nsamej liczbie punktów,\nwówczas o wyborze projektu\ndo dofinansowania decydują\nkryteria rozstrzygające.",
+    "strony": [
+      40
+    ]
+  },
+  {
+    "id": "P2-02",
+    "nazwa": "Wkład w priorytetowe obszary zdolności obronnych",
+    "definicja": "Czy główny rezultat B+R mieści się w co najmniej jednym z\npriorytetowych obszarów zdolności obronnych albo bezpośrednio\nsłuży rozwojowi lub funkcjonowaniu produktu, systemu lub\nzdolności objętych takim obszarem?\nPrzez priorytetowe obszary zdolności obronnych rozumie się\nobszary ujęte w kategorii pierwszej albo drugiej, o których mowa w\nart. 1 rozporządzenia Rady (UE) 2025/1106 (SAFE), w brzmieniu\nobowiązującym na dzień ogłoszenia naboru.\nPunktacja:\n0 - nie są spełnione warunki przyznania 4 pkt.\n4 - spełniony jest co najmniej jeden z następujących warunków:\n• główny rezultat B+R jest produktem mieszczącym się w co\nnajmniej jednym z priorytetowych obszarów zdolności\nobronnych;\n• główny rezultat B+R jako komponent, podsystem,\npodzespół, technologia, proces lub oprogramowanie\nbezpośrednio służy rozwojowi lub funkcjonowaniu\nproduktu, systemu lub zdolności objętych takim obszarem.\nWnioskodawca wskazuje właściwą kategorię oraz konkretny obszar\nzdolności obronnych ujęty w tej kategorii i wykazuje bezpośredni\nzwiązek głównego rezultatu B+R z produktem, systemem lub\nzdolnością objętymi tym obszarem, w szczególności przez funkcje,\ncechy, parametry lub planowane zastosowanie rezultatu.\nSama możliwość wykorzystania głównego rezultatu B+R we\nwskazanym obszarze nie wystarcza do przyznania punktów.",
+    "ocena": "0/4",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      40,
+      41
+    ]
+  },
+  {
+    "id": "P2-03",
+    "nazwa": "Zewnętrzne potwierdzenie zapotrzebowania",
+    "definicja": "Czy potencjalny odbiorca, użytkownik, integrator albo inny podmiot,\nktórego działalność jest związana z planowanym zastosowaniem\nobronnym głównego rezultatu B+R lub europejskim łańcuchem\nwartości, w którym rezultat ten ma być wykorzystany, potwierdził\nzapotrzebowanie na główny rezultat B+R oraz planowany sposób\njego wykorzystania?\nPunktacja:\n0 - nie przedstawiono potwierdzenia spełniającego warunki\nkryterium.\n2 - potencjalny odbiorca, użytkownik, integrator albo inny podmiot,\nktórego działalność jest związana z planowanym zastosowaniem\nobronnym głównego rezultatu B+R lub europejskim łańcuchem\nwartości, w którym rezultat ten ma być wykorzystany, potwierdził\nkonkretną potrzebę lub zainteresowanie głównym rezultatem B+R\noraz jego planowane zastosowanie lub sposób wykorzystania.\nPotwierdzenie musi:\n• pozwalać jednoznacznie zidentyfikować główny rezultat\nB+R albo jego kluczowe funkcje, cechy lub parametry;\n• wskazywać własną, konkretną potrzebę lub\nzainteresowanie podmiotu potwierdzającego;\n• określać przewidywane zastosowanie lub sposób\nwykorzystania głównego rezultatu B+R albo jego miejsce w\neuropejskim łańcuchu wartości;\n• wykazywać związek działalności podmiotu\npotwierdzającego z takim zastosowaniem lub\nwykorzystaniem.\nPotwierdzenie podmiotu powiązanego może stanowić podstawę\npunktacji, jeżeli wskazuje jego własną, konkretną potrzebę oraz\nsposób, w jaki zamierza wykorzystać główny rezultat B+R.\nPotwierdzenie musi być aktualne na dzień złożenia wniosku oraz\npozwalać na identyfikację podmiotu i osoby, która je złożyła.\nZa wystarczające potwierdzenie nie uznaje się ogólnych\nrekomendacji, listów poparcia, deklaracji współpracy ani\ndokumentów jedynie powtarzających informacje przedstawione\nprzez wnioskodawcę, jeżeli nie zawierają elementów wskazanych\npowyżej.\nW projekcie konsorcjalnym potwierdzenie nie może pochodzić od\ninnego członka konsorcjum.\nPotwierdzenie nie musi stanowić zobowiązania do zakupu, nabycia\npraw ani zawarcia współpracy. O przyznaniu punktów decyduje\njego treść, a nie forma lub nazwa.",
+    "ocena": "0/2",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      41,
+      42,
+      43
+    ]
+  },
+  {
+    "id": "P2-04",
+    "nazwa": "Znaczenie głównego rezultatu B+R dla zastosowania obronnego",
+    "definicja": "Jaki efekt dla planowanego zastosowania obronnego zapewni\ngłówny rezultat B+R?\nWnioskodawca uzasadnia wybór rozwiązania referencyjnego oraz\nwskazuje źródła danych wykorzystanych do porównania.\nPunktacja:\n14 - projekt spełnia kryterium dostępu „Badawczo-rozwojowy\ncharakter projektu”, ale główny rezultat B+R nie spełnia warunków\nprzyznania 20 pkt.\n20 - główny rezultat B+R umożliwi:\n- wykonanie zadania obronnego, którego nie można wykonać przy\nzastosowaniu rozwiązania referencyjnego, lub\n- pełnienie funkcji obronnej, której rozwiązanie referencyjne nie\nzapewnia; albo\n- wykonanie zadania lub pełnienie funkcji w warunkach\nniedostępnych przy zastosowaniu rozwiązania referencyjnego,\nponieważ rozwiązanie to nie spełnia minimalnego wymagania\ntechnicznego lub użytkowego niezbędnego do ich realizacji.\nJeżeli rozwiązanie referencyjne już umożliwia wykonanie zadania\nlub pełnienie funkcji, a rezultat B+R jedynie poprawia parametry ich\nrealizacji, przyznaje się 14 pkt.\nWnioskodawca wskazuje:\n• rozwiązanie referencyjne i jego ograniczenia;\n• planowane zastosowanie obronne oraz zmianę względem\nrozwiązania referencyjnego;\n• wartość bazową i docelową albo inny mierzalny sposób\nporównania oraz sposób weryfikacji zmiany;\n• w przypadku ubiegania się o 20 pkt - zadanie lub funkcję\nniedostępne przy zastosowaniu rozwiązania\nreferencyjnego albo warunki, w których rozwiązanie to nie\nspełnia minimalnego wymagania technicznego lub\nużytkowego, oraz sposób, w jaki główny rezultat B+R\nzapewni tę możliwość.\nPunkty nie sumują się.",
+    "ocena": "14/20",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      43,
+      44
+    ]
+  },
+  {
+    "id": "P2-05",
+    "nazwa": "Wkład w bezpieczeństwo i ciągłość dostaw",
+    "definicja": "Czy przewidywane wdrożenie głównego rezultatu B+R zwiększy\ndostępność produktu w UE albo zmniejszy zależność dostaw do\nUE od jednego źródła, ograniczonej liczby źródeł lub źródeł trudno\nzastępowalnych, zlokalizowanych w UE lub poza UE?\nNa potrzeby kryterium przez produkt rozumie się produkt będący\ngłównym rezultatem B+R albo produkt, któremu główny rezultat\nB+R bezpośrednio służy.\nPunktacja:\n0 - nie wykazano wpływu przewidywanego wdrożenia.\nNie wykazano problemu z dostępnością lub bezpieczeństwem\ndostaw w UE albo przewidywane wdrożenie głównego rezultatu\nB+R nie prowadzi bezpośrednio do jego ograniczenia.\n2 - poprawa bieżącej dostępności lub ciągłości dostaw w UE.\nWykazano co najmniej jeden z następujących problemów:\n• produkt jest dostępny w UE w ilości niewystarczającej\nw stosunku do wykazanego zapotrzebowania;\n• terminy dostaw do odbiorców w UE są zbyt długie;\n• dostawy do UE są nieregularne lub występują w nich\nistotne przerwy.\nPrzewidywane wdrożenie głównego rezultatu B+R bezpośrednio\nograniczy wskazany problem przez zwiększenie dostępności\nproduktu w UE, w szczególności dzięki zwiększeniu zdolności\nprodukcyjnych, skróceniu terminów dostaw albo poprawie ciągłości\ndostaw.\n4 - zmniejszenie zależności od źródeł dostaw. Wykazano co\nnajmniej jeden z następujących problemów:\n• brak jest dostępnego źródła dostaw produktu do UE;\n• dostawy do UE zależą od jednego lub ograniczonej liczby\nźródeł w UE lub poza UE;\n• kilku dostawców korzysta z tego samego źródła\nkluczowego materiału lub komponentu.\nPrzewidywane wdrożenie głównego rezultatu B+R bezpośrednio\nograniczy wskazaną zależność przez utworzenie w UE nowego,\nniezależnego źródła dostaw albo zastąpienie dotychczasowego\nźródła źródłem w UE. Nowe źródło może służyć również własnej\ndalszej produkcji przedsiębiorstwa wdrażającego.\nProblem oraz przewidywany wpływ wdrożenia głównego rezultatu\nB+R wykazuje się aktualnymi i weryfikowalnymi informacjami\nwskazującymi źródło danych, charakter problemu, jego związek\nz produktem, którego dotyczy kryterium, i oczekiwaną zmianę.\nSamo potwierdzenie zapotrzebowania lub zainteresowania\ngłównym rezultatem B+R nie stanowi podstawy przyznania\npunktów, jeżeli nie wykazano problemu określonego w kryterium.\nDo przyznania 4 pkt nie jest wymagane spełnienie warunków\nokreślonych dla 2 pkt. Punkty nie sumują się.",
+    "ocena": "0/4",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      45,
+      46
+    ]
+  },
+  {
+    "id": "P2-06",
+    "nazwa": "Wielkość przedsiębiorstw",
+    "definicja": "Jaki status przedsiębiorstwa posiada wnioskodawca na dzień\nzłożenia wniosku i czy w projekcie konsorcjalnym uczestniczy inne\nprzedsiębiorstwo posiadające status MŚP?\nStatus ustala się zgodnie z definicją mikro-, małych i średnich\nprzedsiębiorstw określoną w załączniku I do rozporządzenia\nKomisji (UE) nr 651/2014, w brzmieniu obowiązującym na dzień\nzłożenia wniosku, z uwzględnieniem danych przedsiębiorstw\npartnerskich i powiązanych.\nPunktacja:\n0 - wnioskodawca nie posiada statusu MŚP;\n1 - wnioskodawca jest średnim przedsiębiorstwem;\n2 - wnioskodawca jest małym przedsiębiorstwem;\n3 - wnioskodawca jest mikroprzedsiębiorstwem.\nDodatkowy 1 pkt przyznaje się, jeżeli w projekcie konsorcjalnym\nuczestniczy co najmniej jeden członek konsorcjum inny niż\nwnioskodawca, który posiada status MŚP.\nPunkty za status wnioskodawcy i udział MŚP w konsorcjum sumują\nsię. Maksymalna liczba punktów wynosi 4.",
+    "ocena": "0/4",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      46,
+      47
+    ]
+  },
+  {
+    "id": "P2-07",
+    "nazwa": "Realizacja wskaźnika",
+    "definicja": "Czy wnioskodawca planuje realizację wskaźnika rezultatu „Miejsca\npracy utworzone we wspieranych jednostkach”?\nW projekcie konsorcjalnym na potrzeby kryterium uwzględnia się\nwyłącznie miejsca pracy utworzone u wnioskodawcy.\nPunktacja:\n0 - wnioskodawca nie planuje utworzenia miejsca pracy albo,\nw przypadku dużego przedsiębiorstwa, planuje utworzenie 1\nmiejsca pracy.\n1 - wnioskodawca jest małym przedsiębiorcą i planuje realizację\nwskaźnika na poziomie 1\n1 - wnioskodawca jest średnim przedsiębiorcą i planuje realizację\nwskaźnika na poziomie 1 lub 2\n1 - wnioskodawca jest dużym przedsiębiorcą i planuje realizację\nwskaźnika na poziomie od 2 do 4\n2 - wnioskodawca jest małym przedsiębiorcą i planuje realizację\nwskaźnika na poziomie 2 lub więcej\n2 - wnioskodawca jest średnim przedsiębiorcą i planuje realizację\nwskaźnika na poziomie 3 lub więcej\n2 - wnioskodawca jest dużym przedsiębiorcą i planuje realizację\nwskaźnika na poziomie 5 lub więcej\n3 - wnioskodawca jest mikroprzedsiębiorcą i planuje realizację\nwskaźnika na poziomie 1 lub więcej\nPunkty nie sumują się.",
+    "ocena": "0/3",
+    "rozstrzygajace": "TAK\nKryterium rozstrzygające II\nstopnia\nJeśli więcej niż jeden projekt\nspełnił kryteria wyboru\nprojektów i uzyskał tę samą\nliczbę punktów, ale kwota\nprzeznaczona na\ndofinansowanie projektów w\ndanym naborze nie pozwala\nna wybór do dofinansowania\nwszystkich projektów o tej\nsamej liczbie punktów,\nwówczas o wyborze projektu\ndo dofinansowania decydują\nkryteria rozstrzygające.",
+    "strony": [
+      47,
+      48
+    ]
+  },
+  {
+    "id": "P2-08",
+    "nazwa": "Potwierdzone kompetencje",
+    "definicja": "Czy kompetencje technologiczne wnioskodawcy w obszarze,\nktórego dotyczy projekt, zostały potwierdzone udziałem w\nprogramie akceleracyjnym, udziałem w projekcie wybranym do\nfinansowania w ramach Europejskiego Funduszu Obronnego (EDF)\nalbo uzyskaniem międzynarodowej nagrody lub wyróżnienia?\nPunktacja:\n0 - nie spełniono warunku przyznania punktu.\n1 - wnioskodawca:\n• został zakwalifikowany do udziału w programie DIANA,\nOSA albo równoważnym programie akceleracyjnym w\nwyniku konkurencyjnego naboru oraz uczestniczył w części\nakceleracyjnej tego programu; albo\n• uczestniczył w projekcie wybranym do finansowania\nw ramach Europejskiego Funduszu Obronnego (EDF)\nw wyniku konkurencyjnego naboru oraz realizował w nim\nprace technologiczne związane z obszarem, którego\ndotyczy projekt; albo\n• uzyskał międzynarodową nagrodę lub wyróżnienie\nspełniające warunki określone poniżej.\nProgram równoważny musi dotyczyć technologii obronnych lub\npodwójnego zastosowania, obejmować konkurencyjny nabór\ni merytoryczną ocenę uczestników oraz służyć rozwojowi lub\nprzygotowaniu technologii do wdrożenia lub zastosowania.\nNagroda lub wyróżnienie muszą zostać przyznane w konkursie\notwartym dla podmiotów z więcej niż jednego państwa,\nprowadzonym według opublikowanych zasad i na podstawie oceny\nniezależnego jury.\nUdział w programie albo udział w projekcie wybranym do\nfinansowania w ramach EDF albo uzyskanie nagrody lub\nwyróżnienia muszą dotyczyć bezpośrednio wnioskodawcy, nastąpić\nw okresie 5 lat przed złożeniem wniosku oraz potwierdzać\nkompetencje technologiczne przydatne do realizacji projektu\ni związane z obszarem, którego projekt dotyczy.\nSamo zgłoszenie, udział w szkoleniu lub wydarzeniu, członkostwo,\nranking, odpłatne wyróżnienie albo osiągnięcie podmiotu\npowiązanego nie stanowią podstawy przyznania punktu.",
+    "ocena": "0/1",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      48,
+      49
+    ]
+  },
+  {
+    "id": "P2-09",
+    "nazwa": "Udział kobiet w kluczowym zespole projektowym",
+    "definicja": "Czy planowane zaangażowanie kobiet w kluczowym zespole\nprojektowym stanowi co najmniej 30% łącznego zaangażowania\ntego zespołu w realizację projektu?\nPunktacja:\n0 - planowane zaangażowanie kobiet stanowi mniej niż 30%\nłącznego zaangażowania kluczowego zespołu projektowego.\n2 - planowane zaangażowanie kobiet stanowi co najmniej 30%\nłącznego zaangażowania kluczowego zespołu projektowego.\nUdział oblicza się jako stosunek planowanego zaangażowania\nkobiet do łącznego planowanego zaangażowania wszystkich\nczłonków kluczowego zespołu projektowego. Dla wszystkich\nczłonków zespołu stosuje się tę samą jednostkę: osobomiesiące\nalbo godziny pracy.\nKluczowy zespół projektowy obejmuje kierownika prac B+R,\nkierownika zarządzającego projektem oraz osoby realizujące\nmerytoryczne zadania B+R. Nie uwzględnia się innych osób\nwykonujących wyłącznie zadania administracyjne, finansowe,\npromocyjne lub pomocnicze.\nWnioskodawca wskazuje skład zespołu, role jego członków, zakres\nzadań oraz planowane zaangażowanie w realizację projektu.\nUwzględnia się wyłącznie zaangażowanie uzasadnione zakresem\npowierzonych zadań.\nSpełnienie warunku, za który przyznano punkty, będzie\nweryfikowane w toku realizacji projektu zgodnie z umową\no dofinansowanie.",
+    "ocena": "0/2",
+    "rozstrzygajace": "NIE",
+    "strony": [
+      49,
+      50
+    ]
+  }
+]

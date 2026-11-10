@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "maksimum": 29,
+  "minimum": 17,
+  "obowiazuje_minimum_kazdego_kryterium": true,
+  "remis_kolejnosc": [
+    6,
+    5,
+    7,
+    9
+  ],
+  "kryteria": [
+    {
+      "numer": 1,
+      "nazwa": "Kwalifikowalność wnioskodawcy",
+      "punkty": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 4
+      },
+      "ocena": null
+    },
+    {
+      "numer": 2,
+      "nazwa": "Obszar Polski Wschodniej",
+      "punkty": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 5
+      },
+      "ocena": null
+    },
+    {
+      "numer": 3,
+      "nazwa": "Brak działalności wykluczonych",
+      "punkty": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 5
+      },
+      "ocena": null
+    },
+    {
+      "numer": 4,
+      "nazwa": "Innowacyjność produktu",
+      "punkty": [
+        0,
+        2
+      ],
+      "minimum": 2,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 6
+      },
+      "ocena": null
+    },
+    {
+      "numer": 5,
+      "nazwa": "Warunki finansowe",
+      "punkty": [
+        0,
+        1,
+        3
+      ],
+      "minimum": 1,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 7
+      },
+      "ocena": null
+    },
+    {
+      "numer": 6,
+      "nazwa": "Zakres projektu",
+      "punkty": [
+        0,
+        3,
+        5
+      ],
+      "minimum": 3,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 8
+      },
+      "ocena": null
+    },
+    {
+      "numer": 7,
+      "nazwa": "Zespół projektowy",
+      "punkty": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "minimum": 1,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 10
+      },
+      "ocena": null
+    },
+    {
+      "numer": 8,
+      "nazwa": "Wydatki kwalifikowalne, racjonalne i uzasadnione",
+      "punkty": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 11
+      },
+      "ocena": null
+    },
+    {
+      "numer": 9,
+      "nazwa": "Wkład własny",
+      "punkty": [
+        0,
+        1,
+        3
+      ],
+      "minimum": 1,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 12
+      },
+      "ocena": null
+    },
+    {
+      "numer": 10,
+      "nazwa": "Wskaźniki projektu",
+      "punkty": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 12
+      },
+      "ocena": null
+    },
+    {
+      "numer": 11,
+      "nazwa": "Równość kobiet i mężczyzn",
+      "punkty": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 13
+      },
+      "ocena": null
+    },
+    {
+      "numer": 12,
+      "nazwa": "Równość szans i dostępność",
+      "punkty": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 14
+      },
+      "ocena": null
+    },
+    {
+      "numer": 13,
+      "nazwa": "KPP i KPON",
+      "punkty": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 15
+      },
+      "ocena": null
+    },
+    {
+      "numer": 14,
+      "nazwa": "Zrównoważony rozwój i DNSH",
+      "punkty": [
+        0,
+        1,
+        2
+      ],
+      "minimum": 1,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 16
+      },
+      "ocena": null
+    },
+    {
+      "numer": 15,
+      "nazwa": "Wspólne RIS",
+      "punkty": [
+        0,
+        1
+      ],
+      "minimum": 0,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 17
+      },
+      "ocena": null
+    },
+    {
+      "numer": 16,
+      "nazwa": "Oddziaływanie produktu",
+      "punkty": [
+        0,
+        2
+      ],
+      "minimum": 0,
+      "zrodlo": {
+        "id": "SRC-0fb046c95a8b",
+        "strona": 18
+      },
+      "ocena": null
+    }
+  ]
+}

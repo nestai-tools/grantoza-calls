@@ -1,0 +1,652 @@
+{
+  "schema_version": 1,
+  "nabor_id": "2026-lsse-spark-4-rethink-202609",
+  "zapisano_at": "2026-09-26T19:12:01.953503+00:00",
+  "dokumenty": [
+    {
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "tytul": "Regulamin i umowa Spark 4.0 z załącznikami",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "POBIERZ DOKUMENTY",
+      "nazwa_zrodlowa": "REGULAMIN-UMOWA.zip",
+      "id": "SRC-3e8af0181b0e",
+      "pobrano_at": "2026-09-26T18:58:13.822365+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "95f371941eb8d605175a69b27c19e10d22bf56821dd5e6bc34dfd873bd39dac6",
+          "plik": "01-sources/originals/SRC-3e8af0181b0e-regulamin-i-umowa-spark-4-0-z-zalacznikami-95f371941eb8.zip",
+          "pobrano_at": "2026-09-26T18:58:13.822365+00:00"
+        }
+      ],
+      "url_koncowy": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "plik": "01-sources/originals/SRC-3e8af0181b0e-regulamin-i-umowa-spark-4-0-z-zalacznikami-95f371941eb8.zip",
+      "sha256": "95f371941eb8d605175a69b27c19e10d22bf56821dd5e6bc34dfd873bd39dac6",
+      "rozmiar": 3417679,
+      "mime": "application/zip",
+      "odczyt": "zinwentaryzowany",
+      "w_biezacej_paczce": true,
+      "zawartosc_archiwum": [
+        {
+          "id": "SRC-24d9e29a71fb",
+          "nazwa": "REGULAMIN + UMOWA/1. Regulamin_załączniki/REGULAMIN_SPARK_4.0.pdf",
+          "sha256": "fddd36fb73db231e32ae7e2b93ffb5ec8e2f040e39aebb792aef2c0af33f0c6a"
+        },
+        {
+          "id": "SRC-8b520017a356",
+          "nazwa": "REGULAMIN + UMOWA/1. Regulamin_załączniki/Załącznik nr 3_WZÓR_UMOWA_SPARK_4.0.pdf",
+          "sha256": "5eaf35e8372a5bf8bc92283debef4fc2910252b13f5f2ab1283960e25119217c"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "nazwa": "REGULAMIN + UMOWA/1. Regulamin_załączniki/Załącznik nr 1_KARTA OCENY_SPARK_4.0.pdf",
+          "sha256": "8a64a8a0f405173bec2b76e26ab193f30a42584cb0c2dfec7f55c3368296ef53"
+        },
+        {
+          "id": "SRC-a3c0591268a7",
+          "nazwa": "REGULAMIN + UMOWA/1. Regulamin_załączniki/Załącznik nr 2_ZASADY ROZLICZANIA GRANTÓW_SPARK 4.0.pdf",
+          "sha256": "79c0c877afb95c75af535b2415522b5b9ce173e31be43650d49e45d44f2f6de5"
+        },
+        {
+          "id": "SRC-913297dd7fc1",
+          "nazwa": "REGULAMIN + UMOWA/1. Regulamin_załączniki/Załącznik nr 6. KLAUZULA INFORMACYJNA (PRACOWNICY).pdf",
+          "sha256": "92c7854f867b63643e218351e6f76366c8bf0a86d2b01b848ba3f42c4fab376a"
+        },
+        {
+          "id": "SRC-5b62f2bf36d0",
+          "nazwa": "REGULAMIN + UMOWA/1. Regulamin_załączniki/Załącznik nr 4_INSTRUKCJA IPA_SPARK 4.0.pdf",
+          "sha256": "df6e7328620462d017f0d19b8e7879d0db2f096bc6ad67a7bcd39f039a37e5cb"
+        },
+        {
+          "id": "SRC-04483061c324",
+          "nazwa": "REGULAMIN + UMOWA/1. Regulamin_załączniki/Załącznik 5. KLAUZULA INFORMACYJNA (Startup).pdf",
+          "sha256": "41309e23f856b1ba8d032424b1bc6c91f4e52cafa1df387495b0bdc935f7d025"
+        },
+        {
+          "id": "SRC-2cae94366ea3",
+          "nazwa": "REGULAMIN + UMOWA/2. Umowa_załączniki/Załącznik nr 4. Formularz informacji_de minimis.xlsx",
+          "sha256": "c86d5ada9c2617d684cab640bb96a62cd707dfff652960df502cc8b5756c2996"
+        },
+        {
+          "id": "SRC-55c2b0708b30",
+          "nazwa": "REGULAMIN + UMOWA/2. Umowa_załączniki/Załącznik nr 7_Wniosek o wypłatę zaliczki_wzór.xlsx",
+          "sha256": "3f33c0c3427ec2089bc113ba6e3efbcd12a14a19b151b54f157af1243362a5f6"
+        },
+        {
+          "id": "SRC-8a00f022b819",
+          "nazwa": "REGULAMIN + UMOWA/2. Umowa_załączniki/Załącznik nr 5. Oświadczenie o spełnianie kryteriów_MSP.doc",
+          "sha256": "038e9a755ad06be361d3bdfbb42d14ab314a10bba26af409708fc82524925859"
+        },
+        {
+          "id": "SRC-ae7cbab4a4a8",
+          "nazwa": "REGULAMIN + UMOWA/2. Umowa_załączniki/Załącznik nr 1. Wzór Indywidualnego Planu Akceleracji.xlsx",
+          "sha256": "c5e53d4a34881e7923670effd85b49187b8d68594a5369b26213b4ac59e874bd"
+        },
+        {
+          "id": "SRC-ed16d1f3ac6f",
+          "nazwa": "REGULAMIN + UMOWA/2. Umowa_załączniki/Załącznik nr 2 Wzór weksla_deklaracja.docx",
+          "sha256": "61afa66d51a193a3da19ef686a4b74f003960f0ff373496bde6a6c8cde3b767b"
+        },
+        {
+          "id": "SRC-1890717a5810",
+          "nazwa": "REGULAMIN + UMOWA/2. Umowa_załączniki/WZÓR_UMOWA_SPARK_4.0.pdf",
+          "sha256": "d245ccb46c26143e3e3a32c2287054ee40a761ff4730573903ad53148eb750b7"
+        },
+        {
+          "id": "SRC-7c87e9673f08",
+          "nazwa": "REGULAMIN + UMOWA/2. Umowa_załączniki/Zał 11. Klauzula informacyjna.docx",
+          "sha256": "1603477479f936ff04dcb4b994a051356b8f09cd4f438a2f89c7029c5484d3e0"
+        }
+      ],
+      "pominiete_metadane": [
+        "__MACOSX/REGULAMIN + UMOWA/._1. Regulamin_za┼éa╠¿czniki",
+        "__MACOSX/REGULAMIN + UMOWA/._2. Umowa_za┼éa╠¿czniki",
+        "__MACOSX/REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/._REGULAMIN_SPARK_4.0.pdf",
+        "__MACOSX/REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/._Za┼éa╠¿cznik nr 3_WZO╠üR_UMOWA_SPARK_4.0.pdf",
+        "__MACOSX/REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/._Za┼éa╠¿cznik nr 1_KARTA OCENY_SPARK_4.0.pdf",
+        "__MACOSX/REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/._Za┼éa╠¿cznik nr 2_ZASADY ROZLICZANIA GRANTO╠üW_SPARK 4.0.pdf",
+        "__MACOSX/REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/._Za┼éa╠¿cznik nr 6. KLAUZULA INFORMACYJNA (PRACOWNICY).pdf",
+        "__MACOSX/REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/._Za┼éa╠¿cznik nr 4_INSTRUKCJA IPA_SPARK 4.0.pdf",
+        "__MACOSX/REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/._Za┼éa╠¿cznik 5. KLAUZULA INFORMACYJNA (Startup).pdf",
+        "__MACOSX/REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/._Za┼éa╠¿cznik nr 4. Formularz informacji_de minimis.xlsx",
+        "__MACOSX/REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/._Za┼éa╠¿cznik nr 7_Wniosek o wyp┼éate╠¿ zaliczki_wzo╠ür.xlsx",
+        "__MACOSX/REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/._Za┼éa╠¿cznik nr 5. Os╠üwiadczenie o spe┼énianie kryterio╠üw_MSP.doc",
+        "__MACOSX/REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/._Za┼éa╠¿cznik nr 1. Wzo╠ür Indywidualnego Planu Akceleracji.xlsx",
+        "__MACOSX/REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/._Za┼éa╠¿cznik nr 2 Wzo╠ür weksla_deklaracja.docx",
+        "__MACOSX/REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/._WZO╠üR_UMOWA_SPARK_4.0.pdf",
+        "__MACOSX/REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/._Za┼é 11. Klauzula informacyjna.docx"
+      ]
+    },
+    {
+      "id": "SRC-24d9e29a71fb",
+      "tytul": "REGULAMIN_SPARK_4.0",
+      "plik": "01-sources/originals/SRC-24d9e29a71fb-regulamin-spark-4-0-fddd36fb73db.pdf",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/1. Regulamin_załączniki/REGULAMIN_SPARK_4.0.pdf",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/REGULAMIN_SPARK_4.0.pdf",
+      "nazwa_zrodlowa": "REGULAMIN_SPARK_4.0.pdf",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "przeczytany",
+      "sha256": "fddd36fb73db231e32ae7e2b93ffb5ec8e2f040e39aebb792aef2c0af33f0c6a",
+      "rozmiar": 407103,
+      "mime": "application/pdf",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "fddd36fb73db231e32ae7e2b93ffb5ec8e2f040e39aebb792aef2c0af33f0c6a",
+          "plik": "01-sources/originals/SRC-24d9e29a71fb-regulamin-spark-4-0-fddd36fb73db.pdf",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "liczba_stron": 15,
+      "ekstrakt": "01-sources/text/SRC-24d9e29a71fb.md",
+      "ekstrakcja": "wykonana",
+      "zakres_przegladu": "Całość ekstraktu i porównanie kluczowych wymagań",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00"
+    },
+    {
+      "id": "SRC-8b520017a356",
+      "tytul": "Załącznik nr 3_WZÓR_UMOWA_SPARK_4.0",
+      "plik": "01-sources/originals/SRC-8b520017a356-zalacznik-nr-3-wzor-umowa-spark-4-0-5eaf35e8372a.pdf",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/1. Regulamin_załączniki/Załącznik nr 3_WZÓR_UMOWA_SPARK_4.0.pdf",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/Za┼éa╠¿cznik nr 3_WZO╠üR_UMOWA_SPARK_4.0.pdf",
+      "nazwa_zrodlowa": "Załącznik nr 3_WZÓR_UMOWA_SPARK_4.0.pdf",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "czesciowo-przeczytany",
+      "sha256": "5eaf35e8372a5bf8bc92283debef4fc2910252b13f5f2ab1283960e25119217c",
+      "rozmiar": 433232,
+      "mime": "application/pdf",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "5eaf35e8372a5bf8bc92283debef4fc2910252b13f5f2ab1283960e25119217c",
+          "plik": "01-sources/originals/SRC-8b520017a356-zalacznik-nr-3-wzor-umowa-spark-4-0-5eaf35e8372a.pdf",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "liczba_stron": 22,
+      "ekstrakt": "01-sources/text/SRC-8b520017a356.md",
+      "ekstrakcja": "wykonana",
+      "zakres_przegladu": "Definicje, finansowanie, obowiązki, zabezpieczenie i załączniki; porównano pełne ekstrakty obu umów. Pozostałe postanowienia wymagają przeglądu przed podpisaniem.",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00"
+    },
+    {
+      "id": "SRC-2a2563594b37",
+      "tytul": "Załącznik nr 1_KARTA OCENY_SPARK_4.0",
+      "plik": "01-sources/originals/SRC-2a2563594b37-zalacznik-nr-1-karta-oceny-spark-4-0-8a64a8a0f405.pdf",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/1. Regulamin_załączniki/Załącznik nr 1_KARTA OCENY_SPARK_4.0.pdf",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/Za┼éa╠¿cznik nr 1_KARTA OCENY_SPARK_4.0.pdf",
+      "nazwa_zrodlowa": "Załącznik nr 1_KARTA OCENY_SPARK_4.0.pdf",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "przeczytany",
+      "sha256": "8a64a8a0f405173bec2b76e26ab193f30a42584cb0c2dfec7f55c3368296ef53",
+      "rozmiar": 363801,
+      "mime": "application/pdf",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "8a64a8a0f405173bec2b76e26ab193f30a42584cb0c2dfec7f55c3368296ef53",
+          "plik": "01-sources/originals/SRC-2a2563594b37-zalacznik-nr-1-karta-oceny-spark-4-0-8a64a8a0f405.pdf",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "liczba_stron": 5,
+      "ekstrakt": "01-sources/text/SRC-2a2563594b37.md",
+      "ekstrakcja": "wykonana",
+      "zakres_przegladu": "Całość ekstraktu i porównanie kluczowych wymagań",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00"
+    },
+    {
+      "id": "SRC-a3c0591268a7",
+      "tytul": "Załącznik nr 2_ZASADY ROZLICZANIA GRANTÓW_SPARK 4.0",
+      "plik": "01-sources/originals/SRC-a3c0591268a7-zalacznik-nr-2-zasady-rozliczania-grantow-spark-4-0-79c0c877afb9.pdf",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/1. Regulamin_załączniki/Załącznik nr 2_ZASADY ROZLICZANIA GRANTÓW_SPARK 4.0.pdf",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/Za┼éa╠¿cznik nr 2_ZASADY ROZLICZANIA GRANTO╠üW_SPARK 4.0.pdf",
+      "nazwa_zrodlowa": "Załącznik nr 2_ZASADY ROZLICZANIA GRANTÓW_SPARK 4.0.pdf",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "przeczytany",
+      "sha256": "79c0c877afb95c75af535b2415522b5b9ce173e31be43650d49e45d44f2f6de5",
+      "rozmiar": 289897,
+      "mime": "application/pdf",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "79c0c877afb95c75af535b2415522b5b9ce173e31be43650d49e45d44f2f6de5",
+          "plik": "01-sources/originals/SRC-a3c0591268a7-zalacznik-nr-2-zasady-rozliczania-grantow-spark-4-0-79c0c877afb9.pdf",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "liczba_stron": 7,
+      "ekstrakt": "01-sources/text/SRC-a3c0591268a7.md",
+      "ekstrakcja": "wykonana",
+      "zakres_przegladu": "Całość ekstraktu i porównanie kluczowych wymagań",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00"
+    },
+    {
+      "id": "SRC-913297dd7fc1",
+      "tytul": "Załącznik nr 6. KLAUZULA INFORMACYJNA (PRACOWNICY)",
+      "plik": "01-sources/originals/SRC-913297dd7fc1-zalacznik-nr-6-klauzula-informacyjna-pracownicy-92c7854f867b.pdf",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/1. Regulamin_załączniki/Załącznik nr 6. KLAUZULA INFORMACYJNA (PRACOWNICY).pdf",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/Za┼éa╠¿cznik nr 6. KLAUZULA INFORMACYJNA (PRACOWNICY).pdf",
+      "nazwa_zrodlowa": "Załącznik nr 6. KLAUZULA INFORMACYJNA (PRACOWNICY).pdf",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "czesciowo-przeczytany",
+      "sha256": "92c7854f867b63643e218351e6f76366c8bf0a86d2b01b848ba3f42c4fab376a",
+      "rozmiar": 162378,
+      "mime": "application/pdf",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "92c7854f867b63643e218351e6f76366c8bf0a86d2b01b848ba3f42c4fab376a",
+          "plik": "01-sources/originals/SRC-913297dd7fc1-zalacznik-nr-6-klauzula-informacyjna-pracownicy-92c7854f867b.pdf",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "liczba_stron": 2,
+      "ekstrakt": "01-sources/text/SRC-913297dd7fc1.md",
+      "ekstrakcja": "wykonana",
+      "zakres_przegladu": "Klasyfikacja i fragmenty istotne dla naboru; pełna kontrola przy przygotowaniu umowy",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00"
+    },
+    {
+      "id": "SRC-5b62f2bf36d0",
+      "tytul": "Załącznik nr 4_INSTRUKCJA IPA_SPARK 4.0",
+      "plik": "01-sources/originals/SRC-5b62f2bf36d0-zalacznik-nr-4-instrukcja-ipa-spark-4-0-df6e73286204.pdf",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/1. Regulamin_załączniki/Załącznik nr 4_INSTRUKCJA IPA_SPARK 4.0.pdf",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/Za┼éa╠¿cznik nr 4_INSTRUKCJA IPA_SPARK 4.0.pdf",
+      "nazwa_zrodlowa": "Załącznik nr 4_INSTRUKCJA IPA_SPARK 4.0.pdf",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "przeczytany",
+      "sha256": "df6e7328620462d017f0d19b8e7879d0db2f096bc6ad67a7bcd39f039a37e5cb",
+      "rozmiar": 239479,
+      "mime": "application/pdf",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "df6e7328620462d017f0d19b8e7879d0db2f096bc6ad67a7bcd39f039a37e5cb",
+          "plik": "01-sources/originals/SRC-5b62f2bf36d0-zalacznik-nr-4-instrukcja-ipa-spark-4-0-df6e73286204.pdf",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "liczba_stron": 4,
+      "ekstrakt": "01-sources/text/SRC-5b62f2bf36d0.md",
+      "ekstrakcja": "wykonana",
+      "zakres_przegladu": "Całość ekstraktu i porównanie kluczowych wymagań",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00"
+    },
+    {
+      "id": "SRC-04483061c324",
+      "tytul": "Załącznik 5. KLAUZULA INFORMACYJNA (Startup)",
+      "plik": "01-sources/originals/SRC-04483061c324-zalacznik-5-klauzula-informacyjna-startup-41309e23f856.pdf",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/1. Regulamin_załączniki/Załącznik 5. KLAUZULA INFORMACYJNA (Startup).pdf",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/1. Regulamin_za┼éa╠¿czniki/Za┼éa╠¿cznik 5. KLAUZULA INFORMACYJNA (Startup).pdf",
+      "nazwa_zrodlowa": "Załącznik 5. KLAUZULA INFORMACYJNA (Startup).pdf",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "czesciowo-przeczytany",
+      "sha256": "41309e23f856b1ba8d032424b1bc6c91f4e52cafa1df387495b0bdc935f7d025",
+      "rozmiar": 150792,
+      "mime": "application/pdf",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "41309e23f856b1ba8d032424b1bc6c91f4e52cafa1df387495b0bdc935f7d025",
+          "plik": "01-sources/originals/SRC-04483061c324-zalacznik-5-klauzula-informacyjna-startup-41309e23f856.pdf",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "liczba_stron": 3,
+      "ekstrakt": "01-sources/text/SRC-04483061c324.md",
+      "ekstrakcja": "wykonana",
+      "zakres_przegladu": "Klasyfikacja i fragmenty istotne dla naboru; pełna kontrola przy przygotowaniu umowy",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00"
+    },
+    {
+      "id": "SRC-2cae94366ea3",
+      "tytul": "Załącznik nr 4. Formularz informacji_de minimis",
+      "plik": "01-sources/originals/SRC-2cae94366ea3-zalacznik-nr-4-formularz-informacji-de-minimis-c86d5ada9c26.xlsx",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/2. Umowa_załączniki/Załącznik nr 4. Formularz informacji_de minimis.xlsx",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/Za┼éa╠¿cznik nr 4. Formularz informacji_de minimis.xlsx",
+      "nazwa_zrodlowa": "Załącznik nr 4. Formularz informacji_de minimis.xlsx",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "czesciowo-przeczytany",
+      "sha256": "c86d5ada9c2617d684cab640bb96a62cd707dfff652960df502cc8b5756c2996",
+      "rozmiar": 69029,
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "c86d5ada9c2617d684cab640bb96a62cd707dfff652960df502cc8b5756c2996",
+          "plik": "01-sources/originals/SRC-2cae94366ea3-zalacznik-nr-4-formularz-informacji-de-minimis-c86d5ada9c26.xlsx",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "arkusze": [
+        "Arkusz1",
+        "Arkusz2",
+        "Arkusz3"
+      ],
+      "ekstrakt": "01-sources/text/SRC-2cae94366ea3.md",
+      "ekstrakcja": "wykonana",
+      "zakres_przegladu": "Klasyfikacja i fragmenty istotne dla naboru; pełna kontrola przy przygotowaniu umowy",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00",
+      "uwagi_ekstrakcji": "Odczyt openpyxl bez zapisu oryginału; formuły i ukryte arkusze zachowano w ekstrakcie. Obrazy WMF i rozszerzenia walidacji mogą nie być odwzorowane przez czytnik."
+    },
+    {
+      "id": "SRC-55c2b0708b30",
+      "tytul": "Załącznik nr 7_Wniosek o wypłatę zaliczki_wzór",
+      "plik": "01-sources/originals/SRC-55c2b0708b30-zalacznik-nr-7-wniosek-o-wyplate-zaliczki-wzor-3f33c0c3427e.xlsx",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/2. Umowa_załączniki/Załącznik nr 7_Wniosek o wypłatę zaliczki_wzór.xlsx",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/Za┼éa╠¿cznik nr 7_Wniosek o wyp┼éate╠¿ zaliczki_wzo╠ür.xlsx",
+      "nazwa_zrodlowa": "Załącznik nr 7_Wniosek o wypłatę zaliczki_wzór.xlsx",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "przeczytany",
+      "sha256": "3f33c0c3427ec2089bc113ba6e3efbcd12a14a19b151b54f157af1243362a5f6",
+      "rozmiar": 195649,
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "3f33c0c3427ec2089bc113ba6e3efbcd12a14a19b151b54f157af1243362a5f6",
+          "plik": "01-sources/originals/SRC-55c2b0708b30-zalacznik-nr-7-wniosek-o-wyplate-zaliczki-wzor-3f33c0c3427e.xlsx",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "arkusze": [
+        "Wniosek o zaliczkę",
+        "Arkusz3",
+        "Wniosek o wypłatę grantu",
+        "Arkusz1"
+      ],
+      "ekstrakt": "01-sources/text/SRC-55c2b0708b30.md",
+      "ekstrakcja": "wykonana",
+      "zakres_przegladu": "Całość ekstraktu i porównanie kluczowych wymagań",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00",
+      "uwagi_ekstrakcji": "Odczyt openpyxl bez zapisu oryginału; formuły i ukryte arkusze zachowano w ekstrakcie. Obrazy WMF i rozszerzenia walidacji mogą nie być odwzorowane przez czytnik."
+    },
+    {
+      "id": "SRC-8a00f022b819",
+      "tytul": "Załącznik nr 5. Oświadczenie o spełnianie kryteriów_MSP",
+      "plik": "01-sources/originals/SRC-8a00f022b819-zalacznik-nr-5-oswiadczenie-o-spelnianie-kryteriow-msp-038e9a755ad0.doc",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/2. Umowa_załączniki/Załącznik nr 5. Oświadczenie o spełnianie kryteriów_MSP.doc",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/Za┼éa╠¿cznik nr 5. Os╠üwiadczenie o spe┼énianie kryterio╠üw_MSP.doc",
+      "nazwa_zrodlowa": "Załącznik nr 5. Oświadczenie o spełnianie kryteriów_MSP.doc",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "czesciowo-przeczytany",
+      "sha256": "038e9a755ad06be361d3bdfbb42d14ab314a10bba26af409708fc82524925859",
+      "rozmiar": 353792,
+      "mime": "application/msword",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "038e9a755ad06be361d3bdfbb42d14ab314a10bba26af409708fc82524925859",
+          "plik": "01-sources/originals/SRC-8a00f022b819-zalacznik-nr-5-oswiadczenie-o-spelnianie-kryteriow-msp-038e9a755ad0.doc",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "ekstrakt": "01-sources/text/SRC-8a00f022b819.md",
+      "ekstrakcja": "wykonana",
+      "uwagi_ekstrakcji": "Liczba znaków zastępczych w ekstrakcie DOC: 9. Oryginał zachowano.",
+      "zakres_przegladu": "Klasyfikacja i fragmenty istotne dla naboru; pełna kontrola przy przygotowaniu umowy",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00"
+    },
+    {
+      "id": "SRC-ae7cbab4a4a8",
+      "tytul": "Załącznik nr 1. Wzór Indywidualnego Planu Akceleracji",
+      "plik": "01-sources/originals/SRC-ae7cbab4a4a8-zalacznik-nr-1-wzor-indywidualnego-planu-akceleracji-c5e53d4a3488.xlsx",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/2. Umowa_załączniki/Załącznik nr 1. Wzór Indywidualnego Planu Akceleracji.xlsx",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/Za┼éa╠¿cznik nr 1. Wzo╠ür Indywidualnego Planu Akceleracji.xlsx",
+      "nazwa_zrodlowa": "Załącznik nr 1. Wzór Indywidualnego Planu Akceleracji.xlsx",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "przeczytany",
+      "sha256": "c5e53d4a34881e7923670effd85b49187b8d68594a5369b26213b4ac59e874bd",
+      "rozmiar": 241875,
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "c5e53d4a34881e7923670effd85b49187b8d68594a5369b26213b4ac59e874bd",
+          "plik": "01-sources/originals/SRC-ae7cbab4a4a8-zalacznik-nr-1-wzor-indywidualnego-planu-akceleracji-c5e53d4a3488.xlsx",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "arkusze": [
+        "Budżet",
+        "Harmonogram",
+        "Arkusz1"
+      ],
+      "ekstrakt": "01-sources/text/SRC-ae7cbab4a4a8.md",
+      "ekstrakcja": "wykonana",
+      "zakres_przegladu": "Całość ekstraktu i porównanie kluczowych wymagań",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00",
+      "uwagi_ekstrakcji": "Odczyt openpyxl bez zapisu oryginału; formuły i ukryte arkusze zachowano w ekstrakcie. Obrazy WMF i rozszerzenia walidacji mogą nie być odwzorowane przez czytnik."
+    },
+    {
+      "id": "SRC-ed16d1f3ac6f",
+      "tytul": "Załącznik nr 2 Wzór weksla_deklaracja",
+      "plik": "01-sources/originals/SRC-ed16d1f3ac6f-zalacznik-nr-2-wzor-weksla-deklaracja-61afa66d51a1.docx",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/2. Umowa_załączniki/Załącznik nr 2 Wzór weksla_deklaracja.docx",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/Za┼éa╠¿cznik nr 2 Wzo╠ür weksla_deklaracja.docx",
+      "nazwa_zrodlowa": "Załącznik nr 2 Wzór weksla_deklaracja.docx",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "czesciowo-przeczytany",
+      "sha256": "61afa66d51a193a3da19ef686a4b74f003960f0ff373496bde6a6c8cde3b767b",
+      "rozmiar": 39757,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "61afa66d51a193a3da19ef686a4b74f003960f0ff373496bde6a6c8cde3b767b",
+          "plik": "01-sources/originals/SRC-ed16d1f3ac6f-zalacznik-nr-2-wzor-weksla-deklaracja-61afa66d51a1.docx",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "ekstrakt": "01-sources/text/SRC-ed16d1f3ac6f.md",
+      "ekstrakcja": "wykonana",
+      "zakres_przegladu": "Klasyfikacja i fragmenty istotne dla naboru; pełna kontrola przy przygotowaniu umowy",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00"
+    },
+    {
+      "id": "SRC-1890717a5810",
+      "tytul": "WZÓR_UMOWA_SPARK_4.0",
+      "plik": "01-sources/originals/SRC-1890717a5810-wzor-umowa-spark-4-0-d245ccb46c26.pdf",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/2. Umowa_załączniki/WZÓR_UMOWA_SPARK_4.0.pdf",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/WZO╠üR_UMOWA_SPARK_4.0.pdf",
+      "nazwa_zrodlowa": "WZÓR_UMOWA_SPARK_4.0.pdf",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "czesciowo-przeczytany",
+      "sha256": "d245ccb46c26143e3e3a32c2287054ee40a761ff4730573903ad53148eb750b7",
+      "rozmiar": 433272,
+      "mime": "application/pdf",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "d245ccb46c26143e3e3a32c2287054ee40a761ff4730573903ad53148eb750b7",
+          "plik": "01-sources/originals/SRC-1890717a5810-wzor-umowa-spark-4-0-d245ccb46c26.pdf",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "liczba_stron": 22,
+      "ekstrakt": "01-sources/text/SRC-1890717a5810.md",
+      "ekstrakcja": "wykonana",
+      "zakres_przegladu": "Definicje, finansowanie, obowiązki, zabezpieczenie i załączniki; porównano pełne ekstrakty obu umów. Pozostałe postanowienia wymagają przeglądu przed podpisaniem.",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00"
+    },
+    {
+      "id": "SRC-7c87e9673f08",
+      "tytul": "Zał 11. Klauzula informacyjna",
+      "plik": "01-sources/originals/SRC-7c87e9673f08-zal-11-klauzula-informacyjna-1603477479f9.docx",
+      "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+      "archiwum_id": "SRC-3e8af0181b0e",
+      "sciezka_w_archiwum": "REGULAMIN + UMOWA/2. Umowa_załączniki/Zał 11. Klauzula informacyjna.docx",
+      "sciezka_zip_surowa": "REGULAMIN + UMOWA/2. Umowa_za┼éa╠¿czniki/Za┼é 11. Klauzula informacyjna.docx",
+      "nazwa_zrodlowa": "Zał 11. Klauzula informacyjna.docx",
+      "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "sekcja": "Paczka regulaminu i umowy",
+      "status": "pobrany",
+      "odczyt": "czesciowo-przeczytany",
+      "sha256": "1603477479f936ff04dcb4b994a051356b8f09cd4f438a2f89c7029c5484d3e0",
+      "rozmiar": 806910,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "pobrano_at": "2026-09-26T18:59:07.748346+00:00",
+      "w_biezacej_paczce": true,
+      "wersje": [
+        {
+          "sha256": "1603477479f936ff04dcb4b994a051356b8f09cd4f438a2f89c7029c5484d3e0",
+          "plik": "01-sources/originals/SRC-7c87e9673f08-zal-11-klauzula-informacyjna-1603477479f9.docx",
+          "pobrano_at": "2026-09-26T18:59:07.748346+00:00"
+        }
+      ],
+      "ekstrakt": "01-sources/text/SRC-7c87e9673f08.md",
+      "ekstrakcja": "wykonana",
+      "zakres_przegladu": "Klasyfikacja i fragmenty istotne dla naboru; pełna kontrola przy przygotowaniu umowy",
+      "przejrzano_at": "2026-09-26T19:05:00.980192+00:00"
+    },
+    {
+      "id": "SRC-f6s-zrzuty-20260926",
+      "tytul": "Formularz F6S — pytania 1–37 (transkrypcja zrzutów użytkownika)",
+      "pochodzenie": "Cztery obrazy przekazane przez użytkownika w rozmowie 2026-09-26",
+      "url": "https://www.f6s.com/spark-4.0-edycja-rethink/apply",
+      "plik": "01-sources/text/SRC-f6s-zrzuty-20260926.md",
+      "ekstrakt": "01-sources/text/SRC-f6s-zrzuty-20260926.md",
+      "mime": "text/markdown",
+      "sha256": "6fb5f043df7e83d2c9579ceb664048bfee9ac5f2ed6b0f8c533e1de2effd1eaf",
+      "rozmiar": 8612,
+      "pobrano_at": "2026-09-26T19:08:44.169691+00:00",
+      "status": "przekazany-przez-uzytkownika",
+      "odczyt": "przeczytany",
+      "liczba_czesci": 4,
+      "liczba_pytan": 37,
+      "wersje": [
+        {
+          "sha256": "6fb5f043df7e83d2c9579ceb664048bfee9ac5f2ed6b0f8c533e1de2effd1eaf",
+          "plik": "01-sources/text/SRC-f6s-zrzuty-20260926.md",
+          "pobrano_at": "2026-09-26T19:08:44.169691+00:00"
+        }
+      ],
+      "uwagi": "Nie pobrano portalu bezpośrednio. Brak kopii oryginalnych obrazów w folderze; zachowane w rozmowie. Nieznane limity i rozwinięty słownik województw."
+    }
+  ],
+  "linki_do_sprawdzenia": [],
+  "rozpoznanie_ai": {
+    "schema_version": 1,
+    "url": "https://startupspark.sse.lodz.pl/spark-4-0/",
+    "tytul": "Spark 4.0 / rethink — nabór 14.08–30.09.2026",
+    "kompletne": true,
+    "sprawdzono_at": "2026-09-26T18:58:10.461030+00:00",
+    "sprawdzone_sekcje": [
+      "POBIERZ DOKUMENTY (ZIP: 14 plików merytorycznych)",
+      "ZGŁOŚ SIĘ — adres F6S; treść blokowana",
+      "Kto może aplikować",
+      "Jak rozwijamy pomysły",
+      "Partnerzy — odbiorcy technologii",
+      "Kontakt",
+      "Liczniki HTML data-to-value (teksty przed animacją zawierają zera)",
+      "F6S — pytania 1–37, odczyt z czterech zrzutów użytkownika"
+    ],
+    "dokumenty": [
+      {
+        "url": "https://startupspark.sse.lodz.pl/wp-content/uploads/2026/08/REGULAMIN-UMOWA.zip",
+        "tytul": "Regulamin i umowa Spark 4.0 z załącznikami",
+        "strona_pochodzenia": "https://startupspark.sse.lodz.pl/spark-4-0/",
+        "sekcja": "POBIERZ DOKUMENTY",
+        "nazwa_zrodlowa": "REGULAMIN-UMOWA.zip"
+      }
+    ],
+    "pozostale_linki": [
+      {
+        "url": "https://www.f6s.com/spark-4.0-edycja-rethink/apply",
+        "status": "odczyt-z-materialu-uzytkownika",
+        "uzasadnienie": "Bezpośredni dostęp zablokowany. Strukturę 37 pytań odczytano z czterech zrzutów przekazanych przez użytkownika."
+      }
+    ],
+    "uwagi": [
+      "W HTML są niewywoływane popupy starszych programów. Do analizy bieżących odbiorców używać wyłącznie popupów powiązanych z widoczną sekcją Spark 4.0.",
+      "Archiwum zawiera __MACOSX i AppleDouble; to metadane, nie dokumenty naboru."
+    ],
+    "uzupelnienie_uzytkownika": {
+      "at": "2026-09-26T19:12:01.953503+00:00",
+      "zrodlo": "SRC-f6s-zrzuty-20260926",
+      "zakres": "Transkrypcja 37 pytań; bezpośredni odczyt portalu nadal zablokowany"
+    }
+  },
+  "kontrola_archiwum": {
+    "liczba_plikow": 14,
+    "liczba_pdf": 8,
+    "liczba_stron_pdf": 80,
+    "liczba_xlsx": 3,
+    "liczba_docx": 2,
+    "liczba_doc": 1,
+    "sprawdzono_at": "2026-09-26T19:05:00.980192+00:00"
+  },
+  "uzupelnienia_uzytkownika": [
+    {
+      "id": "SRC-f6s-zrzuty-20260926",
+      "at": "2026-09-26T19:12:01.953503+00:00",
+      "zakres": "37 pytań; 4 zrzuty i potwierdzenie braku widocznych dodatkowych wymagań"
+    }
+  ]
+}

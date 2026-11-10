@@ -1,0 +1,836 @@
+{
+  "schema_version": 1,
+  "nabor_id": "2026-parp-platformy-startowe-iib-002",
+  "zakres": "Kryteria z lokalnej wersji dokumentacji. Podział pomocniczy oznaczono; brak wag pozostaje null. Oceny JEV dotyczą uzasadnienia w treści, bez przyznawania oficjalnych punktów.",
+  "uwagi": [
+    "Nie przypisano kryterium do etapu formalnego, jeśli organizator takiego etapu nie określa."
+  ],
+  "zasady_laczne": {
+    "maksimum": 29,
+    "minimum": 17,
+    "obowiazuje_minimum_kazdego_kryterium": true,
+    "remis_kolejnosc": [
+      6,
+      5,
+      7,
+      9
+    ]
+  },
+  "zrodla_sha256": {
+    "SRC-0fb046c95a8b": "f16589bebda11654dd9d63119f035f707890429a6cfdbe53961a933ab04af039"
+  },
+  "kryteria": [
+    {
+      "id": "K-01",
+      "nazwa": "Kwalifikowalność wnioskodawcy",
+      "rodzaj": "dostep",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-007",
+        "Q-008",
+        "Q-009",
+        "Q-010",
+        "Q-011",
+        "Q-012",
+        "Q-013",
+        "Q-025",
+        "Q-026",
+        "Q-027",
+        "Q-028",
+        "Q-029",
+        "Q-030",
+        "Q-031",
+        "Q-032",
+        "Q-033",
+        "Q-034",
+        "Q-035",
+        "Q-036",
+        "Q-037",
+        "Q-038",
+        "Q-039",
+        "Q-040",
+        "Q-041",
+        "Q-042",
+        "Q-043",
+        "Q-044",
+        "Q-045",
+        "Q-046"
+      ],
+      "rozdzialy": [
+        "01-previous-projects",
+        "04-applicant"
+      ],
+      "skala": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "aspekty": [
+        "Przedstawiono potwierdzenie ukończenia projektu IIa spełniającego wymagania organizatora."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 4
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 4:\n4\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n\n1. Kwalifikowalność Ocenie podlega, czy są spełnione łącznie poniższe warunki: 0 albo 1 1\n wnioskodawcy.\n 1) wnioskodawca jest przedsiębiorstwem, które ukończyło realizację projektu w działaniu\n FEPW.01.01 Platformy startowe dla nowych pomysłów, komponent IIa: Wsparcie rozwoju\n działalności gospodarczej startupu, tj. został złożony wniosek o płatność końcową dla tego\n projektu;\n\n 2) wnioskodawca jest przedsiębiorstwem prowadzącym działalność gospodarczą w formie\n spółki kapitałowej zgodnie z przepisami Kodeksu spółek handlowych;\n\n 3) wnioskodawca prowadzi działalność gospodarczą na terytorium makroregionu Polski\n Wschodniej, tj. województw lubelskiego, podkarpackiego, podlaskiego, świętokrzyskiego,\n warmińsko-mazurskiego lub mazowieckiego z wyłączeniem regionu warszawskiego\n stołecznego (m. st. Warszawa oraz powiaty: grodziski, legionowski, miński, nowodworski,\n otwocki, piaseczyński, pruszkowski, warszawski zachodni i wołomiński) potwierdzoną\n wpisem do odpowiedniego rejestru przedsiębiorców;\n\n 4) wszystkie dane identyfikacyjne przedsiębiorcy będącego wnioskodawcą zawarte we wniosku\n o dofinansowanie są zgodne z danymi zawartymi w ogólnodostępnych rejestrach, w tym\n Krajowym Rejestrze Sądowym.\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie oraz w ogólnodostępnych rejestrach, w tym w Krajowym Rejestrze Sądowym.\n\n Możliwe jest przyznanie 0 albo 1 pkt., przy czym:\n\n 0 pkt. – wnioskodawca nie spełnił przynajmniej jednego warunku w kryterium;\n\n 1 pkt – wnioskodawca spełnił wszystkie warunki kryterium."
+    },
+    {
+      "id": "K-02",
+      "nazwa": "Obszar Polski Wschodniej",
+      "rodzaj": "dostep",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-067",
+        "Q-058",
+        "Q-059",
+        "Q-060",
+        "Q-061",
+        "Q-062",
+        "Q-064",
+        "Q-065",
+        "Q-066"
+      ],
+      "rozdzialy": [
+        "06-locations"
+      ],
+      "skala": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "aspekty": [
+        "Opis wskazuje miejsce realizacji na terytorium makroregionu Polski Wschodniej."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 5
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 5:\n5\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n\n2. Projekt jest realizowany na Weryfikacji podlega, czy projekt spełnia łącznie następujące warunki: 0 albo 1 1\n terytorium makroregionu\n 1) miejsce realizacji projektu znajduje się na terytorium makroregionu Polski Wschodniej, tj.\n Polski Wschodniej.\n województw: lubelskiego, podkarpackiego, podlaskiego, świętokrzyskiego, warmińsko-\n mazurskiego, lub mazowieckiego z wyłączeniem regionu warszawskiego stołecznego (m. st.\n Warszawa oraz powiaty: grodziski, legionowski, miński, nowodworski, otwocki,\n piaseczyński, pruszkowski, warszawski zachodni i wołomiński);\n\n 2) we wniosku o dofinansowanie określono przedmiot i zakres działalności gospodarczej\n wykonywanej na terytorium makroregionu Polski Wschodniej w ramach projektu, w tym\n określono podstawowe aktywa oraz zasoby pracownicze wykorzystywane w działalności\n wykonywanej w ramach projektu na terytorium makroregionu Polski Wschodniej.\n\n Przez miejsce realizacji projektu należy rozumieć miejsce, w którym projekt będzie wdrażany. Jeżeli\n realizacja projektu będzie przebiegała w kilku lokalizacjach wszystkie miejsca realizacji muszą\n znajdować się na terenie makroregionu Polski Wschodniej.\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n\n Możliwe jest przyznanie 0 albo 1 pkt., przy czym:\n\n 0 pkt. – projekt nie spełnił przynajmniej jednego warunku w kryterium;\n\n 1 pkt – projekt spełnił wszystkie warunki kryterium.\n\n\n3. Przedmiot projektu nie dotyczy Ocenie podlega, czy przedmiot projektu może być wspierany w ramach działania, tj. czy działalność 0 albo 1 1\n rodzajów działalności której dotyczy projekt nie stanowi działalności wykluczonej z możliwości uzyskania pomocy na\n wykluczonych z możliwości podstawie § 6 Rozporządzenia Ministra Funduszy i Polityki Regionalnej w sprawie udzielania przez\n uzyskania wsparcia. Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Priorytetu 1"
+    },
+    {
+      "id": "K-03",
+      "nazwa": "Brak działalności wykluczonych",
+      "rodzaj": "dostep",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-018",
+        "Q-019",
+        "Q-020",
+        "Q-021",
+        "Q-022",
+        "Q-023",
+        "Q-024"
+      ],
+      "rozdzialy": [
+        "03-classification"
+      ],
+      "skala": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "aspekty": [
+        "Zakres działalności objętej projektem pozwala ocenić wykluczenia wskazane w kryterium."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 5
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 5:\n5\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n\n2. Projekt jest realizowany na Weryfikacji podlega, czy projekt spełnia łącznie następujące warunki: 0 albo 1 1\n terytorium makroregionu\n 1) miejsce realizacji projektu znajduje się na terytorium makroregionu Polski Wschodniej, tj.\n Polski Wschodniej.\n województw: lubelskiego, podkarpackiego, podlaskiego, świętokrzyskiego, warmińsko-\n mazurskiego, lub mazowieckiego z wyłączeniem regionu warszawskiego stołecznego (m. st.\n Warszawa oraz powiaty: grodziski, legionowski, miński, nowodworski, otwocki,\n piaseczyński, pruszkowski, warszawski zachodni i wołomiński);\n\n 2) we wniosku o dofinansowanie określono przedmiot i zakres działalności gospodarczej\n wykonywanej na terytorium makroregionu Polski Wschodniej w ramach projektu, w tym\n określono podstawowe aktywa oraz zasoby pracownicze wykorzystywane w działalności\n wykonywanej w ramach projektu na terytorium makroregionu Polski Wschodniej.\n\n Przez miejsce realizacji projektu należy rozumieć miejsce, w którym projekt będzie wdrażany. Jeżeli\n realizacja projektu będzie przebiegała w kilku lokalizacjach wszystkie miejsca realizacji muszą\n znajdować się na terenie makroregionu Polski Wschodniej.\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n\n Możliwe jest przyznanie 0 albo 1 pkt., przy czym:\n\n 0 pkt. – projekt nie spełnił przynajmniej jednego warunku w kryterium;\n\n 1 pkt – projekt spełnił wszystkie warunki kryterium.\n\n\n3. Przedmiot projektu nie dotyczy Ocenie podlega, czy przedmiot projektu może być wspierany w ramach działania, tj. czy działalność 0 albo 1 1\n rodzajów działalności której dotyczy projekt nie stanowi działalności wykluczonej z możliwości uzyskania pomocy na\n wykluczonych z możliwości podstawie § 6 Rozporządzenia Ministra Funduszy i Polityki Regionalnej w sprawie udzielania przez\n uzyskania wsparcia. Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Priorytetu 1"
+    },
+    {
+      "id": "K-04",
+      "nazwa": "Innowacyjność produktu",
+      "rodzaj": "merytoryczne",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-079",
+        "Q-080",
+        "Q-081",
+        "Q-082",
+        "Q-083",
+        "Q-084"
+      ],
+      "rozdzialy": [
+        "08-innovation"
+      ],
+      "skala": [
+        0,
+        2
+      ],
+      "minimum": 2,
+      "aspekty": [
+        "Opis wskazuje nowe cechy produktu i korzyści dla odbiorcy w porównaniu z dostępnymi produktami."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 6
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 6:\n6\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n Przedsiębiorczość i Innowacje oraz Priorytetu 5 Zrównoważona Turystyka programu Fundusze\n Europejskie dla Polski Wschodniej 2021-2027.\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n\n Możliwe jest przyznanie 0 albo 1 pkt., przy czym:\n\n 0 pkt. – przedmiot projektu dotyczy rodzajów działalności wykluczonych z możliwości uzyskania\n wsparcia;\n\n 1 pkt – przedmiot projektu nie dotyczy rodzajów działalności wykluczonych z możliwości uzyskania\n wsparcia.\n\n\n4. Innowacyjność produktu. Ocenie podlega, czy projekt spełnia łącznie następujące warunki: 0 albo 2 2\n\n 1) przedmiot projektu dotyczy produktu objętego wsparciem w ramach projektu wnioskodawcy\n dofinansowanego w działaniu FEPW.01.01, komponent IIa;\n\n 2) produkt, o którym mowa powyżej stanowi innowację produktową.\n\n Przez „innowację produktową” zgodnie z definicją zawartą w Podręczniku Oslo – Zasady\n Gromadzenia i Interpretacji Danych Dotyczących Innowacji1 rozumie się nowy lub ulepszony wyrób\n lub usługę, które różnią się znacząco od dotychczasowych wyrobów lub usług przedsiębiorstwa i\n które zostały wprowadzone na rynek.\n\n Wsparcie uzyskać mogą projekty dotyczące innowacji produktowej przynajmniej na skalę krajową,\n tzn. produkt objęty projektem charakteryzuje się nowością w odniesieniu do jego nowych cech i\n funkcjonalności w porównaniu do rozwiązań dostępnych na rynku krajowym. Nowe cechy i\n\n\n 1 Podręcznik OSLO z 2018 r., wydanie czwarte, OECD/Unia Europejska, 2018, przekład na język polski: Główny Urząd Statystyczny, 2020."
+    },
+    {
+      "id": "K-05",
+      "nazwa": "Warunki finansowe",
+      "rodzaj": "merytoryczne",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-085",
+        "Q-086",
+        "Q-087",
+        "Q-088",
+        "Q-089",
+        "Q-090",
+        "Q-091",
+        "Q-092",
+        "Q-093",
+        "Q-094",
+        "Q-095"
+      ],
+      "rozdzialy": [
+        "09-scope-and-funding"
+      ],
+      "skala": [
+        0,
+        1,
+        3
+      ],
+      "minimum": 1,
+      "aspekty": [
+        "Opis dokumentuje przychody lub pozyskane finansowanie wymagane w kryterium."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 7
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 7:\n7\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n funkcjonalności produktu niepowodujące zmiany przydatności użytkowej produktu, niezauważalne\n przez odbiorcę produktu oraz nieprzesądzające o jego konkurencyjności, nie będą stanowiły\n podstawy do uznania kryterium za spełnione.\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n\n Możliwe jest przyznanie 0 lub 2 pkt., przy czym:\n\n 0 pkt. – projekt nie spełnił przynajmniej jednego warunku w kryterium;\n\n 2 pkt. – projekt spełnił wszystkie warunki kryterium.\n\n\n5. Warunki finansowe. Ocenie podlega, czy projekt spełnia następujące warunki: 0 albo 1 albo 3 1\n\n 1) założenia finansowe projektu uzasadniają jego realizację, tj. prognoza przychodów oraz\n kosztów związanych z zakresem prac projektowych opiera się na realnych i mierzalnych\n założeniach oraz wykazuje opłacalność ekonomiczną2;\n\n 2) wnioskodawca udokumentował pozyskanie opłaconego w formie pieniężnej kapitału w\n celu rozwoju przedsiębiorstwa w wysokości co najmniej 300 tys. PLN;\n\n 3) wnioskodawca udokumentował inwestycję kapitałową w jego przedsiębiorstwo, dokonaną\n przez osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej,\n której podstawowym przedmiotem działalności jest dokonywanie inwestycji kapitałowych\n w przedsiębiorstwa niebędące spółkami publicznymi znajdujące się we wczesnym stadium\n rozwoju, w wyniku której przedsiębiorstwo pozyska/pozyskało kapitał w formie pieniężnej\n w wysokości co najmniej połowy kwoty wnioskowanego dofinansowania w celu rozwoju\n przedsiębiorstwa.\n\n\n\n 2Analiza dokonana będzie w oparciu o Model finansowy wnioskodawcy, którego wzór stanowi załącznik do Regulaminu wyboru projektów."
+    },
+    {
+      "id": "K-06",
+      "nazwa": "Zakres projektu",
+      "rodzaj": "merytoryczne",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-085",
+        "Q-086",
+        "Q-087",
+        "Q-088",
+        "Q-089",
+        "Q-090",
+        "Q-091",
+        "Q-092",
+        "Q-093",
+        "Q-094",
+        "Q-095",
+        "Q-206",
+        "Q-207",
+        "Q-208",
+        "Q-209",
+        "Q-210",
+        "Q-267",
+        "Q-268",
+        "Q-269",
+        "Q-297"
+      ],
+      "rozdzialy": [
+        "09-scope-and-funding",
+        "13-schedule"
+      ],
+      "skala": [
+        0,
+        3,
+        5
+      ],
+      "minimum": 3,
+      "aspekty": [
+        "Zakres prac odpowiada potrzebom rozwoju przedsiębiorstwa.",
+        "Rezultaty zaplanowanych prac są wykonalne w opisanych warunkach."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 8
+        },
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 9
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 8:\n8\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n\n Możliwe jest przyznanie 0 albo 1 albo 3 pkt., przy czym:\n\n 0 pkt. – projekt nie spełnił warunku 1) lub 2) w kryterium;\n\n 1 pkt – projekt spełnił warunek 1) i 2) w kryterium;\n\n 3 pkt. – projekt spełnił wszystkie warunki kryterium.\n\n\n6. Zakres projektu. W ramach kryterium ocenie podlega, czy zakres projektu zapewnia rozwój przedsiębiorstwa, tj. czy 0 albo 3 albo 5 3\n są spełnione łącznie następujące warunki:\n\n 1) wnioskodawca opisał faktycznych, płacących klientów produktu objętego wsparciem\n projektu wnioskodawcy dofinansowanego w działaniu FEPW.01.01, komponentu IIa, wobec\n których zadeklarował brak powiązań w rozumieniu art. 61 ust. 5 ustawy wdrożeniowej3\n oraz art. 6c ust. 2 ustawy o PARP4;\n\n 2) wnioskodawca zdefiniował i uzasadnił przedmiot projektu;\n\n 3) wnioskodawca przedstawił i wykazał zasadność prac projektowych oraz zaplanował\n adekwatne kamienie milowe5;\n\n 4) wnioskodawca zdefiniował i uzasadnił wykonalność rezultatów prac projektowych\n określając w sposób mierzalny prognozowany wpływ tych prac na działalność\n przedsiębiorstwa w odniesieniu do6:\n\n\n\n\n 3 Ustawa z dnia 28 kwietnia 2022 roku o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021-2027 (Dz.U. z 2022 r. poz. 1079), dalej: ustawa\n wdrożeniowa.\n 4 Ustawa z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz.U. z 2024 r. poz. 419), dalej: ustawa o PARP.\n 5 Przez „kamień milowy” rozumie się mierzalne, obserwowalne zdarzenie, oznaczające jakościową zmianę służącą osiąganiu założonych celów.\n 6 Analiza dokonana będzie w oparciu o Model finansowy wnioskodawcy, którego wzór stanowi załącznik do Regulaminu wyboru projektów.\n\nStrona 9:\n9\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n a) przychodów ze sprzedaży produktu,\n\n b) liczby płacących klientów,\n\n uzasadniając, że prognozowany wzrost przychodów ze sprzedaży produktu lub liczby\n płacących klientów w wyniku prac projektowych wynosi minimum 150% (w relacji: rok\n złożenia wniosku o dofinansowanie do roku zakończenia realizacji projektu);\n\n 5) wnioskodawca udokumentował strategiczne partnerstwo zawiązane\n z podmiotem/podmiotami kluczowymi z perspektywy skalowania biznesu (np. z\n przedsiębiorcą z branży, dostawcą, dystrybutorem lub innym), które służy ekspansji\n rynkowej przedsiębiorstwa, wobec których zadeklarował brak powiązań w rozumieniu art.\n 61 ust. 5 ustawy wdrożeniowej oraz art. 6c ust. 2 ustawy o PARP.\n\n Przez „adekwatność” należy rozumieć, że planowane założenia są właściwe w stosunku do\n oczekiwanych rezultatów projektu.\n\n Przez „wykonalność” należy rozumieć, że planowane założenia uwzględniają obecne oraz przyszłe\n uwarunkowania rynkowe, technologiczne, organizacyjne i ekonomiczne i wykazują szansę\n powodzenia.\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n\n Możliwe jest przyznanie 0 albo 3 albo 5 pkt., przy czym:\n\n 0 pkt. – projekt nie spełnia przynajmniej jednego warunku w kryterium;\n\n 3 pkt. – projekt spełnia wszystkie warunki kryterium;\n\n 5 pkt. – projekt spełnia wszystkie warunki kryterium, a wnioskodawca wykazał, że rezultaty prac\n projektowych umożliwią wejście przedsiębiorstwu na co najmniej jeden rynek zagraniczny, na\n którym jego produkt nie był dotychczas oferowany, wnioskodawca wykazał przygotowanie"
+    },
+    {
+      "id": "K-07",
+      "nazwa": "Zespół projektowy",
+      "rodzaj": "merytoryczne",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-103",
+        "Q-096",
+        "Q-097",
+        "Q-098",
+        "Q-099",
+        "Q-100",
+        "Q-101",
+        "Q-102"
+      ],
+      "rozdzialy": [
+        "10-team"
+      ],
+      "skala": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "minimum": 1,
+      "aspekty": [
+        "Doświadczenie członków zespołu odpowiada ich zadaniom.",
+        "Struktura organizacyjna zapewnia realizację projektu."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 10
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 10:\n10\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n przedsiębiorstwa do wejścia na ten rynek zagraniczny z produktem i wykazał dopasowanie produktu\n do potrzeb tego rynku.\n\n\n7. Zespół projektowy. Ocenie podlega, czy wnioskodawca zapewnia adekwatne zasoby osobowe do prawidłowej i 0 albo 1 albo 2 1\n efektywnej realizacji projektu, tj. czy są spełnione łącznie następujące warunki: albo 3\n\n 1) wnioskodawca posiada lub dysponuje zespołem projektowym, który zapewni realizację\n projektu i osiągnięcie zakładanego celu;\n\n 2) właściwie określono strukturę zespołu projektowego, tj. role, zadania i wymiar\n zaangażowania poszczególnych członków zespołu projektowego zostały adekwatnie\n dobrane do zakresu i rodzaju zaplanowanych prac;\n\n 3) wskazani w strukturze zespołu projektowego członkowie zespołu projektowego posiadają\n wiedzę i doświadczenie adekwatne do zakresu i rodzaju zaplanowanych prac;\n\n 4) przedstawiono proces decyzyjny i zarządczy w ramach struktury zespołu projektowego.\n\n Przez „adekwatność zasobów osobowych” należy rozumieć, że planowane założenia są właściwe w\n stosunku do oczekiwanych rezultatów projektu.\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n\n Możliwe jest przyznanie 0 albo 1 albo 2 albo 3 pkt., przy czym:\n\n 0 pkt. – projekt nie spełnia przynajmniej jednego warunku kryterium;\n\n 1 pkt – projekt spełnia wszystkie warunki kryterium;\n\n +1 pkt – projekt spełnia wszystkie warunki kryterium i liczba kobiet w zespole projektowym wynosi\n min. 40% łącznej liczby członków zespołu;"
+    },
+    {
+      "id": "K-08",
+      "nazwa": "Wydatki kwalifikowalne, racjonalne i uzasadnione",
+      "rodzaj": "merytoryczne",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-211",
+        "Q-212",
+        "Q-213",
+        "Q-214",
+        "Q-215",
+        "Q-216",
+        "Q-217",
+        "Q-218",
+        "Q-219",
+        "Q-220",
+        "Q-221",
+        "Q-222",
+        "Q-223",
+        "Q-224",
+        "Q-225",
+        "Q-226",
+        "Q-227",
+        "Q-228",
+        "Q-229",
+        "Q-230",
+        "Q-231",
+        "Q-232",
+        "Q-233",
+        "Q-234",
+        "Q-235",
+        "Q-236",
+        "Q-237",
+        "Q-238",
+        "Q-239",
+        "Q-240",
+        "Q-241",
+        "Q-242",
+        "Q-243",
+        "Q-244",
+        "Q-245",
+        "Q-246",
+        "Q-247",
+        "Q-248",
+        "Q-249",
+        "Q-250",
+        "Q-251",
+        "Q-252",
+        "Q-253",
+        "Q-254",
+        "Q-255",
+        "Q-256",
+        "Q-257",
+        "Q-258",
+        "Q-259",
+        "Q-260",
+        "Q-261",
+        "Q-262",
+        "Q-263",
+        "Q-264",
+        "Q-265",
+        "Q-266"
+      ],
+      "rozdzialy": [
+        "14-expenses",
+        "15-indirect-costs",
+        "16-budget-summary"
+      ],
+      "skala": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "aspekty": [
+        "Koszty są uzasadnione zakresem prac.",
+        "Przedstawiono metodę i źródła szacowania kosztów."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 11
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 11:\n11\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n +1 pkt – projekt spełnia wszystkie warunki kryterium i co najmniej jeden członek zespołu\n projektowego posiada doświadczenie międzynarodowe (zawodowe lub naukowe) w wymiarze\n minimum 1 roku.\n\n\n8. Wydatki w ramach projektu są Ocenie podlega, czy: 0 albo 1 1\n kwalifikowalne, racjonalne i\n 1) wydatki przewidziane do objęcia wsparciem w ramach projektu są kwalifikowalne,\n uzasadnione.\n racjonalne i uzasadnione w stosunku do zaplanowanych przez wnioskodawcę działań i\n celów projektu oraz celów określonych dla działania;\n 2) wydatki są zgodne z zakresem kategorii wydatków kwalifikowalnych i odpowiednio\n przyporządkowane do kategorii wydatków kwalifikowalnych wskazanych w Regulaminie\n wyboru projektów;\n 3) wnioskowana kwota dofinansowania oraz wydatki kwalifikowalne są zgodne z limitami\n określonymi w Regulaminie wyboru projektów;\n\n 4) wnioskodawca przedstawił sposób szacowania wydatków oraz wskazał źródła danych, na\n podstawie których określono kwoty poszczególnych wydatków kwalifikowalnych.\n\n Przez „wydatki racjonalne” należy rozumieć, że ich wysokość musi być dostosowana do zakresu\n zaplanowanych działań i czynności, które będą realizowane w ramach projektu. Wydatki\n kwalifikowalne nie mogą być zawyżone ani zaniżone względem funkcjonujących na rynku.\n\n Przez „wydatki uzasadnione” należy rozumieć, że są niezbędne i bezpośrednio związane z realizacją\n zaplanowanych w projekcie działań uznanych za kwalifikowalne. Wnioskodawca jest zobowiązany\n wykazać konieczność poniesienia każdego wydatku i jego związek z projektem.\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n\n Możliwe jest przyznanie 0 albo 1 pkt., przy czym:"
+    },
+    {
+      "id": "K-09",
+      "nazwa": "Wkład własny",
+      "rodzaj": "merytoryczne",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-270",
+        "Q-271",
+        "Q-272",
+        "Q-273",
+        "Q-274",
+        "Q-275",
+        "Q-276",
+        "Q-277",
+        "Q-278",
+        "Q-279",
+        "Q-280",
+        "Q-281",
+        "Q-282",
+        "Q-283",
+        "Q-284",
+        "Q-285"
+      ],
+      "rozdzialy": [
+        "17-funding-sources"
+      ],
+      "skala": [
+        0,
+        1,
+        3
+      ],
+      "minimum": 1,
+      "aspekty": [
+        "Wskazano wiarygodne źródła zapewnienia wkładu własnego."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 12
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 12:\n12\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n 0 pkt. – projekt nie spełnia przynajmniej jednego warunku w kryterium;\n\n 1 pkt – projekt spełnia wszystkie warunki kryterium.\n\n Ocenie podlega, czy wnioskodawca zapewnia na rzecz projektu wymagany wkład własny w\n9. Wkład własny wnioskodawcy. 0 albo 1 albo 3 1\n wysokości minimum 15% wydatków kwalifikowalnych projektu w formie pieniężnej oraz czy\n udokumentował źródło i deklarowaną wysokość wkładu własnego.\n\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n Możliwe jest przyznanie 0 albo 1 albo 3 pkt., przy czym:\n\n 0 pkt. – wnioskodawca nie zapewnia wymaganego wkładu własnego w wysokości minimum 15%\n wydatków kwalifikowalnych projektu w formie pieniężnej lub nie udokumentował źródła i\n deklarowanej wysokości wkładu własnego;\n\n 1 pkt – wnioskodawca zapewnia wymagany wkład własny w wysokości minimum 15% i mniej niż\n 25% wydatków kwalifikowalnych projektu w formie pieniężnej oraz udokumentował źródło i\n deklarowaną wysokość wkładu własnego;\n\n 3 pkt. – wnioskodawca zapewnia wkład własny w wysokości minimum 25% wydatków\n kwalifikowalnych projektu w formie pieniężnej oraz udokumentował źródło i deklarowaną wysokość\n wkładu własnego.\n\n\n10. Wskaźniki projektu. Ocenie podlega, czy wartości docelowe wskaźników projektu zadeklarowane i uzasadnione we 0 albo 1 1\n wniosku o dofinansowanie są obiektywnie weryfikowalne, mierzalne, uzasadnione, realne i\n adekwatne do założeń i celu projektu oraz przyczyniają się do osiągnięcia wartości wskaźników w\n FEPW. Na potwierdzenie tego wnioskodawca powinien wskazać:"
+    },
+    {
+      "id": "K-10",
+      "nazwa": "Wskaźniki projektu",
+      "rodzaj": "merytoryczne",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-107",
+        "Q-108",
+        "Q-109",
+        "Q-110",
+        "Q-111",
+        "Q-112",
+        "Q-113",
+        "Q-114",
+        "Q-115",
+        "Q-116",
+        "Q-117",
+        "Q-118",
+        "Q-119",
+        "Q-120",
+        "Q-121",
+        "Q-122",
+        "Q-123",
+        "Q-124",
+        "Q-125",
+        "Q-126",
+        "Q-127",
+        "Q-128",
+        "Q-129",
+        "Q-130",
+        "Q-131",
+        "Q-132",
+        "Q-133",
+        "Q-134",
+        "Q-135",
+        "Q-136",
+        "Q-137",
+        "Q-138",
+        "Q-139",
+        "Q-140",
+        "Q-141",
+        "Q-142",
+        "Q-143",
+        "Q-144",
+        "Q-145",
+        "Q-146",
+        "Q-147",
+        "Q-148",
+        "Q-149",
+        "Q-150",
+        "Q-151",
+        "Q-152",
+        "Q-153",
+        "Q-154",
+        "Q-155",
+        "Q-156",
+        "Q-157",
+        "Q-158",
+        "Q-159",
+        "Q-160",
+        "Q-161",
+        "Q-162",
+        "Q-163",
+        "Q-164",
+        "Q-165",
+        "Q-166",
+        "Q-167",
+        "Q-168",
+        "Q-169",
+        "Q-170",
+        "Q-171",
+        "Q-172",
+        "Q-173",
+        "Q-174",
+        "Q-175",
+        "Q-176",
+        "Q-177",
+        "Q-178",
+        "Q-179",
+        "Q-180",
+        "Q-181",
+        "Q-182",
+        "Q-183",
+        "Q-184",
+        "Q-185",
+        "Q-186",
+        "Q-187",
+        "Q-188",
+        "Q-189",
+        "Q-190",
+        "Q-191",
+        "Q-192",
+        "Q-193",
+        "Q-194",
+        "Q-195",
+        "Q-196",
+        "Q-197",
+        "Q-198",
+        "Q-199",
+        "Q-200",
+        "Q-201",
+        "Q-202",
+        "Q-203",
+        "Q-204",
+        "Q-205"
+      ],
+      "rozdzialy": [
+        "12-indicators"
+      ],
+      "skala": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "aspekty": [
+        "Wskaźniki pozwalają zweryfikować zaplanowane rezultaty projektu."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 12
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 12:\n12\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n 0 pkt. – projekt nie spełnia przynajmniej jednego warunku w kryterium;\n\n 1 pkt – projekt spełnia wszystkie warunki kryterium.\n\n Ocenie podlega, czy wnioskodawca zapewnia na rzecz projektu wymagany wkład własny w\n9. Wkład własny wnioskodawcy. 0 albo 1 albo 3 1\n wysokości minimum 15% wydatków kwalifikowalnych projektu w formie pieniężnej oraz czy\n udokumentował źródło i deklarowaną wysokość wkładu własnego.\n\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n Możliwe jest przyznanie 0 albo 1 albo 3 pkt., przy czym:\n\n 0 pkt. – wnioskodawca nie zapewnia wymaganego wkładu własnego w wysokości minimum 15%\n wydatków kwalifikowalnych projektu w formie pieniężnej lub nie udokumentował źródła i\n deklarowanej wysokości wkładu własnego;\n\n 1 pkt – wnioskodawca zapewnia wymagany wkład własny w wysokości minimum 15% i mniej niż\n 25% wydatków kwalifikowalnych projektu w formie pieniężnej oraz udokumentował źródło i\n deklarowaną wysokość wkładu własnego;\n\n 3 pkt. – wnioskodawca zapewnia wkład własny w wysokości minimum 25% wydatków\n kwalifikowalnych projektu w formie pieniężnej oraz udokumentował źródło i deklarowaną wysokość\n wkładu własnego.\n\n\n10. Wskaźniki projektu. Ocenie podlega, czy wartości docelowe wskaźników projektu zadeklarowane i uzasadnione we 0 albo 1 1\n wniosku o dofinansowanie są obiektywnie weryfikowalne, mierzalne, uzasadnione, realne i\n adekwatne do założeń i celu projektu oraz przyczyniają się do osiągnięcia wartości wskaźników w\n FEPW. Na potwierdzenie tego wnioskodawca powinien wskazać:"
+    },
+    {
+      "id": "K-11",
+      "nazwa": "Równość kobiet i mężczyzn",
+      "rodzaj": "merytoryczne",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-068",
+        "Q-069",
+        "Q-070",
+        "Q-071",
+        "Q-072",
+        "Q-073",
+        "Q-074",
+        "Q-075",
+        "Q-076",
+        "Q-077",
+        "Q-078"
+      ],
+      "rozdzialy": [
+        "07-horizontal-principles"
+      ],
+      "skala": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "aspekty": [
+        "Opis uzasadnia wpływ projektu na równość kobiet i mężczyzn."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 13
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 13:\n13\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n − założenia i obliczenia, na podstawie których została określona wartość docelowa\n wskaźników,\n\n − sposób weryfikacji osiągnięcia zaplanowanej wartości docelowej wskaźników w trakcie i po\n zakończeniu projektu.\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n\n Możliwe jest przyznanie 0 albo 1 pkt, przy czym:\n\n 0 pkt. – wartości docelowe wskaźników projektu nie są obiektywnie weryfikowalne, mierzalne,\n uzasadnione, realne lub nie odzwierciedlają założeń projektu lub nie przyczyniają się do osiągnięcia\n wartości wskaźników w FEPW;\n\n 1 pkt – wartości docelowe wskaźników projektu są obiektywnie weryfikowalne, mierzalne,\n uzasadnione, realne, odzwierciedlają założenia projektu oraz przyczyniają się do osiągnięcia\n wartości wskaźników w FEPW.\n\n\n11. Projekt jest zgodny z zasadą Wnioskodawca powinien wskazać, w jaki sposób projekt będzie zgodny z zasadą równości kobiet i 0 albo 1 1\n równości kobiet i mężczyzn. mężczyzn7. Zgodność projektu zostanie uznana, jeśli projekt ma pozytywny bądź neutralny wpływ na\n zasadę równości kobiet i mężczyzn8.\n\n\n\n\n\n 7 Zgodnie z Art. 9 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju\n Regional-nego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także\n przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Fundu-szu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz\n Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.6.2021, s. 159, z późn zm.), projekt finansowany ze środków Funduszy Europejskich powinien zapobiegać wszelkiej dyskryminacji ze\n względu na płeć, rasę lub pochodzenie etniczne, religię lub światopogląd, niepełnosprawność, wiek lub orientację seksualną.\n\n 8 Zgodnie z „Wytycznymi dotyczącymi realizacji zasad równościowych w ramach funduszy unijnych na lata 2021-2027”."
+    },
+    {
+      "id": "K-12",
+      "nazwa": "Równość szans i dostępność",
+      "rodzaj": "merytoryczne",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-068",
+        "Q-069",
+        "Q-070",
+        "Q-071",
+        "Q-072",
+        "Q-073",
+        "Q-074",
+        "Q-075",
+        "Q-076",
+        "Q-077",
+        "Q-078"
+      ],
+      "rozdzialy": [
+        "07-horizontal-principles"
+      ],
+      "skala": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "aspekty": [
+        "Opis przedstawia dostępność produktów lub usług projektu."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 14
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 14:\n14\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n Aby właściwie ocenić wpływ projektu na realizację tej zasady, wnioskodawca najpierw powinien\n rozważyć, czy poprzez projekt można wyrównywać szanse osób, które w danym obszarze znajdują\n się w gorszym położeniu. Następnie wnioskodawca powinien zaplanować działania przyczyniające\n się do wyrównania szans osób będących w gorszym położeniu.\n\n Jeżeli wnioskodawca stwierdzi, że w ramach projektu nie da się zrealizować żadnych działań\n w zakresie tej zasady, wtedy projekt może mieć neutralny wpływ na zasadę równości kobiet\n i mężczyzn. Wnioskodawca musi jednak przedstawić konkretne uzasadnienie, dlaczego jest to\n niemożliwe w danym projekcie. Ocena w kryterium będzie dokonywana na podstawie danych\n zawartych we wniosku o dofinansowanie.\n\n Możliwe jest przyznanie 0 albo 1 pkt, przy czym:\n\n 0 pkt. – projekt jest niezgodny z zasadą równości kobiet i mężczyzn;\n\n 1 pkt – projekt jest zgodny z zasadą równości kobiet i mężczyzn (tzn. wywiera pozytywny wpływ na\n tę zasadę lub jest wobec niej neutralny).\n\n\n12. Projekt ma pozytywny wpływ Wnioskodawca powinien wskazać w jaki sposób realizacja projektu ma pozytywny wpływ na zasadę 0 albo 1 1\n na zasadę równości szans i równości szans i niedyskryminacji, w tym dostępności dla osób z niepełnosprawnościami9 poprzez\n niedyskryminacji, w tym zapewnienie dostępności produktów lub usług10.\n dostępności dla osób z\n Przez pozytywny wpływ należy rozumieć zapewnienie dostępności infrastruktury, środków\n niepełnosprawnościami.\n transportu, towarów, usług, technologii i systemów informacyjno-komunikacyjnych oraz wszelkich\n\n\n 9 Zgodnie z Art. 9 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiające wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju\n Regional-nego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwa-kultury, a także\n przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Fundu-szu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz\n Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.6.2021, s. 159, z późn zm.), projekt finansowany ze środków Funduszy Europejskich powinien zapobiegać wszelkiej dyskryminacji ze\n względu na płeć, rasę lub pochodzenie etniczne, religię lub światopogląd, niepełnosprawność, wiek lub orientację seksualną.\n\n 10 Zgodnie „Wytycznymi dotyczących realizacji zasad równościowych w ramach funduszy unijnych na lata 2021-2027”."
+    },
+    {
+      "id": "K-13",
+      "nazwa": "KPP i KPON",
+      "rodzaj": "merytoryczne",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-068",
+        "Q-069",
+        "Q-070",
+        "Q-071",
+        "Q-072",
+        "Q-073",
+        "Q-074",
+        "Q-075",
+        "Q-076",
+        "Q-077",
+        "Q-078"
+      ],
+      "rozdzialy": [
+        "07-horizontal-principles"
+      ],
+      "skala": [
+        0,
+        1
+      ],
+      "minimum": 1,
+      "aspekty": [
+        "Opis uzasadnia zgodność projektu z KPP i KPON w zakresie kryterium."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 15
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 15:\n15\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n produktów projektów (w tym także usług) dla wszystkich ich użytkowników/użytkowniczek.\n Dostępność pozwala osobom, które mogą być wykluczone (ze względu na różne przesłanki, np.\n wiek, tymczasową niepełnosprawność, opiekę nad dziećmi itd.), w szczególności osobom z\n niepełnosprawnościami i starszym, na korzystanie z nich na zasadzie równości z innymi osobami.\n\n Dopuszczalne jest uznanie neutralności poszczególnych produktów/usług projektu w stosunku do\n ww. zasady, o ile wnioskodawca wykaże, że products/usługi nie mają swoich bezpośrednich\n użytkowników/użytkowniczek (np. trakcje kolejowe, instalacje elektryczne, linie przesyłowe,\n automatyczne linie produkcyjne, zbiorniki retencyjne, nowe lub usprawnione procesy\n technologiczne). W takiej sytuacji również uznaje się, że projekt ma pozytywny wpływ na ww.\n zasady.\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n\n Możliwe jest przyznanie 0 albo 1 pkt., przy czym:\n\n 0 pkt. – projekt nie ma pozytywnego wpływu na zasadę równości szans i niedyskryminacji, w tym\n dostępności dla osób z niepełnosprawnościami;\n\n 1 pkt – projekt ma pozytywny wpływ na zasadę równości szans i niedyskryminacji, w tym\n dostępności dla osób z niepełnosprawnościami.\n\n\n13. Projekt jest zgodny z Kartą Wnioskodawca powinien zadeklarować, że sposób realizacji oraz zakres projektu nie będzie 0 albo 1 1\n praw podstawowych Unii naruszać postanowień Karty praw podstawowych Unii Europejskiej z dnia 6 czerwca 2016 r. (Dz. Urz.\n Europejskiej i Konwencją o UE C 202 z 7.06.2016, str. 389) oraz Konwencji o prawach osób niepełnosprawnych, sporządzonej w\n prawach osób Nowym Jorku dnia 13 grudnia 2006 r. (Dz. U. z 2012 r. poz. 1169, z późn. zm.).\n niepełnosprawnych.\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie."
+    },
+    {
+      "id": "K-14",
+      "nazwa": "Zrównoważony rozwój i DNSH",
+      "rodzaj": "merytoryczne",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-068",
+        "Q-069",
+        "Q-070",
+        "Q-071",
+        "Q-072",
+        "Q-073",
+        "Q-074",
+        "Q-075",
+        "Q-076",
+        "Q-077",
+        "Q-078"
+      ],
+      "rozdzialy": [
+        "07-horizontal-principles"
+      ],
+      "skala": [
+        0,
+        1,
+        2
+      ],
+      "minimum": 1,
+      "aspekty": [
+        "Opis uzasadnia zgodność z zasadą zrównoważonego rozwoju i DNSH."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 16
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 16:\n16\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n Możliwe jest przyznanie 0 albo 1 pkt., przy czym:\n\n 0 pkt. – wnioskodawca nie zadeklarował, że projekt nie będzie naruszał postanowień Karty praw\n podstawowych Unii Europejskiej i Konwencji o prawach osób niepełnosprawnych;\n\n 1 pkt – wnioskodawca zadeklarował, że projekt nie będzie naruszał postanowień Karty praw\n podstawowych Unii Europejskiej i Konwencji o prawach osób niepełnosprawnych.\n\n\n14. Projekt jest zgodny z zasadą Wnioskodawca powinien, stosownie do charakteru projektu, uwzględnić wymogi ochrony 0 albo 1 albo 2 1\n zrównoważonego rozwoju, w środowiska i efektywnego gospodarowania zasobami, kwestie dostosowania do zmian klimatu i\n tym z zasadą „nie czyń łagodzenia ich skutków, różnorodności biologicznej, odporności na klęski żywiołowe oraz\n poważnych szkód”. zapobiegania ryzyku i zarządzania ryzykiem związanym z ochroną środowiska.\n\n Zgodnie z zasadą zrównoważonego rozwoju, wsparcie może być udzielone jedynie takim projektom,\n które nie prowadzą do degradacji lub znacznego pogorszenia stanu środowiska naturalnego.\n\n Ponadto sprawdzeniu podlega, czy projekt przyczyni się do rozwoju zielonej i zrównoważonej\n gospodarki ze względu na proces wytwarzania produktu (wyrobu lub usługi), który będzie efektem\n projektu lub jego użytkowanie przez odbiorcę. Weryfikacji podlega, czy uwzględniono co najmniej\n jedno z rozwiązań w zakresie:\n\n 1) zmniejszania emisji zanieczyszczeń;\n\n 2) zmniejszania energochłonności;\n\n 3) zmniejszania zużycia wody;\n\n 4) wykorzystania materiałów (odpadów) pochodzących z recyclingu;\n\n 5) wykorzystania odnawialnych źródeł energii."
+    },
+    {
+      "id": "K-15",
+      "nazwa": "Wspólne RIS",
+      "rodzaj": "merytoryczne",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-018",
+        "Q-019",
+        "Q-020",
+        "Q-021",
+        "Q-022",
+        "Q-023",
+        "Q-024"
+      ],
+      "rozdzialy": [
+        "03-classification"
+      ],
+      "skala": [
+        0,
+        1
+      ],
+      "minimum": 0,
+      "aspekty": [
+        "Opis wiąże projekt z właściwą wspólną RIS."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 17
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 17:\n17\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n\n Możliwe jest przyznanie 0 albo 1 albo 2 pkt., przy czym:\n\n 0 pkt. – projekt nie jest zgodny z zasadą zrównoważonego rozwoju, w tym z zasadą „nie czyń\n poważnych szkód”;\n\n 1 pkt – projekt jest zgodny z zasadą zrównoważonego rozwoju, w tym z zasadą „nie czyń poważnych\n szkód”;\n\n 2 pkt. – projekt jest zgodny z zasadą zrównoważonego rozwoju, w tym z zasadą „nie czyń\n poważnych szkód” oraz realizacja projektu przyczynia się do rozwoju zielonej i zrównoważonej\n gospodarki.\n\n\n15. Przedmiot projektu wpisuje się Ocenie podlega, czy przedmiot projektu wpisuje się w zakres regionalnych inteligentnych 0 albo 1 0\n w zakres regionalnych specjalizacji wspólnych dla co najmniej dwóch województw Polski Wschodniej11. Wnioskodawca\n inteligentnych specjalizacji powinien uzasadnić, że przedmiot projektu wpisuje się, oraz w jaki sposób, w zakres regionalnych\n wspólnych dla co najmniej inteligentnych specjalizacji wspólnych dla co najmniej dwóch województw Polski Wschodniej.\n dwóch województw Polski\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n Wschodniej.\n dofinansowanie.\n\n Możliwe jest przyznanie 0 albo 1 pkt., przy czym:\n\n 0 pkt – przedmiot projektu nie wpisuje się w zakres regionalnych inteligentnych specjalizacji\n wspólnych dla co najmniej dwóch województw Polski Wschodniej;\n\n\n\n\n\n 11 Katalog wspólnych obszarów inteligentnych specjalizacji regionów Polski Wschodniej stanowi załącznik do Regulaminu wyboru projektów."
+    },
+    {
+      "id": "K-16",
+      "nazwa": "Oddziaływanie produktu",
+      "rodzaj": "merytoryczne",
+      "etap": "Kryteria wyboru projektów",
+      "klasyfikacja": "porządkowa; organizator stosuje wspólną listę punktową",
+      "pola": [
+        "Q-104",
+        "Q-105",
+        "Q-106"
+      ],
+      "rozdzialy": [
+        "11-impact"
+      ],
+      "skala": [
+        0,
+        2
+      ],
+      "minimum": 0,
+      "aspekty": [
+        "Opis uzasadnia obszar oddziaływania produktu wymagany dla dodatkowej punktacji."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-0fb046c95a8b",
+          "strona": 18
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 18:\n18\nLp.\n Nazwa kryterium Definicja kryterium Liczba punktów Minimum\n punktowe\n\n 1 pkt – przedmiot projektu wpisuje się w zakres regionalnych inteligentnych specjalizacji wspólnych\n dla co najmniej dwóch województw Polski Wschodniej.\n\n\n16. Oddziaływanie produktu Wnioskodawca powinien wykazać, że produkt będący przedmiotem projektu przyczynia się do 0 albo 2 0\n będącego przedmiotem rozwiązania zidentyfikowanego i uzasadnionego przez wnioskodawcę problemu w jednym z\n projektu. poniższych obszarów:\n\n 1) jakość edukacji;\n 2) zmiany klimatyczne\n 3) zdrowie publiczne.\n\n Ocena kryterium będzie dokonywana na podstawie danych zawartych we wniosku o\n dofinansowanie.\n\n Możliwe jest przyznanie 0 albo 2 pkt., przy czym:\n\n 0 pkt – produkt będący przedmiotem projektu nie przyczynia się do rozwiązania zidentyfikowanego\n i uzasadnionego problemu w żadnym z obszarów, o których mowa w kryterium;\n\n 2 pkt. – produkt będący przedmiotem projektu przyczynia się do rozwiązania zidentyfikowanego\n i uzasadnionego problemu w co najmniej jednym z obszarów, o których mowa w kryterium."
+    }
+  ]
+}
