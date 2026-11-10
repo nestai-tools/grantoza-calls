@@ -1,0 +1,1430 @@
+{
+  "schema_version": 2,
+  "nabor_id": "2026-lsse-spark-4-rethink-202609",
+  "portal": "F6S",
+  "liczba_pol": 37,
+  "pola": [
+    {
+      "id": "Q-001",
+      "key": "f6s_01",
+      "numer_zrodlowy": 1,
+      "pole": "Imię",
+      "pytanie_zrodlowe": "IMIĘ",
+      "typ": "tekst",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "IMIĘ\n\nImię osoby kontaktowej składającej aplikację.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 1,
+          "lokalizacja": "Transkrypcja zrzutów, część 1, pytanie 1"
+        }
+      ],
+      "wymagania": [
+        2
+      ],
+      "rozdzial": "01-information",
+      "status": "brak-danych",
+      "plik": "03-application/01-information/specification/Q-001.md",
+      "odpowiedz": {
+        "plik": "03-application/01-information/form.md",
+        "typ": "tabela",
+        "tabela": "kontakt",
+        "wiersz": "Q-001",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-002",
+      "key": "f6s_02",
+      "numer_zrodlowy": 2,
+      "pole": "Nazwisko",
+      "pytanie_zrodlowe": "NAZWISKO",
+      "typ": "tekst",
+      "wymagane": false,
+      "warunek": "opcjonalne — na zrzucie brak gwiazdki",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "NAZWISKO\n\nNa przekazanym zrzucie nazwisko nie ma gwiazdki wymagania. Nie zakładamy wymagalności niepokazanej przez źródło.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 1,
+          "lokalizacja": "Transkrypcja zrzutów, część 1, pytanie 2"
+        }
+      ],
+      "wymagania": [
+        2
+      ],
+      "rozdzial": "01-information",
+      "status": "brak-danych",
+      "plik": "03-application/01-information/specification/Q-002.md",
+      "odpowiedz": {
+        "plik": "03-application/01-information/form.md",
+        "typ": "tabela",
+        "tabela": "kontakt",
+        "wiersz": "Q-002",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-003",
+      "key": "f6s_03",
+      "numer_zrodlowy": 3,
+      "pole": "Nazwa spółki",
+      "pytanie_zrodlowe": "NAZWA SPÓŁKI",
+      "typ": "tekst",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "NAZWA SPÓŁKI\n\nPełna nazwa zgodna z wpisem spółki w KRS.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 1,
+          "lokalizacja": "Transkrypcja zrzutów, część 1, pytanie 3"
+        },
+        {
+          "id": "SRC-24d9e29a71fb",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        3
+      ],
+      "rozdzial": "01-information",
+      "status": "brak-danych",
+      "plik": "03-application/01-information/specification/Q-003.md",
+      "odpowiedz": {
+        "plik": "03-application/01-information/form.md",
+        "typ": "tabela",
+        "tabela": "spolka",
+        "wiersz": "Q-003",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-004",
+      "key": "f6s_04",
+      "numer_zrodlowy": 4,
+      "pole": "NIP",
+      "pytanie_zrodlowe": "NIP",
+      "typ": "tekst",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "NIP\n\nNIP spółki. Zachowaj zapis identyfikatora, bez traktowania go jako liczby obliczeniowej.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 1,
+          "lokalizacja": "Transkrypcja zrzutów, część 1, pytanie 4"
+        }
+      ],
+      "wymagania": [
+        3
+      ],
+      "rozdzial": "01-information",
+      "status": "brak-danych",
+      "plik": "03-application/01-information/specification/Q-004.md",
+      "odpowiedz": {
+        "plik": "03-application/01-information/form.md",
+        "typ": "tabela",
+        "tabela": "spolka",
+        "wiersz": "Q-004",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-005",
+      "key": "f6s_05",
+      "numer_zrodlowy": 5,
+      "pole": "Data rozpoczęcia działalności",
+      "pytanie_zrodlowe": "DATA ROZPOCZĘCIA DZIAŁALNOŚCI",
+      "typ": "data",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "DATA ROZPOCZĘCIA DZIAŁALNOŚCI\n\nData zgodna z dokumentami rejestrowymi. Panel zapisuje RRRR-MM-DD; format wpisania w F6S potwierdź przy przenoszeniu.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 1,
+          "lokalizacja": "Transkrypcja zrzutów, część 1, pytanie 5"
+        },
+        {
+          "id": "SRC-24d9e29a71fb",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        4,
+        16
+      ],
+      "rozdzial": "01-information",
+      "status": "brak-danych",
+      "plik": "03-application/01-information/specification/Q-005.md",
+      "odpowiedz": {
+        "plik": "03-application/01-information/form.md",
+        "typ": "tabela",
+        "tabela": "spolka",
+        "wiersz": "Q-005",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-006",
+      "key": "f6s_06",
+      "numer_zrodlowy": 6,
+      "pole": "Wielkość przedsiębiorstwa",
+      "pytanie_zrodlowe": "Wielkość przedsiębiorstwa",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Wielkość przedsiębiorstwa\n\nFormularz pokazuje mikro, małe i średnie. Regulamin §3 dopuszcza tylko mikro i małe; wybór średnie nie oznacza kwalifikowalności. Status sprawdza się z uwzględnieniem podmiotów powiązanych. Pomoc: https://kwalifikator.parp.gov.pl/.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 1,
+          "lokalizacja": "Transkrypcja zrzutów, część 1, pytanie 6"
+        },
+        {
+          "id": "SRC-24d9e29a71fb",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        3
+      ],
+      "opcje": [
+        "mikro",
+        "małe",
+        "średnie"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "01-information",
+      "status": "brak-danych",
+      "plik": "03-application/01-information/specification/Q-006.md",
+      "odpowiedz": {
+        "plik": "03-application/01-information/form.md",
+        "typ": "tabela",
+        "tabela": "spolka",
+        "wiersz": "Q-006",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-007",
+      "key": "f6s_07",
+      "numer_zrodlowy": 7,
+      "pole": "Adres spółki",
+      "pytanie_zrodlowe": "ADRES SPÓŁKI",
+      "typ": "tekst",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "ADRES SPÓŁKI\n\nAdres spółki zgodny z dokumentami rejestrowymi.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 1,
+          "lokalizacja": "Transkrypcja zrzutów, część 1, pytanie 7"
+        }
+      ],
+      "wymagania": [
+        3
+      ],
+      "rozdzial": "01-information",
+      "status": "brak-danych",
+      "plik": "03-application/01-information/specification/Q-007.md",
+      "odpowiedz": {
+        "plik": "03-application/01-information/form.md",
+        "typ": "tabela",
+        "tabela": "spolka",
+        "wiersz": "Q-007",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-008",
+      "key": "f6s_08",
+      "numer_zrodlowy": 8,
+      "pole": "Województwo",
+      "pytanie_zrodlowe": "WOJEWÓDZTWO",
+      "typ": "tekst",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "WOJEWÓDZTWO\n\nWpisz nazwę województwa zgodną z listą F6S. Na zrzutach lista jest zwinięta — jej dokładne etykiety nie zostały odczytane.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 1,
+          "lokalizacja": "Transkrypcja zrzutów, część 1, pytanie 8"
+        }
+      ],
+      "wymagania": [
+        3
+      ],
+      "slownik_status": "Nie odczytano rozwiniętej listy; lokalna kontrolka tekstowa.",
+      "rozdzial": "01-information",
+      "status": "brak-danych",
+      "plik": "03-application/01-information/specification/Q-008.md",
+      "odpowiedz": {
+        "plik": "03-application/01-information/form.md",
+        "typ": "tabela",
+        "tabela": "spolka",
+        "wiersz": "Q-008",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-009",
+      "key": "f6s_09",
+      "numer_zrodlowy": 9,
+      "pole": "E-mail",
+      "pytanie_zrodlowe": "EMAIL",
+      "typ": "tekst",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "EMAIL\n\nAdres do kontaktu i doręczeń rekrutacyjnych; monitoruj wezwania do uzupełnień.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 1,
+          "lokalizacja": "Transkrypcja zrzutów, część 1, pytanie 9"
+        }
+      ],
+      "wymagania": [
+        19
+      ],
+      "rozdzial": "01-information",
+      "status": "brak-danych",
+      "plik": "03-application/01-information/specification/Q-009.md",
+      "odpowiedz": {
+        "plik": "03-application/01-information/form.md",
+        "typ": "tabela",
+        "tabela": "spolka",
+        "wiersz": "Q-009",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-010",
+      "key": "f6s_10",
+      "numer_zrodlowy": 10,
+      "pole": "Numer telefonu",
+      "pytanie_zrodlowe": "NUMER TELEFONU",
+      "typ": "tekst",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "NUMER TELEFONU\n\nNumer telefonu do kontaktu w sprawie zgłoszenia.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 1,
+          "lokalizacja": "Transkrypcja zrzutów, część 1, pytanie 10"
+        }
+      ],
+      "wymagania": [
+        2
+      ],
+      "rozdzial": "01-information",
+      "status": "brak-danych",
+      "plik": "03-application/01-information/specification/Q-010.md",
+      "odpowiedz": {
+        "plik": "03-application/01-information/form.md",
+        "typ": "tabela",
+        "tabela": "spolka",
+        "wiersz": "Q-010",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-011",
+      "key": "f6s_11",
+      "numer_zrodlowy": 11,
+      "pole": "Runda akceleracji",
+      "pytanie_zrodlowe": "RUNDA AKCELERACJI",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "RUNDA AKCELERACJI\n\nNa zrzucie widoczna jest wyłącznie RUNDA 1. Wybierz ją samodzielnie; pole nie jest domyślnie potwierdzone.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 2,
+          "lokalizacja": "Transkrypcja zrzutów, część 2, pytanie 11"
+        }
+      ],
+      "wymagania": [
+        1
+      ],
+      "opcje": [
+        "RUNDA 1"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "01-information",
+      "status": "brak-danych",
+      "plik": "03-application/01-information/specification/Q-011.md",
+      "odpowiedz": {
+        "plik": "03-application/01-information/form.md",
+        "typ": "tabela",
+        "tabela": "runda",
+        "wiersz": "Q-011",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-012",
+      "key": "f6s_12",
+      "numer_zrodlowy": 12,
+      "pole": "Preferowani Odbiorcy Technologii",
+      "pytanie_zrodlowe": "Preferowany Odbiorca Technologii - obszary dla każdego z Odbiorców Technologii znajdują się na startupspark.sse.lodz.pl/spark-4-0/",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Preferowany Odbiorca Technologii - obszary dla każdego z Odbiorców Technologii znajdują się na startupspark.sse.lodz.pl/spark-4-0/\n\nMożesz wskazać wielu Odbiorców Technologii — F6S pokazuje checkboxy. Lista zawiera 8 odbiorców widocznych na zrzucie; licznik na stronie programu wskazuje 9. W opisie dopasuj pilotaż do rzeczywistych potrzeb wybranych odbiorców.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 2,
+          "lokalizacja": "Transkrypcja zrzutów, część 2, pytanie 12"
+        }
+      ],
+      "wymagania": [
+        11,
+        15
+      ],
+      "opcje": [
+        "Ciepłownia Sierpc",
+        "Veolia",
+        "ZWiK - Zakład Wodociągów i Kanalizacji",
+        "PreZero",
+        "Elemental",
+        "Delia Cosmetics",
+        "SKANSKA Residential Development",
+        "Łukasiewicz - Łódzki Instytut Technologiczny"
+      ],
+      "opcje_scisle": true,
+      "wielokrotny": true,
+      "rozdzial": "01-information",
+      "status": "brak-danych",
+      "plik": "03-application/01-information/specification/Q-012.md",
+      "odpowiedz": {
+        "plik": "03-application/01-information/form.md",
+        "typ": "tabela",
+        "tabela": "runda",
+        "wiersz": "Q-012",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-013",
+      "key": "f6s_13",
+      "numer_zrodlowy": 13,
+      "pole": "Zgodność z KIS 7 — gospodarką obiegu zamkniętego",
+      "pytanie_zrodlowe": "Czy rozwiązanie wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Czy rozwiązanie wpisuje się w KIS 7, tj. Gospodarka Obiegu Zamkniętego\n\nWarunek formalny: rozwiązanie musi wpisywać się w KIS 7. Potwierdzenie powinno wynikać z opisu GOZ w pytaniu 17.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 2,
+          "lokalizacja": "Transkrypcja zrzutów, część 2, pytanie 13"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "wymagania": [
+        10
+      ],
+      "opcje": [
+        "TAK",
+        "NIE"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "01-information",
+      "status": "brak-danych",
+      "plik": "03-application/01-information/specification/Q-013.md",
+      "odpowiedz": {
+        "plik": "03-application/01-information/form.md",
+        "typ": "tabela",
+        "tabela": "runda",
+        "wiersz": "Q-013",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-014",
+      "key": "f6s_14",
+      "numer_zrodlowy": 14,
+      "pole": "Zgodność z obszarami Odbiorców Technologii",
+      "pytanie_zrodlowe": "Czy projekt wpisuje się w obszary zdefiniowane przez Odbiorców Technologii?",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Czy projekt wpisuje się w obszary zdefiniowane przez Odbiorców Technologii?\n\nWarunek dostępu: projekt musi odpowiadać obszarom zapotrzebowania OT. Uzasadnij odpowiedź w pytaniu 15.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 2,
+          "lokalizacja": "Transkrypcja zrzutów, część 2, pytanie 14"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "wymagania": [
+        11
+      ],
+      "opcje": [
+        "TAK",
+        "NIE"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "02-eligibility-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/02-eligibility-criteria/specification/Q-014.md",
+      "odpowiedz": {
+        "plik": "03-application/02-eligibility-criteria/form.md",
+        "typ": "tabela",
+        "tabela": "obszar",
+        "wiersz": "Q-014",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-015",
+      "key": "f6s_15",
+      "numer_zrodlowy": 15,
+      "pole": "Powiązanie projektu z obszarami Odbiorców Technologii",
+      "pytanie_zrodlowe": "Opisz w jaki sposób projekt wpisuje się w obszary zdefiniowane przez Odbiorców Technologii",
+      "typ": "opis",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Opisz w jaki sposób projekt wpisuje się w obszary zdefiniowane przez Odbiorców Technologii\n\nPowiąż konkretny problem wybranych OT z funkcjonalnościami rozwiązania. Wskaż zakres pilotażu i korzyść dla odbiorcy.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 2,
+          "lokalizacja": "Transkrypcja zrzutów, część 2, pytanie 15"
+        }
+      ],
+      "wymagania": [
+        11,
+        15
+      ],
+      "rozdzial": "02-eligibility-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/02-eligibility-criteria/specification/Q-015.md",
+      "odpowiedz": {
+        "plik": "03-application/02-eligibility-criteria/form.md",
+        "typ": "blok",
+        "blok": "Q-015"
+      }
+    },
+    {
+      "id": "Q-016",
+      "key": "f6s_16",
+      "numer_zrodlowy": 16,
+      "pole": "Poziom gotowości technologicznej (TRL)",
+      "pytanie_zrodlowe": "TRL:",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "TRL:\n\nWarunek dostępu to minimum TRL 5. Zakres 0-4 otrzymuje 0 pkt i nie spełnia warunku; 5-6 to 1 pkt, 7-9 to 2 pkt. Wybór ma odpowiadać dowodom gotowości.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 2,
+          "lokalizacja": "Transkrypcja zrzutów, część 2, pytanie 16"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 1
+        }
+      ],
+      "wymagania": [
+        11
+      ],
+      "opcje": [
+        "0-4",
+        "5-6",
+        "7-9"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "02-eligibility-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/02-eligibility-criteria/specification/Q-016.md",
+      "odpowiedz": {
+        "plik": "03-application/02-eligibility-criteria/form.md",
+        "typ": "tabela",
+        "tabela": "obszar-1",
+        "wiersz": "Q-016",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-017",
+      "key": "f6s_17",
+      "numer_zrodlowy": 17,
+      "pole": "Wpływ rozwiązania na GOZ",
+      "pytanie_zrodlowe": "Opisz wpływ zgłaszanego rozwiązania i jego połączenie z GOZ",
+      "typ": "opis",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Opisz wpływ zgłaszanego rozwiązania i jego połączenie z GOZ\n\nPokaż proces przed i po wdrożeniu: obieg zasobów, ograniczenie odpadów lub zużycia materiałów, wydłużenie życia produktu. Kryterium wpływu: 0–4 pkt; cała grupa GOZ wymaga minimum 5/8.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 3,
+          "lokalizacja": "Transkrypcja zrzutów, część 3, pytanie 17"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 2
+        }
+      ],
+      "wymagania": [
+        10,
+        12
+      ],
+      "rozdzial": "03-substantive-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/03-substantive-criteria/specification/Q-017.md",
+      "odpowiedz": {
+        "plik": "03-application/03-substantive-criteria/form.md",
+        "typ": "blok",
+        "blok": "Q-017"
+      }
+    },
+    {
+      "id": "Q-018",
+      "key": "f6s_18",
+      "numer_zrodlowy": 18,
+      "pole": "Wskaźniki środowiskowe i monitorowanie",
+      "pytanie_zrodlowe": "Podaj i opisz wskaźniki środowiskowe projektu i sposób monitorowania",
+      "typ": "opis",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Podaj i opisz wskaźniki środowiskowe projektu i sposób monitorowania\n\nPodaj mierzalne wskaźniki, jednostki, punkt odniesienia, cele, źródła danych, metodę i częstotliwość pomiaru oraz horyzont czasowy. To jedno opisowe pole F6S, bez osobnej tabeli dodawanych wskaźników.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 3,
+          "lokalizacja": "Transkrypcja zrzutów, część 3, pytanie 18"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 2
+        }
+      ],
+      "wymagania": [
+        12,
+        23
+      ],
+      "rozdzial": "03-substantive-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/03-substantive-criteria/specification/Q-018.md",
+      "odpowiedz": {
+        "plik": "03-application/03-substantive-criteria/form.md",
+        "typ": "blok",
+        "blok": "Q-018"
+      }
+    },
+    {
+      "id": "Q-019",
+      "key": "f6s_19",
+      "numer_zrodlowy": 19,
+      "pole": "Innowacyjność rozwiązania",
+      "pytanie_zrodlowe": "Opisz innowacyjność rozwiązania",
+      "typ": "opis",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Opisz innowacyjność rozwiązania\n\nWykaż nowość względem dostępnych rozwiązań i skalę innowacji — od lokalnej do globalnej. Porównanie musi opierać się na dowodach.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 3,
+          "lokalizacja": "Transkrypcja zrzutów, część 3, pytanie 19"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 2
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "03-substantive-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/03-substantive-criteria/specification/Q-019.md",
+      "odpowiedz": {
+        "plik": "03-application/03-substantive-criteria/form.md",
+        "typ": "blok",
+        "blok": "Q-019"
+      }
+    },
+    {
+      "id": "Q-020",
+      "key": "f6s_20",
+      "numer_zrodlowy": 20,
+      "pole": "Potencjał rynkowy i skalowanie",
+      "pytanie_zrodlowe": "Opisz potencjał rynkowy i możliwość skalowania rozwiązania",
+      "typ": "opis",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Opisz potencjał rynkowy i możliwość skalowania rozwiązania\n\nOpisz odbiorców, problem, model biznesowy, potwierdzoną walidację i sposób skalowania. Nie przedstawiaj niepotwierdzonych prognoz jako faktów.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 3,
+          "lokalizacja": "Transkrypcja zrzutów, część 3, pytanie 20"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 2
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "03-substantive-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/03-substantive-criteria/specification/Q-020.md",
+      "odpowiedz": {
+        "plik": "03-application/03-substantive-criteria/form.md",
+        "typ": "blok",
+        "blok": "Q-020"
+      }
+    },
+    {
+      "id": "Q-021",
+      "key": "f6s_21",
+      "numer_zrodlowy": 21,
+      "pole": "Przewagi konkurencyjne",
+      "pytanie_zrodlowe": "Opisz przewagi konkurencyjne swojego rozwiązania",
+      "typ": "opis",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Opisz przewagi konkurencyjne swojego rozwiązania\n\nPorównaj parametry, efekty GOZ i warunki wdrożenia z alternatywami; pokaż przewagi istotne dla OT.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 3,
+          "lokalizacja": "Transkrypcja zrzutów, część 3, pytanie 21"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 3
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "03-substantive-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/03-substantive-criteria/specification/Q-021.md",
+      "odpowiedz": {
+        "plik": "03-application/03-substantive-criteria/form.md",
+        "typ": "blok",
+        "blok": "Q-021"
+      }
+    },
+    {
+      "id": "Q-022",
+      "key": "f6s_22",
+      "numer_zrodlowy": 22,
+      "pole": "Konkurencja",
+      "pytanie_zrodlowe": "Opisz konkurencję dla swojego rozwiązania",
+      "typ": "opis",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Opisz konkurencję dla swojego rozwiązania\n\nWskaż realne podmioty konkurencyjne i rozwiązania alternatywne, w tym rynek globalny, oraz podstawę porównania.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 3,
+          "lokalizacja": "Transkrypcja zrzutów, część 3, pytanie 22"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 3
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "03-substantive-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/03-substantive-criteria/specification/Q-022.md",
+      "odpowiedz": {
+        "plik": "03-application/03-substantive-criteria/form.md",
+        "typ": "blok",
+        "blok": "Q-022"
+      }
+    },
+    {
+      "id": "Q-023",
+      "key": "f6s_23",
+      "numer_zrodlowy": 23,
+      "pole": "Zespół i zasoby projektu",
+      "pytanie_zrodlowe": "Opisz zespół i wykorzystane zasoby startupu zaangażowane w projekt",
+      "typ": "opis",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Opisz zespół i wykorzystane zasoby startupu zaangażowane w projekt\n\nW jednym opisie wskaż imiennie zespół, role, doświadczenie i wdrożenia GOZ, a także dostępne zasoby techniczne i technologiczne. Zrzut nie pokazuje powtarzalnych kart osób.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 3,
+          "lokalizacja": "Transkrypcja zrzutów, część 3, pytanie 23"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 3
+        }
+      ],
+      "wymagania": [
+        14
+      ],
+      "rozdzial": "03-substantive-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/03-substantive-criteria/specification/Q-023.md",
+      "odpowiedz": {
+        "plik": "03-application/03-substantive-criteria/form.md",
+        "typ": "blok",
+        "blok": "Q-023"
+      }
+    },
+    {
+      "id": "Q-024",
+      "key": "f6s_24",
+      "numer_zrodlowy": 24,
+      "pole": "Doświadczenie we współpracy z biznesem",
+      "pytanie_zrodlowe": "Opisz doświadczenie startupu we współpracy z biznesem",
+      "typ": "opis",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Opisz doświadczenie startupu we współpracy z biznesem\n\nOpisz udokumentowane wdrożenia i rezultaty. Karta przyznaje 1/2/3 pkt odpowiednio za jedno/dwa/co najmniej trzy wdrożenia; referencje lub pisemne rekomendacje mają je potwierdzić.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 3,
+          "lokalizacja": "Transkrypcja zrzutów, część 3, pytanie 24"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 3
+        }
+      ],
+      "wymagania": [
+        15
+      ],
+      "rozdzial": "03-substantive-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/03-substantive-criteria/specification/Q-024.md",
+      "odpowiedz": {
+        "plik": "03-application/03-substantive-criteria/form.md",
+        "typ": "blok",
+        "blok": "Q-024"
+      }
+    },
+    {
+      "id": "Q-025",
+      "key": "f6s_25",
+      "numer_zrodlowy": 25,
+      "pole": "Dopasowanie do potrzeb Odbiorcy Technologii",
+      "pytanie_zrodlowe": "Opisz w jaki sposób rozwiązanie startupu jest dopasowane do potrzeb Odbiorcy Technologii",
+      "typ": "opis",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Opisz w jaki sposób rozwiązanie startupu jest dopasowane do potrzeb Odbiorcy Technologii\n\nDopasuj rozwiązanie do konkretnych potrzeb wybranych OT; opisz problem, proponowany rezultat i warunki testów.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 3,
+          "lokalizacja": "Transkrypcja zrzutów, część 3, pytanie 25"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        15
+      ],
+      "rozdzial": "03-substantive-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/03-substantive-criteria/specification/Q-025.md",
+      "odpowiedz": {
+        "plik": "03-application/03-substantive-criteria/form.md",
+        "typ": "blok",
+        "blok": "Q-025"
+      }
+    },
+    {
+      "id": "Q-026",
+      "key": "f6s_26",
+      "numer_zrodlowy": 26,
+      "pole": "Gotowość do współpracy z Odbiorcą Technologii",
+      "pytanie_zrodlowe": "Opisz co wg Ciebie ma największy wpływ na Waszą gotowość do współpracy z Odbiorcą Technologii",
+      "typ": "opis",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Opisz co wg Ciebie ma największy wpływ na Waszą gotowość do współpracy z Odbiorcą Technologii\n\nPokaż znajomość branży OT, dostępność zespołu i technologii, warunki testów oraz czynniki ułatwiające lub ograniczające pilotaż.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 3,
+          "lokalizacja": "Transkrypcja zrzutów, część 3, pytanie 26"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        15
+      ],
+      "rozdzial": "03-substantive-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/03-substantive-criteria/specification/Q-026.md",
+      "odpowiedz": {
+        "plik": "03-application/03-substantive-criteria/form.md",
+        "typ": "blok",
+        "blok": "Q-026"
+      }
+    },
+    {
+      "id": "Q-027",
+      "key": "f6s_27",
+      "numer_zrodlowy": 27,
+      "pole": "Upowszechnianie wiedzy o GOZ",
+      "pytanie_zrodlowe": "Opisz działania startupu mające na celu upowszechnianie wiedzy na temat gospodarki obiegu zamkniętego wśród dużych przedsiębiorstw we współpracy z Akceleratorem",
+      "typ": "opis",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Opisz działania startupu mające na celu upowszechnianie wiedzy na temat gospodarki obiegu zamkniętego wśród dużych przedsiębiorstw we współpracy z Akceleratorem\n\nZaproponuj działania z Akceleratorem dla dużych przedsiębiorstw. Regulamin wymaga co najmniej artykułu/wywiadu i tematyki transferu wiedzy. Nie deklaruj uzgodnień bez potwierdzenia.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 3,
+          "lokalizacja": "Transkrypcja zrzutów, część 3, pytanie 27"
+        },
+        {
+          "id": "SRC-2a2563594b37",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        16,
+        34
+      ],
+      "rozdzial": "03-substantive-criteria",
+      "status": "brak-danych",
+      "plik": "03-application/03-substantive-criteria/specification/Q-027.md",
+      "odpowiedz": {
+        "plik": "03-application/03-substantive-criteria/form.md",
+        "typ": "blok",
+        "blok": "Q-027"
+      }
+    },
+    {
+      "id": "Q-028",
+      "key": "f6s_28",
+      "numer_zrodlowy": 28,
+      "pole": "Wykorzystana pomoc de minimis",
+      "pytanie_zrodlowe": "Wykorzystana pomoc de minimis: sudop.uokik.gov.pl/search/aidBeneficiary",
+      "typ": "tekst",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Wykorzystana pomoc de minimis: sudop.uokik.gov.pl/search/aidBeneficiary\n\nSprawdź wykorzystaną pomoc w SUDOP: https://sudop.uokik.gov.pl/search/aidBeneficiary. Podaj kwotę z walutą i zakres/dzień weryfikacji zgodnie z oczekiwaniem portalu; na zrzucie nie ma jednostki ani formatu liczbowego. Brak wpisu nie oznacza zera.\n\nLimit długości nie jest widoczny na zrzutach. Sprawdź komunikaty portalu przed wysłaniem.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 4,
+          "lokalizacja": "Transkrypcja zrzutów, część 4, pytanie 28"
+        },
+        {
+          "id": "SRC-24d9e29a71fb",
+          "strona": 10
+        }
+      ],
+      "wymagania": [
+        8
+      ],
+      "rozdzial": "04-other",
+      "status": "brak-danych",
+      "plik": "03-application/04-other/specification/Q-028.md",
+      "odpowiedz": {
+        "plik": "03-application/04-other/form.md",
+        "typ": "tabela",
+        "tabela": "pomoc",
+        "wiersz": "Q-028",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-029",
+      "key": "f6s_29",
+      "numer_zrodlowy": 29,
+      "pole": "Akceptacja regulaminu",
+      "pytanie_zrodlowe": "Oświadczam, że zapoznałam/em się i akceptuję Regulamin Naboru oraz Programu Akceleracyjnego Startup Spark 4.0 RETHINK",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Oświadczam, że zapoznałam/em się i akceptuję Regulamin Naboru oraz Programu Akceleracyjnego Startup Spark 4.0 RETHINK\n\nPrzed potwierdzeniem przeczytaj regulamin i wskazane rozbieżności dokumentacji.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 4,
+          "lokalizacja": "Transkrypcja zrzutów, część 4, pytanie 29"
+        },
+        {
+          "id": "SRC-24d9e29a71fb",
+          "strona": 6
+        }
+      ],
+      "wymagania": [
+        20
+      ],
+      "opcje": [
+        "TAK"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "04-other",
+      "status": "brak-danych",
+      "plik": "03-application/04-other/specification/Q-029.md",
+      "odpowiedz": {
+        "plik": "03-application/04-other/form.md",
+        "typ": "tabela",
+        "tabela": "oswiadczenia",
+        "wiersz": "Q-029",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-030",
+      "key": "f6s_30",
+      "numer_zrodlowy": 30,
+      "pole": "Prawa do rozwiązania i brak roszczeń",
+      "pytanie_zrodlowe": "Oświadczam, że posiadam pełnię praw do dysponowania zgłoszonym w aplikacji innowacyjnym pomysłem biznesowym, rozwiązaniem, programem lub innym projektem, który chcę rozwijać w indywidualnym programie akceleracji i uprawnienia do rozporządzania nim we własnym imieniu, a nadto, oświadczam, że prawa te są wolne od jakichkolwiek obciążeń prawnych, zabezpieczeń lub jakichkolwiek roszczeń osób trzecich, a także że nie naruszają one praw osób trzecich.",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Oświadczam, że posiadam pełnię praw do dysponowania zgłoszonym w aplikacji innowacyjnym pomysłem biznesowym, rozwiązaniem, programem lub innym projektem, który chcę rozwijać w indywidualnym programie akceleracji i uprawnienia do rozporządzania nim we własnym imieniu, a nadto, oświadczam, że prawa te są wolne od jakichkolwiek obciążeń prawnych, zabezpieczeń lub jakichkolwiek roszczeń osób trzecich, a także że nie naruszają one praw osób trzecich.\n\nPotwierdzenie wymaga sprawdzenia umów i praw IP. Nie zaznaczaj, jeśli stan prawny nie jest potwierdzony.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 4,
+          "lokalizacja": "Transkrypcja zrzutów, część 4, pytanie 30"
+        },
+        {
+          "id": "SRC-24d9e29a71fb",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        5,
+        20
+      ],
+      "opcje": [
+        "TAK"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "04-other",
+      "status": "brak-danych",
+      "plik": "03-application/04-other/specification/Q-030.md",
+      "odpowiedz": {
+        "plik": "03-application/04-other/form.md",
+        "typ": "tabela",
+        "tabela": "oswiadczenia",
+        "wiersz": "Q-030",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-031",
+      "key": "f6s_31",
+      "numer_zrodlowy": 31,
+      "pole": "Brak wcześniejszego finansowania tego samego projektu",
+      "pytanie_zrodlowe": "Nie uzyskałam/em dofinansowania na ten sam projekt w ramach naboru prowadzonego przez inny Akcelerator, który realizuje program akceleracyjny w oparciu o środki uzyskane w ramach Funduszy Europejskich dla Nowoczesnej Gospodarki Oś Priorytetowa II: Środowisko sprzyjające innowacjom Działanie 2.28 Startup Booster Poland",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Nie uzyskałam/em dofinansowania na ten sam projekt w ramach naboru prowadzonego przez inny Akcelerator, który realizuje program akceleracyjny w oparciu o środki uzyskane w ramach Funduszy Europejskich dla Nowoczesnej Gospodarki Oś Priorytetowa II: Środowisko sprzyjające innowacjom Działanie 2.28 Startup Booster Poland\n\nPytanie jest sformułowane przecząco: TAK oznacza potwierdzenie, że nie uzyskano wskazanego dofinansowania. Sprawdź poprzednie wsparcie i zakaz podwójnego finansowania.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 4,
+          "lokalizacja": "Transkrypcja zrzutów, część 4, pytanie 31"
+        },
+        {
+          "id": "SRC-24d9e29a71fb",
+          "strona": 5
+        }
+      ],
+      "wymagania": [
+        9
+      ],
+      "opcje": [
+        "TAK",
+        "NIE"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "04-other",
+      "status": "brak-danych",
+      "plik": "03-application/04-other/specification/Q-031.md",
+      "odpowiedz": {
+        "plik": "03-application/04-other/form.md",
+        "typ": "tabela",
+        "tabela": "oswiadczenia",
+        "wiersz": "Q-031",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-032",
+      "key": "f6s_32",
+      "numer_zrodlowy": 32,
+      "pole": "Brak powiązań z Akceleratorem i partnerami",
+      "pytanie_zrodlowe": "Oświadczam, że nie jestem w żaden sposób powiązany kapitałowo lub osobowo z Akceleratorem Startup Spark, Łódzką SSE, Partnerem Biznesowym, Partnerem Ekosystemowym",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Oświadczam, że nie jestem w żaden sposób powiązany kapitałowo lub osobowo z Akceleratorem Startup Spark, Łódzką SSE, Partnerem Biznesowym, Partnerem Ekosystemowym\n\nPotwierdź po sprawdzeniu relacji kapitałowych i osobowych spółki oraz jej organów.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 4,
+          "lokalizacja": "Transkrypcja zrzutów, część 4, pytanie 32"
+        },
+        {
+          "id": "SRC-24d9e29a71fb",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        6,
+        20
+      ],
+      "opcje": [
+        "TAK"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "04-other",
+      "status": "brak-danych",
+      "plik": "03-application/04-other/specification/Q-032.md",
+      "odpowiedz": {
+        "plik": "03-application/04-other/form.md",
+        "typ": "tabela",
+        "tabela": "oswiadczenia",
+        "wiersz": "Q-032",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-033",
+      "key": "f6s_33",
+      "numer_zrodlowy": 33,
+      "pole": "Prawdziwość danych w aplikacji",
+      "pytanie_zrodlowe": "Oświadczam, iż informacje zawarte w niniejszej aplikacji są zgodne ze stanem faktycznym i prawnym oraz że jestem świadoma/y odpowiedzialności karnej za złożenie fałszywych oświadczeń.",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Oświadczam, iż informacje zawarte w niniejszej aplikacji są zgodne ze stanem faktycznym i prawnym oraz że jestem świadoma/y odpowiedzialności karnej za złożenie fałszywych oświadczeń.\n\nOświadczenie składa osoba uprawniona po weryfikacji całej aplikacji.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 4,
+          "lokalizacja": "Transkrypcja zrzutów, część 4, pytanie 33"
+        },
+        {
+          "id": "SRC-24d9e29a71fb",
+          "strona": 7
+        }
+      ],
+      "wymagania": [
+        20
+      ],
+      "opcje": [
+        "TAK"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "04-other",
+      "status": "brak-danych",
+      "plik": "03-application/04-other/specification/Q-033.md",
+      "odpowiedz": {
+        "plik": "03-application/04-other/form.md",
+        "typ": "tabela",
+        "tabela": "oswiadczenia",
+        "wiersz": "Q-033",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-034",
+      "key": "f6s_34",
+      "numer_zrodlowy": 34,
+      "pole": "Przetwarzanie danych — archiwizacja i rozliczenie",
+      "pytanie_zrodlowe": "Rozumiem, że dane osobowe będą przetwarzane zgodnie z przepisami o narodowym zasobie archiwalnym i archiwach, do momentu zakończenia realizacji wszelkich zadań związanych z realizacją i rozliczeniem FENG 2021-2027 z zastrzeżeniem przepisów, które mogą przewidywać dłuższy termin prowadzenia kontroli, a ponadto przepisów dotyczących pomocy publicznej i pomocy de minimis oraz przepisów dotyczących podatku od towarów i usług, do momentu zakończenia realizacji wszelkich zadań związanych z realizacją i rozliczeniem FENG 2021-2027 z zastrzeżeniem przepisów, które mogą przewidywać dłuższy termin prowadzenia kontroli, a ponadto przepisów dotyczących pomocy publicznej i pomocy de minimis oraz przepisów dotyczących podatku od towarów i usług.",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Rozumiem, że dane osobowe będą przetwarzane zgodnie z przepisami o narodowym zasobie archiwalnym i archiwach, do momentu zakończenia realizacji wszelkich zadań związanych z realizacją i rozliczeniem FENG 2021-2027 z zastrzeżeniem przepisów, które mogą przewidywać dłuższy termin prowadzenia kontroli, a ponadto przepisów dotyczących pomocy publicznej i pomocy de minimis oraz przepisów dotyczących podatku od towarów i usług, do momentu zakończenia realizacji wszelkich zadań związanych z realizacją i rozliczeniem FENG 2021-2027 z zastrzeżeniem przepisów, które mogą przewidywać dłuższy termin prowadzenia kontroli, a ponadto przepisów dotyczących pomocy publicznej i pomocy de minimis oraz przepisów dotyczących podatku od towarów i usług.\n\nPełna treść źródłowa zawiera powtórzenie fragmentu dotyczącego okresu realizacji i rozliczenia; zachowano je w transkrypcji. To oświadczenie o zasadach przetwarzania danych.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 4,
+          "lokalizacja": "Transkrypcja zrzutów, część 4, pytanie 34"
+        },
+        {
+          "id": "SRC-24d9e29a71fb",
+          "strona": 7
+        }
+      ],
+      "wymagania": [
+        20
+      ],
+      "opcje": [
+        "TAK"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "04-other",
+      "status": "brak-danych",
+      "plik": "03-application/04-other/specification/Q-034.md",
+      "odpowiedz": {
+        "plik": "03-application/04-other/form.md",
+        "typ": "tabela",
+        "tabela": "oswiadczenia",
+        "wiersz": "Q-034",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-035",
+      "key": "f6s_35",
+      "numer_zrodlowy": 35,
+      "pole": "Przetwarzanie danych — realizacja projektu UE",
+      "pytanie_zrodlowe": "Rozumiem, że dane osobowe są przetwarzane w celu realizacji projektu dofinansowanego ze środków Unii Europejskiej na podstawie przepisów ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie 2021-2027.",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Rozumiem, że dane osobowe są przetwarzane w celu realizacji projektu dofinansowanego ze środków Unii Europejskiej na podstawie przepisów ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie 2021-2027.\n\nZapoznaj się z podstawą przetwarzania danych w treści oświadczenia i dokumentach programu.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 4,
+          "lokalizacja": "Transkrypcja zrzutów, część 4, pytanie 35"
+        },
+        {
+          "id": "SRC-24d9e29a71fb",
+          "strona": 7
+        }
+      ],
+      "wymagania": [
+        20
+      ],
+      "opcje": [
+        "TAK",
+        "NIE"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "04-other",
+      "status": "brak-danych",
+      "plik": "03-application/04-other/specification/Q-035.md",
+      "odpowiedz": {
+        "plik": "03-application/04-other/form.md",
+        "typ": "tabela",
+        "tabela": "oswiadczenia",
+        "wiersz": "Q-035",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-036",
+      "key": "f6s_36",
+      "numer_zrodlowy": 36,
+      "pole": "Zgoda na doręczenia elektroniczne",
+      "pytanie_zrodlowe": "Wyrażam zgodę na doręczenie pism za pomocą wszelkich środków komunikacji elektronicznej, zgodnie z obowiązującymi przepisami.",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Wyrażam zgodę na doręczenie pism za pomocą wszelkich środków komunikacji elektronicznej, zgodnie z obowiązującymi przepisami.\n\nDecyzja użytkownika dotycząca elektronicznych doręczeń. Nie zaznaczamy jej automatycznie.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 4,
+          "lokalizacja": "Transkrypcja zrzutów, część 4, pytanie 36"
+        },
+        {
+          "id": "SRC-24d9e29a71fb",
+          "strona": 7
+        }
+      ],
+      "wymagania": [
+        20
+      ],
+      "opcje": [
+        "TAK",
+        "NIE"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "04-other",
+      "status": "brak-danych",
+      "plik": "03-application/04-other/specification/Q-036.md",
+      "odpowiedz": {
+        "plik": "03-application/04-other/form.md",
+        "typ": "tabela",
+        "tabela": "oswiadczenia",
+        "wiersz": "Q-036",
+        "kolumna": "Odpowiedź"
+      }
+    },
+    {
+      "id": "Q-037",
+      "key": "f6s_37",
+      "numer_zrodlowy": 37,
+      "pole": "Spełnianie definicji Aplikującego",
+      "pytanie_zrodlowe": "Oświadczam, że spełniam definicję Aplikującego zgodnie z Regulaminem Spark 4.0 RETHINK",
+      "typ": "wybor",
+      "wymagane": true,
+      "warunek": "zawsze — pole oznaczone gwiazdką w F6S",
+      "limit_znakow": null,
+      "sposob_liczenia": "nieustalony",
+      "reguly": "Oświadczam, że spełniam definicję Aplikującego zgodnie z Regulaminem Spark 4.0 RETHINK\n\nPrzed potwierdzeniem zweryfikuj wszystkie warunki definicji Aplikującego w regulaminie, w tym status, wiek spółki i prawa do rozwiązania.",
+      "zrodla": [
+        {
+          "id": "SRC-f6s-zrzuty-20260926",
+          "strona": 4,
+          "lokalizacja": "Transkrypcja zrzutów, część 4, pytanie 37"
+        },
+        {
+          "id": "SRC-24d9e29a71fb",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        20
+      ],
+      "opcje": [
+        "TAK",
+        "NIE"
+      ],
+      "opcje_scisle": true,
+      "rozdzial": "04-other",
+      "status": "brak-danych",
+      "plik": "03-application/04-other/specification/Q-037.md",
+      "odpowiedz": {
+        "plik": "03-application/04-other/form.md",
+        "typ": "tabela",
+        "tabela": "oswiadczenia",
+        "wiersz": "Q-037",
+        "kolumna": "Odpowiedź"
+      }
+    }
+  ],
+  "formularze": [
+    {
+      "rozdzial": "01-information",
+      "tytul": "Informacje ogólne",
+      "plik": "03-application/01-information/form.md"
+    },
+    {
+      "rozdzial": "02-eligibility-criteria",
+      "tytul": "Kryteria dostępu",
+      "plik": "03-application/02-eligibility-criteria/form.md"
+    },
+    {
+      "rozdzial": "03-substantive-criteria",
+      "tytul": "Kryteria merytoryczne",
+      "plik": "03-application/03-substantive-criteria/form.md"
+    },
+    {
+      "rozdzial": "04-other",
+      "tytul": "Pomoc de minimis i oświadczenia",
+      "plik": "03-application/04-other/form.md"
+    }
+  ],
+  "grupy": [],
+  "kontrole": []
+}

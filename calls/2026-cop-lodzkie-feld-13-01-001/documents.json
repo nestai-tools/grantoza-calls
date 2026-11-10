@@ -1,0 +1,1020 @@
+{
+  "schema_version": 1,
+  "nabor_id": "2026-cop-lodzkie-feld-13-01-001",
+  "zapisano_at": "2026-09-30T18:25:25.501734+00:00",
+  "dokumenty": [
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/Ogloszenie_o_naborze-2.pdf",
+      "tytul": "Ogłoszenie o naborze",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "Ogloszenie_o_naborze-2.pdf",
+      "id": "SRC-195010cbdc2d",
+      "pobrano_at": "2026-09-30T18:25:20.268445+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "940834818d6cd2c4063475c16ebc27fce9571693e355cd130b64ed65925363a1",
+          "plik": "01-sources/originals/SRC-195010cbdc2d-ogloszenie-o-naborze-940834818d6c.pdf",
+          "pobrano_at": "2026-09-30T18:25:20.268445+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/Ogloszenie_o_naborze-2.pdf",
+      "plik": "01-sources/originals/SRC-195010cbdc2d-ogloszenie-o-naborze-940834818d6c.pdf",
+      "sha256": "940834818d6cd2c4063475c16ebc27fce9571693e355cd130b64ed65925363a1",
+      "rozmiar": 228679,
+      "mime": "application/pdf",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 3,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-195010cbdc2d.md",
+      "kontrola_ekstrakcji": {
+        "strony_z_minimalnym_tekstem": []
+      },
+      "zakres_odczytu": "Terminy, kwoty, typy i sposób złożenia; porównanie ze stroną naboru."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/FELD_13_01_Regulamin_wsparcie-inwestycji-obronnych.pdf",
+      "tytul": "Regulamin wyboru projektów",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "FELD_13_01_Regulamin_wsparcie-inwestycji-obronnych.pdf",
+      "id": "SRC-4a7345621b47",
+      "pobrano_at": "2026-09-30T18:25:20.455406+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "3916d47dee550a96851011281d40e901a8375eef4f7268442f48d515bcf82713",
+          "plik": "01-sources/originals/SRC-4a7345621b47-regulamin-wyboru-projektow-3916d47dee55.pdf",
+          "pobrano_at": "2026-09-30T18:25:20.455406+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/FELD_13_01_Regulamin_wsparcie-inwestycji-obronnych.pdf",
+      "plik": "01-sources/originals/SRC-4a7345621b47-regulamin-wyboru-projektow-3916d47dee55.pdf",
+      "sha256": "3916d47dee550a96851011281d40e901a8375eef4f7268442f48d515bcf82713",
+      "rozmiar": 686761,
+      "mime": "application/pdf",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 72,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-4a7345621b47.md",
+      "kontrola_ekstrakcji": {
+        "strony_z_minimalnym_tekstem": []
+      },
+      "zakres_odczytu": "Warunki beneficjentów, typów, lokalizacji, wydatków, finansowania i oceny (§7–20); pozostałe postanowienia administracyjne do ponownego sprawdzenia przy składaniu."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_1_Regulaminu_wniosek_o_dofinansowanie.pdf",
+      "tytul": "Załącznik nr 1 do Regulaminu – Wzór wniosku o dofinansowanie",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "zal_1_Regulaminu_wniosek_o_dofinansowanie.pdf",
+      "id": "SRC-3bb8a4ab722f",
+      "pobrano_at": "2026-09-30T18:25:20.642921+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "dc527c9da0364dd2b5bc2d3d488e9304fcb00a63c66a431fb65331e5cddd5114",
+          "plik": "01-sources/originals/SRC-3bb8a4ab722f-zalacznik-nr-1-do-regulaminu-wzor-wniosku-o-dofinansowanie-dc527c9da036.pdf",
+          "pobrano_at": "2026-09-30T18:25:20.642921+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_1_Regulaminu_wniosek_o_dofinansowanie.pdf",
+      "plik": "01-sources/originals/SRC-3bb8a4ab722f-zalacznik-nr-1-do-regulaminu-wzor-wniosku-o-dofinansowanie-dc527c9da036.pdf",
+      "sha256": "dc527c9da0364dd2b5bc2d3d488e9304fcb00a63c66a431fb65331e5cddd5114",
+      "rozmiar": 1183473,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 59,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-3bb8a4ab722f.md",
+      "kontrola_ekstrakcji": {
+        "strony_z_minimalnym_tekstem": []
+      },
+      "zakres_odczytu": "Wzór stron1–59: formularz1–21 i słowniki22–59. Strony6,9,14,16 również wizualnie."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_1_WoD_Oswiadczenia_wnioskodawcy.docx",
+      "tytul": "Załącznik nr 1 – Oświadczenia wnioskodawcy/partnera",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+      "nazwa_zrodlowa": "zal_1_WoD_Oswiadczenia_wnioskodawcy.docx",
+      "id": "SRC-2f3214a336b9",
+      "pobrano_at": "2026-09-30T18:25:20.895740+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "441a869d3beb952c7368371e6ead1963cedd327f52f46ffef1d648a64b31c9b5",
+          "plik": "01-sources/originals/SRC-2f3214a336b9-zalacznik-nr-1-oswiadczenia-wnioskodawcy-partnera-441a869d3beb.docx",
+          "pobrano_at": "2026-09-30T18:25:20.895740+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_1_WoD_Oswiadczenia_wnioskodawcy.docx",
+      "plik": "01-sources/originals/SRC-2f3214a336b9-zalacznik-nr-1-oswiadczenia-wnioskodawcy-partnera-441a869d3beb.docx",
+      "sha256": "441a869d3beb952c7368371e6ead1963cedd327f52f46ffef1d648a64b31c9b5",
+      "rozmiar": 843248,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-2f3214a336b9.md",
+      "kontrola_ekstrakcji": {},
+      "zakres_odczytu": "Rozpoznano strukturę wzoru i wymagalność z instrukcji. Oświadczenia w oryginalnym DOCX wymagają odczytu i wypełnienia dla konkretnego wnioskodawcy; nie zastąpiono ich polami TAK/NIE."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_4a_WoD_Wariant-I_analiza_ekonomiczna_projektu.xlsm",
+      "tytul": "Załącznik nr 4a- Dokumenty potwierdzające finansowanie projektu",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+      "nazwa_zrodlowa": "zal_4a_WoD_Wariant-I_analiza_ekonomiczna_projektu.xlsm",
+      "id": "SRC-4f89bb5c8738",
+      "pobrano_at": "2026-09-30T18:25:21.122731+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "4aa441d5a659e116ed1ad7ce33f522a828ed97dc8fb68a85de783fc6b6e1f458",
+          "plik": "01-sources/originals/SRC-4f89bb5c8738-zalacznik-nr-4a-dokumenty-potwierdzajace-finansowanie-projektu-4aa441d5a659.xlsm",
+          "pobrano_at": "2026-09-30T18:25:21.122731+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_4a_WoD_Wariant-I_analiza_ekonomiczna_projektu.xlsm",
+      "plik": "01-sources/originals/SRC-4f89bb5c8738-zalacznik-nr-4a-dokumenty-potwierdzajace-finansowanie-projektu-4aa441d5a659.xlsm",
+      "sha256": "4aa441d5a659e116ed1ad7ce33f522a828ed97dc8fb68a85de783fc6b6e1f458",
+      "rozmiar": 121898,
+      "mime": "application/vnd.ms-excel.sheet.macroenabled.12",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "arkusze": [
+        "Informacje podstawowe",
+        "Analiza kosztow i korzysci",
+        "Analiza finansowa projektu",
+        "JST z projektem",
+        "Bilans z projektem",
+        "RZiS z projektem",
+        "CF z projektem",
+        "An.wskazn. z projektem",
+        "Bilans uproszczony z projektem",
+        "RZiS uproszczony z projektem",
+        "An.wskazn.uproszcz. z projektem"
+      ],
+      "ekstrakt": "01-sources/text/SRC-4f89bb5c8738.md",
+      "kontrola_ekstrakcji": {},
+      "zakres_odczytu": "Inwentaryzacja wszystkich arkuszy, komórek wejściowych i formuł XML; kontrola jednostek, roku bazowego i kluczowych formuł. Bez wykonywania makr i pełnego przeliczenia; spreadsheet-check.json."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_4b_WoD_Wariant-II_analiza-eko_fin.xlsm",
+      "tytul": "Załącznik nr 4b – Analiza ekonomiczno-finansowa / Studium wykonalności",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+      "nazwa_zrodlowa": "zal_4b_WoD_Wariant-II_analiza-eko_fin.xlsm",
+      "id": "SRC-2979100954ab",
+      "pobrano_at": "2026-09-30T18:25:21.271192+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "69a31fedb61bc1ce30ee38280ecc6d87b470e135310c9e6822bff95975538119",
+          "plik": "01-sources/originals/SRC-2979100954ab-zalacznik-nr-4b-analiza-ekonomiczno-finansowa-studium-wykonalnosci-69a31fedb61b.xlsm",
+          "pobrano_at": "2026-09-30T18:25:21.271192+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_4b_WoD_Wariant-II_analiza-eko_fin.xlsm",
+      "plik": "01-sources/originals/SRC-2979100954ab-zalacznik-nr-4b-analiza-ekonomiczno-finansowa-studium-wykonalnosci-69a31fedb61b.xlsm",
+      "sha256": "69a31fedb61bc1ce30ee38280ecc6d87b470e135310c9e6822bff95975538119",
+      "rozmiar": 83882,
+      "mime": "application/vnd.ms-excel.sheet.macroenabled.12",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "arkusze": [
+        "Informacje podstawowe",
+        "Bilans",
+        "RZiS",
+        "CF",
+        "Analiza wskaznikowa",
+        "Bilans uproszczony",
+        "RZiS uproszczony",
+        "An.wskazn.uproszcz."
+      ],
+      "ekstrakt": "01-sources/text/SRC-2979100954ab.md",
+      "kontrola_ekstrakcji": {},
+      "zakres_odczytu": "Inwentaryzacja wszystkich arkuszy, komórek wejściowych i formuł XML; kontrola jednostek, roku bazowego i kluczowych formuł. Bez wykonywania makr i pełnego przeliczenia; spreadsheet-check.json."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_5_WoD_Opis-do-zalozen-przyjetych-w-analizie-finansowo-ekonomicznej.docx",
+      "tytul": "Załącznik nr 5 – Opis do założeń przyjętych w analizie finansowo-ekonomicznej",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+      "nazwa_zrodlowa": "zal_5_WoD_Opis-do-zalozen-przyjetych-w-analizie-finansowo-ekonomicznej.docx",
+      "id": "SRC-e26dda651c79",
+      "pobrano_at": "2026-09-30T18:25:21.424810+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "e877b05c715d09e562c841e8087b78e02b44a95b22ff0af99176ad785ab8cbf4",
+          "plik": "01-sources/originals/SRC-e26dda651c79-zalacznik-nr-5-opis-do-zalozen-przyjetych-w-analizie-finansowo-ekonomicznej-e877b05c715d.docx",
+          "pobrano_at": "2026-09-30T18:25:21.424810+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_5_WoD_Opis-do-zalozen-przyjetych-w-analizie-finansowo-ekonomicznej.docx",
+      "plik": "01-sources/originals/SRC-e26dda651c79-zalacznik-nr-5-opis-do-zalozen-przyjetych-w-analizie-finansowo-ekonomicznej-e877b05c715d.docx",
+      "sha256": "e877b05c715d09e562c841e8087b78e02b44a95b22ff0af99176ad785ab8cbf4",
+      "rozmiar": 832607,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-e26dda651c79.md",
+      "kontrola_ekstrakcji": {},
+      "zakres_odczytu": "Zakres założeń do prognoz."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_7_WoD_Specyfikacje_dostaw-i-uslug.docx",
+      "tytul": "Załącznik nr 7 – Specyfikacja dostaw i usług",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+      "nazwa_zrodlowa": "zal_7_WoD_Specyfikacje_dostaw-i-uslug.docx",
+      "id": "SRC-998c83996317",
+      "pobrano_at": "2026-09-30T18:25:21.623113+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "5db5cdea11ff772d1e60c241031341e86f153db2812250060166b8c9bbd21769",
+          "plik": "01-sources/originals/SRC-998c83996317-zalacznik-nr-7-specyfikacja-dostaw-i-uslug-5db5cdea11ff.docx",
+          "pobrano_at": "2026-09-30T18:25:21.623113+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_7_WoD_Specyfikacje_dostaw-i-uslug.docx",
+      "plik": "01-sources/originals/SRC-998c83996317-zalacznik-nr-7-specyfikacja-dostaw-i-uslug-5db5cdea11ff.docx",
+      "sha256": "5db5cdea11ff772d1e60c241031341e86f153db2812250060166b8c9bbd21769",
+      "rozmiar": 1568731,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-998c83996317.md",
+      "kontrola_ekstrakcji": {},
+      "zakres_odczytu": "Tabela specyfikacji dostaw i usług."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_8_WoD_Oswiadczenie_VAT.docx",
+      "tytul": "Załącznik nr 8 – Oświadczenie o kwalifikowalności podatku od towarów i usług (VAT)",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+      "nazwa_zrodlowa": "zal_8_WoD_Oswiadczenie_VAT.docx",
+      "id": "SRC-736266770738",
+      "pobrano_at": "2026-09-30T18:25:21.854513+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "8379d83587ce5941234f37c14dcef6dcfb5a4dc1eba92fb12bfd673799c09eb1",
+          "plik": "01-sources/originals/SRC-736266770738-zalacznik-nr-8-oswiadczenie-o-kwalifikowalnosci-podatku-od-towarow-i-uslug-vat-8379d83587ce.docx",
+          "pobrano_at": "2026-09-30T18:25:21.854513+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_8_WoD_Oswiadczenie_VAT.docx",
+      "plik": "01-sources/originals/SRC-736266770738-zalacznik-nr-8-oswiadczenie-o-kwalifikowalnosci-podatku-od-towarow-i-uslug-vat-8379d83587ce.docx",
+      "sha256": "8379d83587ce5941234f37c14dcef6dcfb5a4dc1eba92fb12bfd673799c09eb1",
+      "rozmiar": 832237,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-736266770738.md",
+      "kontrola_ekstrakcji": {},
+      "zakres_odczytu": "Rozpoznano strukturę wzoru i wymagalność z instrukcji. Oświadczenia w oryginalnym DOCX wymagają odczytu i wypełnienia dla konkretnego wnioskodawcy; nie zastąpiono ich polami TAK/NIE."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_9_WoD_Nieruchomosc.docx",
+      "tytul": "Załącznik nr 9 – Oświadczenie o prawie do dysponowania nieruchomością na cele budowlane/projektu",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+      "nazwa_zrodlowa": "zal_9_WoD_Nieruchomosc.docx",
+      "id": "SRC-7f45004d5aab",
+      "pobrano_at": "2026-09-30T18:25:22.103798+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "c5f57e49e1d7a35880b123beea75c47849c7023c850b4c0afa707a8554f64f38",
+          "plik": "01-sources/originals/SRC-7f45004d5aab-zalacznik-nr-9-oswiadczenie-o-prawie-do-dysponowania-nieruchomoscia-na-cele-budowlane-c5f57e49e1d7.docx",
+          "pobrano_at": "2026-09-30T18:25:22.103798+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_9_WoD_Nieruchomosc.docx",
+      "plik": "01-sources/originals/SRC-7f45004d5aab-zalacznik-nr-9-oswiadczenie-o-prawie-do-dysponowania-nieruchomoscia-na-cele-budowlane-c5f57e49e1d7.docx",
+      "sha256": "c5f57e49e1d7a35880b123beea75c47849c7023c850b4c0afa707a8554f64f38",
+      "rozmiar": 1579410,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-7f45004d5aab.md",
+      "kontrola_ekstrakcji": {},
+      "zakres_odczytu": "Rozpoznano strukturę wzoru i wymagalność z instrukcji. Oświadczenia w oryginalnym DOCX wymagają odczytu i wypełnienia dla konkretnego wnioskodawcy; nie zastąpiono ich polami TAK/NIE."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_11_WoD_Ocena_potencjalu_obronnosciowego_DUAL-USE.docx",
+      "tytul": "Załącznik nr 11 – Ocena potencjału obronnościowego/ dual-use",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+      "nazwa_zrodlowa": "zal_11_WoD_Ocena_potencjalu_obronnosciowego_DUAL-USE.docx",
+      "id": "SRC-094d5cc5a4a6",
+      "pobrano_at": "2026-09-30T18:25:22.341741+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "14446c4817432fee09e9fbd241413a107e9344b37bddba2091d3893eaad370d8",
+          "plik": "01-sources/originals/SRC-094d5cc5a4a6-zalacznik-nr-11-ocena-potencjalu-obronnosciowego-dual-use-14446c481743.docx",
+          "pobrano_at": "2026-09-30T18:25:22.341741+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_11_WoD_Ocena_potencjalu_obronnosciowego_DUAL-USE.docx",
+      "plik": "01-sources/originals/SRC-094d5cc5a4a6-zalacznik-nr-11-ocena-potencjalu-obronnosciowego-dual-use-14446c481743.docx",
+      "sha256": "14446c4817432fee09e9fbd241413a107e9344b37bddba2091d3893eaad370d8",
+      "rozmiar": 1592803,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-094d5cc5a4a6.md",
+      "kontrola_ekstrakcji": {},
+      "zakres_odczytu": "Wszystkie12 części i tabele załącznika11."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_12_WoD_Analiza_OS_DNSH.docx",
+      "tytul": "Załącznik nr 12 – Analiza oddziaływania na środowisko, z uwzględnieniem zasady „nie czyń znaczącej szkody” (zasady DNSH)",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+      "nazwa_zrodlowa": "zal_12_WoD_Analiza_OS_DNSH.docx",
+      "id": "SRC-2275549d9dec",
+      "pobrano_at": "2026-09-30T18:25:22.572425+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "327868f47aeb4fb14add3021d4cb26e986c0dca29873bc08a38a9ca5c85896fe",
+          "plik": "01-sources/originals/SRC-2275549d9dec-zalacznik-nr-12-analiza-oddzialywania-na-srodowisko-z-uwzglednieniem-zasady-nie-czyn--327868f47aeb.docx",
+          "pobrano_at": "2026-09-30T18:25:22.572425+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_12_WoD_Analiza_OS_DNSH.docx",
+      "plik": "01-sources/originals/SRC-2275549d9dec-zalacznik-nr-12-analiza-oddzialywania-na-srodowisko-z-uwzglednieniem-zasady-nie-czyn--327868f47aeb.docx",
+      "sha256": "327868f47aeb4fb14add3021d4cb26e986c0dca29873bc08a38a9ca5c85896fe",
+      "rozmiar": 1587339,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-2275549d9dec.md",
+      "kontrola_ekstrakcji": {},
+      "zakres_odczytu": "Rozpoznano strukturę wzoru i wymagalność z instrukcji. Oświadczenia w oryginalnym DOCX wymagają odczytu i wypełnienia dla konkretnego wnioskodawcy; nie zastąpiono ich polami TAK/NIE."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_13_Pomoc_publ_de_minimis.docx",
+      "tytul": "Załącznik nr 13 – Formularz dotyczący występowania pomocy publiczneji pomocy de minimis",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "zal_13_Pomoc_publ_de_minimis.docx",
+      "id": "SRC-fa5d8af7a572",
+      "pobrano_at": "2026-09-30T18:25:22.779377+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "4c1dffc767234dfe08943e1aeb3fe84f522b97b02d910080ff961472af392129",
+          "plik": "01-sources/originals/SRC-fa5d8af7a572-zalacznik-nr-13-formularz-dotyczacy-wystepowania-pomocy-publiczneji-pomocy-de-minimis-4c1dffc76723.docx",
+          "pobrano_at": "2026-09-30T18:25:22.779377+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_13_Pomoc_publ_de_minimis.docx",
+      "plik": "01-sources/originals/SRC-fa5d8af7a572-zalacznik-nr-13-formularz-dotyczacy-wystepowania-pomocy-publiczneji-pomocy-de-minimis-4c1dffc76723.docx",
+      "sha256": "4c1dffc767234dfe08943e1aeb3fe84f522b97b02d910080ff961472af392129",
+      "rozmiar": 1578941,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-fa5d8af7a572.md",
+      "kontrola_ekstrakcji": {},
+      "zakres_odczytu": "Rozpoznano strukturę wzoru i wymagalność z instrukcji. Oświadczenia w oryginalnym DOCX wymagają odczytu i wypełnienia dla konkretnego wnioskodawcy; nie zastąpiono ich polami TAK/NIE."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_14_WoD_Oswiadczenie-Wnioskodawcy-okreslajace-wielkosc-przedsiebiorstwa.docx",
+      "tytul": "Załącznik nr 14 – Oświadczenie wnioskodawcy określające wielkość przedsiębiorstwa",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+      "nazwa_zrodlowa": "zal_14_WoD_Oswiadczenie-Wnioskodawcy-okreslajace-wielkosc-przedsiebiorstwa.docx",
+      "id": "SRC-17b93fd509a7",
+      "pobrano_at": "2026-09-30T18:25:22.986675+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "baf809ee6ceb987fdc8b71c2a973e7e9de7e95ca6f5040a0c2b79e860c618e29",
+          "plik": "01-sources/originals/SRC-17b93fd509a7-zalacznik-nr-14-oswiadczenie-wnioskodawcy-okreslajace-wielkosc-przedsiebiorstwa-baf809ee6ceb.docx",
+          "pobrano_at": "2026-09-30T18:25:22.986675+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_14_WoD_Oswiadczenie-Wnioskodawcy-okreslajace-wielkosc-przedsiebiorstwa.docx",
+      "plik": "01-sources/originals/SRC-17b93fd509a7-zalacznik-nr-14-oswiadczenie-wnioskodawcy-okreslajace-wielkosc-przedsiebiorstwa-baf809ee6ceb.docx",
+      "sha256": "baf809ee6ceb987fdc8b71c2a973e7e9de7e95ca6f5040a0c2b79e860c618e29",
+      "rozmiar": 1598944,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-17b93fd509a7.md",
+      "kontrola_ekstrakcji": {},
+      "zakres_odczytu": "Rozpoznano strukturę wzoru i wymagalność z instrukcji. Oświadczenia w oryginalnym DOCX wymagają odczytu i wypełnienia dla konkretnego wnioskodawcy; nie zastąpiono ich polami TAK/NIE."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_15_WoD_Agenda_badawcza.docx",
+      "tytul": "Załącznik nr 15 – Agenda badawcza",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+      "nazwa_zrodlowa": "zal_15_WoD_Agenda_badawcza.docx",
+      "id": "SRC-f0a0f90dc962",
+      "pobrano_at": "2026-09-30T18:25:23.199539+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "873886456a7e7c12e45ae2b0cc3da1a5964ad081fe5d0e42df5fa80ce1b59e2d",
+          "plik": "01-sources/originals/SRC-f0a0f90dc962-zalacznik-nr-15-agenda-badawcza-873886456a7e.docx",
+          "pobrano_at": "2026-09-30T18:25:23.199539+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_15_WoD_Agenda_badawcza.docx",
+      "plik": "01-sources/originals/SRC-f0a0f90dc962-zalacznik-nr-15-agenda-badawcza-873886456a7e.docx",
+      "sha256": "873886456a7e7c12e45ae2b0cc3da1a5964ad081fe5d0e42df5fa80ce1b59e2d",
+      "rozmiar": 1609940,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-f0a0f90dc962.md",
+      "kontrola_ekstrakcji": {},
+      "zakres_odczytu": "Wszystkie części A–E, tabele etapów, historii, kadry i podwykonawców."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_17_WoD_Paliwa-alternatywne.docx",
+      "tytul": "Załącznik nr 17 – Paliwa alternatywne",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+      "nazwa_zrodlowa": "zal_17_WoD_Paliwa-alternatywne.docx",
+      "id": "SRC-ffac00590e4b",
+      "pobrano_at": "2026-09-30T18:25:23.432301+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "30320b9d5bb8e64968a081f46792596bf4312f55953dbf21c405dc249e02d98a",
+          "plik": "01-sources/originals/SRC-ffac00590e4b-zalacznik-nr-17-paliwa-alternatywne-30320b9d5bb8.docx",
+          "pobrano_at": "2026-09-30T18:25:23.432301+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_17_WoD_Paliwa-alternatywne.docx",
+      "plik": "01-sources/originals/SRC-ffac00590e4b-zalacznik-nr-17-paliwa-alternatywne-30320b9d5bb8.docx",
+      "sha256": "30320b9d5bb8e64968a081f46792596bf4312f55953dbf21c405dc249e02d98a",
+      "rozmiar": 1568946,
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-ffac00590e4b.md",
+      "kontrola_ekstrakcji": {},
+      "zakres_odczytu": "Uzasadnienie paliw kopalnych; błędny numer /25 zachowany w źródle."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_2a_do_Regulaminu_Instrukcja_do_wniosku-1.pdf",
+      "tytul": "Załącznik nr 2a do Regulaminu – Instrukcja wypełnienia wniosku o dofinasowanie projektu",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "zal_2a_do_Regulaminu_Instrukcja_do_wniosku-1.pdf",
+      "id": "SRC-054f556443d1",
+      "pobrano_at": "2026-09-30T18:25:23.645326+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "03cb5667850a29dd44d51fed8333ba5c5b46a52d69317fbb5d1c78409b79bfd5",
+          "plik": "01-sources/originals/SRC-054f556443d1-zalacznik-nr-2a-do-regulaminu-instrukcja-wypelnienia-wniosku-o-dofinasowanie-projektu-03cb5667850a.pdf",
+          "pobrano_at": "2026-09-30T18:25:23.645326+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_2a_do_Regulaminu_Instrukcja_do_wniosku-1.pdf",
+      "plik": "01-sources/originals/SRC-054f556443d1-zalacznik-nr-2a-do-regulaminu-instrukcja-wypelnienia-wniosku-o-dofinasowanie-projektu-03cb5667850a.pdf",
+      "sha256": "03cb5667850a29dd44d51fed8333ba5c5b46a52d69317fbb5d1c78409b79bfd5",
+      "rozmiar": 1072667,
+      "mime": "application/pdf",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 89,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-054f556443d1.md",
+      "kontrola_ekstrakcji": {
+        "strony_z_minimalnym_tekstem": []
+      },
+      "zakres_odczytu": "Interpretacja pól i wskaźników s.7–21, kluczowe definicje wskaźników, tasks/budżet/źródła i załączniki s.59–89. Szczegółową definicję każdego wybranego wskaźnika należy ponownie sprawdzić przy pisaniu."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_2b_do_Regulamin_Instrukcja_analiza_finansowa.pdf",
+      "tytul": "Załącznik nr 2b do Regulaminu – Instrukcja wypełniania szablonu analizy ekonomiczno-finansowej",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "zal_2b_do_Regulamin_Instrukcja_analiza_finansowa.pdf",
+      "id": "SRC-89ed20fe8442",
+      "pobrano_at": "2026-09-30T18:25:23.831662+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "b1c2c02daf085bb1937a76eb1458ebcca736c4d532438b75a0dd9c8148969e9c",
+          "plik": "01-sources/originals/SRC-89ed20fe8442-zalacznik-nr-2b-do-regulaminu-instrukcja-wypelniania-szablonu-analizy-ekonomiczno-fin-b1c2c02daf08.pdf",
+          "pobrano_at": "2026-09-30T18:25:23.831662+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_2b_do_Regulamin_Instrukcja_analiza_finansowa.pdf",
+      "plik": "01-sources/originals/SRC-89ed20fe8442-zalacznik-nr-2b-do-regulaminu-instrukcja-wypelniania-szablonu-analizy-ekonomiczno-fin-b1c2c02daf08.pdf",
+      "sha256": "b1c2c02daf085bb1937a76eb1458ebcca736c4d532438b75a0dd9c8148969e9c",
+      "rozmiar": 352980,
+      "mime": "application/pdf",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 17,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-89ed20fe8442.md",
+      "kontrola_ekstrakcji": {
+        "strony_z_minimalnym_tekstem": []
+      },
+      "zakres_odczytu": "Jednostki, okresy, warianty i pola wejściowe s.3–7 oraz wyszukanie kluczowych formuł. Szczegółowe pozycje rachunkowe do kontroli z księgowością."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_3_Wzor_umowy_o_dofinansowanie_projektu.pdf",
+      "tytul": "Załącznik nr 3 do Regulaminu – Wzór umowy o dofinansowanie projektu",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "zal_3_Wzor_umowy_o_dofinansowanie_projektu.pdf",
+      "id": "SRC-0f36d16a8f14",
+      "pobrano_at": "2026-09-30T18:25:24.004761+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "fac05866487e5477ffa9a6cfa169eedb7e5b79978ce8f196b0a84f29137b5fb3",
+          "plik": "01-sources/originals/SRC-0f36d16a8f14-zalacznik-nr-3-do-regulaminu-wzor-umowy-o-dofinansowanie-projektu-fac05866487e.pdf",
+          "pobrano_at": "2026-09-30T18:25:24.004761+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_3_Wzor_umowy_o_dofinansowanie_projektu.pdf",
+      "plik": "01-sources/originals/SRC-0f36d16a8f14-zalacznik-nr-3-do-regulaminu-wzor-umowy-o-dofinansowanie-projektu-fac05866487e.pdf",
+      "sha256": "fac05866487e5477ffa9a6cfa169eedb7e5b79978ce8f196b0a84f29137b5fb3",
+      "rozmiar": 1021728,
+      "mime": "application/pdf",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 72,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-0f36d16a8f14.md",
+      "kontrola_ekstrakcji": {
+        "strony_z_minimalnym_tekstem": []
+      },
+      "zakres_odczytu": "Wartość i finansowanie projektu §2–4, s.7–9. Pełne obowiązki realizacji, rozliczania i trwałości wymagają oddzielnego przeglądu przed podpisaniem umowy."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_4_do_Regulaminu_Kryteria_wyboru_projektow.pdf",
+      "tytul": "Załącznik nr 4 – Kryteria wyboru projektów dla programu regionalnego Fundusze Europejskie dla Łódzkiego 2021-2027 wyciąg z kryteriów wyboru projektów dla programu regionalnego fundusze europejskie dla łódzkiego 2021-2027",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "zal_4_do_Regulaminu_Kryteria_wyboru_projektow.pdf",
+      "id": "SRC-38380985741d",
+      "pobrano_at": "2026-09-30T18:25:24.189734+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "c2dad7d470c87f7f7f9abb2f75af33dd71bfb60f5970d94a63e2133f110044bd",
+          "plik": "01-sources/originals/SRC-38380985741d-zalacznik-nr-4-kryteria-wyboru-projektow-dla-programu-regionalnego-fundusze-europejsk-c2dad7d470c8.pdf",
+          "pobrano_at": "2026-09-30T18:25:24.189734+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_4_do_Regulaminu_Kryteria_wyboru_projektow.pdf",
+      "plik": "01-sources/originals/SRC-38380985741d-zalacznik-nr-4-kryteria-wyboru-projektow-dla-programu-regionalnego-fundusze-europejsk-c2dad7d470c8.pdf",
+      "sha256": "c2dad7d470c87f7f7f9abb2f75af33dd71bfb60f5970d94a63e2133f110044bd",
+      "rozmiar": 597839,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 50,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-38380985741d.md",
+      "kontrola_ekstrakcji": {
+        "strony_z_minimalnym_tekstem": []
+      },
+      "zakres_odczytu": "59 kryteriów obu typów, pełne definicje/tabele1–50; s.30 i43 również wizualnie."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_5_do_Regulaminu_Zasady_kwalifikowania_FEL2027.pdf",
+      "tytul": "Załącznik nr 5 do Regulaminu – Zasady kwalifikowania wydatków w ramach programu regionalnego Fundusze Europejskie dla Łódzkiego 2021-2027",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "zal_5_do_Regulaminu_Zasady_kwalifikowania_FEL2027.pdf",
+      "id": "SRC-1430f88d0eb0",
+      "pobrano_at": "2026-09-30T18:25:24.374952+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "e78c0f918bdc1daddf1aa09515838ce1b723b956c32f859758a899a5422f9619",
+          "plik": "01-sources/originals/SRC-1430f88d0eb0-zalacznik-nr-5-do-regulaminu-zasady-kwalifikowania-wydatkow-w-ramach-programu-regiona-e78c0f918bdc.pdf",
+          "pobrano_at": "2026-09-30T18:25:24.374952+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_5_do_Regulaminu_Zasady_kwalifikowania_FEL2027.pdf",
+      "plik": "01-sources/originals/SRC-1430f88d0eb0-zalacznik-nr-5-do-regulaminu-zasady-kwalifikowania-wydatkow-w-ramach-programu-regiona-e78c0f918bdc.pdf",
+      "sha256": "e78c0f918bdc1daddf1aa09515838ce1b723b956c32f859758a899a5422f9619",
+      "rozmiar": 1779936,
+      "mime": "application/pdf",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 276,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-1430f88d0eb0.md",
+      "kontrola_ekstrakcji": {
+        "strony_z_minimalnym_tekstem": []
+      },
+      "zakres_odczytu": "Zasady ogólne VAT i limitów s.12–14 oraz pełny właściwy rozdział FELD.13.01 s.234–241; inne działania nie są podstawą tego naboru."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_6_do_Regulamin_Lista_dokumentow_do_umowy.pdf",
+      "tytul": "Załącznik nr 6 do Regulaminu – Lista dokumentów niezbędnych do podpisania umowy",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "zal_6_do_Regulamin_Lista_dokumentow_do_umowy.pdf",
+      "id": "SRC-53e7742cd689",
+      "pobrano_at": "2026-09-30T18:25:24.636927+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "5efa458a085ba6416eef0a4ad3946fcc25e2565d37b6d29600bb795008821550",
+          "plik": "01-sources/originals/SRC-53e7742cd689-zalacznik-nr-6-do-regulaminu-lista-dokumentow-niezbednych-do-podpisania-umowy-5efa458a085b.pdf",
+          "pobrano_at": "2026-09-30T18:25:24.636927+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_6_do_Regulamin_Lista_dokumentow_do_umowy.pdf",
+      "plik": "01-sources/originals/SRC-53e7742cd689-zalacznik-nr-6-do-regulaminu-lista-dokumentow-niezbednych-do-podpisania-umowy-5efa458a085b.pdf",
+      "sha256": "5efa458a085ba6416eef0a4ad3946fcc25e2565d37b6d29600bb795008821550",
+      "rozmiar": 210286,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 3,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-53e7742cd689.md",
+      "kontrola_ekstrakcji": {
+        "strony_z_minimalnym_tekstem": []
+      },
+      "zakres_odczytu": "Wszystkie3 strony listy dokumentów do umowy."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_7_do_Regulaminu_Zasady_Studium-wykonalnosci.pdf",
+      "tytul": "Załącznik nr 7 do Regulaminu – Zasady przygotowania studium wykonalności dla projektów realizowanych w ramach programu regionalnego Fundusze Europejskie dla Łódzkiego 2021-2027",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "zal_7_do_Regulaminu_Zasady_Studium-wykonalnosci.pdf",
+      "id": "SRC-9fa2beb5c8a8",
+      "pobrano_at": "2026-09-30T18:25:24.805565+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "c1e6ed0ad14426eda29d03169e41b75b7bb742b292e87cd74a2cfb0c1142eaf3",
+          "plik": "01-sources/originals/SRC-9fa2beb5c8a8-zalacznik-nr-7-do-regulaminu-zasady-przygotowania-studium-wykonalnosci-dla-projektow--c1e6ed0ad144.pdf",
+          "pobrano_at": "2026-09-30T18:25:24.805565+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_7_do_Regulaminu_Zasady_Studium-wykonalnosci.pdf",
+      "plik": "01-sources/originals/SRC-9fa2beb5c8a8-zalacznik-nr-7-do-regulaminu-zasady-przygotowania-studium-wykonalnosci-dla-projektow--c1e6ed0ad144.pdf",
+      "sha256": "c1e6ed0ad14426eda29d03169e41b75b7bb742b292e87cd74a2cfb0c1142eaf3",
+      "rozmiar": 243843,
+      "mime": "application/pdf",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 11,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-9fa2beb5c8a8.md",
+      "kontrola_ekstrakcji": {
+        "strony_z_minimalnym_tekstem": []
+      },
+      "zakres_odczytu": "Próg studium s.1–2 i struktura finansów/DCF/trwałości; dobór szczegółowej metody wymaga zakresu projektu."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_8_do_Regulaminu_wzor_protestu.pdf",
+      "tytul": "Załącznik nr 8 do Regulaminu – Wzór protestu",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "zal_8_do_Regulaminu_wzor_protestu.pdf",
+      "id": "SRC-4c1f7e3f5a7d",
+      "pobrano_at": "2026-09-30T18:25:24.975429+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "3e82a1c8c2b1956860a8e122e14cb18e6b6711d2866e2be59a0349fd13d81a84",
+          "plik": "01-sources/originals/SRC-4c1f7e3f5a7d-zalacznik-nr-8-do-regulaminu-wzor-protestu-3e82a1c8c2b1.pdf",
+          "pobrano_at": "2026-09-30T18:25:24.975429+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_8_do_Regulaminu_wzor_protestu.pdf",
+      "plik": "01-sources/originals/SRC-4c1f7e3f5a7d-zalacznik-nr-8-do-regulaminu-wzor-protestu-3e82a1c8c2b1.pdf",
+      "sha256": "3e82a1c8c2b1956860a8e122e14cb18e6b6711d2866e2be59a0349fd13d81a84",
+      "rozmiar": 186033,
+      "mime": "application/pdf",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 2,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-4c1f7e3f5a7d.md",
+      "kontrola_ekstrakcji": {
+        "strony_z_minimalnym_tekstem": []
+      },
+      "zakres_odczytu": "Zidentyfikowany formularz protestu; nie dotyczy struktury składanego wniosku."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_9_Regulaminu_Gestosc_zaludnienia.pdf",
+      "tytul": "Załącznik nr 9 do Regulaminu – Gęstość zaludnienia – województwo łódzkie",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "zal_9_Regulaminu_Gestosc_zaludnienia.pdf",
+      "id": "SRC-64ab2cf1d24b",
+      "pobrano_at": "2026-09-30T18:25:25.130989+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "2a704a0a14b6f93d826606fa17ab8107aebe511d9d5d3f0236c4bfea70cceabb",
+          "plik": "01-sources/originals/SRC-64ab2cf1d24b-zalacznik-nr-9-do-regulaminu-gestosc-zaludnienia-wojewodztwo-lodzkie-2a704a0a14b6.pdf",
+          "pobrano_at": "2026-09-30T18:25:25.130989+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_9_Regulaminu_Gestosc_zaludnienia.pdf",
+      "plik": "01-sources/originals/SRC-64ab2cf1d24b-zalacznik-nr-9-do-regulaminu-gestosc-zaludnienia-wojewodztwo-lodzkie-2a704a0a14b6.pdf",
+      "sha256": "2a704a0a14b6f93d826606fa17ab8107aebe511d9d5d3f0236c4bfea70cceabb",
+      "rozmiar": 368009,
+      "mime": "application/pdf",
+      "odczyt": "częściowo przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 8,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-64ab2cf1d24b.md",
+      "kontrola_ekstrakcji": {
+        "strony_z_minimalnym_tekstem": []
+      },
+      "zakres_odczytu": "Tabela gmin wykorzystywana jako źródło punktacji; lokalizację i populację konkretnego projektu trzeba sprawdzić przy pisaniu."
+    },
+    {
+      "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_10_do_Regulaminu_Poziomy_gotowosci_technologicznej.pdf",
+      "tytul": "Załącznik nr 10 do Regulaminu – Poziomy gotowości technologicznej",
+      "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "sekcja": "Dokumenty naborowe",
+      "nazwa_zrodlowa": "zal_10_do_Regulaminu_Poziomy_gotowosci_technologicznej.pdf",
+      "id": "SRC-1a7961e08c4f",
+      "pobrano_at": "2026-09-30T18:25:25.309958+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "683ac0c01a7c16e12bae8ae2070d2498e7fb53d4a1b508e8648f32ece59bc8a7",
+          "plik": "01-sources/originals/SRC-1a7961e08c4f-zalacznik-nr-10-do-regulaminu-poziomy-gotowosci-technologicznej-683ac0c01a7c.pdf",
+          "pobrano_at": "2026-09-30T18:25:25.309958+00:00"
+        }
+      ],
+      "url_koncowy": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_10_do_Regulaminu_Poziomy_gotowosci_technologicznej.pdf",
+      "plik": "01-sources/originals/SRC-1a7961e08c4f-zalacznik-nr-10-do-regulaminu-poziomy-gotowosci-technologicznej-683ac0c01a7c.pdf",
+      "sha256": "683ac0c01a7c16e12bae8ae2070d2498e7fb53d4a1b508e8648f32ece59bc8a7",
+      "rozmiar": 184826,
+      "mime": "application/pdf",
+      "odczyt": "przeczytane",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 2,
+      "kontrola_pobrania": "SHA-256, rozmiar i format poprawne; zachowano niezmieniony oryginał.",
+      "ekstrakt": "01-sources/text/SRC-1a7961e08c4f.md",
+      "kontrola_ekstrakcji": {
+        "strony_z_minimalnym_tekstem": []
+      },
+      "zakres_odczytu": "Obie strony definicji TRL."
+    }
+  ],
+  "linki_do_sprawdzenia": [],
+  "rozpoznanie_ai": {
+    "schema_version": 1,
+    "url": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+    "tytul": "FELD.13.01-IP.02-001/26 — Zdolności przemysłowe dla obronności i technologii podwójnego zastosowania",
+    "kompletne": true,
+    "sprawdzono_at": "2026-09-30T18:24:56.050883+00:00",
+    "sprawdzone_sekcje": [
+      "Nagłówek i informacje o naborze",
+      "1. Na co można otrzymać dofinansowanie",
+      "2. Sposób składania wniosków",
+      "3. Termin składania wniosków",
+      "4. Kryteria wyboru projektów",
+      "5. Finanse",
+      "6. Dokumenty naborowe, w tym wszystkie załączniki do wniosku",
+      "7. Dokumenty dodatkowe — sekcja pusta",
+      "8. Środki odwoławcze",
+      "9. Pytania i odpowiedzi — sekcja pusta",
+      "Komunikaty dla naboru — brak komunikatów",
+      "Punkty informacyjne i kontakty"
+    ],
+    "dokumenty": [
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/Ogloszenie_o_naborze-2.pdf",
+        "tytul": "Ogłoszenie o naborze",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "Ogloszenie_o_naborze-2.pdf"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/FELD_13_01_Regulamin_wsparcie-inwestycji-obronnych.pdf",
+        "tytul": "Regulamin wyboru projektów",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "FELD_13_01_Regulamin_wsparcie-inwestycji-obronnych.pdf"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_1_Regulaminu_wniosek_o_dofinansowanie.pdf",
+        "tytul": "Załącznik nr 1 do Regulaminu – Wzór wniosku o dofinansowanie",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "zal_1_Regulaminu_wniosek_o_dofinansowanie.pdf"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_1_WoD_Oswiadczenia_wnioskodawcy.docx",
+        "tytul": "Załącznik nr 1 – Oświadczenia wnioskodawcy/partnera",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+        "nazwa_zrodlowa": "zal_1_WoD_Oswiadczenia_wnioskodawcy.docx"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_4a_WoD_Wariant-I_analiza_ekonomiczna_projektu.xlsm",
+        "tytul": "Załącznik nr 4a- Dokumenty potwierdzające finansowanie projektu",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+        "nazwa_zrodlowa": "zal_4a_WoD_Wariant-I_analiza_ekonomiczna_projektu.xlsm"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_4b_WoD_Wariant-II_analiza-eko_fin.xlsm",
+        "tytul": "Załącznik nr 4b – Analiza ekonomiczno-finansowa / Studium wykonalności",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+        "nazwa_zrodlowa": "zal_4b_WoD_Wariant-II_analiza-eko_fin.xlsm"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_5_WoD_Opis-do-zalozen-przyjetych-w-analizie-finansowo-ekonomicznej.docx",
+        "tytul": "Załącznik nr 5 – Opis do założeń przyjętych w analizie finansowo-ekonomicznej",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+        "nazwa_zrodlowa": "zal_5_WoD_Opis-do-zalozen-przyjetych-w-analizie-finansowo-ekonomicznej.docx"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_7_WoD_Specyfikacje_dostaw-i-uslug.docx",
+        "tytul": "Załącznik nr 7 – Specyfikacja dostaw i usług",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+        "nazwa_zrodlowa": "zal_7_WoD_Specyfikacje_dostaw-i-uslug.docx"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_8_WoD_Oswiadczenie_VAT.docx",
+        "tytul": "Załącznik nr 8 – Oświadczenie o kwalifikowalności podatku od towarów i usług (VAT)",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+        "nazwa_zrodlowa": "zal_8_WoD_Oswiadczenie_VAT.docx"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_9_WoD_Nieruchomosc.docx",
+        "tytul": "Załącznik nr 9 – Oświadczenie o prawie do dysponowania nieruchomością na cele budowlane/projektu",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+        "nazwa_zrodlowa": "zal_9_WoD_Nieruchomosc.docx"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_11_WoD_Ocena_potencjalu_obronnosciowego_DUAL-USE.docx",
+        "tytul": "Załącznik nr 11 – Ocena potencjału obronnościowego/ dual-use",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+        "nazwa_zrodlowa": "zal_11_WoD_Ocena_potencjalu_obronnosciowego_DUAL-USE.docx"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_12_WoD_Analiza_OS_DNSH.docx",
+        "tytul": "Załącznik nr 12 – Analiza oddziaływania na środowisko, z uwzględnieniem zasady „nie czyń znaczącej szkody” (zasady DNSH)",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+        "nazwa_zrodlowa": "zal_12_WoD_Analiza_OS_DNSH.docx"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_13_Pomoc_publ_de_minimis.docx",
+        "tytul": "Załącznik nr 13 – Formularz dotyczący występowania pomocy publiczneji pomocy de minimis",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "zal_13_Pomoc_publ_de_minimis.docx"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_14_WoD_Oswiadczenie-Wnioskodawcy-okreslajace-wielkosc-przedsiebiorstwa.docx",
+        "tytul": "Załącznik nr 14 – Oświadczenie wnioskodawcy określające wielkość przedsiębiorstwa",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+        "nazwa_zrodlowa": "zal_14_WoD_Oswiadczenie-Wnioskodawcy-okreslajace-wielkosc-przedsiebiorstwa.docx"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_15_WoD_Agenda_badawcza.docx",
+        "tytul": "Załącznik nr 15 – Agenda badawcza",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+        "nazwa_zrodlowa": "zal_15_WoD_Agenda_badawcza.docx"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_17_WoD_Paliwa-alternatywne.docx",
+        "tytul": "Załącznik nr 17 – Paliwa alternatywne",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe / Załączniki do wniosku",
+        "nazwa_zrodlowa": "zal_17_WoD_Paliwa-alternatywne.docx"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_2a_do_Regulaminu_Instrukcja_do_wniosku-1.pdf",
+        "tytul": "Załącznik nr 2a do Regulaminu – Instrukcja wypełnienia wniosku o dofinasowanie projektu",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "zal_2a_do_Regulaminu_Instrukcja_do_wniosku-1.pdf"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_2b_do_Regulamin_Instrukcja_analiza_finansowa.pdf",
+        "tytul": "Załącznik nr 2b do Regulaminu – Instrukcja wypełniania szablonu analizy ekonomiczno-finansowej",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "zal_2b_do_Regulamin_Instrukcja_analiza_finansowa.pdf"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_3_Wzor_umowy_o_dofinansowanie_projektu.pdf",
+        "tytul": "Załącznik nr 3 do Regulaminu – Wzór umowy o dofinansowanie projektu",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "zal_3_Wzor_umowy_o_dofinansowanie_projektu.pdf"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_4_do_Regulaminu_Kryteria_wyboru_projektow.pdf",
+        "tytul": "Załącznik nr 4 – Kryteria wyboru projektów dla programu regionalnego Fundusze Europejskie dla Łódzkiego 2021-2027 wyciąg z kryteriów wyboru projektów dla programu regionalnego fundusze europejskie dla łódzkiego 2021-2027",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "zal_4_do_Regulaminu_Kryteria_wyboru_projektow.pdf"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_5_do_Regulaminu_Zasady_kwalifikowania_FEL2027.pdf",
+        "tytul": "Załącznik nr 5 do Regulaminu – Zasady kwalifikowania wydatków w ramach programu regionalnego Fundusze Europejskie dla Łódzkiego 2021-2027",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "zal_5_do_Regulaminu_Zasady_kwalifikowania_FEL2027.pdf"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_6_do_Regulamin_Lista_dokumentow_do_umowy.pdf",
+        "tytul": "Załącznik nr 6 do Regulaminu – Lista dokumentów niezbędnych do podpisania umowy",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "zal_6_do_Regulamin_Lista_dokumentow_do_umowy.pdf"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_7_do_Regulaminu_Zasady_Studium-wykonalnosci.pdf",
+        "tytul": "Załącznik nr 7 do Regulaminu – Zasady przygotowania studium wykonalności dla projektów realizowanych w ramach programu regionalnego Fundusze Europejskie dla Łódzkiego 2021-2027",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "zal_7_do_Regulaminu_Zasady_Studium-wykonalnosci.pdf"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_8_do_Regulaminu_wzor_protestu.pdf",
+        "tytul": "Załącznik nr 8 do Regulaminu – Wzór protestu",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "zal_8_do_Regulaminu_wzor_protestu.pdf"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_9_Regulaminu_Gestosc_zaludnienia.pdf",
+        "tytul": "Załącznik nr 9 do Regulaminu – Gęstość zaludnienia – województwo łódzkie",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "zal_9_Regulaminu_Gestosc_zaludnienia.pdf"
+      },
+      {
+        "url": "https://cop.lodzkie.pl/app/uploads/2026/09/zal_10_do_Regulaminu_Poziomy_gotowosci_technologicznej.pdf",
+        "tytul": "Załącznik nr 10 do Regulaminu – Poziomy gotowości technologicznej",
+        "strona_pochodzenia": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+        "sekcja": "Dokumenty naborowe",
+        "nazwa_zrodlowa": "zal_10_do_Regulaminu_Poziomy_gotowosci_technologicznej.pdf"
+      }
+    ],
+    "pozostale_linki": [
+      {
+        "url": "https://wod.cst2021.gov.pl.",
+        "status": "informacja",
+        "uzasadnienie": "Link do generatora w treści strony zawiera końcową kropkę; zachowano go w rozpoznaniu. Nie jest dokumentem. Adres bez kropki zapisano oddzielnie jako korektę oczywistej literówki."
+      },
+      {
+        "url": "https://cop.lodzkie.pl/calls/",
+        "status": "informacja",
+        "uzasadnienie": "Odnośnik nawigacyjny do listy naborów, nie załącznik tej edycji."
+      }
+    ],
+    "uwagi": [
+      "Cała dokumentacja i kontakty są w pobranym HTML; nie ma osobnych zakładek, paginacji dokumentów ani nierozstrzygniętych linków w sekcji dokumentacji.",
+      "Komunikat globalny o perspektywie 2014–2020 nie dotyczy tego naboru.",
+      "Strona HTTPS nie wysyła certyfikatu pośredniego Sectigo Public Server Authentication CA DV R36. Pobrano wskazany w certyfikacie podpisany certyfikat pośredni; walidacja HTTPS z systemowymi zaufanymi CA i tym certyfikatem jest poprawna."
+    ]
+  }
+}

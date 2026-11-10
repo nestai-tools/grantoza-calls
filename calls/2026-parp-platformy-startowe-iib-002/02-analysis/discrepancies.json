@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "rozbieznosci": [
+    {
+      "id": "D-01",
+      "temat": "Rok bazowy modelu",
+      "ustalenie": "Nabór jest w 2026 r. Kryterium 6 odnosi się do roku złożenia wniosku, natomiast instrukcja modelu s. 2 i komórka C3 Prognozy przychodów obu XLSX wskazują narastająco od 01.01.2025. Instrukcja s. 5 wskazuje KON na 31.12.2025.",
+      "zrodla": [
+        "SRC-894f1179eb3f",
+        "SRC-0fb046c95a8b",
+        "SRC-5dddf09c0cf4",
+        "SRC-0ac9591da399",
+        "SRC-02c1d0102fd0"
+      ],
+      "status": "do-potwierdzenia-w-PARP",
+      "wplyw": "Dane i porównywalność prognozy; nie zmienia struktury pól. Nie zmieniaj samodzielnie oficjalnych formuł."
+    },
+    {
+      "id": "D-02",
+      "temat": "Dokładnie 12 miesięcy",
+      "ustalenie": "Nazwy wariantów „12 i powyżej” i „do 12” nakładają się dla 12 miesięcy. W dłuższym wariancie AD5/AE5 porównują drugi rok (AC) z bazą C, więc przy 12 miesiącach i zerach w drugim roku nie można bez sprawdzenia uznać wzoru za właściwy.",
+      "zrodla": [
+        "SRC-5dddf09c0cf4",
+        "SRC-0ac9591da399",
+        "SRC-02c1d0102fd0"
+      ],
+      "status": "do-potwierdzenia-w-PARP",
+      "wplyw": "Wybór wariantu i poprawność wzrostu dla 12 miesięcy. Dla pozostałych długości wybierz odpowiedni zakres."
+    },
+    {
+      "id": "D-03",
+      "temat": "Ryczałt pośredni",
+      "ustalenie": "Regulamin § 3 ust. 11 i umowa § 9 mówią „do 15%”, a wzór formularza na s. 8 ma etykietę stawki „15%”.",
+      "zrodla": [
+        "SRC-894f1179eb3f",
+        "SRC-f76bcd1c04a4",
+        "SRC-e5f4835ab250"
+      ],
+      "status": "limit-ustalony-sposob-wprowadzenia-do-sprawdzenia",
+      "wplyw": "Walidujemy pułap 15% podstawy, kwotę pozostawiamy edytowalną. Niższą stawkę potwierdź w aktywnym LSI/PARP."
+    },
+    {
+      "id": "D-04",
+      "temat": "Wzrost 150%",
+      "ustalenie": "Formuły AD5=(AC12-C12)/C12 i AE5=(AC13-C13)/C13 oraz próg >=150% w arkuszu Weryfikacja wzrostu potwierdzają wzrost o 150%, czyli końcowo 2,5 razy baza, jeśli baza >0. Nie jest to samo końcowe 150% bazy.",
+      "zrodla": [
+        "SRC-0fb046c95a8b",
+        "SRC-0ac9591da399"
+      ],
+      "status": "wyjasnione-formulami",
+      "wplyw": "Dla bazy 0 występuje dzielenie przez zero; potrzebne wyjaśnienie PARP. Definicje agregacji miesięcy i lat trzeba uzgodnić z modelem."
+    },
+    {
+      "id": "D-05",
+      "temat": "Różne momenty zakończenia",
+      "ustalenie": "Instrukcja wniosku wymaga planu obejmującego złożenie wniosku końcowego. Umowa § 6 liczy trwałość od wypłaty końcowej albo zatwierdzenia rozliczenia.",
+      "zrodla": [
+        "SRC-2499049d1cfe",
+        "SRC-f76bcd1c04a4"
+      ],
+      "status": "rozrozniono",
+      "wplyw": "Daty we wniosku nie wyznaczają automatycznie rzeczywistej daty rozpoczęcia trwałości."
+    },
+    {
+      "id": "D-06",
+      "temat": "Oznaczenia redakcyjne",
+      "ustalenie": "Tytuł metadanych ogłoszenia zawiera IIa, treść i numer naboru wskazują IIb. Katalog RIS w nagłówku podaje załącznik 5, a aktualny regulamin wskazuje go jako załącznik 6. Instrukcja s. 2 ma „limit 1000” przy etykiecie wyboru IIa; typ TAK/NIE wynika jednoznacznie ze wzoru.",
+      "zrodla": [
+        "SRC-3e0359eb3602",
+        "SRC-18a66fc53144",
+        "SRC-2499049d1cfe",
+        "SRC-e5f4835ab250"
+      ],
+      "status": "rozstrzygnieto-przez-tresc-i-numer",
+      "wplyw": "Źródła identyfikowane stabilnym ID i SHA-256; brak dodatkowych pól z omyłek."
+    },
+    {
+      "id": "D-07",
+      "temat": "Obrócone nagłówki HRF",
+      "ustalenie": "Ekstrakcja PDF s. 8 pomija nagłówki tabel kosztów. Stronę obejrzano wizualnie; odwzorowano także kwotę VAT, udział dotacji i wydatek na dostępność.",
+      "zrodla": [
+        "SRC-e5f4835ab250"
+      ],
+      "status": "sprawdzono-wizualnie",
+      "wplyw": "Uzupełniono mapę pól; oryginał zachowany."
+    },
+    {
+      "id": "D-08",
+      "temat": "Słowniki i liczenie znaków LSI",
+      "ustalenie": "Pełne słowniki CST/PKD i sposób liczenia znaków nie są opublikowane we wzorze. Zachowano instrukcje wyboru oraz nieustalony sposób liczenia spacji.",
+      "zrodla": [
+        "SRC-e5f4835ab250",
+        "SRC-2499049d1cfe"
+      ],
+      "status": "do-sprawdzenia-w-aktywnym-LSI",
+      "wplyw": "Przy finalnym przenoszeniu dopasuj etykiety i sprawdź liczniki; panel nie jest importerem LSI."
+    },
+    {
+      "id": "D-09",
+      "temat": "FAQ obejmuje starsze edycje",
+      "ustalenie": "Dodatkowa baza FAQ zawiera odwołania do 003/25 i do terminów 11.12.2025–10.02.2026. Są to materiały pomocnicze; terminy i wymagania obecnego naboru ustalono z dokumentacji 002/26.",
+      "zrodla": [
+        "https://pytania.parp.gov.pl/kategoria/na-start/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "SRC-894f1179eb3f"
+      ],
+      "status": "rozrozniono-edycje",
+      "wplyw": "Nie przenosić dat i założeń starszej edycji do nowego formularza."
+    }
+  ]
+}

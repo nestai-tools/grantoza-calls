@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "nabor_id": "2026-lsse-spark-4-rethink-202609",
+  "ocena_wnioskodawcy": "nie wykonano — brak danych firmy",
+  "wymagania": [
+    {
+      "id": "REQ-001",
+      "rodzaj": "termin",
+      "wymaganie": "Bieżąca runda: 14.08–30.09.2026; nieustalona godzina zamknięcia.",
+      "zrodlo": "WWW",
+      "lokalizacja": "ZGŁOŚ SIĘ",
+      "zastosowanie": "zgłoszenie",
+      "dowod": "Potwierdzenie terminu i wysłania w F6S",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-002",
+      "rodzaj": "formalny",
+      "wymaganie": "Zgłoszenie przez wskazany formularz, kompletne i po polsku.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 6–7 §4",
+      "zastosowanie": "zgłoszenie",
+      "dowod": "Pełny formularz F6S i jego walidacja",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-003",
+      "rodzaj": "dostęp",
+      "wymaganie": "Mikro- lub mała spółka kapitałowa z siedzibą w RP; warunki podmiotowe na dzień zawarcia umowy.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 4 §3 ust. 1–2",
+      "zastosowanie": "podmiot",
+      "dowod": "KRS, oświadczenie MŚP i dokumenty podmiotów powiązanych",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-004",
+      "rodzaj": "dostęp",
+      "wymaganie": "Działalność do 5 lat, brak notowania na giełdzie i podziału zysku; warunki dotyczące przejęcia działalności i połączenia z §3.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 4 §3 ust. 2",
+      "zastosowanie": "podmiot",
+      "dowod": "Data rejestracji, historia spółki i oświadczenia",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-005",
+      "rodzaj": "dostęp",
+      "wymaganie": "Wyłączne prawa do pomysłu oraz brak obciążeń, zabezpieczeń i roszczeń do niego.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 4–5 §3 ust. 2 i 4",
+      "zastosowanie": "technologia",
+      "dowod": "Umowy praw autorskich, licencje, patenty — odpowiednio do projektu",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-006",
+      "rodzaj": "dostęp",
+      "wymaganie": "Brak wskazanych w regulaminie powiązań kapitałowych lub osobowych z ŁSSE i wybranym OT.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 4 §3 ust. 2",
+      "zastosowanie": "podmiot/partner",
+      "dowod": "Oświadczenie i analiza relacji",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-007",
+      "rodzaj": "dostęp",
+      "wymaganie": "Brak wykluczeń z pomocy i działalności w wyłączonych sektorach; ocena sytuacji finansowej przez Akcelerator.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 5 §3 ust. 3–5",
+      "zastosowanie": "podmiot",
+      "dowod": "Dokumenty i oświadczenia wskazane w §3",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-008",
+      "rodzaj": "dostęp",
+      "wymaganie": "Dostępny limit pomocy de minimis; ponowna weryfikacja na dzień umowy.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 10 §8 ust. 1–4",
+      "zastosowanie": "podmiot",
+      "dowod": "Formularz de minimis, zaświadczenia i weryfikacja SUDOP",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-009",
+      "rodzaj": "formalny",
+      "wymaganie": "Zakaz podwójnego finansowania; ujawnienie programów bieżących, oczekujących oraz zakończonych w ostatnich 24 miesiącach.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 5 §3 ust. 5–6",
+      "zastosowanie": "projekt",
+      "dowod": "Lista programów, finansowanych działań i kosztów",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-010",
+      "rodzaj": "dostęp",
+      "wymaganie": "Rozwiązanie wpisuje się w KIS 7 — GOZ.",
+      "zrodlo": "SRC-2a2563594b37",
+      "lokalizacja": "s. 1, kryterium formalne 13",
+      "zastosowanie": "rozwiązanie",
+      "dowod": "Opis efektu cyrkularnego i zmiany cyklu życia produktu",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-011",
+      "rodzaj": "dostęp",
+      "wymaganie": "Dopasowanie do potrzeb OT: minimum 1 punkt; TRL co najmniej 5: minimum 1 punkt. Oba warunki muszą być spełnione.",
+      "zrodlo": "SRC-2a2563594b37",
+      "lokalizacja": "s. 1–2, kryteria dostępu",
+      "zastosowanie": "rozwiązanie",
+      "dowod": "Wybór OT, opis potrzeby i dowody gotowości TRL",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-012",
+      "rodzaj": "punktowy",
+      "wymaganie": "GOZ: minimum 5/8 punktów; wpływ na GOZ 0–4 i mierzalne wskaźniki środowiskowe 0–4.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 7 §4 etap II; karta oceny s. 2",
+      "zastosowanie": "projekt",
+      "dowod": "Proces przed/po, miary, źródła danych, metoda i termin pomiaru",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-013",
+      "rodzaj": "punktowy",
+      "wymaganie": "Innowacyjność: minimum 7/11 punktów; innowacyjność 0–4, model/rynek 0–2, przewagi 0–3, analiza konkurencji 0–2.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 7 §4 etap II; karta oceny s. 2–3",
+      "zastosowanie": "projekt",
+      "dowod": "Analiza rynku, walidacja modelu i porównanie konkurencji",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-014",
+      "rodzaj": "punktowy",
+      "wymaganie": "Zespół i zasoby: minimum 3/4 punktów, po 0–2 za zespół i zasoby.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 7 §4 etap II; karta oceny s. 3",
+      "zastosowanie": "zespół",
+      "dowod": "Imienny zespół, doświadczenie i wdrożenia GOZ oraz dostęp do zasobów",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-015",
+      "rodzaj": "punktowy",
+      "wymaganie": "Współpraca z OT: minimum 5/8 punktów; doświadczenie 0–3, dopasowanie 0–3, gotowość 0–2.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 7 §4 etap II; karta oceny s. 3–4",
+      "zastosowanie": "partner/pilotaż",
+      "dowod": "Udokumentowane wdrożenia, referencje, scenariusz testów i znajomość branży",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-016",
+      "rodzaj": "punktowy",
+      "wymaganie": "Inne: minimum 1/4 punktów; upowszechnianie wiedzy GOZ 0–3 oraz wiek startupu do 3 lat przed zgłoszeniem 0–1.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 7 §4 etap II; karta oceny s. 4",
+      "zastosowanie": "project/podmiot",
+      "dowod": "Działania transferu wiedzy, data rejestracji",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-017",
+      "rodzaj": "ocena",
+      "wymaganie": "Punktacja etapu II: średnia ocen komisji i minima w każdej grupie; następnie pozytywna ocena potencjału współpracy przez OT.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 7 §4 etap II b–e",
+      "zastosowanie": "ocena",
+      "dowod": "Nie zastępować progów grup jednym progiem sumy",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-018",
+      "rodzaj": "ocena",
+      "wymaganie": "Etap III: spotkanie do 30 minut; pozytywna ocena każdego kryterium. Cztery kryteria po 0–2 pkt osobno dla ŁSSE i OT, łącznie do 16.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 7–8 §4 etap III; karta oceny s. 5",
+      "zastosowanie": "rozmowa",
+      "dowod": "Prezentacja, Q&A, budżet, plan testów i skalowania",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-019",
+      "rodzaj": "formalny",
+      "wymaganie": "Uzupełnienia formalne do 3 dni roboczych od wezwania; brak uzupełnienia skutkuje odrzuceniem.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 7 §4 ust. 9–10",
+      "zastosowanie": "rekrutacja",
+      "dowod": "Monitorowanie e-maila i odpowiedź w terminie",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-020",
+      "rodzaj": "formalny",
+      "wymaganie": "Akceptacja regulaminu, prawdziwość danych, prawa do rozwiązania, brak powiązań, właściwe oświadczenia i zgody; polityki horyzontalne UE.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 6–7 §4; karta oceny s. 1",
+      "zastosowanie": "zgłoszenie",
+      "dowod": "Weryfikacja pełnych oświadczeń w F6S; nic nie zaznaczać automatycznie",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-021",
+      "rodzaj": "finansowanie",
+      "wymaganie": "Limit Spark 4.0 wynosi 350 000 PLN; kwota wymaga uzasadnienia racjonalnością i niezbędnością kosztów.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 10 §8 ust. 6–8",
+      "zastosowanie": "budżet",
+      "dowod": "Kalkulacja i oszacowanie cen rynkowych",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-022",
+      "rodzaj": "harmonogram",
+      "wymaganie": "IPA ma trzy kamienie milowe i trwa maksymalnie 180 dni; ostatni obejmuje wyniki walidacji w środowisku zbliżonym do rzeczywistego.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 1; s. 10 §8 ust. 9; s. 11 ust. 15",
+      "zastosowanie": "IPA po wyborze",
+      "dowod": "Harmonogram i zakres walidacji uzgodniony z OT",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-023",
+      "rodzaj": "wskaźniki",
+      "wymaganie": "Każdy kamień milowy ma przynajmniej jeden mierzalny wskaźnik z wartością docelową, terminem i sposobem udokumentowania.",
+      "zrodlo": "SRC-a3c0591268a7",
+      "lokalizacja": "s. 5 §6",
+      "zastosowanie": "IPA po wyborze",
+      "dowod": "Harmonogram IPA i protokoły odbioru",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-024",
+      "rodzaj": "budżet",
+      "wymaganie": "Koszty personelu, usług, środków trwałych, WNiP i promocji muszą służyć IPA; koszty działalności bieżącej, np. księgowości, wyłączone.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 11–12 §8 ust. 16–17",
+      "zastosowanie": "IPA",
+      "dowod": "Opis związku każdej pozycji z kamieniem milowym",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-025",
+      "rodzaj": "budżet",
+      "wymaganie": "VAT nie jest finansowany z grantu.",
+      "zrodlo": "SRC-5b62f2bf36d0",
+      "lokalizacja": "s. 1; umowa s. 13 §5 ust. 1",
+      "zastosowanie": "IPA",
+      "dowod": "Kwoty netto/brutto i sposób pokrycia kosztów niekwalifikowalnych",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-026",
+      "rodzaj": "budżet",
+      "wymaganie": "Promocja do 10%, podróże służbowe do 5% budżetu; odstępstwa wymagają akceptacji Akceleratora i OT.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 11–12 §8 ust. 16",
+      "zastosowanie": "IPA",
+      "dowod": "Limity i ewentualna pisemna zgoda",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-027",
+      "rodzaj": "budżet",
+      "wymaganie": "Wynagrodzenia zarządu i właścicieli niebędących pracownikami w rozumieniu Kodeksu Pracy wyłączone; instrukcja zawiera rozbieżną wzmiankę o zleceniu.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 12 §8 ust. 17; zasady s. 4; instrukcja s. 2",
+      "zastosowanie": "IPA",
+      "dowod": "Wyjaśnienie organizatora przed przyjęciem kosztu",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-028",
+      "rodzaj": "budżet",
+      "wymaganie": "Dokumentować oszacowanie cen i uzasadnienie wydatków; według instrukcji IPA rozeznanie rynku ważne 3 miesiące.",
+      "zrodlo": "SRC-5b62f2bf36d0",
+      "lokalizacja": "s. 2; zasady s. 5 §5",
+      "zastosowanie": "IPA",
+      "dowod": "Oferty lub odpowiednie dane/raporty cenowe i daty",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-029",
+      "rodzaj": "załączniki",
+      "wymaganie": "Przed umową: oświadczenie MŚP, informacje de minimis, uzgodniony IPA, zabezpieczenie wekslowe i wyciąg bankowy.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 11 §8 ust. 14; umowa s. 22",
+      "zastosowanie": "po rekomendacji",
+      "dowod": "Oficjalne formularze i dokumenty spółki",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-030",
+      "rodzaj": "płynność",
+      "wymaganie": "Wyciąg bankowy potwierdzający środki co najmniej 1/3 grantu i/lub najbardziej kosztownego kamienia milowego; interpretację i/lub potwierdzić.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 11 §8 ust. 14",
+      "zastosowanie": "przed umową",
+      "dowod": "Środki na finansowanie kosztów do refundacji i VAT",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-031",
+      "rodzaj": "termin",
+      "wymaganie": "Dokumenty do umowy do 14 dni od rekomendacji; reakcja na uwagi do IPA w 3 dni robocze.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 11 §8 ust. 12",
+      "zastosowanie": "po rekomendacji",
+      "dowod": "Pakiet dokumentów i ustalenia z Akceleratorem",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-032",
+      "rodzaj": "płatności",
+      "wymaganie": "Refundacja lub uzasadniona zaliczka na jeden kamień milowy; wzór umowy ogranicza ją do 30%, zasady ogólne dopuszczają pierwszą do 40%.",
+      "zrodlo": "SRC-1890717a5810",
+      "lokalizacja": "s. 6 §2 ust. 13; zasady s. 6 §7",
+      "zastosowanie": "realizacja",
+      "dowod": "Wyjaśnienie rozbieżności i uzgodniony plan płynności",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-033",
+      "rodzaj": "realizacja",
+      "wymaganie": "Realizacja kamieni dokumentowana protokołem startupu, ŁSSE i OT; brak potwierdzenia wstrzymuje wypłatę.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 12 §9 ust. 3–6",
+      "zastosowanie": "realizacja",
+      "dowod": "Protokoły, faktury, płatności i dowody wskaźników",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-034",
+      "rodzaj": "realizacja",
+      "wymaganie": "Przynajmniej jeden artykuł/wywiad oraz uzgodnione działania transferu wiedzy GOZ dla dużych przedsiębiorstw; obowiązkowy Spark Demo Day.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 12–13 §9 ust. 2 i 11–12",
+      "zastosowanie": "akceleracja",
+      "dowod": "Plan upowszechniania i udziału",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-035",
+      "rodzaj": "realizacja",
+      "wymaganie": "Zmiany IPA wymagają wcześniejszej zgody; terminy kamieni zmieniać przed ich upływem. Wstrzymanie maksymalnie miesiąc, koniec do 30.06.2028.",
+      "zrodlo": "SRC-24d9e29a71fb",
+      "lokalizacja": "s. 13 §9 ust. 8–10",
+      "zastosowanie": "realizacja",
+      "dowod": "Uzgodnienia i aneksy; wyjaśnić formę zmian z zasadami ogólnymi",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-036",
+      "rodzaj": "zabezpieczenie",
+      "wymaganie": "Weksel in blanco z deklaracją i poręczeniem; dokumenty poręczyciela zweryfikować z organizatorem.",
+      "zrodlo": "SRC-1890717a5810",
+      "lokalizacja": "s. 15 §7 ust. 2–3",
+      "zastosowanie": "umowa",
+      "dowod": "Właściwe podpisy i oryginały; nie składać oświadczeń za użytkownika",
+      "ocena": "do sprawdzenia"
+    },
+    {
+      "id": "REQ-037",
+      "rodzaj": "komercjalizacja",
+      "wymaganie": "Umowa przewiduje prawo pierwszeństwa OT w komercjalizacji przez 30 dni od zakończenia IPA w przypadku współpracy.",
+      "zrodlo": "SRC-1890717a5810",
+      "lokalizacja": "s. 9 §3 ust. 4",
+      "zastosowanie": "po akceleracji",
+      "dowod": "Ustalenia komercjalizacji i przegląd podpisywanej umowy",
+      "ocena": "do sprawdzenia"
+    }
+  ]
+}

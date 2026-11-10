@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "url": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+  "tytul": "INNOSTART — nabór 2/2026",
+  "kompletne": true,
+  "sprawdzono_at": "2026-09-26",
+  "sprawdzone_sekcje": [
+    "Dla kogo",
+    "Na co",
+    "Budżet i wsparcie",
+    "Harmonogram",
+    "Sposób składania i oceny",
+    "FAQ",
+    "Dokumenty konkursowe",
+    "Checklista",
+    "Aktualności naboru 2",
+    "Strona programu",
+    "FAQ Infoday",
+    "Materiały warsztatowe"
+  ],
+  "dokumenty": [
+    {
+      "url": "https://www.gov.pl/attachment/e95fc629-530e-45a2-8aed-f6e78f806d81",
+      "tytul": "Regulamin wyboru projektów_Innostart (II NABÓR)",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/9920bc7b-1beb-4a88-9264-326388d29553",
+      "tytul": "Przewodnik kwalifikowalności wydatków",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/71198e0f-ac79-4a2e-bd34-d8bd378486aa",
+      "tytul": "Wzór umowy o powierzenie Grantu",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/7a70ed8c-621d-4102-a9f7-7226133040c7",
+      "tytul": "Kryteria wyboru projektów",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/9f86de3c-b876-4a13-b91b-cf961879a1ee",
+      "tytul": "Wzór wniosku o wsparcie w projekcie Innostart",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/c5eee147-0f5e-4ad4-80fd-8aead6f205de",
+      "tytul": "Instrukcja wypełniania wniosku o wsparcie",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/f0980cc6-4517-4191-b96c-b8473344146f",
+      "tytul": "Zał. 4 do Umowy o powierzenie grantu HRF nabór 2",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/3b43c66e-d7b1-4d8c-b41a-bebd0554bb46",
+      "tytul": "Oświadczenie woli dotyczące złożenia wniosku za pośrednictwem systemu informatycznego OSF",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/ff473117-c7e0-406d-9375-e6018f9cfa2b",
+      "tytul": "Oświadczenie o zapewnieniu wkładu własnego i źródle finansowania",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/8c81d876-4237-49c4-acd7-e1c404691a77",
+      "tytul": "Oświadczenie o spełnianiu kryteriów MŚP",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/3a440d8a-d17e-4c13-8572-ef2b00db121e",
+      "tytul": "Oświadczenie o pomocy na B+R ze środków UE",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/9856a8d3-dc46-4ddd-bffc-c243df60a891",
+      "tytul": "Oświadczenie o pomocy de minimis",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/1936f3f8-dad0-4e9c-9497-27f017ceb7f7",
+      "tytul": "Poradnik dla Wnioskodawcy INNOSTART dotyczący prac B+R",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Dokumenty konkursowe"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/f7f8284f-47e5-4590-b03e-27bb7174f43b",
+      "tytul": "Checklista przed wysłaniem wniosku Innostart",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "sekcja": "Dokumenty / Checklista"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/5908e34a-628d-4d6e-b169-8ef553e64a56",
+      "tytul": "FAQ INNOSTART 2 — Infoday 03.09.2026",
+      "strona_pochodzenia": "https://www.gov.pl/web/ncbr/faq--najczesciej-zadawane-pytania-podczas-infoday",
+      "sekcja": "Materiały dodatkowe / infoday"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/1d5749a7-b421-4403-81a0-802d906abaf0",
+      "tytul": "Warsztaty: założenia projektu i kryteria wyboru",
+      "strona_pochodzenia": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+      "sekcja": "Materiały dodatkowe / warsztaty-materialy"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/5f9741d8-ba8e-453c-8094-7c46f99a153a",
+      "tytul": "Warsztaty: prace B+R",
+      "strona_pochodzenia": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+      "sekcja": "Materiały dodatkowe / warsztaty-materialy"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/3e0e7b5f-80ec-41aa-8bbe-77adf1c111e5",
+      "tytul": "Warsztaty: System OSF i składanie wniosku",
+      "strona_pochodzenia": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+      "sekcja": "Materiały dodatkowe / warsztaty-materialy"
+    },
+    {
+      "url": "https://www.gov.pl/attachment/ddd2bf7a-55f1-490e-a593-a1e973a5c59b",
+      "tytul": "Warsztaty: kwalifikowalność wydatków i finanse",
+      "strona_pochodzenia": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+      "sekcja": "Materiały dodatkowe / warsztaty-materialy"
+    }
+  ],
+  "pozostale_linki": [
+    {
+      "url": "https://www.gov.pl/web/innostart",
+      "status": "informacja",
+      "uzasadnienie": "Strona całego programu; budżet programu nie jest budżetem naboru 2.",
+      "snapshot": "01-sources/www/program-ac1258629e03.html",
+      "sha256": "ac1258629e03d9a059e56f97a0fc28791301ae8844558c6dc69222df04cdfeed"
+    },
+    {
+      "url": "https://www.gov.pl/web/ncbr/aktualnosci-innostart-2",
+      "status": "informacja",
+      "uzasadnienie": "Przejrzana lista aktualności naboru 2; dodatkowe FAQ i prezentacje rozliczone osobno.",
+      "snapshot": "01-sources/www/aktualnosci-fcab2d79a6e1.html",
+      "sha256": "fcab2d79a6e122352e10a1430b356ae6336e85de7057d3c2845da4d811ff2c28"
+    },
+    {
+      "url": "https://www.gov.pl/web/ncbr/faq--najczesciej-zadawane-pytania-podczas-infoday",
+      "status": "informacja",
+      "uzasadnienie": "FAQ z 18.09.2026 dotyczące naboru 2; załącznik dodany do listy dokumentów.",
+      "snapshot": "01-sources/www/infoday-fc4b9aa7ff30.html",
+      "sha256": "fc4b9aa7ff30757e56de122355f64c327a558e286268499f890c9f6ea9375cc5"
+    },
+    {
+      "url": "https://www.gov.pl/web/ncbr/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+      "status": "informacja",
+      "uzasadnienie": "Komunikat z 22.09.2026 prowadzi do strony z czterema prezentacjami.",
+      "snapshot": "01-sources/www/warsztaty-c7f9af3d193e.html",
+      "sha256": "c7f9af3d193e3c40b78743d74ab0706808d1494d8ce53c359bce83cfe66abf56"
+    },
+    {
+      "url": "https://www.gov.pl/web/innostart/materialy-i-nagrania-z-warsztatow-dla-wnioskodawcow-projektu-innostart",
+      "status": "informacja",
+      "uzasadnienie": "Cztery prezentacje dodane do listy pobrań. Nagrania wideo mają charakter pomocniczy; nie transkrybowano nagrań.",
+      "snapshot": "01-sources/www/warsztaty-materialy-df2d018068fd.html",
+      "sha256": "df2d018068fd2e69a5287a286cbfb42c1b17e78eb68cde24819b6f3fa20c2674"
+    }
+  ],
+  "uwagi": [
+    "14 plików z zakładki Dokumenty i 5 dodatkowych PDF z aktualności dotyczących naboru 2.",
+    "Publikacje i webinaria nie zmieniają samodzielnie wzoru; źródłami struktury są wzór i instrukcja.",
+    "Ograniczenie przeglądu: nagrania wideo bez transkrypcji."
+  ]
+}

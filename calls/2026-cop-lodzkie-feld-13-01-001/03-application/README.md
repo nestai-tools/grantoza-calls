@@ -1,0 +1,17 @@
+# Wniosek — formularze do uzupełnienia
+
+- [A. Informacje o projekcie](01-project/form.md)
+- [B. Wnioskodawca i realizatorzy](02-entities/form.md)
+- [C. Wskaźniki projektu](03-indicators/form.md)
+- [D. Zadania](04-tasks/form.md)
+- [E. Budżet projektu](05-budget/form.md)
+- [F. Podsumowanie budżetu](06-summary/form.md)
+- [G. Źródła finansowania](07-funding/form.md)
+- [H. Potencjał i analiza ryzyka](08-potential-and-risks/form.md)
+- [I. Dodatkowe informacje](09-additional/form.md)
+- [J. Oświadczenia](10-declarations/form.md)
+- [K. Załączniki](11-attachments/form.md)
+- [L. Informacje systemowe](12-system/form.md)
+- [Załącznik 11. Potencjał obronny — typ 1](13-defense-potential/form.md)
+- [Załącznik 15. Agenda badawcza — typ 2](14-agenda/form.md)
+- [Załączniki opisowe: finanse i paliwa](15-assumptions/form.md)

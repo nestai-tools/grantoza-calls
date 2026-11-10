@@ -1,0 +1,21 @@
+# Specyfikacja — 10. Harmonogram rzeczowo-finansowy
+
+[Formularz](../budget.md) · [Mapa pól](../../form-map.md)
+
+- [Q-159 — Numer zadania](Q-159.md)
+- [Q-160 — Tytuł zadania](Q-160.md)
+- [Q-161 — Kategoria badań](Q-161.md)
+- [Q-162 — Nazwa/rodzaj wydatków](Q-162.md)
+- [Q-163 — Termin rozpoczęcia zadania (nr miesiąca)](Q-163.md)
+- [Q-164 — Termin zakończenia zadania (nr miesiąca)](Q-164.md)
+- [Q-165 — Koszty personelu](Q-165.md)
+- [Q-166 — Usługi zewnętrzne (podwykonawstwo)](Q-166.md)
+- [Q-167 — Amortyzacja](Q-167.md)
+- [Q-168 — Wartości niematerialne i prawne](Q-168.md)
+- [Q-169 — Dostawy](Q-169.md)
+- [Q-170 — Usługi zewnętrzne (koszty operacyjne)](Q-170.md)
+- [Q-171 — Wkład własny (PLN) — w tym VAT](Q-171.md)
+- [Q-172 — Grant (PLN) = wydatki kwalifikowalne bez VAT](Q-172.md)
+- [Q-173 — Całkowity koszt wydatku (PLN)](Q-173.md)
+- [Q-174 — Suma zadania / kolumny 6–14](Q-174.md)
+- [Q-175 — Ogółem / kolumny 6–14](Q-175.md)

@@ -1,0 +1,403 @@
+{
+  "schema_version": 1,
+  "id": "2026-ncbr-innostart-2",
+  "tytul": "INNOSTART — nabór 2/2026",
+  "url": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+  "etap": "gotowy-do-wypelniania",
+  "informacje": {
+    "organizator": {
+      "wartosc": "Narodowe Centrum Badań i Rozwoju",
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "Organizator konkursu"
+    },
+    "program": {
+      "wartosc": "FENG.02.20 — INNOSTART",
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "Opis naboru"
+    },
+    "numer_naboru": {
+      "wartosc": "2/2026",
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "Budżet konkursu"
+    },
+    "dla_kogo": {
+      "wartosc": "Mikro, małe i średnie przedsiębiorstwa po Innovation Coach, bez doświadczenia w projektach B+R finansowanych ze środków UE.",
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "Opis naboru"
+    },
+    "cel": {
+      "wartosc": "Rozpoczęcie działalności innowacyjnej i zdobycie doświadczenia w B+R.",
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "Opis naboru; FAQ"
+    },
+    "na_co": {
+      "wartosc": [
+        "Badania przemysłowe",
+        "Prace rozwojowe",
+        "Kontynuacja rekomendacji Innovation Coach"
+      ],
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "Na co"
+    },
+    "obszar": {
+      "wartosc": "Projekt zgodny z Krajową Inteligentną Specjalizacją (KIS).",
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "Zakres tematyczny"
+    },
+    "budzet_naboru": {
+      "wartosc": {
+        "kwota": 59840000,
+        "waluta": "PLN"
+      },
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "Budżet konkursu — nabór 2/2026"
+    },
+    "budzet_programu": {
+      "wartosc": {
+        "kwota": 104640000,
+        "waluta": "PLN",
+        "liczba_naborow": 3
+      },
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "Budżet konkursu"
+    },
+    "maksymalne_wsparcie": {
+      "wartosc": {
+        "kwota": 320000,
+        "waluta": "PLN"
+      },
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "Wsparcie"
+    },
+    "wklad_wlasny": {
+      "wartosc": {
+        "minimum_procent": 15,
+        "podstawa": "całkowity budżet projektu"
+      },
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "Wsparcie"
+    },
+    "forma_rozliczenia": {
+      "wartosc": "Refundacja poniesionych i zweryfikowanych wydatków.",
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "FAQ — rozliczanie projektu"
+    },
+    "limit_pomocy_de_minimis": {
+      "wartosc": {
+        "kwota": 300000,
+        "waluta": "EUR",
+        "okres": "ruchome 3 lata",
+        "zakres": "jedno przedsiębiorstwo",
+        "data_weryfikacji": "złożenie wniosku i udzielenie pomocy przy umowie"
+      },
+      "zrodlo": "SRC-f764dfc4b0fd",
+      "lokalizacja": "§3 ust. 3, s. 8"
+    },
+    "terminy": {
+      "wartosc": {
+        "ogloszenie": "2026-08-13",
+        "poczatek": "2026-08-17",
+        "koniec": "2026-09-30",
+        "godzina_konca": "16:00",
+        "strefa_czasowa": "Europe/Warsaw",
+        "koniec_iso": "2026-09-30T16:00:00+02:00"
+      },
+      "zrodlo": "SRC-f764dfc4b0fd",
+      "lokalizacja": "§1 ust. 7, s. 6"
+    },
+    "sposob_zlozenia": {
+      "wartosc": {
+        "system": "OSF",
+        "url": "https://osf.opi.org.pl/"
+      },
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "Sposób składania wniosków"
+    },
+    "kontakt": {
+      "wartosc": {
+        "email": "info@ncbr.gov.pl",
+        "telefony": [
+          "+48 22 39 07 170",
+          "+48 22 39 07 191"
+        ]
+      },
+      "zrodlo": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "lokalizacja": "Kontakt — Punkt Informacyjny"
+    },
+    "limit_wsparcia_w_projekcie_grantowym": {
+      "wartosc": {
+        "kwota": 200000,
+        "waluta": "EUR",
+        "zakres": "grantobiorca w ramach projektu grantowego INNOSTART"
+      },
+      "zrodlo": "SRC-06493a2de3ea",
+      "lokalizacja": "kryterium 3, s. 3; oświadczenie de minimis s. 3"
+    },
+    "czas_realizacji": {
+      "wartosc": {
+        "maksimum_miesiecy": 24,
+        "start_do_dni_od_umowy": 30,
+        "koniec_najpozniej": "2029-11-30"
+      },
+      "zrodlo": [
+        "SRC-f764dfc4b0fd",
+        "SRC-1fdf48603cae"
+      ],
+      "lokalizacja": "Regulamin §3 ust. 7 s. 8; umowa §3 s. 3"
+    }
+  },
+  "rozbieznosci": [
+    {
+      "id": "ROZ-001",
+      "tytul": "Dwa limity pomocy — wyjaśnione co do zakresu",
+      "opis": "Strona podaje 200 000 EUR w sekcji Wsparcie i 300 000 EUR w FAQ. Regulamin §3.3 określa 300 000 EUR de minimis dla jednego przedsiębiorstwa w ruchomym okresie 3 lat. Kryteria i oświadczenie opisują odrębny limit 200 000 EUR wsparcia grantobiorcy w projekcie grantowym z art. 41 ust. 6. Nie należy wybierać jednego limitu i usuwać drugiego. W kryteriach pojawia się też sformułowanie „3 lata kalendarzowe”; dalszy tekst, wzór i regulamin wskazują ruchomy okres.",
+      "status": "wyjasnione",
+      "dzialanie": "Zbadać obie przesłanki dla konkretnej firmy i powiązań; przeliczenie EUR i stan pomocy aktualizować przed umową.",
+      "zrodla": [
+        {
+          "id": "SRC-f764dfc4b0fd",
+          "strona": 8
+        },
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 2
+        },
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 3
+        },
+        {
+          "id": "SRC-66878f78252e",
+          "strona": 3
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-002",
+      "tytul": "Kafelek „indywidualny wynalazca” a formalny odbiorca",
+      "opis": "Kafelek strony nie zastępuje warunków MŚP, rejestracji działalności w Polsce i ukończenia Innovation Coach. Osoba bez spełnienia tych warunków nie może oprzeć kwalifikowalności wyłącznie na kafelku.",
+      "status": "wyjasnione",
+      "dzialanie": "Sprawdzić status podmiotu, nie sam profil wynalazcy.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 2
+        },
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 3
+        },
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 4
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-003",
+      "tytul": "Zakres limitu 10% kosztu doradcy",
+      "opis": "Kryteria i instrukcja wskazują limit 10% grantu dla doradcy. Przewodnik na s. 9 dodatkowy limit 10% wiąże wprost z doradcą pełniącym wcześniej rolę Coacha IC; przykład na s. 10 znów mówi o doradcy ogólnie.",
+      "status": "otwarte-warunkowe",
+      "dzialanie": "W planie zachować ≤10% dla doradcy; jeżeli budżet miałby przekroczyć limit, uzyskać interpretację NCBR. Nie blokuje pustej struktury formularza.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 16
+        },
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 48
+        },
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 56
+        },
+        {
+          "id": "SRC-613d239e96cd",
+          "strona": 9
+        },
+        {
+          "id": "SRC-613d239e96cd",
+          "strona": 10
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-004",
+      "tytul": "Umowa inwestycyjna jako potwierdzenie decyzji inwestora",
+      "opis": "Kryteria, wzór i instrukcja s. 29 dopuszczają umowę inwestycyjną jako przykład dokumentu decyzji. Instrukcja s. 59 zawiera przeciwną uwagę: umowa inwestycyjna nie jest takim dokumentem.",
+      "status": "otwarte-warunkowe",
+      "dzialanie": "Jeżeli źródłem jest inwestor, zgromadzić również uchwałę/decyzję oraz dowody posiadania środków i wyjaśnić z NCBR zakres potrzebnych dokumentów.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 9
+        },
+        {
+          "id": "SRC-7e7d1dbb6220",
+          "strona": 9
+        },
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 29
+        },
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 59
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-005",
+      "tytul": "Format KRS i nieopisane walidacje OSF",
+      "opis": "Wzór drukuje przy KRS „Min. 9 max. 14 cyfr”. Nie zmieniać numeru rejestrowego, aby pasował do opisu. Wzór nie podaje kompletnych słowników innowacji ani metody liczenia spacji.",
+      "status": "do-potwierdzenia-w-osf",
+      "dzialanie": "Użyć danych z rejestru; sprawdzić walidację, słowniki i liczniki w OSF. W plikach pozostawiono sposób liczenia: nieustalony.",
+      "zrodla": [
+        {
+          "id": "SRC-7e7d1dbb6220",
+          "strona": 5
+        },
+        {
+          "id": "SRC-7e7d1dbb6220",
+          "strona": 11
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-006",
+      "tytul": "Podpis zaufany a skrócone przypisy wzorów",
+      "opis": "Formularz, instrukcja i regulamin dopuszczają podpis zaufany. Część przypisów oświadczeń wymienia tylko podpis kwalifikowany lub własnoręczny. Umowa o grant ma osobne reguły podpisu.",
+      "status": "wyjasnione-na-poziomie-formularza",
+      "dzialanie": "Przy załącznikach stosować reguły formularza i aktualne wymagania OSF; jeżeli walidacja odrzuci dany podpis, potwierdzić sposób z NCBR. Zawarcie umowy: pisemnie albo kwalifikowany podpis zgodnie z jej §22.",
+      "zrodla": [
+        {
+          "id": "SRC-7e7d1dbb6220",
+          "strona": 20
+        },
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 57
+        },
+        {
+          "id": "SRC-f764dfc4b0fd",
+          "strona": 9
+        },
+        {
+          "id": "SRC-e819526b1f28",
+          "strona": 2
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-007",
+      "tytul": "Dokładnie 20 000 PLN i infrastruktura w kosztach niekwalifikowalnych",
+      "opis": "Próg ofert opisano jako „powyżej 20 000”, wyjątek jako „poniżej 20 000”. Przewodnik s. 16 zarazem wymienia infrastrukturę możliwą z wkładu i wyłączenie robót infrastrukturalnych z projektu.",
+      "status": "otwarte-warunkowe",
+      "dzialanie": "Dla wydatku równego progowi zaplanować porównania ofert. Przy robotach infrastrukturalnych potwierdzić dopuszczalny zakres przed ujęciem w projekcie.",
+      "zrodla": [
+        {
+          "id": "SRC-1fdf48603cae",
+          "strona": 6
+        },
+        {
+          "id": "SRC-613d239e96cd",
+          "strona": 16
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-008",
+      "tytul": "Skrótowe przykłady powiązań MŚP",
+      "opis": "Schemat instrukcji s. 13–14 upraszcza relacje kapitałowe. Sam łańcuch 40%/70% nie pozwala zawsze wnioskować o pełnej kontroli pierwszej firmy nad ostatnią. Oświadczenie MŚP podaje szczegółowe zasady kontroli i agregacji.",
+      "status": "wyjasnione-metodycznie",
+      "dzialanie": "Analizować udziały, głosy i faktyczną kontrolę; obliczenia według szczegółowej instrukcji oświadczenia, bez mechanicznego kopiowania przykładu.",
+      "zrodla": [
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 13
+        },
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 14
+        },
+        {
+          "id": "SRC-598bad0d8a3d",
+          "strona": 17
+        },
+        {
+          "id": "SRC-598bad0d8a3d",
+          "strona": 19
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-009",
+      "tytul": "FAQ: wkład własny i płynność",
+      "opis": "FAQ Infoday, pytanie 68 na s. 25, sugeruje realizację pierwszego etapu za 90 tys. PLN przy dostępnych 50 tys. PLN bez wskazania źródła brakującego finansowania. Tymczasem odpowiedź 5 na s. 2 opisuje wyłącznie refundację poniesionych kosztów. Sam minimalny wkład nie dowodzi zdolności pokrycia wydatków przed refundacją.",
+      "status": "otwarte-warunkowe",
+      "dzialanie": "Zbudować przepływy pieniężne dla terminów wydatków i refundacji; potwierdzić źródło przejściowego finansowania. Nie zakładać zaliczki ani refundacji przed zapłatą.",
+      "zrodla": [
+        {
+          "id": "SRC-7f179b199393",
+          "strona": 25
+        },
+        {
+          "id": "SRC-7f179b199393",
+          "strona": 2
+        }
+      ],
+      "blokuje_strukture": false
+    }
+  ],
+  "analiza": {
+    "fingerprint_zrodel": "6c22b81afceadef352f8d0017f34a2e920487b86469f1d63f2fedc5afe793a6f",
+    "blokery": [],
+    "liczba_pol": 200,
+    "liczba_sekcji_formularza": 15,
+    "liczba_indeksow_rozdzialow": 17,
+    "liczba_wymagan": 35,
+    "liczba_pol_systemowych": 32,
+    "liczba_instancji_projektowych": 0,
+    "nieodczytane_zrodla": [],
+    "czesciowo_przeczytane_zrodla": [
+      "SRC-1081830b6486",
+      "SRC-7f179b199393",
+      "SRC-df3390093864",
+      "SRC-4f184f1af4b2",
+      "SRC-3749f2ea94a4",
+      "SRC-1b024574191a"
+    ],
+    "zakres": "Opublikowany wzór i dokumentacja; bez zalogowanego OSF. Formularze zbiorcze i specyfikacje Q; rzeczywiste karty i wiersze po ustaleniu projektu. Migracja do definicji generatora; wybrane strony dodatkowych FAQ i prezentacji, bez pełnego przeglądu nowych materiałów pomocniczych.",
+    "otwarte_kwestie": [
+      "ROZ-003",
+      "ROZ-004",
+      "ROZ-005",
+      "ROZ-007",
+      "ROZ-009"
+    ],
+    "zakonczono_at": "2026-09-26T16:51:43.482832+00:00",
+    "liczba_plikow_specyfikacji": 200,
+    "liczba_formularzy": 17,
+    "liczba_szablonow_kart": 2,
+    "liczba_grup": 6,
+    "liczba_kryteriow": 16,
+    "liczba_dokumentow": 19,
+    "zrodla_przejrzane_czesciowo": [
+      "SRC-1081830b6486",
+      "SRC-7f179b199393",
+      "SRC-df3390093864",
+      "SRC-4f184f1af4b2",
+      "SRC-3749f2ea94a4",
+      "SRC-1b024574191a"
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "rozbieznosci": [
+    {
+      "id": "ROZ-001",
+      "tytul": "Dwa limity pomocy — wyjaśnione co do zakresu",
+      "opis": "Strona podaje 200 000 EUR w sekcji Wsparcie i 300 000 EUR w FAQ. Regulamin §3.3 określa 300 000 EUR de minimis dla jednego przedsiębiorstwa w ruchomym okresie 3 lat. Kryteria i oświadczenie opisują odrębny limit 200 000 EUR wsparcia grantobiorcy w projekcie grantowym z art. 41 ust. 6. Nie należy wybierać jednego limitu i usuwać drugiego. W kryteriach pojawia się też sformułowanie „3 lata kalendarzowe”; dalszy tekst, wzór i regulamin wskazują ruchomy okres.",
+      "status": "wyjasnione",
+      "dzialanie": "Zbadać obie przesłanki dla konkretnej firmy i powiązań; przeliczenie EUR i stan pomocy aktualizować przed umową.",
+      "zrodla": [
+        {
+          "id": "SRC-f764dfc4b0fd",
+          "strona": 8
+        },
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 2
+        },
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 3
+        },
+        {
+          "id": "SRC-66878f78252e",
+          "strona": 3
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-002",
+      "tytul": "Kafelek „indywidualny wynalazca” a formalny odbiorca",
+      "opis": "Kafelek strony nie zastępuje warunków MŚP, rejestracji działalności w Polsce i ukończenia Innovation Coach. Osoba bez spełnienia tych warunków nie może oprzeć kwalifikowalności wyłącznie na kafelku.",
+      "status": "wyjasnione",
+      "dzialanie": "Sprawdzić status podmiotu, nie sam profil wynalazcy.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 2
+        },
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 3
+        },
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 4
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-003",
+      "tytul": "Zakres limitu 10% kosztu doradcy",
+      "opis": "Kryteria i instrukcja wskazują limit 10% grantu dla doradcy. Przewodnik na s. 9 dodatkowy limit 10% wiąże wprost z doradcą pełniącym wcześniej rolę Coacha IC; przykład na s. 10 znów mówi o doradcy ogólnie.",
+      "status": "otwarte-warunkowe",
+      "dzialanie": "W planie zachować ≤10% dla doradcy; jeżeli budżet miałby przekroczyć limit, uzyskać interpretację NCBR. Nie blokuje pustej struktury formularza.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 16
+        },
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 48
+        },
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 56
+        },
+        {
+          "id": "SRC-613d239e96cd",
+          "strona": 9
+        },
+        {
+          "id": "SRC-613d239e96cd",
+          "strona": 10
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-004",
+      "tytul": "Umowa inwestycyjna jako potwierdzenie decyzji inwestora",
+      "opis": "Kryteria, wzór i instrukcja s. 29 dopuszczają umowę inwestycyjną jako przykład dokumentu decyzji. Instrukcja s. 59 zawiera przeciwną uwagę: umowa inwestycyjna nie jest takim dokumentem.",
+      "status": "otwarte-warunkowe",
+      "dzialanie": "Jeżeli źródłem jest inwestor, zgromadzić również uchwałę/decyzję oraz dowody posiadania środków i wyjaśnić z NCBR zakres potrzebnych dokumentów.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 9
+        },
+        {
+          "id": "SRC-7e7d1dbb6220",
+          "strona": 9
+        },
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 29
+        },
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 59
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-005",
+      "tytul": "Format KRS i nieopisane walidacje OSF",
+      "opis": "Wzór drukuje przy KRS „Min. 9 max. 14 cyfr”. Nie zmieniać numeru rejestrowego, aby pasował do opisu. Wzór nie podaje kompletnych słowników innowacji ani metody liczenia spacji.",
+      "status": "do-potwierdzenia-w-osf",
+      "dzialanie": "Użyć danych z rejestru; sprawdzić walidację, słowniki i liczniki w OSF. W plikach pozostawiono sposób liczenia: nieustalony.",
+      "zrodla": [
+        {
+          "id": "SRC-7e7d1dbb6220",
+          "strona": 5
+        },
+        {
+          "id": "SRC-7e7d1dbb6220",
+          "strona": 11
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-006",
+      "tytul": "Podpis zaufany a skrócone przypisy wzorów",
+      "opis": "Formularz, instrukcja i regulamin dopuszczają podpis zaufany. Część przypisów oświadczeń wymienia tylko podpis kwalifikowany lub własnoręczny. Umowa o grant ma osobne reguły podpisu.",
+      "status": "wyjasnione-na-poziomie-formularza",
+      "dzialanie": "Przy załącznikach stosować reguły formularza i aktualne wymagania OSF; jeżeli walidacja odrzuci dany podpis, potwierdzić sposób z NCBR. Zawarcie umowy: pisemnie albo kwalifikowany podpis zgodnie z jej §22.",
+      "zrodla": [
+        {
+          "id": "SRC-7e7d1dbb6220",
+          "strona": 20
+        },
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 57
+        },
+        {
+          "id": "SRC-f764dfc4b0fd",
+          "strona": 9
+        },
+        {
+          "id": "SRC-e819526b1f28",
+          "strona": 2
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-007",
+      "tytul": "Dokładnie 20 000 PLN i infrastruktura w kosztach niekwalifikowalnych",
+      "opis": "Próg ofert opisano jako „powyżej 20 000”, wyjątek jako „poniżej 20 000”. Przewodnik s. 16 zarazem wymienia infrastrukturę możliwą z wkładu i wyłączenie robót infrastrukturalnych z projektu.",
+      "status": "otwarte-warunkowe",
+      "dzialanie": "Dla wydatku równego progowi zaplanować porównania ofert. Przy robotach infrastrukturalnych potwierdzić dopuszczalny zakres przed ujęciem w projekcie.",
+      "zrodla": [
+        {
+          "id": "SRC-1fdf48603cae",
+          "strona": 6
+        },
+        {
+          "id": "SRC-613d239e96cd",
+          "strona": 16
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-008",
+      "tytul": "Skrótowe przykłady powiązań MŚP",
+      "opis": "Schemat instrukcji s. 13–14 upraszcza relacje kapitałowe. Sam łańcuch 40%/70% nie pozwala zawsze wnioskować o pełnej kontroli pierwszej firmy nad ostatnią. Oświadczenie MŚP podaje szczegółowe zasady kontroli i agregacji.",
+      "status": "wyjasnione-metodycznie",
+      "dzialanie": "Analizować udziały, głosy i faktyczną kontrolę; obliczenia według szczegółowej instrukcji oświadczenia, bez mechanicznego kopiowania przykładu.",
+      "zrodla": [
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 13
+        },
+        {
+          "id": "SRC-8100831efb32",
+          "strona": 14
+        },
+        {
+          "id": "SRC-598bad0d8a3d",
+          "strona": 17
+        },
+        {
+          "id": "SRC-598bad0d8a3d",
+          "strona": 19
+        }
+      ],
+      "blokuje_strukture": false
+    },
+    {
+      "id": "ROZ-009",
+      "tytul": "FAQ: wkład własny i płynność",
+      "opis": "FAQ Infoday, pytanie 68 na s. 25, sugeruje realizację pierwszego etapu za 90 tys. PLN przy dostępnych 50 tys. PLN bez wskazania źródła brakującego finansowania. Tymczasem odpowiedź 5 na s. 2 opisuje wyłącznie refundację poniesionych kosztów. Sam minimalny wkład nie dowodzi zdolności pokrycia wydatków przed refundacją.",
+      "status": "otwarte-warunkowe",
+      "dzialanie": "Zbudować przepływy pieniężne dla terminów wydatków i refundacji; potwierdzić źródło przejściowego finansowania. Nie zakładać zaliczki ani refundacji przed zapłatą.",
+      "zrodla": [
+        {
+          "id": "SRC-7f179b199393",
+          "strona": 25
+        },
+        {
+          "id": "SRC-7f179b199393",
+          "strona": 2
+        }
+      ],
+      "blokuje_strukture": false
+    }
+  ]
+}

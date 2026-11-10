@@ -1,0 +1,790 @@
+{
+  "schema_version": 1,
+  "nabor_id": "2026-ncbr-innostart-2",
+  "zakres": "Kryteria z lokalnej wersji dokumentacji. Podział pomocniczy oznaczono; brak wag pozostaje null. Oceny JEV dotyczą uzasadnienia w treści, bez przyznawania oficjalnych punktów.",
+  "uwagi": [
+    "Kryteria obligatoryjne nazwano dostępem; nie są automatycznie traktowane jako merytoryczne punktowe ani jako formalne."
+  ],
+  "zasady_laczne": {
+    "maksimum_punktow": 19,
+    "suma_minimow": 12,
+    "wymaga_spelnienia_kazdego_minimum": true,
+    "rozstrzyganie_remisu": [
+      "K-P01",
+      "K-P02",
+      "K-P03",
+      "wczesniejsza-data-zlozenia"
+    ]
+  },
+  "zrodla_sha256": {
+    "SRC-06493a2de3ea": "15baaeeb71f3e7fb111c2842fd9ce71bbbb54255f90f3a77a3a55926ffda8bab",
+    "SRC-f764dfc4b0fd": "69bee401926debc7578696b3c37cd3d0eaedfa4a9210ea5d82dc95b874b22c6a"
+  },
+  "kryteria": [
+    {
+      "id": "K-T01",
+      "nazwa": "Innovation Coach",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Raport rekomendacji zgodny z firmą i zakresem projektu",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 1
+        }
+      ],
+      "rodzaj": "dostep",
+      "etap": "I — obligatoryjne TAK/NIE",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-069",
+        "Q-178"
+      ],
+      "aspekty": [
+        "Raport rekomendacji zgodny z firmą i zakresem projektu"
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "02-1-eligibility"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi. W panelu odczyt deklaracji i wskazań załączników; weryfikacja faktów oraz dokumentów pozostaje odrębnym etapem. Pola wyboru nie wymagają opisu uzasadniającego poza zakresem formularza.",
+      "opis": "Strona 1:\nFundusze Europejskie dla Nowoczesnej Gospodarki\n\n Kryteria wyboru projektów\n\n Działanie FENG.02.20 INNOSTART\n\n w ramach Priorytetu FENG.02 Środowisko sprzyjające innowacjom\n\nKRYTERIA OBLIGATORYJNE OCENIANE W FORMULE TAK/NIE\n\nWnioskodawca musi spełnić wszystkie kryteria oceny TAK/NIE. Zaznaczenie odpowiedzi „NIE” w którymkolwiek z kryteriów obligatoryjnych skutkuje\nodrzuceniem wniosku. Wnioskodawca ma możliwość dwukrotnego uzupełnienia/poprawy wniosku w zakresie spełniania kryterium oceny TAK/NIE\nokreślonego w Regulaminie wyboru projektów Innostart.\n\nLP Nazwa Kryterium (zaznaczenie odpowiedzi „NIE” spowoduje niespełnienie kryterium oraz odrzucenie wniosku). OCENA TAK/NIE\n\n\n Kwalifikowalność podmiotów realizujących projekt. NIE DOT.\n\n\n1. Wnioskodawca jest absolwentem instrumentu Innovation Coach z rekomendacją coacha do dalszego prowadzenia prac B+R Ocena TAK/NIE\n opisanych w raporcie „Rekomendacje dla Przedsiębiorcy\".\n\n Ocenimy, czy została złożona rekomendacja z Innovation Coach, objęta raportem „Rekomendacje dla Przedsiębiorcy\".\n\n Wymagane jest dołączenie do wniosku o wsparcie dokumentu potwierdzającego spełnienie powyższego warunku.\n\n Kryterium otrzyma ocenę „TAK”, jeśli do wniosku dołączono powyższą rekomendację.\n\n2. Wnioskodawca nie prowadził działalności B+R finansowanej ze środków UE przed złożeniem wniosku. Ocena TAK/NIE\n\n Ocenimy, czy wnioskodawca nie prowadził działalności badawczo-rozwojowej (B+R) finansowanej ze środków Unii Europejskiej\n przed złożeniem wniosku.\n\n<a id=\"strona-2\"></a>",
+      "ocena_formularza": {
+        "deklaracje": [
+          "Q-069"
+        ],
+        "dane": [],
+        "zalaczniki": [
+          "Q-178"
+        ]
+      }
+    },
+    {
+      "id": "K-T02",
+      "nazwa": "Brak wcześniejszego B+R finansowanego z UE",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Oświadczenie, historia pomocy z oceną jej celu i źródła",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 2
+        }
+      ],
+      "rodzaj": "dostep",
+      "etap": "I — obligatoryjne TAK/NIE",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-070",
+        "Q-179"
+      ],
+      "aspekty": [
+        "Oświadczenie, historia pomocy z oceną jej celu i źródła"
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "02-1-eligibility"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi. W panelu odczyt deklaracji i wskazań załączników; weryfikacja faktów oraz dokumentów pozostaje odrębnym etapem. Pola wyboru nie wymagają opisu uzasadniającego poza zakresem formularza.",
+      "opis": "Strona 2:\nWymagane jest dołączenie do wniosku o wsparcie oświadczenia o pomocy publicznej lub pomocy de minimis na działalność B+R\n finansowaną ze środków Unii Europejskiej\n\n Zweryfikujemy powyższe oświadczenie w rejestrze SUDOP, w zakresie czy wnioskodawca figuruje jako beneficjent pomocy\n publicznej lub de minimis na działalność B+R.\n\n Kryterium otrzyma ocenę „TAK”, jeśli:\n\n • wnioskodawca nie figuruje w rejestrze SUDOP i złożył oświadczenie, lub\n • wnioskodawca figuruje w rejestrze SUDOP, ale z dostępnych danych wynika, że uzyskane wsparcie:\n ▪ otrzymane na prace B+R nie było finansowane ze środków UE lub\n ▪ nie dotyczyło działalności B+R lub\n ▪ nie miało bezpośredniego związku z prowadzeniem działalności B+R.\n\n W przypadku gdy na podstawie dostępnych danych nie jest możliwe jednoznaczne ustalenie charakteru otrzymanego wsparcia,\n\n wnioskodawca zostanie wezwany do złożenia wyjaśnień lub przedstawienia dodatkowych dokumentów.\n\n 3. Wnioskodawca spełnia warunki formalne do uzyskania pomocy de minimis. Ocena TAK/NIE\n\n Ocenimy, czy Wnioskodawca spełnia warunki formalne do uzyskania pomocy de minimis zgodnie z:\n\n • Rozporządzeniem Ministra Funduszy i Polityki Regionalnej z dnia 13 stycznia 2023 r. w sprawie udzielania pomocy\n finansowej przez Narodowe Centrum Badań i Rozwoju w ramach programu \"Fundusze Europejskie dla Nowoczesnej\n Gospodarki 2021-2027\",\n • Rozporządzeniem Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o\n funkcjonowaniu Unii Europejskiej do pomocy de minimis.\n\n Sprawdzimy m.in. czy całkowita wartość pomocy de minimis (w tym pomocy de minimis w rolnictwie lub rybołówstwie) przyznanej\n przez polskie organy udzielające pomocy jednemu przedsiębiorstwu1 nie przekroczyła 300 000 EURO w okresie trzech lat\n kalendarzowych poprzedzających dzień przyznania Grantu, zgodnie z Rozporządzeniem Komisji (UE) 2023/2831 z dnia 13 grudnia\n 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis.\n\n\n\n\n1 Przez jedno przedsiębiorstwo rozumie się wszystkie podmioty gospodarcze, które są ze sobą powiązane prawnie lub kapitałowo zgodnie z art. 2 ust. 2 Rozporządzenia\n2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis.\n\n<a id=\"strona-3\"></a>",
+      "ocena_formularza": {
+        "deklaracje": [
+          "Q-070"
+        ],
+        "dane": [],
+        "zalaczniki": [
+          "Q-179"
+        ]
+      }
+    },
+    {
+      "id": "K-T03",
+      "nazwa": "Warunki pomocy de minimis",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Jedno przedsiębiorstwo, ruchome 3 lata, limity, oświadczenie i posiadane zaświadczenia",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 2
+        }
+      ],
+      "rodzaj": "dostep",
+      "etap": "I — obligatoryjne TAK/NIE",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-071",
+        "Q-180",
+        "Q-181"
+      ],
+      "aspekty": [
+        "Jedno przedsiębiorstwo, ruchome 3 lata, limity, oświadczenie i posiadane zaświadczenia"
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "02-1-eligibility"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi. W panelu odczyt deklaracji i wskazań załączników; weryfikacja faktów oraz dokumentów pozostaje odrębnym etapem. Pola wyboru nie wymagają opisu uzasadniającego poza zakresem formularza.",
+      "opis": "Strona 2:\nWymagane jest dołączenie do wniosku o wsparcie oświadczenia o pomocy publicznej lub pomocy de minimis na działalność B+R\n finansowaną ze środków Unii Europejskiej\n\n Zweryfikujemy powyższe oświadczenie w rejestrze SUDOP, w zakresie czy wnioskodawca figuruje jako beneficjent pomocy\n publicznej lub de minimis na działalność B+R.\n\n Kryterium otrzyma ocenę „TAK”, jeśli:\n\n • wnioskodawca nie figuruje w rejestrze SUDOP i złożył oświadczenie, lub\n • wnioskodawca figuruje w rejestrze SUDOP, ale z dostępnych danych wynika, że uzyskane wsparcie:\n ▪ otrzymane na prace B+R nie było finansowane ze środków UE lub\n ▪ nie dotyczyło działalności B+R lub\n ▪ nie miało bezpośredniego związku z prowadzeniem działalności B+R.\n\n W przypadku gdy na podstawie dostępnych danych nie jest możliwe jednoznaczne ustalenie charakteru otrzymanego wsparcia,\n\n wnioskodawca zostanie wezwany do złożenia wyjaśnień lub przedstawienia dodatkowych dokumentów.\n\n 3. Wnioskodawca spełnia warunki formalne do uzyskania pomocy de minimis. Ocena TAK/NIE\n\n Ocenimy, czy Wnioskodawca spełnia warunki formalne do uzyskania pomocy de minimis zgodnie z:\n\n • Rozporządzeniem Ministra Funduszy i Polityki Regionalnej z dnia 13 stycznia 2023 r. w sprawie udzielania pomocy\n finansowej przez Narodowe Centrum Badań i Rozwoju w ramach programu \"Fundusze Europejskie dla Nowoczesnej\n Gospodarki 2021-2027\",\n • Rozporządzeniem Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o\n funkcjonowaniu Unii Europejskiej do pomocy de minimis.\n\n Sprawdzimy m.in. czy całkowita wartość pomocy de minimis (w tym pomocy de minimis w rolnictwie lub rybołówstwie) przyznanej\n przez polskie organy udzielające pomocy jednemu przedsiębiorstwu1 nie przekroczyła 300 000 EURO w okresie trzech lat\n kalendarzowych poprzedzających dzień przyznania Grantu, zgodnie z Rozporządzeniem Komisji (UE) 2023/2831 z dnia 13 grudnia\n 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis.\n\n\n\n\n1 Przez jedno przedsiębiorstwo rozumie się wszystkie podmioty gospodarcze, które są ze sobą powiązane prawnie lub kapitałowo zgodnie z art. 2 ust. 2 Rozporządzenia\n2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis.\n\n<a id=\"strona-3\"></a>",
+      "ocena_formularza": {
+        "deklaracje": [
+          "Q-071"
+        ],
+        "dane": [],
+        "zalaczniki": [
+          "Q-180",
+          "Q-181"
+        ]
+      }
+    },
+    {
+      "id": "K-T04",
+      "nazwa": "Miejsce i aktywność działalności",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Aktualny rejestr, adresy PL, brak przesłanek wykluczenia",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 3
+        }
+      ],
+      "rodzaj": "dostep",
+      "etap": "I — obligatoryjne TAK/NIE",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-082",
+        "Q-083",
+        "Q-084",
+        "Q-085",
+        "Q-086",
+        "Q-087",
+        "Q-088"
+      ],
+      "aspekty": [
+        "Aktualny rejestr, adresy PL, brak przesłanek wykluczenia"
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "02-1-eligibility"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi. W panelu odczyt deklaracji i wskazań załączników; weryfikacja faktów oraz dokumentów pozostaje odrębnym etapem. Pola wyboru nie wymagają opisu uzasadniającego poza zakresem formularza.",
+      "opis": "Strona 3:\nDodatkowo\n\n • Zgodnie z art. 41 ust. 6 ustawy wdrożeniowej, maksymalna wartość wsparcia przekazanego jednemu grantobiorcy\n w ramach programu Innostart nie może przekroczyć równowartości 200 000 EURO (do przeliczenia grantu w projekcie\n wyrażonych w EURO na PLN stosuje się średni kurs EURO ogłaszany przez Narodowy Bank Polski, obowiązujący w dniu\n udzielenia pomocy).\n\n Wymagane dokumenty:\n\n 1. Oświadczenie o pomocy de minimis (na podanym wzorze), obejmujące całą pomoc de minimis otrzymaną w okresie trzech\n lat poprzedzających dzień złożenia wniosku (liczonych w sposób ciągły, wstecz od tej daty), w którym wnioskodawca wskazuje\n otrzymaną pomoc albo deklaruje jej nieotrzymanie\n 2. Kopie posiadanych zaświadczeń o pomocy de minimis (oraz pomocy de minimis w rolnictwie lub rybołówstwie). Jeżeli\n Wnioskodawca nie posiada zaświadczeń, dopuszczalne jest wykazanie otrzymanej pomocy de minimis wyłącznie\n w oświadczeniu o pomocy de minimis.\n\n Kryterium otrzyma ocenę „TAK”, jeśli wskazane warunki zostaną spełnione, tj. zostaną złożone poprawnie wypełnione wymagane\n dokumenty oraz nie zostaną przekroczone powyższe limity. Umowa będzie mogła zostać podpisana po weryfikacji i potwierdzeniu\n spełnienia powyższych warunków.\n\n4. Miejsce prowadzenia działalności, aktywność gospodarcza Wnioskodawcy Ocena TAK/NIE\n\n Ocenimy, czy Wnioskodawca:\n\n • prowadzi aktywną działalność gospodarczą na terytorium Rzeczypospolitej Polskiej, potwierdzoną aktualnym (na dzień\n złożenia wniosku w systemie informatycznym) wpisem do odpowiedniego rejestru (CEIDG lub KRS),\n\n • w przypadku przedsiębiorców zarejestrowanych w Krajowym Rejestrze Sądowym (KRS) — adres siedziby musi znajdować\n się na terytorium Rzeczypospolitej Polskiej,\n\n • nie znajduje się w stanie likwidacji, upadłości, zawieszenia działalności lub wykreślenia z rejestru,\n\n • nie figuruje w Krajowym Rejestrze Zadłużonych (KRZ) jako podmiot objęty postępowaniem upadłościowym,\n restrukturyzacyjnym lub egzekucyjnym,\n\n • nie figuruje w Rejestrze Podmiotów Wykluczonych prowadzonym przez Ministra Finansów,\n\n<a id=\"strona-4\"></a>",
+      "ocena_formularza": {
+        "deklaracje": [
+          "Q-082",
+          "Q-083",
+          "Q-084",
+          "Q-085",
+          "Q-086",
+          "Q-087",
+          "Q-088"
+        ],
+        "dane": [],
+        "zalaczniki": []
+      }
+    },
+    {
+      "id": "K-T05",
+      "nazwa": "Status MŚP",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Zatrudnienie i dane finansowe; agregacja relacji oraz oświadczenie",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 4
+        }
+      ],
+      "rodzaj": "dostep",
+      "etap": "I — obligatoryjne TAK/NIE",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-021",
+        "Q-072",
+        "Q-184"
+      ],
+      "aspekty": [
+        "Zatrudnienie i dane finansowe; agregacja relacji oraz oświadczenie"
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "02-1-eligibility",
+        "02-applicant"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi. W panelu odczyt deklaracji i wskazań załączników; weryfikacja faktów oraz dokumentów pozostaje odrębnym etapem. Pola wyboru nie wymagają opisu uzasadniającego poza zakresem formularza.",
+      "opis": "Strona 4:\n• nie figuruje na liście sankcyjnej prowadzonej przez MSWiA.\n\n Ocena będzie dokonywana na podstawie danych z rejestrów publicznych (CEIDG, KRS, KRZ, MSiG) oraz informacji pozyskanych i\n ponownie zweryfikowanych przez NCBR przed podpisaniem Umowy o powierzenie grantu.\n\n Kryterium otrzyma ocenę „TAK”, jeśli wszystkie powyższe warunki zostaną spełnione. Zaznaczenie odpowiedzi „NIE” w\n którymkolwiek z elementów skutkuje odrzuceniem wniosku.\n\n5. Wnioskodawca spełnia warunki MŚP w rozumieniu Definicji MŚP zgodnie z Załącznikiem I do rozporządzenia Komisji (UE) nr Ocena TAK/NIE\n 651/2014 z dnia 17 czerwca 2014 r.\n\n Ocenimy, czy Wnioskodawca spełnia warunki MŚP w rozumieniu Definicji MŚP zgodnie z Załącznikiem I do rozporządzenia Komisji\n (UE) nr 651/2014 z dnia 17 czerwca 2014 r.\n\n Kryterium będzie weryfikowane na podstawie oświadczenia składanego przez Wnioskodawcę.\n\n Dodatkowo, przed podpisaniem umowy o powierzenie grantu NCBR dokonuje ponownej weryfikacji statusu MŚP.\n\n Kryterium otrzyma ocenę „TAK”, jeśli wskazane warunki zostaną spełnione w złożonym oświadczeniu, przy czym Umowa będzie\n mogła zostać podpisana po ponownej weryfikacji i potwierdzeniu spełnienia tego warunku.\n\n6. Projekt nie dotyczy działalności wykluczonych ze wsparcia. Ocena TAK/NIE\n\n Ocenimy, czy projekt nie dotyczy działalności wykluczonych ze wsparcia poprzez przedstawiony we wniosku opis działalności oraz\n cel projektu, wskazane PKD – zweryfikowane w KRS/CEIDG.\n\n Weryfikacja nastąpi poprzez analizę czy działalność, której dotyczy projekt, może być wspierana w ramach poddziałania — zgodnie\n z:\n\n • art. 7 Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1058 z dnia 24 czerwca 2021 r. w sprawie Europejskiego\n Funduszu Rozwoju Regionalnego i Funduszu Spójności,\n • art. 1 Rozporządzenia Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o\n funkcjonowaniu Unii Europejskiej do pomocy de minimis.\n\n\n Kryterium otrzyma ocenę „TAK”, jeśli spełni wymagania wskazane w jego opisie.\n\n<a id=\"strona-5\"></a>",
+      "ocena_formularza": {
+        "deklaracje": [
+          "Q-072"
+        ],
+        "dane": [
+          "Q-021"
+        ],
+        "zalaczniki": [
+          "Q-184"
+        ]
+      }
+    },
+    {
+      "id": "K-T06",
+      "nazwa": "Brak działalności wykluczonych",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Zakres, PKD i koszty kwalifikujące się do wsparcia",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 4
+        }
+      ],
+      "rodzaj": "dostep",
+      "etap": "I — obligatoryjne TAK/NIE",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-073",
+        "Q-074"
+      ],
+      "aspekty": [
+        "Zakres, PKD i koszty kwalifikujące się do wsparcia"
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "02-1-eligibility"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 4:\n• nie figuruje na liście sankcyjnej prowadzonej przez MSWiA.\n\n Ocena będzie dokonywana na podstawie danych z rejestrów publicznych (CEIDG, KRS, KRZ, MSiG) oraz informacji pozyskanych i\n ponownie zweryfikowanych przez NCBR przed podpisaniem Umowy o powierzenie grantu.\n\n Kryterium otrzyma ocenę „TAK”, jeśli wszystkie powyższe warunki zostaną spełnione. Zaznaczenie odpowiedzi „NIE” w\n którymkolwiek z elementów skutkuje odrzuceniem wniosku.\n\n5. Wnioskodawca spełnia warunki MŚP w rozumieniu Definicji MŚP zgodnie z Załącznikiem I do rozporządzenia Komisji (UE) nr Ocena TAK/NIE\n 651/2014 z dnia 17 czerwca 2014 r.\n\n Ocenimy, czy Wnioskodawca spełnia warunki MŚP w rozumieniu Definicji MŚP zgodnie z Załącznikiem I do rozporządzenia Komisji\n (UE) nr 651/2014 z dnia 17 czerwca 2014 r.\n\n Kryterium będzie weryfikowane na podstawie oświadczenia składanego przez Wnioskodawcę.\n\n Dodatkowo, przed podpisaniem umowy o powierzenie grantu NCBR dokonuje ponownej weryfikacji statusu MŚP.\n\n Kryterium otrzyma ocenę „TAK”, jeśli wskazane warunki zostaną spełnione w złożonym oświadczeniu, przy czym Umowa będzie\n mogła zostać podpisana po ponownej weryfikacji i potwierdzeniu spełnienia tego warunku.\n\n6. Projekt nie dotyczy działalności wykluczonych ze wsparcia. Ocena TAK/NIE\n\n Ocenimy, czy projekt nie dotyczy działalności wykluczonych ze wsparcia poprzez przedstawiony we wniosku opis działalności oraz\n cel projektu, wskazane PKD – zweryfikowane w KRS/CEIDG.\n\n Weryfikacja nastąpi poprzez analizę czy działalność, której dotyczy projekt, może być wspierana w ramach poddziałania — zgodnie\n z:\n\n • art. 7 Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1058 z dnia 24 czerwca 2021 r. w sprawie Europejskiego\n Funduszu Rozwoju Regionalnego i Funduszu Spójności,\n • art. 1 Rozporządzenia Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o\n funkcjonowaniu Unii Europejskiej do pomocy de minimis.\n\n\n Kryterium otrzyma ocenę „TAK”, jeśli spełni wymagania wskazane w jego opisie.\n\n<a id=\"strona-5\"></a>"
+    },
+    {
+      "id": "K-T07",
+      "nazwa": "KIS",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Pozycja KIS z wersji na dzień ogłoszenia i uzasadnienie",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 5
+        }
+      ],
+      "rodzaj": "dostep",
+      "etap": "I — obligatoryjne TAK/NIE",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-089"
+      ],
+      "aspekty": [
+        "Pozycja KIS z wersji na dzień ogłoszenia i uzasadnienie"
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "03-objective"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 5:\n7. Projekt wpisuje się w Krajową Inteligentną Specjalizację Ocena TAK/NIE\n\n Ocenimy, czy projekt wpisuje się w Krajową Inteligentną Specjalizację. W ramach oceny kryterium sprawdzimy, czy przedmiot\n projektu wpisuje się w dokument strategiczny pn. „Krajowa Inteligentna Specjalizacja”, stanowiący załącznik do Programu Rozwoju\n Przedsiębiorstw przyjętego przez Radę Ministrów w dniu 8 kwietnia 2014 r. Ocena będzie dokonywana zgodnie z wersją dokumentu\n aktualną na dzień ogłoszenia naboru.\n\n KIS jest dokumentem otwartym, który podlega ciągłej weryfikacji i aktualizacji w oparciu o system monitorowania oraz zmiany\n społeczno-gospodarcze.\n\n Wnioskodawca we wniosku o wsparcie wskazuje, w który zakres tematyczny wpisuje się projekt.\n\n Kryterium otrzyma ocenę „TAK”, jeśli projekt będzie zgodny z wymaganiami określonymi w aktualnej wersji dokumentu KIS.\n\n\n8. Projekt spełnia horyzontalne zasady równości szans i niedyskryminacji Ocena TAK/NIE\n\n Zasada równości szans i niedyskryminacji:\n\n Ocenimy, czy wnioskodawca wykazał we wniosku, że projekt spełnia horyzontalną zasadę równości szans i niedyskryminacji\n (w rozumieniu Wytycznych dotyczących realizacji zasad równościowych w ramach funduszy UE na lata 2021–2027, dalej:\n „Wytycznych”): tj. czy:\n\n • projekt ma pozytywny wpływ na zasadę równości szans i niedyskryminacji ze względu na płeć, rasę lub pochodzenie etniczne,\n religię lub światopogląd, niepełnosprawność, wiek lub orientację seksualną\n • products/usługi projektu:\n ▪ mają pozytywny wpływ, tj. zapewniają dostępność dla osób z niepełnosprawnościami zgodnie ze standardami\n dostępności adekwatnymi do zakresu realizowanego projektu (w tym z koncepcją uniwersalnego projektowania),\n określonymi w Wytycznych,\n lub\n ▪ w uzasadnionych i opisanych we wniosku przypadkach mają neutralny wpływ, tj. wnioskodawca wykazał brak\n możliwości spełnienia standardów dostępności.\n W przypadku produktów i usług projektu wnioskodawca uzasadnia ich pozytywny albo neutralny wpływ, zgodnie z Wytycznymi.\n\n Zasada równości kobiet i mężczyzn:\n\n<a id=\"strona-6\"></a>"
+    },
+    {
+      "id": "K-T08",
+      "nazwa": "Zasady horyzontalne",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Konkretne działania, dostępność i równość kobiet i mężczyzn",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 5
+        }
+      ],
+      "rodzaj": "dostep",
+      "etap": "I — obligatoryjne TAK/NIE",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-075",
+        "Q-076"
+      ],
+      "aspekty": [
+        "Konkretne działania, dostępność i równość kobiet i mężczyzn"
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "02-1-eligibility"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 5:\n7. Projekt wpisuje się w Krajową Inteligentną Specjalizację Ocena TAK/NIE\n\n Ocenimy, czy projekt wpisuje się w Krajową Inteligentną Specjalizację. W ramach oceny kryterium sprawdzimy, czy przedmiot\n projektu wpisuje się w dokument strategiczny pn. „Krajowa Inteligentna Specjalizacja”, stanowiący załącznik do Programu Rozwoju\n Przedsiębiorstw przyjętego przez Radę Ministrów w dniu 8 kwietnia 2014 r. Ocena będzie dokonywana zgodnie z wersją dokumentu\n aktualną na dzień ogłoszenia naboru.\n\n KIS jest dokumentem otwartym, który podlega ciągłej weryfikacji i aktualizacji w oparciu o system monitorowania oraz zmiany\n społeczno-gospodarcze.\n\n Wnioskodawca we wniosku o wsparcie wskazuje, w który zakres tematyczny wpisuje się projekt.\n\n Kryterium otrzyma ocenę „TAK”, jeśli projekt będzie zgodny z wymaganiami określonymi w aktualnej wersji dokumentu KIS.\n\n\n8. Projekt spełnia horyzontalne zasady równości szans i niedyskryminacji Ocena TAK/NIE\n\n Zasada równości szans i niedyskryminacji:\n\n Ocenimy, czy wnioskodawca wykazał we wniosku, że projekt spełnia horyzontalną zasadę równości szans i niedyskryminacji\n (w rozumieniu Wytycznych dotyczących realizacji zasad równościowych w ramach funduszy UE na lata 2021–2027, dalej:\n „Wytycznych”): tj. czy:\n\n • projekt ma pozytywny wpływ na zasadę równości szans i niedyskryminacji ze względu na płeć, rasę lub pochodzenie etniczne,\n religię lub światopogląd, niepełnosprawność, wiek lub orientację seksualną\n • products/usługi projektu:\n ▪ mają pozytywny wpływ, tj. zapewniają dostępność dla osób z niepełnosprawnościami zgodnie ze standardami\n dostępności adekwatnymi do zakresu realizowanego projektu (w tym z koncepcją uniwersalnego projektowania),\n określonymi w Wytycznych,\n lub\n ▪ w uzasadnionych i opisanych we wniosku przypadkach mają neutralny wpływ, tj. wnioskodawca wykazał brak\n możliwości spełnienia standardów dostępności.\n W przypadku produktów i usług projektu wnioskodawca uzasadnia ich pozytywny albo neutralny wpływ, zgodnie z Wytycznymi.\n\n Zasada równości kobiet i mężczyzn:\n\n<a id=\"strona-6\"></a>"
+    },
+    {
+      "id": "K-T09",
+      "nazwa": "Karta Praw Podstawowych",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Każdy wskazany artykuł z uzasadnieniem zgodności/neutralności",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 6
+        }
+      ],
+      "rodzaj": "dostep",
+      "etap": "I — obligatoryjne TAK/NIE",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-077",
+        "Q-078"
+      ],
+      "aspekty": [
+        "Każdy wskazany artykuł z uzasadnieniem zgodności/neutralności"
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "02-1-eligibility"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 6:\nOcenimy, czy wnioskodawca wykazał we wniosku, że projekt spełnia horyzontalną zasadę równości kobiet i mężczyzn, tj. czy:\n\n • projekt ma pozytywny wpływ, tj. przyczynia się do zmniejszania nierówności lub uwzględnia perspektywę równościową,\n lub\n • projekt ma neutralny wpływ, w należycie uzasadnionych i opisanych we wniosku przypadkach, gdy charakter projektu nie\n pozwala na jego oddziaływanie w tym zakresie, zgodnie z Wytycznymi.\n Kryterium otrzyma ocenę „TAK”, jeśli zostaną spełnione wymagania wskazane w opisie kryterium.\n\n9. Projekt jest zgodny z Kartą Praw Podstawowych Ocena TAK/NIE\n\n Ocenimy, czy projekt jest zgodny z Kartą Praw Podstawowych Unii Europejskiej z dnia 26 października 2012 r., w zakresie\n\n wynikającym z charakteru i sposobu realizacji projektu.\n\n Ocena kryterium nastąpi w odniesieniu do art. 1, 3–8, 10, 15, 20–23, 25–28, 30–33 Karty Praw Podstawowych.\n\n Wnioskodawca jest zobowiązany do odniesienia się we wniosku do każdego z powyższych artykułów, poprzez wskazanie:\n\n • w jaki sposób projekt zapewnia zgodność z danym artykułem – w przypadku, gdy zakres artykułu obowiązuje w związku\n\n z projektem,\n • albo wykazanie neutralności – w przypadku, gdy dany artykuł nie ma zastosowania do projektu.\n\n W przypadku gdy charakter projektu wskazuje na możliwy wpływ na inne artykuły Karty niż wymienione powyżej, wnioskodawca\n\n powinien je również uwzględnić w opisie.\n\n Kryterium otrzyma ocenę „TAK”, jeśli projekt spełni wymagania wskazane w opisie kryterium.\n\n<a id=\"strona-7\"></a>"
+    },
+    {
+      "id": "K-T10",
+      "nazwa": "Konwencja o Prawach Osób Niepełnosprawnych",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Każdy wskazany artykuł z uzasadnieniem zgodności/neutralności",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 7
+        }
+      ],
+      "rodzaj": "dostep",
+      "etap": "I — obligatoryjne TAK/NIE",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-079",
+        "Q-080"
+      ],
+      "aspekty": [
+        "Każdy wskazany artykuł z uzasadnieniem zgodności/neutralności"
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "02-1-eligibility"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 7:\n10. Projekt jest zgodny z Konwencją o Prawach Osób Niepełnosprawnych Ocena TAK/NIE\n\n Ocenimy, czy projekt jest zgodny z Konwencją o Prawach Osób Niepełnosprawnych z dnia 13 grudnia 2006 r., w zakresie\n\n wynikającym z charakteru i sposobu realizacji projektu.\n\n Ocena kryterium nastąpi w odniesieniu do art. 2–7 oraz 9, 12, 16, 19–21, 24–30 Konwencji.\n\n Wnioskodawca jest zobowiązany do odniesienia się we wniosku do każdego z powyższych artykułów, poprzez wskazanie:\n\n • w jaki sposób projekt zapewnia zgodność z danym artykułem – w przypadku, gdy zakres artykułu obowiązuje w związku\n\n z projektem,\n • albo wykazanie neutralności – w przypadku, gdy dany artykuł nie ma zastosowania do projektu.\n • W przypadku gdy charakter projektu wskazuje na możliwy wpływ na inne artykuły Konwencji niż wymienione powyżej,\n\n wnioskodawca powinien je również uwzględnić w opisie.\n\n Kryterium otrzyma ocenę „TAK”, jeśli projekt spełni wymagania wskazane w opisie kryterium.\n\n11. Zdolność do finansowej realizacji projektu Ocena TAK/NIE\n\n Ocenimy, czy Wnioskodawca posiada zdolność do zapewnienia finansowania projektu – zarówno ze środków własnych, jak\n i zewnętrznych.\n\n Wnioskodawca musi zapewnić minimalny wkład własny w wysokości 15% budżetu projektu (tj. kwoty grantu oraz wkładu\n własnego).\n\n Przykładowy budżet projektu:\n\n • maksymalna kwota grantu: 320 000 zł,\n • wkład własny grantobiorcy (min. 15%): 56 470,59 zł,\n • całkowity koszt projektu: 376 470,59 zł.\n Podatek VAT w projekcie Innostart jest niekwalifikowalny, co oznacza że Grantobiorca nie będzie mógł pokrywać podatku VAT\n z pomocy udzielonej przez NCBR, ale będzie mógł go pokryć z 15% wkładu prywatnego.\n\n<a id=\"strona-8\"></a>"
+    },
+    {
+      "id": "K-T11",
+      "nazwa": "Zdolność finansowa",
+      "typ": "obligatoryjne",
+      "skala": "TAK/NIE",
+      "minimum": "TAK",
+      "dowod": "Realnie zapewniony wkład i dowody, aktualność dokumentów",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 8
+        }
+      ],
+      "rodzaj": "dostep",
+      "etap": "I — obligatoryjne TAK/NIE",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-081",
+        "Q-182",
+        "Q-183"
+      ],
+      "aspekty": [
+        "Realnie zapewniony wkład i dowody, aktualność dokumentów"
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "02-1-eligibility"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi. W panelu odczyt deklaracji i wskazań załączników; weryfikacja faktów oraz dokumentów pozostaje odrębnym etapem. Pola wyboru nie wymagają opisu uzasadniającego poza zakresem formularza.",
+      "opis": "Strona 8:\nWszystkie wydatki niekwalifikowalne w projekcie będą musiały być pokryte ze środków własnych Grantobiorcy co może stanowić\nkwotę wyższą niż wymagany wkład własny. Przy czym jedynie kwota grantu stanowi wydatek kwalifikowalny (szczegółowy opis\nkwalifikowalności wydatków jest wskazany w Podręczniku Kwalifikowalności Innostart).\n\nFinansowanie ze środków własnych:\n\nWnioskodawca deklaruje pokrycie wkładu prywatnego z własnych zasobów finansowych.\n\n • Wnioskodawca składa oświadczenie, że posiada środki własne do finansowania co najmniej wkładu własnego w projekcie.\n • Ponadto, Wnioskodawca musi potwierdzić posiadanie środków poprzez dokument pochodzący od jednej z następujących\n instytucji: banku, instytucji kredytowej, firmy inwestycyjnej, przedsiębiorstwa zbiorowego inwestowania, oddziału takiego\n podmiotu, spółdzielczej kasy oszczędnościowo-kredytowej.\n\nZ dokumentu musi wynikać:\n\n • fakt dysponowania przez Wnioskodawcę środkami pieniężnymi na rachunkach bankowych lub lokatach lub rachunkach\n pieniężnych lub fakt dysponowania przez Wnioskodawcę płynnymi instrumentami finansowymi (np. akcjami notowanymi\n na GPW, jednostkami funduszy inwestycyjnych).\n\nDokumenty muszą być datowane nie wcześniej niż 3 miesiące przed datą złożenia Wniosku.\n\nJeśli od daty złożenia wniosku do daty podpisania umowy grantowej upłynęło więcej niż 3 miesiące, Wnioskodawca zobowiązany\njest do ponownego przedstawienia aktualnego dokumentu potwierdzającego posiadanie wkładu własnego.\n\nFinansowanie zewnętrzne:\n\n • Kredyt bankowy: wymagane jest przedstawienie promesy kredytowej opartej na pozytywnej ocenie zdolności kredytowej\n lub umowy kredytowej (jeśli została już zawarta).\n • Pożyczka: wymagane są dokumenty potwierdzające wolę pożyczkodawcy (np. umowa warunkowa lub umowa pożyczki)\n oraz dokumenty finansowe pożyczkodawcy:\n\n ▪ wyciąg bankowy i sprawozdanie finansowe za ostatni rok,\n ▪ potwierdzenie faktu dysponowania przez Pożyczkodawcę środkami pieniężnymi lub płynnymi instrumentami\n finansowymi,\n\n<a id=\"strona-9\"></a>",
+      "ocena_formularza": {
+        "deklaracje": [
+          "Q-081"
+        ],
+        "dane": [],
+        "zalaczniki": [
+          "Q-182",
+          "Q-183"
+        ]
+      }
+    },
+    {
+      "id": "K-P01",
+      "nazwa": "Istota projektu",
+      "typ": "punktowe",
+      "skala": "0–5",
+      "minimum": "≥3",
+      "dowod": "Cel powiązany z IC/KIS, innowacja co najmniej w firmie, realne B+R, zadania PRZ/PRO, kamienie i ryzyka. Wysoka ocena wymaga uzasadnienia i spójności całego planu.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 10
+        },
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 11
+        },
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 12
+        }
+      ],
+      "rodzaj": "merytoryczne",
+      "etap": "II — punktowe",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-089",
+        "Q-090",
+        "Q-091",
+        "Q-092",
+        "Q-093",
+        "Q-094",
+        "Q-095",
+        "Q-096",
+        "Q-097",
+        "Q-098",
+        "Q-099",
+        "Q-100",
+        "Q-101",
+        "Q-102",
+        "Q-103",
+        "Q-104",
+        "Q-105",
+        "Q-106",
+        "Q-107"
+      ],
+      "aspekty": [
+        "Cel projektu jest określony jednoznacznie i powiązany z problemem badawczym.",
+        "Opis wyjaśnia, na czym polega innowacja w przedsiębiorstwie.",
+        "Plan prac rozróżnia zadania badawcze i rozwojowe oraz ich rezultaty.",
+        "Kamienie milowe mają możliwe do weryfikacji warunki osiągnięcia.",
+        "Opis identyfikuje ryzyka realizacji i sposób postępowania."
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "03-objective",
+        "04-tasks"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 10:\nKRYTERIA OCENY PUNKTOWEJ\n\n Wniosek zostaje oceniony pozytywnie wyłącznie w przypadku uzyskania minimalnej wymaganej liczby punktów w każdym kryterium punktowym, z\n wyjątkiem Kryterium nr 4 „Doradca w projekcie” (Kryterium niewymagane).\n\n Nie wystarczy, że np. Kryterium „Istota projektu” otrzyma maksymalną liczbę punktów, jeśli „Potencjał projektu” uzyska ocenę poniżej wymaganego\n progu.\n\n Wnioskodawca ma możliwość dwukrotnego uzupełnienia/poprawy wniosku w zakresie spełniania kryterium oceny punktowanej określonej w\n Regulaminie wyboru projektów Innostart.\n\n 1 Istota projektu. W tym kryterium oceniane jest, czy projekt badawczo-rozwojowy (B+R) jest dobrze zaplanowany, jasno opisany i 0-5\n możliwy do realizacji.\n\n Ocenimy:\n\n 1) Cel projektu B+R.\n a) Cel projektu powinien wynikać z rekomendacji Innovation Coacha, przy czym nie jest wymagane pełne\n odzwierciedlenie zakresu rekomendacji.2\n b) Zgodność projektu z celami projektu Innostart3 oraz KIS.\n c) Jasne określenie celu projektu (co projekt ma osiągnąć).\n d) Czy zakładany rezultat projektu stanowi innowację produktową lub/i procesową co najmniej na poziomie\n przedsiębiorstwa:\n - Innowacja produktowa – nowy lub znacząco ulepszony produkt/usługa.\n - Innowacja procesowa – nowa lub ulepszona metoda produkcji lub dostawy.\n\n\n2 Projekt może obejmować wybrany element lub zakres wskazany w rekomendacji, adekwatny do skali projektu, pod warunkiem że wykazuje z nią rzeczywiste powiązanie.\nPowiązanie to powinno dotyczyć co najmniej jednego z poniższych obszarów: problemu do rozwiązania, obszaru technologicznego, kierunku rozwoju działalności\nbadawczo‑rozwojowej. Wnioskodawca powinien jasno wykazać, że projekt: jest wynikiem pracy z Innovation Coachem i otrzymanych rekomendacji,\nrozwija lub uszczegóławia wybrany zakres rekomendacji. Z zastrzeżeniem, że rezultat projektu powinien zakończyć się wprowadzeniem innowacji produktowej/procesowej co\nnajmniej na poziomie przedsiębiorstwa.\n3 Celami Innostart są:\n ➢ pobudzenie działalności badawczej: zwiększenie liczby projektów B+R poprzez wsparcie publiczne dla przedsiębiorstw z sektora MŚP rozpoczynających działalność\n B+R kontynuacja najlepszych projektów Innovation Coach,\n ➢ zdobycie doświadczenia: przedsiębiorcy będą mieli możliwość zdobycia doświadczenia przy prowadzeniu swojego pierwszego projektu B+R,\n ➢ zwiększenie liczby potencjalnych do skomercjalizowania wyników prac B+R przyczyni się do wzrostu konkurencyjności rodzimej gospodarki.\n\n<a id=\"strona-11\"></a>\n\nStrona 11:\n2) Zakres prac B+R\n a) Podział projektu na konkretne zadania wraz z co najmniej jednym mierzalnym kamieniem milowym dla każdego\n zadania, przy czym dla każdego zadania należy również zidentyfikować kluczowe ryzyka oraz sposób ich\n zarządzania,\n b) Realność projektu – czy zaplanowany czas realizacji jest wystarczający do osiągnięcia celu,\n c) Prawidłowe przypisanie rodzaju prac do poszczególnych zadań (badania przemysłowe i prace rozwojowe albo\n prace rozwojowe)4,\n d) Adekwatność zakresu prac – czy zaplanowane działania pozwalają na osiągnięcie kamieni milowych.\n\n Projekt może otrzymać 0 pkt albo od 1 do 5 pkt. Do pozytywnej oceny projektu w tym kryterium konieczne jest uzyskanie\n minimum 3 pkt.\n\n 0 pkt – niedostateczny poziom\n\n Projekt nie zawiera podstawowych informacji. Brak informacji pozwalających ocenić projekt B+R. Projekt nie wykazuje innowacji i\n nie wskazuje na prowadzenie prac B+R. Cel projektu nie wynika z rekomendacji Innovation Coach lub nie został określony, brak\n podziału na zadania zakończone co najmniej jednym mierzalnym kamieniem milowym, brak określenia ryzyk, błędne przypisanie\n rodzaju prac lub opis jest niespójny i uniemożliwia ocenę wykonalności.\n\n 1 pkt – bardzo niski poziom\n\n Projekt nie zawiera pełnych informacji. Informacje są szczątkowe i niespójne. Cel jest jedynie zarysowany i niepowiązany z\n rekomendacją Innovation Coach. Innowacyjność ma charakter deklaratywny. Zakres prac jest ogólny, a co najmniej jeden kamień\n milowy mierzalny nie został określony. Ryzyka nie zostały określone i nie wskazano czynności zaradczych\n\n 2 pkt – niski poziom\n Projekt zawiera częściowe informacje. Nie wykazano powiązania celu projektu z problemem i obszarem technologicznym\n wynikającym z rekomendacji Innovation Coach. Innowacyjność lub zgodność z Innostart opisano ogólnie. Ryzyka zostały określone\n jednak nie wskazano czynności zaradczych.\n\n Brak spełnienia co najmniej jednego z elementów kryterium np. brak celu, brak innowacji, brak wskazania na prowadzenie prac\n B+R, brak podziału na zadania, brak mierzalnego kamienia milowego dla każdego zadania, brak ryzyk dla kamieni milowych,\n\n\n4 Uwaga – w ramach projektu nie mogą być dofinansowane prace, które nie mają charakteru badań przemysłowych lub prac rozwojowych (w szczególności badania\npodstawowe, prace rutynowe niezwiązane z pracami badawczo-rozwojowymi, prace przedwdrożeniowe, wdrożeniowe/ inwestycyjne)\n\n<a id=\"strona-12\"></a>\n\nStrona 12:\nbłędne przypisanie prac lub nieadekwatny zakres zadań uniemożliwia przyznanie więcej niż 2 pkt.\n\n\n 3 pkt – poziom wystarczający\n Projekt spełnia kryterium w minimalnym stopniu. Cel projektu jest jasno określony, wynika z rekomendacji Innovation Coach i jest\n zgodny z celami projektu Innostart. Rezultat projektu stanowi innowację co najmniej na poziomie przedsiębiorstwa. Projekt\n obejmuje podział na konkretne zadania, mierzalne kamienie milowe, zdefiniowano podstawowe ryzyka wraz ze sposobem ich\n zarządzania, prawidłowe przypisanie rodzaju prac oraz adekwatny i realny zakres działań.\n\n 4 pkt – dobry poziom\n Projekt spełnia kryterium, a opis jest spójny i dobrze przygotowany. Cel jest jasno uzasadniony i wynika z rekomendacji Innovation\n Coach i jest zgodny z celami projektu Innostart. Zakres prac jest logicznie uporządkowany, kamienie milowe są mierzalne i dobrze\n opisane, zidentyfikowano i opisano ryzyka wraz ze sposobem ich zarządzania, prawidłowe przypisanie rodzaju prac oraz adekwatny\n i realny zakres działań.\n\n 5 pkt – bardzo dobry poziom\n Projekt spełnia kryterium, a opis jest spójny, szczegółowy i bardzo dobrze przygotowany. Cel jest precyzyjny, mierzalny, wynika z\n rekomendacji Innovation Coach i jest zgodny z celami projektu Innostart. Rezultat projektu stanowi innowację produktową lub\n procesową, a projekt wykazuje potencjał do innowacji na poziomie rynku lub branży, a nie tylko przedsiębiorstwa. Zakres prac jest\n logicznie uporządkowany, kamienie milowe są mierzalne, weryfikowalne i dobrze opisane, zidentyfikowano i opisano ryzyka wraz ze\n sposobem ich zarządzania, rodzaj prac i zakres działań są dopracowane, logiczne i nie zawierają braków ani sprzeczności.\n\n2 Potencjał projektu. Skala oceny: 0–5 punktów. 0-5\n\n Ocenimy, czy:\n\n 1) projekt odpowiada na konkretną potrzebę (problem),\n 2) istnieje potencjalny odbiorca rozwiązania (np. klient, firma, instytucja),\n 3) rozwiązanie ma przewagę lub różni się od istniejących rozwiązań (lub czy stanowi nowe rozwiązanie),\n 4) rezultat projektu może zostać wykorzystany w praktyce (np. wdrożony lub dalej rozwijany po zakończeniu prac)?\n\n Projekt może otrzymać 0 pkt albo od 1 do 5 pkt. Do pozytywnej oceny projektu w tym kryterium konieczne jest uzyskanie\n minimum 3 pkt.\n\n 0 pkt – niedostateczny poziom\n\n<a id=\"strona-13\"></a>"
+    },
+    {
+      "id": "K-P02",
+      "nazwa": "Potencjał projektu",
+      "typ": "punktowe",
+      "skala": "0–5",
+      "minimum": "≥3",
+      "dowod": "Potrzeba, odbiorca, różnica/przewaga, praktyczne wykorzystanie. Na 5 pkt: mocne uzasadnienie, konkretne korzyści/mierniki i dowody rozpoznania potrzeb, np. rzeczywiste rozmowy.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 13
+        }
+      ],
+      "rodzaj": "merytoryczne",
+      "etap": "II — punktowe",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-108",
+        "Q-109",
+        "Q-110",
+        "Q-111"
+      ],
+      "aspekty": [
+        "Opis wskazuje konkretny problem lub potrzebę odbiorców.",
+        "Odbiorcy rozwiązania są określeni i ich potrzeba jest uzasadniona.",
+        "Przewaga jest porównana z dostępnymi rozwiązaniami.",
+        "Przedstawiono praktyczne wykorzystanie rezultatów."
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "05-project-potential"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 13:\nBrak informacji pozwalających ocenić potencjał wykorzystania rezultatu projektu. Nie wskazano odbiorcy ani potrzeby, brak\n odniesienia do istniejących rozwiązań, brak informacji o możliwości wykorzystania rezultatu.\n\n 1 pkt – bardzo niski poziom\n\n Informacje są szczątkowe i niespójne. Wskazano ogólnie problem lub odbiorcę, ale bez uzasadnienia. Brak odniesienia do\n istniejących rozwiązań lub możliwości wykorzystania rezultatu.\n\n 2 pkt – niski poziom\n\n Projekt zawiera częściowe informacje: wskazano problem lub odbiorcę, odniesiono się w ograniczonym zakresie do innych\n rozwiązań lub różnic, wskazano możliwość wykorzystania rezultatu, ale w sposób ogólny. Opis zawiera istotne braki lub jest mało\n przekonujący.\n\n 3 pkt – poziom wystarczający\n\n Spełnione są wszystkie podstawowe warunki: określono odbiorcę lub potrzebę, wskazano, czym rozwiązanie różni się od\n istniejących, wykazano, że rezultat projektu może zostać wykorzystany w praktyce (np. wdrożony lub użyty przez odbiorcę). Opis\n jest spójny i umożliwia ocenę, bez konieczności przedstawiania szczegółowych analiz rynkowych lub finansowych.\n\n 4 pkt – dobry poziom\n\n Projekt spełnia kryterium w dobrym stopniu: jasno określono odbiorcę i potrzebę w odniesieniu do potencjalnych odbiorców.\n Wskazano różnice względem istniejących rozwiązań oraz dobrze je uzasadniono. Sposób wykorzystania rezultatu projektu opisano\n konkretnie i wiarygodnie oraz zarysowano możliwości wejścia na rynek. Opis jest logiczny i zawiera wystarczające uzasadnienie.\n\n 5 pkt – bardzo dobry poziom\n\n Projekt spełnia kryterium w bardzo wysokim stopniu: precyzyjnie określono odbiorcę i potrzebę i wskazano na przeprowadzenie\n wstępnych rozmów z odbiorcami wskazującymi na ich zapotrzebowanie. Wskazano precyzyjne różnice (tj. wskazując m.in. wartości\n parametrów) rozwiązania względem istniejących. Jasno i realistycznie opisano sposób wykorzystania rezultatu projektu, szanse\n i ryzyka wejścia na rynek. Opis jest spójny, konkretny i przekonujący.\n\n3 Potencjał Wnioskodawcy, zespół projektowy. (Skala oceny: 0–5 punktów) 0-5\n\n<a id=\"strona-14\"></a>"
+    },
+    {
+      "id": "K-P03",
+      "nazwa": "Potencjał Wnioskodawcy, zespół projektowy",
+      "typ": "punktowe",
+      "skala": "0–5",
+      "minimum": "≥3",
+      "dowod": "Kompetencje osób, zarządzanie, zasoby dobrane do zadań i dostępna infrastruktura; doświadczenie potwierdzone przykładami.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 14
+        },
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 15
+        }
+      ],
+      "rodzaj": "merytoryczne",
+      "etap": "II — punktowe",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-128",
+        "Q-129",
+        "Q-130",
+        "Q-131",
+        "Q-146"
+      ],
+      "aspekty": [
+        "Opis wiąże kompetencje osób z zadaniami projektu.",
+        "Opis określa sposób zarządzania pracami.",
+        "Wskazano zasoby i infrastrukturę potrzebne do wykonania zadań."
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "07-applicant-potential",
+        "08-team"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 14:\nOcenimy, czy osoba realizująca projekt oraz zaplanowane zasoby (kadrowe, techniczne i finansowe) są wystarczające do\n skutecznego przeprowadzenia pierwszego projektu badawczo-rozwojowego.\n\n 1. Kompetencje people/osób realizujących projekt - Czy osoby realizujące projekt posiadają wiedzę techniczną, branżową lub\n organizacyjną, która pozwala na realizację projektu?\n 2. Zarządzanie projektem - Czy osoba prowadząca projekt wykazuje zdolność do realizacji projektu (np. poprzez\n doświadczenia zawodowe, edukację lub inne aktywności)?5\n 3. Zasoby techniczne i infrastruktura - Czy wnioskodawca posiada lub planuje pozyskać sprzęt, oprogramowanie lub dostęp\n do infrastruktury potrzebnej do realizacji projektu?\n 4. Dopasowanie zasobów do zadań - Czy zaplanowane zasoby są adekwatne do zakresu prac?\n\n Projekt może otrzymać 0 pkt albo od 1 do 5 pkt. Do pozytywnej oceny projektu w tym kryterium konieczne jest uzyskanie\n minimum 3 pkt.\n\n 0 pkt – niedostateczny poziom\n Brak informacji pozwalających ocenić zdolność realizacji projektu. Nie wskazano kompetencji osoby realizującej projekt lub\n zasobów, nie wykazano możliwości realizacji projektu.\n\n 1 pkt – bardzo niski poziom\n Informacje są szczątkowe i niespójne. Wskazano osobę realizującą projekt, ale bez opisu kompetencji. Brak lub bardzo ogólny opis\n zasobów, brak podstaw do oceny zdolności realizacji projektu.\n\n 2 pkt – niski poziom\n Projekt zawiera częściowe informacje, ale nie spełnia kryterium. Kompetencje opisane ogólnie lub bez powiązania z projektem,\n brak wykazania zdolności do jego realizacji. Zasoby nie są w pełni dopasowane do zakresu prac lub ich dostępność jest niepewna.\n Ocena maks. 2 pkt w przypadku braku adekwatnych kompetencji lub zasobów.\n\n 3 pkt – poziom wystarczający\n Projekt spełnia kryterium. Projekt jest dobrze przygotowany i wiarygodny. Kompetencje są jasno opisane i powiązane z projektem.\n\n5 W przypadku zaangażowania w realizację projektu osoby, która pełniła funkcję Coacha w instrumencie Innovation Coach, łączne koszty jej wynagrodzenia\nkwalifikowanego nie mogą przekroczyć 10% wartości przyznanego Grantu.\n\n<a id=\"strona-15\"></a>\n\nStrona 15:\nZasoby ludzkie i materialne niezbędne do realizacji projektu są adekwatne do prowadzonych prac i przypisane do zadań co\n najmniej w sposób ogólny. Osoba realizująca projekt posiada kompetencje pozwalające na jego realizację, wykazano zdolność do\n realizacji projektu, a zasoby są adekwatne do zakresu prac lub przewidziano ich pozyskanie. Zapewniono dostęp do niezbędnej\n infrastruktury.\n\n 4 pkt – dobry poziom\n Projekt jest dobrze przygotowany i wiarygodny. Kompetencje są jasno opisane i powiązane z projektem. Część zespołu posiada\n doświadczenie adekwatne do zakresu planowanych prac, w szczególności w realizacji projektów B+R, wdrażaniu nowych\n produktów, usług lub technologii albo w działalności naukowo-badawczej. Zasoby ludzkie i materialne niezbędne do realizacji\n projektu są adekwatne do prowadzonych prac oraz są dobrze dopasowane do zadań, a sposób zapewnienia realizacji projektu jest\n spójny.\n\n 5 pkt – bardzo dobry poziom\n Projekt jest kompletny i przekonujący. Kompetencje są wyraźnie dopasowane do zakresu prac. Kierownik projektu/kierownik B+R\n oraz członkowie zespołu posiadają udokumentowane doświadczenie w realizacji projektów B+R, wdrożeniach technologii,\n komercjalizacji wyników prac B+R lub innych przedsięwzięciach o zbliżonym charakterze i stopniu złożoności. Kompetencje zespołu\n zostały potwierdzone konkretnymi osiągnięciami, takimi jak: zrealizowane projekty B+R, komercjalizacja, patenty, publikacje\n branżowe lub inne osiągnięcia istotne dla zakresu projektu. Zasoby ludzkie i materialne niezbędne do realizacji projektu są\n adekwatne do prowadzonych prac oraz są jednoznaczne opisane i wskazane w zadaniach.\n\n4. Doradca w projekcie (maks. 1 pkt) 0-1\n Jeśli w projekcie przewidziano zaangażowanie doradcy z wiedzą ekspercką, który wnosi istotne i adekwatne kompetencje do\n realizacji projektu badawczo-rozwojowego, możliwe jest przyznanie 1 pkt. Kompetencje doradcy rozumiane są jako wiedza\n i doświadczenie m.in. w zakresie wdrażania technologii B+R, ochrony własności intelektualnej (IP), współpracy z jednostkami\n naukowymi, znajomości branży lub zarządzania projektami technologicznymi.\n\n 0 pkt – brak spełnienia warunku\n Nie wykazano udziału doradcy lub brak informacji pozwalających ocenić jego kompetencje i rolę w projekcie. Nie wskazano\n konkretnej osoby lub przedstawiono jedynie ogólną deklarację planowanego zatrudnienia.\n\n 1 pkt – spełnienie warunku\n Wskazano doradcę z imienia i nazwiska wraz z opisem jego kompetencji i roli w projekcie, a zakres jego kompetencji jest istotny dla\n\n<a id=\"strona-16\"></a>"
+    },
+    {
+      "id": "K-P04",
+      "nazwa": "Doradca w projekcie",
+      "typ": "punktowe",
+      "skala": "0–1",
+      "minimum": "brak; opcjonalne",
+      "dowod": "1 pkt za wskazanego doradcę o istotnych kompetencjach, z konkretną rolą i dwustronną umową oraz poprawnym ujęciem w HRF.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 15
+        },
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 16
+        }
+      ],
+      "rodzaj": "merytoryczne",
+      "etap": "II — punktowe",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-158"
+      ],
+      "aspekty": [
+        "Rola doradcy i jego doświadczenie odpowiadają potrzebom projektu.",
+        "Wskazano podstawę zaangażowania doradcy i dokument umowy."
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "09-advisor"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 15:\nZasoby ludzkie i materialne niezbędne do realizacji projektu są adekwatne do prowadzonych prac i przypisane do zadań co\n najmniej w sposób ogólny. Osoba realizująca projekt posiada kompetencje pozwalające na jego realizację, wykazano zdolność do\n realizacji projektu, a zasoby są adekwatne do zakresu prac lub przewidziano ich pozyskanie. Zapewniono dostęp do niezbędnej\n infrastruktury.\n\n 4 pkt – dobry poziom\n Projekt jest dobrze przygotowany i wiarygodny. Kompetencje są jasno opisane i powiązane z projektem. Część zespołu posiada\n doświadczenie adekwatne do zakresu planowanych prac, w szczególności w realizacji projektów B+R, wdrażaniu nowych\n produktów, usług lub technologii albo w działalności naukowo-badawczej. Zasoby ludzkie i materialne niezbędne do realizacji\n projektu są adekwatne do prowadzonych prac oraz są dobrze dopasowane do zadań, a sposób zapewnienia realizacji projektu jest\n spójny.\n\n 5 pkt – bardzo dobry poziom\n Projekt jest kompletny i przekonujący. Kompetencje są wyraźnie dopasowane do zakresu prac. Kierownik projektu/kierownik B+R\n oraz członkowie zespołu posiadają udokumentowane doświadczenie w realizacji projektów B+R, wdrożeniach technologii,\n komercjalizacji wyników prac B+R lub innych przedsięwzięciach o zbliżonym charakterze i stopniu złożoności. Kompetencje zespołu\n zostały potwierdzone konkretnymi osiągnięciami, takimi jak: zrealizowane projekty B+R, komercjalizacja, patenty, publikacje\n branżowe lub inne osiągnięcia istotne dla zakresu projektu. Zasoby ludzkie i materialne niezbędne do realizacji projektu są\n adekwatne do prowadzonych prac oraz są jednoznaczne opisane i wskazane w zadaniach.\n\n4. Doradca w projekcie (maks. 1 pkt) 0-1\n Jeśli w projekcie przewidziano zaangażowanie doradcy z wiedzą ekspercką, który wnosi istotne i adekwatne kompetencje do\n realizacji projektu badawczo-rozwojowego, możliwe jest przyznanie 1 pkt. Kompetencje doradcy rozumiane są jako wiedza\n i doświadczenie m.in. w zakresie wdrażania technologii B+R, ochrony własności intelektualnej (IP), współpracy z jednostkami\n naukowymi, znajomości branży lub zarządzania projektami technologicznymi.\n\n 0 pkt – brak spełnienia warunku\n Nie wykazano udziału doradcy lub brak informacji pozwalających ocenić jego kompetencje i rolę w projekcie. Nie wskazano\n konkretnej osoby lub przedstawiono jedynie ogólną deklarację planowanego zatrudnienia.\n\n 1 pkt – spełnienie warunku\n Wskazano doradcę z imienia i nazwiska wraz z opisem jego kompetencji i roli w projekcie, a zakres jego kompetencji jest istotny dla\n\n<a id=\"strona-16\"></a>\n\nStrona 16:\nrealizacji projektu. Doradca został ujęty w harmonogramie rzeczowo-finansowym w ramach podwykonawstwa, a współpraca\n została potwierdzona (np. umową, w tym warunkową).\n\n Uwaga:\n\n • nie dopuszcza się ogólnego wskazania planowanego zatrudnienia doradcy bez jego identyfikacji,\n • w Przewodniku kwalifikowalności ograniczono poziom wynagrodzenia doradcy. Koszty doradcy w projekcie mogą stanowić\n max. 10% wartości Grantu.\n\n5. Harmonogram rzeczowo – finansowy 0-3\n\n Ocenimy, czy:\n\n • poszczególne pozycje w harmonogramie są kwalifikowalne do wsparcia zgodnie z katalogiem określonym w Przewodniku\n kwalifikowalności;\n • poszczególne osoby wykazane w zespole projektowym zostały ujęte w harmonogramie odrębnie dla każdego stanowiska;\n • wydatki są niezbędne do realizacji projektu, bezpośrednio związane z zaplanowanymi zadaniami oraz adekwatne do\n zakresu i celu projektu;\n • wysokość poszczególnych wydatków została określona na podstawie wiarygodnych i możliwych do zweryfikowania źródeł\n informacji, adekwatnych do rodzaju wydatku (np. aktualne oferty rynkowe, cenniki, raporty wynagrodzeń, dane\n historyczne, rozeznanie rynku, informacje od dostawców usług lub produktów). Wnioskodawca wskazał źródła stanowiące\n podstawę określenia wartości poszczególnych wydatków.\n • wnioskodawca wykazał konieczność poniesienia poszczególnych wydatków oraz ich związek z realizacją projektu;\n • wnioskowana kwota dofinansowania oraz wydatki są zgodne z limitami określonymi w Przewodniku kwalifikowalności\n wydatków, w szczególności dotyczącymi podwykonawstwa oraz maksymalnej wartości grantu;\n • harmonogram rzeczowo-finansowy został rozbity na poszczególne pozycje budżetowe, a każda pozycja została\n przyporządkowana do właściwej kategorii wydatków.\n\n Projekt może otrzymać 0 pkt albo 3 pkt. Do pozytywnej oceny projektu w tym kryterium konieczne jest uzyskanie 3 pkt.\n\n\n 0 pkt – kryterium niespełnione\n\n Co najmniej jedna z poniższych przesłanek występuje:\n\n<a id=\"strona-17\"></a>"
+    },
+    {
+      "id": "K-P05",
+      "nazwa": "Harmonogram rzeczowo-finansowy",
+      "typ": "punktowe",
+      "skala": "0 albo 3",
+      "minimum": "3",
+      "dowod": "Wszystkie warunki HRF spełnione łącznie: kompletność, kwalifikowalność, limity, kategorie, people/stanowiska, spójność i źródła wyceny.",
+      "zrodla": [
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 16
+        },
+        {
+          "id": "SRC-06493a2de3ea",
+          "strona": 17
+        }
+      ],
+      "rodzaj": "merytoryczne",
+      "etap": "II — punktowe",
+      "klasyfikacja": "porządkowa; nazwa etapu i sposób oceny ze źródła",
+      "pola": [
+        "Q-163",
+        "Q-164",
+        "Q-165",
+        "Q-166",
+        "Q-167",
+        "Q-168",
+        "Q-169",
+        "Q-170",
+        "Q-171",
+        "Q-172",
+        "Q-173",
+        "Q-174",
+        "Q-175",
+        "Q-176",
+        "Q-177",
+        "Q-178",
+        "Q-103"
+      ],
+      "aspekty": [
+        "Pozycje harmonogramu i koszty są powiązane z zadaniami.",
+        "Uzasadnienia kosztów podają sposób oszacowania i podstawę ceny."
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "rozdzialy": [
+        "04-tasks",
+        "10-hrf",
+        "11-attachments"
+      ],
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 16:\nrealizacji projektu. Doradca został ujęty w harmonogramie rzeczowo-finansowym w ramach podwykonawstwa, a współpraca\n została potwierdzona (np. umową, w tym warunkową).\n\n Uwaga:\n\n • nie dopuszcza się ogólnego wskazania planowanego zatrudnienia doradcy bez jego identyfikacji,\n • w Przewodniku kwalifikowalności ograniczono poziom wynagrodzenia doradcy. Koszty doradcy w projekcie mogą stanowić\n max. 10% wartości Grantu.\n\n5. Harmonogram rzeczowo – finansowy 0-3\n\n Ocenimy, czy:\n\n • poszczególne pozycje w harmonogramie są kwalifikowalne do wsparcia zgodnie z katalogiem określonym w Przewodniku\n kwalifikowalności;\n • poszczególne osoby wykazane w zespole projektowym zostały ujęte w harmonogramie odrębnie dla każdego stanowiska;\n • wydatki są niezbędne do realizacji projektu, bezpośrednio związane z zaplanowanymi zadaniami oraz adekwatne do\n zakresu i celu projektu;\n • wysokość poszczególnych wydatków została określona na podstawie wiarygodnych i możliwych do zweryfikowania źródeł\n informacji, adekwatnych do rodzaju wydatku (np. aktualne oferty rynkowe, cenniki, raporty wynagrodzeń, dane\n historyczne, rozeznanie rynku, informacje od dostawców usług lub produktów). Wnioskodawca wskazał źródła stanowiące\n podstawę określenia wartości poszczególnych wydatków.\n • wnioskodawca wykazał konieczność poniesienia poszczególnych wydatków oraz ich związek z realizacją projektu;\n • wnioskowana kwota dofinansowania oraz wydatki są zgodne z limitami określonymi w Przewodniku kwalifikowalności\n wydatków, w szczególności dotyczącymi podwykonawstwa oraz maksymalnej wartości grantu;\n • harmonogram rzeczowo-finansowy został rozbity na poszczególne pozycje budżetowe, a każda pozycja została\n przyporządkowana do właściwej kategorii wydatków.\n\n Projekt może otrzymać 0 pkt albo 3 pkt. Do pozytywnej oceny projektu w tym kryterium konieczne jest uzyskanie 3 pkt.\n\n\n 0 pkt – kryterium niespełnione\n\n Co najmniej jedna z poniższych przesłanek występuje:\n\n<a id=\"strona-17\"></a>\n\nStrona 17:\n• część wydatków jest niekwalifikowalna;\n\n • wydatki nie są niezbędne do realizacji projektu lub nie wykazano ich związku z projektem;\n\n • nie zachowano limitów określonych w Przewodniku kwalifikowalności;\n\n • harmonogram zawiera istotne błędy lub jest niekompletny;\n\n • nie wskazano źródeł stanowiących podstawę oszacowania kosztów lub nie pozwalają one na ocenę zasadności wydatków;\n\n • wydatki nie zostały przypisane do właściwych kategorii kosztów;\n\n • nie wykazano wszystkich stanowisk zespołu projektowego zgodnie z wymaganiami.\n\n 3 pkt – kryterium spełnione\n\n • wszystkie wydatki są kwalifikowalne;\n\n • wydatki są niezbędne i adekwatne do zakresu projektu;\n\n • zachowano limity określone w Przewodniku kwalifikowalności;\n\n • harmonogram jest kompletny, przejrzysty i prawidłowo sporządzony;\n\n • wskazano źródła stanowiące podstawę oszacowania kosztów;\n\n • wydatki przypisano do właściwych kategorii;\n\n • harmonogram umożliwia ocenę zasadności i racjonalności budżetu projektu.\n\n\n\n6. Kryteria Rozstrzygające:\n\n Kryteria rozstrzygające stosuje się wyłącznie w przypadku projektów, które uzyskały taką samą liczbę punktów i znajdują się na\n\n granicy dostępnej alokacji środków, tj. gdy nie jest możliwe przyznanie dofinansowania wszystkim tym projektom.\n\n W takim przypadku projekty porównuje się z uwzględnieniem poniższych kryteriów.\n\n<a id=\"strona-18\"></a>"
+    },
+    {
+      "id": "F-01",
+      "nazwa": "Język polski",
+      "rodzaj": "formalne",
+      "etap": "Regulamin — przygotowanie i złożenie",
+      "klasyfikacja": "warunek formalny z regulaminu",
+      "rozdzialy": [
+        "01-information",
+        "02-1-eligibility",
+        "02-applicant",
+        "03-objective",
+        "04-tasks",
+        "05-project-potential",
+        "06-indicators",
+        "07-applicant-potential",
+        "08-team",
+        "09-advisor",
+        "10-hrf",
+        "11-attachments",
+        "12-declarations"
+      ],
+      "pola": [],
+      "skala": "warunek regulaminu; bez punktów",
+      "minimum": null,
+      "aspekty": [
+        "Treść jest sporządzona w języku polskim; nazwy własne i pojedyncze obcojęzyczne wyrażenia są dopuszczalne."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-f764dfc4b0fd",
+          "strona": 9
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 9:\nelektronicznej nie jest możliwa, NCBR wskaże w komunikacie na stronie naboru inny sposób komunikacji\n\n z Wnioskodawcą.\n\n 3. Informacja o pozytywnym wyniku I etapu oceny przekazywana jest Wnioskodawcy za pośrednictwem\n\n systemu OSF. Informacja o negatywnym wyniku I etapu oceny oraz informacja o wyniku II etapu oceny\n\n przekazywana jest Wnioskodawcy za pośrednictwem systemu e-Doręczeń.\n\n 4. Wnioskodawca ma obowiązek:\n\n 1) wskazać adres poczty elektronicznej we Wniosku w sekcji ,,Wnioskodawca”, zapewniający\n\n skuteczną komunikację z NCBR. W przypadku wskazania we Wniosku osoby do kontaktu należy\n\n również podać adres jej poczty elektronicznej.\n\n 2) poinformować o zmianie adresu poczty elektronicznej za pośrednictwem adresu:\n\n innostart@ncbr.gov.pl. Do czasu poinformowania o zmianie adresów poczty elektronicznej,\n\n korespondencję wysłaną na dotychczasowe adresy poczty elektronicznej uważa się za skutecznie\n\n doręczoną,\n\n 3) na bieżąco monitorować wniosek w OSF.\n\n 5. Pytania dotyczące naboru można kierować do Punktu Informacyjnego NCBR. Dane kontaktowe Punktu\n\n Informacyjnego dostępne są na stronie internetowej NCBR:\n\n 1) e-mail: info@ncbr.gov.pl\n\n 2) tel.: +48 22 39 07 170 lub +48 22 39 07 191\n\n 6. NCBR zamieści najczęściej zadawane pytania i odpowiedzi w formie FAQ na stronie naboru.\n\n\n§ 5. Sposób składania wniosku\n\n 1. Wnioskodawca składa Wniosek wraz z załącznikami wyłącznie w systemie informatycznym OSF:\n\n [https://osf.opi.org.pl/], w terminie, o którym mowa w § 1 pkt 7 RWP. Załączniki wymagające podpisu\n\n powinny zostać podpisane przez osobę uprawnioną do reprezentowania Wnioskodawcy lub osobę\n\n należycie umocowaną. Załączniki mogą zostać podpisane własnoręcznie i dołączone do Wniosku\n\n w postaci skanu dokumentu albo opatrzone podpisem zaufanym lub kwalifikowanym podpisem\n\n elektronicznym.\n\n 2. Wniosek powinien zostać sporządzony w języku polskim zgodnie z art. 5 ustawy z dnia 7 października\n\n 1999 r. o języku polskim (Dz. U. z 2024 r. poz. 1556 z późn.zm.), z wyjątkiem użycia obcojęzycznych nazw\n\n własnych lub pojedynczych wyrażeń w języku obcym. Dokumenty sporządzone w języku obcym powinny\n\n zostać przetłumaczone na język polski przez tłumacza przysięgłego.\n\n 3. Wnioskodawca ma obowiązek wypełnić Wniosek zgodnie z Instrukcją wypełniania wniosku\n\n udostępnioną na stronie naboru. Instrukcja wypełniania Wniosku stanowi załącznik nr 4 do RWP.\n\n 4. Potwierdzeniem złożenia Wniosku jest zmiana statusu na „Złożony do NCBR” oraz nadanie nr\n\n rejestracyjnego.\n\n 9\n\n\n K1-Informacja Opublikowana (Public)\n\n<a id=\"strona-10\"></a>"
+    },
+    {
+      "id": "F-02",
+      "nazwa": "Treść merytoryczna zamiast samych placeholderów",
+      "rodzaj": "formalne",
+      "etap": "Regulamin — przygotowanie i złożenie",
+      "klasyfikacja": "warunek formalny z regulaminu",
+      "rozdzialy": [
+        "01-information",
+        "02-1-eligibility",
+        "02-applicant",
+        "03-objective",
+        "04-tasks",
+        "05-project-potential",
+        "06-indicators",
+        "07-applicant-potential",
+        "08-team",
+        "09-advisor",
+        "10-hrf",
+        "11-attachments",
+        "12-declarations"
+      ],
+      "pola": [],
+      "skala": "warunek regulaminu; bez punktów",
+      "minimum": null,
+      "aspekty": [
+        "Sekcja zawiera treść dotyczącą projektu, a nie wyłącznie placeholdery, np. xxx lub do uzupełnienia."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-f764dfc4b0fd",
+          "strona": 10
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 10:\n5. Za datę i czas złożenia Wniosku uznaje się datę i czas zarejestrowane w systemie OSF w momencie nadania\n\n Wnioskowi statusu „Złożony do NCBR”.\n\n 6. W przypadku stwierdzenia błędów związanych z funkcjonowaniem OSF, Wnioskodawca w czasie\n\n trwania naboru oraz najpóźniej w terminie 24 godzin od zakończenia naboru może dokonać zgłoszenia\n\n błędów bezpośrednio do OPI-OSF pod numerem telefonu: 22 351 71 01, lub mailowo wybierając\n\n przycisk na stronie https://osf.opi.org.pl.\n\n 7. NCBR może pozytywnie rozpatrzeć zgłoszenie błędu przez Wnioskodawcę jedynie, gdy jest on związany\n\n z wadliwym funkcjonowaniem OSF i nie jest spowodowany działaniem po stronie Wnioskodawcy.\n\n 8. Jeśli wystąpią długotrwałe problemy techniczne uniemożliwiające składanie Wniosków za pomocą OSF,\n\n Wnioskodawca stosuje się do komunikatów na stronie naboru lub OSF.\n\n 9. NCBR zastrzega sobie możliwość wprowadzenia przerw w funkcjonowaniu OSF niezbędnych do\n\n wykonania czynności konserwacyjnych/serwisowych związanych z prawidłowym jego\n\n funkcjonowaniem. W takim przypadku na stronie naboru każdorazowo będzie publikowana informacja\n\n o sposobie komunikowania oraz trybie obsługi zgłoszeń.\n\n\n\n§ 6. Ogólne zasady oceny projektów\n\n 1. Projekt B+R podlega dwuetapowej ocenie przeprowadzanej przez pracowników NCBR oraz Ekspertów\n\n działających w ramach KOP.\n\n 2. Ocena Wniosków prowadzona jest w zakresie spełnienia kryteriów wyboru projektów dla\n\n poszczególnych etapów, zgodnie z załącznikiem nr 2 do RWP.\n\n 3. Wniosek zawierający wyłącznie treści techniczne, robocze lub niezwiązane z projektem (np. „xxx”, „do\n\n uzupełnienia”) nie spełnia wymagań formalnych i może zostać oceniony negatywnie.\n\n 4. Wnioskodawca może być wezwany do poprawy lub uzupełnienia maksymalnie dwukrotnie w zakresie\n\n kryteriów obligatoryjnych ocenianych w formule TAK/NIE oraz maksymalnie dwukrotnie w zakresie\n\n kryteriów oceny punktowanych, zgodnie i w zakresie opisu kryteriów wyboru projektów.\n\n 5. NCBR może ponownie wezwać do poprawy lub uzupełnienia wniosku wyłącznie Wnioskodawcę, który\n\n odpowiedział na pierwsze wezwanie do poprawy lub uzupełnienia Wniosku.\n\n 6. Poprawa lub uzupełnienie Wniosku następuje wyłącznie poprzez wprowadzenie zmian we właściwych\n\n sekcjach Wniosku w systemie OSF. Przekazanie wyjaśnień, uzupełnień lub informacji w innej formie, w\n\n szczególności za pośrednictwem poczty elektronicznej lub pisma skierowanego do NCBR, nie stanowi\n\n wykonania wezwania.\n\n 7. Szczegółowe informacje dotyczące zasad oceny kryteriów znajdują się w Kryteriach.\n\n 8. Ocena wniosków obejmuje:\n\n 1) I etap oceny - ocenę dokonywana przez pracowników NCBR w ramach kryteriów obligatoryjnych\n\n ocenianych w formule TAK/NIE;\n\n\n10\n\n\n K1-Informacja Opublikowana (Public)\n\n<a id=\"strona-11\"></a>"
+    },
+    {
+      "id": "F-03",
+      "nazwa": "Wymagane podpisy załączników",
+      "rodzaj": "formalne",
+      "etap": "Regulamin — przygotowanie i złożenie",
+      "klasyfikacja": "warunek formalny z regulaminu",
+      "rozdzialy": [
+        "11-attachments"
+      ],
+      "pola": [],
+      "skala": "warunek regulaminu; bez punktów",
+      "minimum": null,
+      "aspekty": [
+        "Przekazany kontekst zawiera dowód podpisania wymaganych załączników przez uprawnioną osobę kwalifikowanym podpisem elektronicznym."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-f764dfc4b0fd",
+          "strona": 9
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 9:\nelektronicznej nie jest możliwa, NCBR wskaże w komunikacie na stronie naboru inny sposób komunikacji\n\n z Wnioskodawcą.\n\n 3. Informacja o pozytywnym wyniku I etapu oceny przekazywana jest Wnioskodawcy za pośrednictwem\n\n systemu OSF. Informacja o negatywnym wyniku I etapu oceny oraz informacja o wyniku II etapu oceny\n\n przekazywana jest Wnioskodawcy za pośrednictwem systemu e-Doręczeń.\n\n 4. Wnioskodawca ma obowiązek:\n\n 1) wskazać adres poczty elektronicznej we Wniosku w sekcji ,,Wnioskodawca”, zapewniający\n\n skuteczną komunikację z NCBR. W przypadku wskazania we Wniosku osoby do kontaktu należy\n\n również podać adres jej poczty elektronicznej.\n\n 2) poinformować o zmianie adresu poczty elektronicznej za pośrednictwem adresu:\n\n innostart@ncbr.gov.pl. Do czasu poinformowania o zmianie adresów poczty elektronicznej,\n\n korespondencję wysłaną na dotychczasowe adresy poczty elektronicznej uważa się za skutecznie\n\n doręczoną,\n\n 3) na bieżąco monitorować wniosek w OSF.\n\n 5. Pytania dotyczące naboru można kierować do Punktu Informacyjnego NCBR. Dane kontaktowe Punktu\n\n Informacyjnego dostępne są na stronie internetowej NCBR:\n\n 1) e-mail: info@ncbr.gov.pl\n\n 2) tel.: +48 22 39 07 170 lub +48 22 39 07 191\n\n 6. NCBR zamieści najczęściej zadawane pytania i odpowiedzi w formie FAQ na stronie naboru.\n\n\n§ 5. Sposób składania wniosku\n\n 1. Wnioskodawca składa Wniosek wraz z załącznikami wyłącznie w systemie informatycznym OSF:\n\n [https://osf.opi.org.pl/], w terminie, o którym mowa w § 1 pkt 7 RWP. Załączniki wymagające podpisu\n\n powinny zostać podpisane przez osobę uprawnioną do reprezentowania Wnioskodawcy lub osobę\n\n należycie umocowaną. Załączniki mogą zostać podpisane własnoręcznie i dołączone do Wniosku\n\n w postaci skanu dokumentu albo opatrzone podpisem zaufanym lub kwalifikowanym podpisem\n\n elektronicznym.\n\n 2. Wniosek powinien zostać sporządzony w języku polskim zgodnie z art. 5 ustawy z dnia 7 października\n\n 1999 r. o języku polskim (Dz. U. z 2024 r. poz. 1556 z późn.zm.), z wyjątkiem użycia obcojęzycznych nazw\n\n własnych lub pojedynczych wyrażeń w języku obcym. Dokumenty sporządzone w języku obcym powinny\n\n zostać przetłumaczone na język polski przez tłumacza przysięgłego.\n\n 3. Wnioskodawca ma obowiązek wypełnić Wniosek zgodnie z Instrukcją wypełniania wniosku\n\n udostępnioną na stronie naboru. Instrukcja wypełniania Wniosku stanowi załącznik nr 4 do RWP.\n\n 4. Potwierdzeniem złożenia Wniosku jest zmiana statusu na „Złożony do NCBR” oraz nadanie nr\n\n rejestracyjnego.\n\n 9\n\n\n K1-Informacja Opublikowana (Public)\n\n<a id=\"strona-10\"></a>"
+    },
+    {
+      "id": "F-04",
+      "nazwa": "Złożenie przez OSF w terminie",
+      "rodzaj": "formalne",
+      "etap": "Regulamin — przygotowanie i złożenie",
+      "klasyfikacja": "warunek formalny z regulaminu",
+      "rozdzialy": [
+        "12-declarations"
+      ],
+      "pola": [],
+      "skala": "warunek regulaminu; bez punktów",
+      "minimum": null,
+      "aspekty": [
+        "Przekazany kontekst zawiera potwierdzenie wysłania wniosku przez OSF w terminie; samo przygotowanie tekstu tego nie potwierdza."
+      ],
+      "zrodla": [
+        {
+          "id": "SRC-f764dfc4b0fd",
+          "strona": 9
+        }
+      ],
+      "status": "potwierdzone",
+      "waga": null,
+      "powiazanie_z_formularzem": "Interpretacja autora analizy; źródło rozstrzyga treść kryterium, skale i progi.",
+      "opis": "Strona 9:\nelektronicznej nie jest możliwa, NCBR wskaże w komunikacie na stronie naboru inny sposób komunikacji\n\n z Wnioskodawcą.\n\n 3. Informacja o pozytywnym wyniku I etapu oceny przekazywana jest Wnioskodawcy za pośrednictwem\n\n systemu OSF. Informacja o negatywnym wyniku I etapu oceny oraz informacja o wyniku II etapu oceny\n\n przekazywana jest Wnioskodawcy za pośrednictwem systemu e-Doręczeń.\n\n 4. Wnioskodawca ma obowiązek:\n\n 1) wskazać adres poczty elektronicznej we Wniosku w sekcji ,,Wnioskodawca”, zapewniający\n\n skuteczną komunikację z NCBR. W przypadku wskazania we Wniosku osoby do kontaktu należy\n\n również podać adres jej poczty elektronicznej.\n\n 2) poinformować o zmianie adresu poczty elektronicznej za pośrednictwem adresu:\n\n innostart@ncbr.gov.pl. Do czasu poinformowania o zmianie adresów poczty elektronicznej,\n\n korespondencję wysłaną na dotychczasowe adresy poczty elektronicznej uważa się za skutecznie\n\n doręczoną,\n\n 3) na bieżąco monitorować wniosek w OSF.\n\n 5. Pytania dotyczące naboru można kierować do Punktu Informacyjnego NCBR. Dane kontaktowe Punktu\n\n Informacyjnego dostępne są na stronie internetowej NCBR:\n\n 1) e-mail: info@ncbr.gov.pl\n\n 2) tel.: +48 22 39 07 170 lub +48 22 39 07 191\n\n 6. NCBR zamieści najczęściej zadawane pytania i odpowiedzi w formie FAQ na stronie naboru.\n\n\n§ 5. Sposób składania wniosku\n\n 1. Wnioskodawca składa Wniosek wraz z załącznikami wyłącznie w systemie informatycznym OSF:\n\n [https://osf.opi.org.pl/], w terminie, o którym mowa w § 1 pkt 7 RWP. Załączniki wymagające podpisu\n\n powinny zostać podpisane przez osobę uprawnioną do reprezentowania Wnioskodawcy lub osobę\n\n należycie umocowaną. Załączniki mogą zostać podpisane własnoręcznie i dołączone do Wniosku\n\n w postaci skanu dokumentu albo opatrzone podpisem zaufanym lub kwalifikowanym podpisem\n\n elektronicznym.\n\n 2. Wniosek powinien zostać sporządzony w języku polskim zgodnie z art. 5 ustawy z dnia 7 października\n\n 1999 r. o języku polskim (Dz. U. z 2024 r. poz. 1556 z późn.zm.), z wyjątkiem użycia obcojęzycznych nazw\n\n własnych lub pojedynczych wyrażeń w języku obcym. Dokumenty sporządzone w języku obcym powinny\n\n zostać przetłumaczone na język polski przez tłumacza przysięgłego.\n\n 3. Wnioskodawca ma obowiązek wypełnić Wniosek zgodnie z Instrukcją wypełniania wniosku\n\n udostępnioną na stronie naboru. Instrukcja wypełniania Wniosku stanowi załącznik nr 4 do RWP.\n\n 4. Potwierdzeniem złożenia Wniosku jest zmiana statusu na „Złożony do NCBR” oraz nadanie nr\n\n rejestracyjnego.\n\n 9\n\n\n K1-Informacja Opublikowana (Public)\n\n<a id=\"strona-10\"></a>"
+    }
+  ]
+}

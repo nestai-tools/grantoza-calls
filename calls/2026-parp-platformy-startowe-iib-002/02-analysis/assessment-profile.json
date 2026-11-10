@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "id": "2026-parp-platformy-startowe-iib-002-ocena",
+  "wersja": 1,
+  "nabor_id": "2026-parp-platformy-startowe-iib-002",
+  "nazwa": "Platformy startowe IIb — rozwój przedsiębiorstwa",
+  "zrodla_sha256": {
+    "SRC-0fb046c95a8b": "f16589bebda11654dd9d63119f035f707890429a6cfdbe53961a933ab04af039"
+  },
+  "wejscie": {
+    "instrukcja": "Oceniaj zakres komponentu IIb: rozwój przedsiębiorstwa po IIa, innowacyjność produktu, rynek, zespół, wydatki, wkład własny i wskaźniki. Korzystaj z wymagań danego kryterium i pól tego formularza. Nie przenoś wymagań projektu B+R z INNOSTART. Pola wyboru oceniaj według dozwolonych opcji; obliczone podsumowania budżetu zestawiaj z pozycjami kosztowymi.",
+    "pola_kontekstu": [],
+    "powiazania": true,
+    "krotka_odpowiedz_max": 160,
+    "budzet_powiazan": 12000
+  },
+  "wyjscie": {
+    "odpowiedz": {
+      "typ": "choice",
+      "warianty": {
+        "supported": {
+          "opis": "Przekazane odpowiedzi uzasadniają wskazany aspekt w zakresie wymaganym przez źródło.",
+          "status": "supported"
+        },
+        "partial": {
+          "opis": "Przekazane dane częściowo uzasadniają aspekt, ale wymagają uzupełnienia.",
+          "status": "partial"
+        },
+        "missing": {
+          "opis": "Brak odpowiedzi lub dowodów w polach przeznaczonych na ten aspekt.",
+          "status": "missing"
+        },
+        "contradicted": {
+          "opis": "Przekazane odpowiedzi są sprzeczne z aspektem lub ze sobą; wskaż wyłącznie rzeczywistą sprzeczność.",
+          "status": "contradicted"
+        },
+        "not_applicable": {
+          "opis": "Warunek zastosowania wskazany w źródle nie zachodzi i wynika to z danych.",
+          "status": "not_applicable"
+        },
+        "insufficient_context": {
+          "opis": "Ta część i wspólne fakty nie pozwalają rozstrzygnąć aspektu; potrzebna jest inna część lub weryfikacja zewnętrzna.",
+          "status": "insufficient_context"
+        }
+      }
+    },
+    "etykiety": {
+      "supported": "Uzasadnione w tekście",
+      "partial": "Częściowo uzasadnione",
+      "missing": "Brak danych",
+      "contradicted": "Sprzeczność",
+      "not_applicable": "Nie dotyczy",
+      "insufficient_context": "Wymaga oceny łącznej lub weryfikacji"
+    },
+    "agregacja": "kryteria"
+  },
+  "kryteria": {
+    "K-01": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Kwalifikowalność wnioskodawcy” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-02": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Obszar Polski Wschodniej” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-03": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Brak działalności wykluczonych” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-04": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Innowacyjność produktu” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-05": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Warunki finansowe” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-06": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Zakres projektu” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-07": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Zespół projektowy” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-08": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Wydatki kwalifikowalne, racjonalne i uzasadnione” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-09": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Wkład własny” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-10": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Wskaźniki projektu” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-11": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Równość kobiet i mężczyzn” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-12": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Równość szans i dostępność” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-13": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „KPP i KPON” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-14": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Zrównoważony rozwój i DNSH” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-15": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Wspólne RIS” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    },
+    "K-16": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj wyłącznie aspekty kryterium „Oddziaływanie produktu” w granicach jego źródła i wymaganego etapu. Brak materiału w tej części odróżnij od braku odpowiedzi w formularzu.",
+      "pola_kontekstu": []
+    }
+  },
+  "spojnosc": {
+    "aspekty": [
+      "Zakres rozwoju produktu jest spójny z rynkiem, przewagami i potencjałem zespołu.",
+      "Harmonogram, wydatki, źródła finansowania i wskaźniki opisują ten sam zakres projektu."
+    ],
+    "pola_kontekstu": []
+  },
+  "analiza_poglebiona": "Przygotuj ocenę ogólną i rekomendacje w Markdown dla komponentu IIb. Sprawdź powiązanie efektów IIa z planem rozwoju, produktem, rynkiem, finansowaniem i wskaźnikami. Uwagi wskaż pod konkretnymi polami. Uwzględnij ocenę Systemu Oceniającego oraz brakujące dowody; nie dodawaj obowiązku badań przemysłowych lub prac rozwojowych bez źródła."
+}

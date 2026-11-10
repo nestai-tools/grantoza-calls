@@ -1,0 +1,718 @@
+{
+  "schema_version": 1,
+  "nabor_id": "2026-parp-platformy-startowe-iib-002",
+  "zapisano_at": "2026-09-26T16:07:49.270217+00:00",
+  "dokumenty": [
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/OGLOSZENIE-O-NABORZE.pdf",
+      "tytul": "Ogłoszenie o naborze",
+      "nazwa_zrodlowa": "OGLOSZENIE-O-NABORZE.pdf",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Start w naborze",
+      "id": "SRC-3e0359eb3602",
+      "pobrano_at": "2026-09-26T16:07:44.251996+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "1532ece88fdaaec6d3b2b5f761270ab95d6b5610a5d1da6260073850667ffe94",
+          "plik": "01-sources/originals/SRC-3e0359eb3602-ogloszenie-o-naborze-1532ece88fda.pdf",
+          "pobrano_at": "2026-09-26T15:42:53.283679+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/OGLOSZENIE-O-NABORZE.pdf",
+      "plik": "01-sources/originals/SRC-3e0359eb3602-ogloszenie-o-naborze-1532ece88fda.pdf",
+      "sha256": "1532ece88fdaaec6d3b2b5f761270ab95d6b5610a5d1da6260073850667ffe94",
+      "rozmiar": 292303,
+      "mime": "application/pdf",
+      "odczyt": "odczytany",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 3,
+      "ekstrakt": "01-sources/text/SRC-3e0359eb3602.md",
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Regulamin_wyboru_projektow_IIb.pdf",
+      "tytul": "Regulamin wyboru projektów",
+      "nazwa_zrodlowa": "Regulamin_wyboru_projektow_IIb.pdf",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Start w naborze",
+      "id": "SRC-894f1179eb3f",
+      "pobrano_at": "2026-09-26T16:07:44.433158+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "7c72dfc290cb9597e30c6118436896679d8ba757af0b7cb19c716e506613d7bd",
+          "plik": "01-sources/originals/SRC-894f1179eb3f-regulamin-wyboru-projektow-7c72dfc290cb.pdf",
+          "pobrano_at": "2026-09-26T15:42:53.391660+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Regulamin_wyboru_projektow_IIb.pdf",
+      "plik": "01-sources/originals/SRC-894f1179eb3f-regulamin-wyboru-projektow-7c72dfc290cb.pdf",
+      "sha256": "7c72dfc290cb9597e30c6118436896679d8ba757af0b7cb19c716e506613d7bd",
+      "rozmiar": 636508,
+      "mime": "application/pdf",
+      "odczyt": "odczytany",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 28,
+      "ekstrakt": "01-sources/text/SRC-894f1179eb3f.md",
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Zalacznik_1_do_Regulaminu_Kryteria_wyboru_projektow.PDF",
+      "tytul": "Kryteria wyboru projektów",
+      "nazwa_zrodlowa": "Zalacznik_1_do_Regulaminu_Kryteria_wyboru_projektow.PDF",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Start w naborze",
+      "id": "SRC-0fb046c95a8b",
+      "pobrano_at": "2026-09-26T16:07:44.737449+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "f16589bebda11654dd9d63119f035f707890429a6cfdbe53961a933ab04af039",
+          "plik": "01-sources/originals/SRC-0fb046c95a8b-kryteria-wyboru-projektow-f16589bebda1.pdf",
+          "pobrano_at": "2026-09-26T15:42:53.767768+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Zalacznik_1_do_Regulaminu_Kryteria_wyboru_projektow.PDF",
+      "plik": "01-sources/originals/SRC-0fb046c95a8b-kryteria-wyboru-projektow-f16589bebda1.pdf",
+      "sha256": "f16589bebda11654dd9d63119f035f707890429a6cfdbe53961a933ab04af039",
+      "rozmiar": 468924,
+      "mime": "application/pdf",
+      "odczyt": "odczytany",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 18,
+      "ekstrakt": "01-sources/text/SRC-0fb046c95a8b.md",
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z7_do_Regulaminu-Slownik.pdf",
+      "tytul": "Słowniczek",
+      "nazwa_zrodlowa": "Z7_do_Regulaminu-Slownik.pdf",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Start w naborze",
+      "id": "SRC-4de61096a835",
+      "pobrano_at": "2026-09-26T16:07:44.983958+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "5b47321c1992234bde9a585a41a724694a722ecd5a29f41b7d45613d090df5bf",
+          "plik": "01-sources/originals/SRC-4de61096a835-slowniczek-5b47321c1992.pdf",
+          "pobrano_at": "2026-09-26T15:42:54.031046+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Z7_do_Regulaminu-Slownik.pdf",
+      "plik": "01-sources/originals/SRC-4de61096a835-slowniczek-5b47321c1992.pdf",
+      "sha256": "5b47321c1992234bde9a585a41a724694a722ecd5a29f41b7d45613d090df5bf",
+      "rozmiar": 194347,
+      "mime": "application/pdf",
+      "odczyt": "odczytany",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 2,
+      "ekstrakt": "01-sources/text/SRC-4de61096a835.md",
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/modules/mod_downloads/download.php?id=4130&source=grants",
+      "tytul": "Pobierz wszystko",
+      "nazwa_zrodlowa": "download.php",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Start w naborze",
+      "id": "SRC-c0c0d7f5ffb0",
+      "pobrano_at": "2026-09-26T16:07:45.131932+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "b4631067928fd33fae810fbf8b0c2ff48c83bce4160ab45a5d5316ed8befd04c",
+          "plik": "01-sources/originals/SRC-c0c0d7f5ffb0-pobierz-wszystko-b4631067928f.zip",
+          "pobrano_at": "2026-09-26T15:42:54.238129+00:00"
+        },
+        {
+          "sha256": "4b67e880b4733587ce96a2176ca21eadef27fb596fff9a6bb00f8608d885c81a",
+          "plik": "01-sources/originals/SRC-c0c0d7f5ffb0-pobierz-wszystko-4b67e880b473.zip",
+          "pobrano_at": "2026-09-26T16:07:45.131932+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/modules/mod_downloads/download.php?id=4130&source=grants",
+      "plik": "01-sources/originals/SRC-c0c0d7f5ffb0-pobierz-wszystko-4b67e880b473.zip",
+      "sha256": "4b67e880b4733587ce96a2176ca21eadef27fb596fff9a6bb00f8608d885c81a",
+      "rozmiar": 1437115,
+      "mime": "application/zip",
+      "odczyt": "zawartosc-zweryfikowana",
+      "w_biezacej_paczce": true,
+      "przeglad": {
+        "zakres": "lista elementów i SHA-256 porównane z osobnymi załącznikami; brak dodatkowych plików"
+      },
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z2_DO_REGULAMINU-WZOR_WNIOSKU.pdf",
+      "tytul": "Wzór wniosku o dofinansowanie projektu",
+      "nazwa_zrodlowa": "Z2_DO_REGULAMINU-WZOR_WNIOSKU.pdf",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Składanie wniosku o dofinansowanie",
+      "id": "SRC-e5f4835ab250",
+      "pobrano_at": "2026-09-26T16:07:45.412433+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "dd5e874f5590df43ea570bf3ad8d291c97be64588e080d751739b00347e249e8",
+          "plik": "01-sources/originals/SRC-e5f4835ab250-wzor-wniosku-o-dofinansowanie-projektu-dd5e874f5590.pdf",
+          "pobrano_at": "2026-09-26T15:42:55.050544+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Z2_DO_REGULAMINU-WZOR_WNIOSKU.pdf",
+      "plik": "01-sources/originals/SRC-e5f4835ab250-wzor-wniosku-o-dofinansowanie-projektu-dd5e874f5590.pdf",
+      "sha256": "dd5e874f5590df43ea570bf3ad8d291c97be64588e080d751739b00347e249e8",
+      "rozmiar": 586661,
+      "mime": "application/pdf",
+      "odczyt": "odczytany",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 11,
+      "ekstrakt": "01-sources/text/SRC-e5f4835ab250.md",
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z3_DO_REGULAMINU-INSTRUKCJA_WYPELNIANIA_WNIOSKU.pdf",
+      "tytul": "Instrukcja wypełniania wniosku o dofinansowanie",
+      "nazwa_zrodlowa": "Z3_DO_REGULAMINU-INSTRUKCJA_WYPELNIANIA_WNIOSKU.pdf",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Składanie wniosku o dofinansowanie",
+      "id": "SRC-2499049d1cfe",
+      "pobrano_at": "2026-09-26T16:07:45.701265+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "4c433760d2f0f34dea6b47f27caad419b8e043039848df58502e7ae570ba20fe",
+          "plik": "01-sources/originals/SRC-2499049d1cfe-instrukcja-wypelniania-wniosku-o-dofinansowanie-4c433760d2f0.pdf",
+          "pobrano_at": "2026-09-26T15:42:55.419163+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Z3_DO_REGULAMINU-INSTRUKCJA_WYPELNIANIA_WNIOSKU.pdf",
+      "plik": "01-sources/originals/SRC-2499049d1cfe-instrukcja-wypelniania-wniosku-o-dofinansowanie-4c433760d2f0.pdf",
+      "sha256": "4c433760d2f0f34dea6b47f27caad419b8e043039848df58502e7ae570ba20fe",
+      "rozmiar": 731234,
+      "mime": "application/pdf",
+      "odczyt": "odczytany",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 44,
+      "ekstrakt": "01-sources/text/SRC-2499049d1cfe.md",
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z4_do_Regulaminu-Model_finansowy_12_i_powyzej_12m_okres_realizacji.XLSX",
+      "tytul": "Wzór modelu finansowego (załącznik nr 1 do wniosku o dofinansowanie) okres 12 i powyżej miesięcy realizacji projektu",
+      "nazwa_zrodlowa": "Z4_do_Regulaminu-Model_finansowy_12_i_powyzej_12m_okres_realizacji.XLSX",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Składanie wniosku o dofinansowanie",
+      "id": "SRC-0ac9591da399",
+      "pobrano_at": "2026-09-26T16:07:45.967533+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "1e5555b4a150b5cfc5a2cea2a55e068ecb1bdc54f4c9e13be73ed0bae9c1fefe",
+          "plik": "01-sources/originals/SRC-0ac9591da399-wzor-modelu-finansowego-zalacznik-nr-1-do-wniosku-o-dofinansowanie-okres-12-i-powyzej-1e5555b4a150.xlsx",
+          "pobrano_at": "2026-09-26T15:42:55.823850+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Z4_do_Regulaminu-Model_finansowy_12_i_powyzej_12m_okres_realizacji.XLSX",
+      "plik": "01-sources/originals/SRC-0ac9591da399-wzor-modelu-finansowego-zalacznik-nr-1-do-wniosku-o-dofinansowanie-okres-12-i-powyzej-1e5555b4a150.xlsx",
+      "sha256": "1e5555b4a150b5cfc5a2cea2a55e068ecb1bdc54f4c9e13be73ed0bae9c1fefe",
+      "rozmiar": 87798,
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "odczyt": "struktura-i-kluczowe-formuly",
+      "w_biezacej_paczce": true,
+      "arkusze": [
+        "Dane identyfikacyjne",
+        "Prognoza przychodów",
+        " Prognoza kosztów",
+        "Podsumowanie danych",
+        "Weryfikacja wzrostu ",
+        "Analiza opłacalności",
+        "Weryfikacja opłacalności"
+      ],
+      "ekstrakt": "01-sources/text/SRC-0ac9591da399.md",
+      "przeglad": {
+        "zakres": "wszystkie nazwy arkuszy, pola wejściowe, wzrost, podsumowania i opłacalność; brak audytu każdej formuły i brak przeliczenia"
+      },
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z4_do_Regulaminu-Model-finansowy_do_12_m-okres_realizacji.XLSX",
+      "tytul": "Wzór modelu finansowego (załącznik nr 1 do wniosku o dofinansowanie) okres do 12 miesięcy realizacji projektu",
+      "nazwa_zrodlowa": "Z4_do_Regulaminu-Model-finansowy_do_12_m-okres_realizacji.XLSX",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Składanie wniosku o dofinansowanie",
+      "id": "SRC-02c1d0102fd0",
+      "pobrano_at": "2026-09-26T16:07:46.098868+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "38a5c2bf9d0397344c07e3ea9d5259b3375a7475df4edc4fbf0b3909b9da364b",
+          "plik": "01-sources/originals/SRC-02c1d0102fd0-wzor-modelu-finansowego-zalacznik-nr-1-do-wniosku-o-dofinansowanie-okres-do-12-miesie-38a5c2bf9d03.xlsx",
+          "pobrano_at": "2026-09-26T15:42:55.963386+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Z4_do_Regulaminu-Model-finansowy_do_12_m-okres_realizacji.XLSX",
+      "plik": "01-sources/originals/SRC-02c1d0102fd0-wzor-modelu-finansowego-zalacznik-nr-1-do-wniosku-o-dofinansowanie-okres-do-12-miesie-38a5c2bf9d03.xlsx",
+      "sha256": "38a5c2bf9d0397344c07e3ea9d5259b3375a7475df4edc4fbf0b3909b9da364b",
+      "rozmiar": 82818,
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "odczyt": "struktura-i-kluczowe-formuly",
+      "w_biezacej_paczce": true,
+      "arkusze": [
+        "Dane identyfikacyjne",
+        "Prognoza przychodów",
+        " Prognoza kosztów",
+        "Podsumowanie danych",
+        "Analiza opłacalności"
+      ],
+      "ekstrakt": "01-sources/text/SRC-02c1d0102fd0.md",
+      "przeglad": {
+        "zakres": "wszystkie nazwy arkuszy, pola wejściowe, wzrost, podsumowania i opłacalność; brak audytu każdej formuły i brak przeliczenia"
+      },
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z4a_do-Regulaminu_Instrukcja_wypelniania_modelu_finansowego.pdf",
+      "tytul": "Instrukcja wypełniania modelu finansowego",
+      "nazwa_zrodlowa": "Z4a_do-Regulaminu_Instrukcja_wypelniania_modelu_finansowego.pdf",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Składanie wniosku o dofinansowanie",
+      "id": "SRC-5dddf09c0cf4",
+      "pobrano_at": "2026-09-26T16:07:46.223884+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "6c45cb00b2287bf0fc43cc718733ecbdb5045c812702d4e5eb721b6670559ea9",
+          "plik": "01-sources/originals/SRC-5dddf09c0cf4-instrukcja-wypelniania-modelu-finansowego-6c45cb00b228.pdf",
+          "pobrano_at": "2026-09-26T15:42:56.088948+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Z4a_do-Regulaminu_Instrukcja_wypelniania_modelu_finansowego.pdf",
+      "plik": "01-sources/originals/SRC-5dddf09c0cf4-instrukcja-wypelniania-modelu-finansowego-6c45cb00b228.pdf",
+      "sha256": "6c45cb00b2287bf0fc43cc718733ecbdb5045c812702d4e5eb721b6670559ea9",
+      "rozmiar": 275490,
+      "mime": "application/pdf",
+      "odczyt": "odczytany",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 5,
+      "ekstrakt": "01-sources/text/SRC-5dddf09c0cf4.md",
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z6_do_Regulaminu-KATALOG-WSPOLNYCH-OBSZAROW-RIS-PW.pdf",
+      "tytul": "Katalog wspólnych obszarów inteligentnych specjalizacji regionów Polski Wschodniej",
+      "nazwa_zrodlowa": "Z6_do_Regulaminu-KATALOG-WSPOLNYCH-OBSZAROW-RIS-PW.pdf",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Składanie wniosku o dofinansowanie",
+      "id": "SRC-18a66fc53144",
+      "pobrano_at": "2026-09-26T16:07:46.412746+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "16e998061d10e818925ec3cfd2b689c1719b5fb605d5c4cfebf60086ec05b661",
+          "plik": "01-sources/originals/SRC-18a66fc53144-katalog-wspolnych-obszarow-inteligentnych-specjalizacji-regionow-polski-wschodniej-16e998061d10.pdf",
+          "pobrano_at": "2026-09-26T15:42:56.326329+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Z6_do_Regulaminu-KATALOG-WSPOLNYCH-OBSZAROW-RIS-PW.pdf",
+      "plik": "01-sources/originals/SRC-18a66fc53144-katalog-wspolnych-obszarow-inteligentnych-specjalizacji-regionow-polski-wschodniej-16e998061d10.pdf",
+      "sha256": "16e998061d10e818925ec3cfd2b689c1719b5fb605d5c4cfebf60086ec05b661",
+      "rozmiar": 779389,
+      "mime": "application/pdf",
+      "odczyt": "odczytany",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 18,
+      "ekstrakt": "01-sources/text/SRC-18a66fc53144.md",
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/modules/mod_downloads/download.php?id=4131&source=grants",
+      "tytul": "Pobierz wszystko",
+      "nazwa_zrodlowa": "download.php",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Składanie wniosku o dofinansowanie",
+      "id": "SRC-ad738eac4c3d",
+      "pobrano_at": "2026-09-26T16:07:46.769017+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "7cbf4e65eb0daf35ed4d0eaef4eee0826b867572f82b33a3b1484d50ceae8dc7",
+          "plik": "01-sources/originals/SRC-ad738eac4c3d-pobierz-wszystko-7cbf4e65eb0d.zip",
+          "pobrano_at": "2026-09-26T15:42:56.737658+00:00"
+        },
+        {
+          "sha256": "a3b38326e2c8e535bb6b2ad5e2d0c620edd7763943ad669cf2ab3833f3fe93d6",
+          "plik": "01-sources/originals/SRC-ad738eac4c3d-pobierz-wszystko-a3b38326e2c8.zip",
+          "pobrano_at": "2026-09-26T16:07:46.769017+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/modules/mod_downloads/download.php?id=4131&source=grants",
+      "plik": "01-sources/originals/SRC-ad738eac4c3d-pobierz-wszystko-a3b38326e2c8.zip",
+      "sha256": "a3b38326e2c8e535bb6b2ad5e2d0c620edd7763943ad669cf2ab3833f3fe93d6",
+      "rozmiar": 2257491,
+      "mime": "application/zip",
+      "odczyt": "zawartosc-zweryfikowana",
+      "w_biezacej_paczce": true,
+      "przeglad": {
+        "zakres": "lista elementów i SHA-256 porównane z osobnymi załącznikami; brak dodatkowych plików"
+      },
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z5_do_Regulaminu-Umowa_o_dofinansowanie.pdf",
+      "tytul": "Wzór umowy o dofinansowanie projektu",
+      "nazwa_zrodlowa": "Z5_do_Regulaminu-Umowa_o_dofinansowanie.pdf",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Podpisywanie umowy / Załączniki do umowy",
+      "id": "SRC-f76bcd1c04a4",
+      "pobrano_at": "2026-09-26T16:07:47.762741+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "5f317352f4fc5f0eb6516a291425dd283008a0ceb6b0a1e7ba4629efd7aebefd",
+          "plik": "01-sources/originals/SRC-f76bcd1c04a4-wzor-umowy-o-dofinansowanie-projektu-5f317352f4fc.pdf",
+          "pobrano_at": "2026-09-26T15:42:57.677226+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Z5_do_Regulaminu-Umowa_o_dofinansowanie.pdf",
+      "plik": "01-sources/originals/SRC-f76bcd1c04a4-wzor-umowy-o-dofinansowanie-projektu-5f317352f4fc.pdf",
+      "sha256": "5f317352f4fc5f0eb6516a291425dd283008a0ceb6b0a1e7ba4629efd7aebefd",
+      "rozmiar": 715063,
+      "mime": "application/pdf",
+      "odczyt": "czesciowy",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 51,
+      "ekstrakt": "01-sources/text/SRC-f76bcd1c04a4.md",
+      "przeglad": {
+        "zakres": "postanowienia istotne dla planowania: terminy, VAT, koszty pośrednie, płynność, trwałość, ryzyka; reszta przed zawarciem umowy",
+        "strony": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          21,
+          23,
+          24,
+          25,
+          26,
+          41
+        ]
+      },
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z4_do_umowy_o_dofinansowanie-Przetwarzanie_danych_Klauzula_informacyjna.pdf",
+      "tytul": "Informacja o przetwarzaniu danych osobowych/ klauzula informacyjna",
+      "nazwa_zrodlowa": "Z4_do_umowy_o_dofinansowanie-Przetwarzanie_danych_Klauzula_informacyjna.pdf",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Podpisywanie umowy / Załączniki do umowy",
+      "id": "SRC-97575a93418d",
+      "pobrano_at": "2026-09-26T16:07:48.101320+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "8d5b323762535be885ae913baff432c9a41ce15c1854f3392c844b30589538cf",
+          "plik": "01-sources/originals/SRC-97575a93418d-informacja-o-przetwarzaniu-danych-osobowych-klauzula-informacyjna-8d5b32376253.pdf",
+          "pobrano_at": "2026-09-26T15:42:58.104790+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Z4_do_umowy_o_dofinansowanie-Przetwarzanie_danych_Klauzula_informacyjna.pdf",
+      "plik": "01-sources/originals/SRC-97575a93418d-informacja-o-przetwarzaniu-danych-osobowych-klauzula-informacyjna-8d5b32376253.pdf",
+      "sha256": "8d5b323762535be885ae913baff432c9a41ce15c1854f3392c844b30589538cf",
+      "rozmiar": 185297,
+      "mime": "application/pdf",
+      "odczyt": "odczytany",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 4,
+      "ekstrakt": "01-sources/text/SRC-97575a93418d.md",
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z5_do_umowy_o_dofinansowanie-Wyciag_z_Podrecznika_wnioskodawcy_i_beneficjenta_FEPW.pdf",
+      "tytul": "Wyciąg z Podręcznika wnioskodawcy i beneficjenta FEPW",
+      "nazwa_zrodlowa": "Z5_do_umowy_o_dofinansowanie-Wyciag_z_Podrecznika_wnioskodawcy_i_beneficjenta_FEPW.pdf",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Podpisywanie umowy / Załączniki do umowy",
+      "id": "SRC-a796058eec89",
+      "pobrano_at": "2026-09-26T16:07:48.248488+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "75f088a2ce91cafb4a569a6688832aaa22b468355d42c296dd1879f9b3eceaf6",
+          "plik": "01-sources/originals/SRC-a796058eec89-wyciag-z-podrecznika-wnioskodawcy-i-beneficjenta-fepw-75f088a2ce91.pdf",
+          "pobrano_at": "2026-09-26T15:42:58.294073+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Z5_do_umowy_o_dofinansowanie-Wyciag_z_Podrecznika_wnioskodawcy_i_beneficjenta_FEPW.pdf",
+      "plik": "01-sources/originals/SRC-a796058eec89-wyciag-z-podrecznika-wnioskodawcy-i-beneficjenta-fepw-75f088a2ce91.pdf",
+      "sha256": "75f088a2ce91cafb4a569a6688832aaa22b468355d42c296dd1879f9b3eceaf6",
+      "rozmiar": 499846,
+      "mime": "application/pdf",
+      "odczyt": "odczytany",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 7,
+      "ekstrakt": "01-sources/text/SRC-a796058eec89.md",
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z6_do_umowy_o_dofinansowanie-Wykaz_pomniejszen.pdf",
+      "tytul": "Wykaz pomniejszeń wartości dofinansowania Projektu w zakresie obowiązków komunikacyjnych",
+      "nazwa_zrodlowa": "Z6_do_umowy_o_dofinansowanie-Wykaz_pomniejszen.pdf",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Podpisywanie umowy / Załączniki do umowy",
+      "id": "SRC-c6f85b4b24d7",
+      "pobrano_at": "2026-09-26T16:07:48.517716+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "47e7a6d50bb417d62d2769a4d54c8e02cb3e5675adf5d4207b44d15286420cfb",
+          "plik": "01-sources/originals/SRC-c6f85b4b24d7-wykaz-pomniejszen-wartosci-dofinansowania-projektu-w-zakresie-obowiazkow-komunikacyjn-47e7a6d50bb4.pdf",
+          "pobrano_at": "2026-09-26T15:42:58.624162+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Z6_do_umowy_o_dofinansowanie-Wykaz_pomniejszen.pdf",
+      "plik": "01-sources/originals/SRC-c6f85b4b24d7-wykaz-pomniejszen-wartosci-dofinansowania-projektu-w-zakresie-obowiazkow-komunikacyjn-47e7a6d50bb4.pdf",
+      "sha256": "47e7a6d50bb417d62d2769a4d54c8e02cb3e5675adf5d4207b44d15286420cfb",
+      "rozmiar": 132554,
+      "mime": "application/pdf",
+      "odczyt": "odczytany",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 3,
+      "ekstrakt": "01-sources/text/SRC-c6f85b4b24d7.md",
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Zalacznik-7-do-Umowy-o-dofinansowanie-Rejestr-ryzyk-w-projekcie.pdf",
+      "tytul": "Rejestr ryzyk w projektach FEPW - wzór",
+      "nazwa_zrodlowa": "Zalacznik-7-do-Umowy-o-dofinansowanie-Rejestr-ryzyk-w-projekcie.pdf",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Podpisywanie umowy / Załączniki do umowy",
+      "id": "SRC-0a4035b30ea0",
+      "pobrano_at": "2026-09-26T16:07:48.641140+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "d4fa30d73e88e999a9aea1fab36e71f714c3cfebc6cfb975ea937cb0f77f80cc",
+          "plik": "01-sources/originals/SRC-0a4035b30ea0-rejestr-ryzyk-w-projektach-fepw-wzor-d4fa30d73e88.pdf",
+          "pobrano_at": "2026-09-26T15:42:58.718411+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/storage/grants/documents/1405/Zalacznik-7-do-Umowy-o-dofinansowanie-Rejestr-ryzyk-w-projekcie.pdf",
+      "plik": "01-sources/originals/SRC-0a4035b30ea0-rejestr-ryzyk-w-projektach-fepw-wzor-d4fa30d73e88.pdf",
+      "sha256": "d4fa30d73e88e999a9aea1fab36e71f714c3cfebc6cfb975ea937cb0f77f80cc",
+      "rozmiar": 129968,
+      "mime": "application/pdf",
+      "odczyt": "odczytany",
+      "w_biezacej_paczce": true,
+      "liczba_stron": 1,
+      "ekstrakt": "01-sources/text/SRC-0a4035b30ea0.md",
+      "przejrzano_at": "2026-09-26"
+    },
+    {
+      "url": "https://www.parp.gov.pl/modules/mod_downloads/download.php?id=4133&source=grants",
+      "tytul": "Pobierz wszystko",
+      "nazwa_zrodlowa": "download.php",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "sekcja": "Podpisywanie umowy / Załączniki do umowy",
+      "id": "SRC-fc4cebfd77cb",
+      "pobrano_at": "2026-09-26T16:07:48.759316+00:00",
+      "status": "pobrany",
+      "wersje": [
+        {
+          "sha256": "c0365bb2b82f0d5002ce285efd95823139488c50df9aae4c37a86e9fa5da6802",
+          "plik": "01-sources/originals/SRC-fc4cebfd77cb-pobierz-wszystko-c0365bb2b82f.zip",
+          "pobrano_at": "2026-09-26T15:42:58.860842+00:00"
+        },
+        {
+          "sha256": "72a9c627de8dcef4b8cb69588f4afb8dc964c5d6942d989368729d33edb6e3a6",
+          "plik": "01-sources/originals/SRC-fc4cebfd77cb-pobierz-wszystko-72a9c627de8d.zip",
+          "pobrano_at": "2026-09-26T16:07:48.759316+00:00"
+        }
+      ],
+      "url_koncowy": "https://www.parp.gov.pl/modules/mod_downloads/download.php?id=4133&source=grants",
+      "plik": "01-sources/originals/SRC-fc4cebfd77cb-pobierz-wszystko-72a9c627de8d.zip",
+      "sha256": "72a9c627de8dcef4b8cb69588f4afb8dc964c5d6942d989368729d33edb6e3a6",
+      "rozmiar": 867712,
+      "mime": "application/zip",
+      "odczyt": "zawartosc-zweryfikowana",
+      "w_biezacej_paczce": true,
+      "przeglad": {
+        "zakres": "lista elementów i SHA-256 porównane z osobnymi załącznikami; brak dodatkowych plików"
+      },
+      "przejrzano_at": "2026-09-26"
+    }
+  ],
+  "linki_do_sprawdzenia": [],
+  "rozpoznanie_ai": {
+    "schema_version": 1,
+    "url": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+    "tytul": "Platformy startowe — komponent IIb, nabór 002/26",
+    "kompletne": true,
+    "sprawdzono_at": "2026-09-26",
+    "sprawdzone_sekcje": [
+      "Start w naborze",
+      "Składanie wniosku o dofinansowanie",
+      "Podpisywanie umowy / Załączniki do umowy",
+      "Cel działania",
+      "Kto może otrzymać dofinansowanie",
+      "Na co i ile",
+      "Terminy",
+      "FAQ",
+      "Komunikaty",
+      "Wyniki i archiwum — rozróżniono wcześniejszy nabór 001/26"
+    ],
+    "dokumenty": [
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/OGLOSZENIE-O-NABORZE.pdf",
+        "tytul": "Ogłoszenie o naborze",
+        "nazwa_zrodlowa": "OGLOSZENIE-O-NABORZE.pdf",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Start w naborze"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Regulamin_wyboru_projektow_IIb.pdf",
+        "tytul": "Regulamin wyboru projektów",
+        "nazwa_zrodlowa": "Regulamin_wyboru_projektow_IIb.pdf",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Start w naborze"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Zalacznik_1_do_Regulaminu_Kryteria_wyboru_projektow.PDF",
+        "tytul": "Kryteria wyboru projektów",
+        "nazwa_zrodlowa": "Zalacznik_1_do_Regulaminu_Kryteria_wyboru_projektow.PDF",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Start w naborze"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z7_do_Regulaminu-Slownik.pdf",
+        "tytul": "Słowniczek",
+        "nazwa_zrodlowa": "Z7_do_Regulaminu-Slownik.pdf",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Start w naborze"
+      },
+      {
+        "url": "https://www.parp.gov.pl/modules/mod_downloads/download.php?id=4130&source=grants",
+        "tytul": "Pobierz wszystko",
+        "nazwa_zrodlowa": "download.php",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Start w naborze"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z2_DO_REGULAMINU-WZOR_WNIOSKU.pdf",
+        "tytul": "Wzór wniosku o dofinansowanie projektu",
+        "nazwa_zrodlowa": "Z2_DO_REGULAMINU-WZOR_WNIOSKU.pdf",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Składanie wniosku o dofinansowanie"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z3_DO_REGULAMINU-INSTRUKCJA_WYPELNIANIA_WNIOSKU.pdf",
+        "tytul": "Instrukcja wypełniania wniosku o dofinansowanie",
+        "nazwa_zrodlowa": "Z3_DO_REGULAMINU-INSTRUKCJA_WYPELNIANIA_WNIOSKU.pdf",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Składanie wniosku o dofinansowanie"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z4_do_Regulaminu-Model_finansowy_12_i_powyzej_12m_okres_realizacji.XLSX",
+        "tytul": "Wzór modelu finansowego (załącznik nr 1 do wniosku o dofinansowanie) okres 12 i powyżej miesięcy realizacji projektu",
+        "nazwa_zrodlowa": "Z4_do_Regulaminu-Model_finansowy_12_i_powyzej_12m_okres_realizacji.XLSX",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Składanie wniosku o dofinansowanie"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z4_do_Regulaminu-Model-finansowy_do_12_m-okres_realizacji.XLSX",
+        "tytul": "Wzór modelu finansowego (załącznik nr 1 do wniosku o dofinansowanie) okres do 12 miesięcy realizacji projektu",
+        "nazwa_zrodlowa": "Z4_do_Regulaminu-Model-finansowy_do_12_m-okres_realizacji.XLSX",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Składanie wniosku o dofinansowanie"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z4a_do-Regulaminu_Instrukcja_wypelniania_modelu_finansowego.pdf",
+        "tytul": "Instrukcja wypełniania modelu finansowego",
+        "nazwa_zrodlowa": "Z4a_do-Regulaminu_Instrukcja_wypelniania_modelu_finansowego.pdf",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Składanie wniosku o dofinansowanie"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z6_do_Regulaminu-KATALOG-WSPOLNYCH-OBSZAROW-RIS-PW.pdf",
+        "tytul": "Katalog wspólnych obszarów inteligentnych specjalizacji regionów Polski Wschodniej",
+        "nazwa_zrodlowa": "Z6_do_Regulaminu-KATALOG-WSPOLNYCH-OBSZAROW-RIS-PW.pdf",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Składanie wniosku o dofinansowanie"
+      },
+      {
+        "url": "https://www.parp.gov.pl/modules/mod_downloads/download.php?id=4131&source=grants",
+        "tytul": "Pobierz wszystko",
+        "nazwa_zrodlowa": "download.php",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Składanie wniosku o dofinansowanie"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z5_do_Regulaminu-Umowa_o_dofinansowanie.pdf",
+        "tytul": "Wzór umowy o dofinansowanie projektu",
+        "nazwa_zrodlowa": "Z5_do_Regulaminu-Umowa_o_dofinansowanie.pdf",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Podpisywanie umowy / Załączniki do umowy"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z4_do_umowy_o_dofinansowanie-Przetwarzanie_danych_Klauzula_informacyjna.pdf",
+        "tytul": "Informacja o przetwarzaniu danych osobowych/ klauzula informacyjna",
+        "nazwa_zrodlowa": "Z4_do_umowy_o_dofinansowanie-Przetwarzanie_danych_Klauzula_informacyjna.pdf",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Podpisywanie umowy / Załączniki do umowy"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z5_do_umowy_o_dofinansowanie-Wyciag_z_Podrecznika_wnioskodawcy_i_beneficjenta_FEPW.pdf",
+        "tytul": "Wyciąg z Podręcznika wnioskodawcy i beneficjenta FEPW",
+        "nazwa_zrodlowa": "Z5_do_umowy_o_dofinansowanie-Wyciag_z_Podrecznika_wnioskodawcy_i_beneficjenta_FEPW.pdf",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Podpisywanie umowy / Załączniki do umowy"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Z6_do_umowy_o_dofinansowanie-Wykaz_pomniejszen.pdf",
+        "tytul": "Wykaz pomniejszeń wartości dofinansowania Projektu w zakresie obowiązków komunikacyjnych",
+        "nazwa_zrodlowa": "Z6_do_umowy_o_dofinansowanie-Wykaz_pomniejszen.pdf",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Podpisywanie umowy / Załączniki do umowy"
+      },
+      {
+        "url": "https://www.parp.gov.pl/storage/grants/documents/1405/Zalacznik-7-do-Umowy-o-dofinansowanie-Rejestr-ryzyk-w-projekcie.pdf",
+        "tytul": "Rejestr ryzyk w projektach FEPW - wzór",
+        "nazwa_zrodlowa": "Zalacznik-7-do-Umowy-o-dofinansowanie-Rejestr-ryzyk-w-projekcie.pdf",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Podpisywanie umowy / Załączniki do umowy"
+      },
+      {
+        "url": "https://www.parp.gov.pl/modules/mod_downloads/download.php?id=4133&source=grants",
+        "tytul": "Pobierz wszystko",
+        "nazwa_zrodlowa": "download.php",
+        "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "sekcja": "Podpisywanie umowy / Załączniki do umowy"
+      }
+    ],
+    "pozostale_linki": [
+      {
+        "url": "https://pytania.parp.gov.pl/kategoria/na-start/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "status": "informacja",
+        "uzasadnienie": "FAQ komponentu IIb odczytano narzędziem web. Zawiera także starsze edycje (003/25 oraz terminy 11.12.2025–10.02.2026). Nie wyznacza terminów naboru 002/26.",
+        "snapshot": "01-sources/www/faq-d02032286070.html",
+        "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+        "status_snapshota": "ochrona-antybot",
+        "odczyt": "przeglad-web",
+        "notatka": "01-sources/faq.md"
+      },
+      {
+        "url": "https://www.parp.gov.pl/component/grants/newss/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+        "status": "informacja",
+        "uzasadnienie": "Informacje pomocnicze dla komponentu IIb; zapisany snapshot i tekst. Część odnosi się do wcześniejszych edycji.",
+        "snapshot": "01-sources/www/komunikaty-314f14949dfd.html",
+        "sha256": "314f14949dfd5bdbe3601c2b8b87eca0652c1fca06934c9d3cb797e0f3b3dd0d"
+      }
+    ],
+    "uwagi": [
+      "18 linków aktualnego naboru: 13 PDF, 2 XLSX, 3 ZIP. ZIP sprawdzono: brak dodatkowych dokumentów względem osobnych linków.",
+      "Pliki z sekcji Wyniki i archiwum dotyczą poprzednich edycji; nie stanowią źródła formularza 002/26."
+    ]
+  }
+}

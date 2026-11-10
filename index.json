@@ -2,5 +2,339 @@
   "schema_version": 1,
   "repository": "nestai-tools/grantoza-calls",
   "updated_at": "2026-11-10T17:11:01.566424+00:00",
-  "calls": []
+  "calls": [
+    {
+      "title": "FELD.13.01 — Zdolności przemysłowe dla obronności i technologii podwójnego zastosowania (001/26)",
+      "summary": "Rozwój zdolności przemysłowych dla obronności oraz technologii podwójnego zastosowania.",
+      "tags": [
+        "obronność",
+        "dual-use",
+        "B+R",
+        "inwestycje",
+        "Łódzkie"
+      ],
+      "official_url": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "organizer": "Centrum Obsługi Przedsiębiorcy w Łodzi",
+      "program": "Fundusze Europejskie dla Łódzkiego 2021–2027; działanie FELD.13.01 — Zdolności przemysłowe dla obronności i technologii podwójnego zastosowania",
+      "audience": {
+        "entity_types": [
+          "company",
+          "consortium"
+        ],
+        "company_sizes": [
+          "micro",
+          "small",
+          "medium",
+          "large"
+        ],
+        "regions": [
+          "województwo łódzkie"
+        ],
+        "eligibility_summary": "Duże przedsiębiorstwa; MŚP; Konsorcja naukowo-przemysłowe z rolą wiodącą przedsiębiorcy",
+        "evidence": {
+          "source": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+          "location": "Nagłówek — Dla"
+        }
+      },
+      "schedule": {
+        "announced_on": null,
+        "opens_on": "2026-09-30T08:00",
+        "closes_on": "2026-11-30T23:59",
+        "planned_announcement": null,
+        "planned_opening": null,
+        "timezone": null,
+        "note": "Na stronie podano daty i godziny bez jawnego wskazania strefy czasowej.",
+        "events": [
+          {
+            "kind": "opening",
+            "date": "2026-09-30T08:00",
+            "certainty": "confirmed",
+            "evidence": {
+              "source": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+              "location": "Sekcja 3. Termin składania wniosków"
+            }
+          },
+          {
+            "kind": "closing",
+            "date": "2026-11-30T23:59",
+            "certainty": "confirmed",
+            "evidence": {
+              "source": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+              "location": "Sekcja 3. Termin składania wniosków"
+            }
+          }
+        ],
+        "evidence": {
+          "source": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+          "location": "Sekcja 3. Termin składania wniosków"
+        }
+      },
+      "id": "2026-cop-lodzkie-feld-13-01-001",
+      "path": "calls/2026-cop-lodzkie-feld-13-01-001",
+      "call_version": "1.0.0",
+      "created_with_app_version": null,
+      "analyzed_with_app_version": null,
+      "packaged_with_app_version": "0.2.0",
+      "published_at": "2026-11-10T17:11:01.093984+00:00",
+      "compatibility": {
+        "call_format_version": 1,
+        "fields_schema_version": 2,
+        "min_app_version": "0.2.0",
+        "max_app_version_exclusive": null
+      },
+      "manifest_sha256": "bdfbf1b32ffaced5484226f466489b65e0af4430ad18e20d85b61cb227a10bc4"
+    },
+    {
+      "title": "Spark 4.0 / rethink — nabór do 30.09.2026",
+      "summary": "Rozwój i walidacja innowacyjnych rozwiązań gospodarki obiegu zamkniętego z Odbiorcą Technologii; pilotaż i perspektywa komercjalizacji.",
+      "tags": [
+        "startup",
+        "GOZ",
+        "akceleracja",
+        "FENG"
+      ],
+      "official_url": "https://startupspark.sse.lodz.pl/spark-4-0/",
+      "organizer": "Łódzka Specjalna Strefa Ekonomiczna S.A.",
+      "program": "FENG 2021–2027, działanie 2.28 Startup Booster Poland – Scale Up Green; Spark 4.0, edycja Rethink",
+      "audience": {
+        "entity_types": [
+          "company"
+        ],
+        "company_sizes": [
+          "micro",
+          "small"
+        ],
+        "regions": [
+          "Polska"
+        ],
+        "eligibility_summary": "Mikro- i małe spółki kapitałowe z siedzibą w Polsce, prowadzące działalność nie dłużej niż 5 lat i spełniające warunki art. 22 wskazane w regulaminie. Warunki podmiotowe weryfikowane na dzień umowy; karta oceny przewiduje też ocenę formalną zgłoszenia.",
+        "evidence": {
+          "source": "SRC-24d9e29a71fb",
+          "location": "s. 4–5, §3; karta oceny s. 1"
+        }
+      },
+      "schedule": {
+        "announced_on": null,
+        "opens_on": "2026-08-14",
+        "closes_on": "2026-09-30",
+        "planned_announcement": null,
+        "planned_opening": null,
+        "timezone": null,
+        "note": "Daty rundy ze strony. Godzina i strefa nie zostały podane; 30.12.2027 w regulaminie dotyczy całej rekrutacji programu.",
+        "events": [
+          {
+            "kind": "opening",
+            "date": "2026-08-14",
+            "certainty": "confirmed",
+            "evidence": {
+              "source": "https://startupspark.sse.lodz.pl/spark-4-0/",
+              "location": "Przycisk ZGŁOŚ SIĘ; regulamin s. 6 §4 ust. 2, 5–6"
+            }
+          },
+          {
+            "kind": "closing",
+            "date": "2026-09-30",
+            "certainty": "confirmed",
+            "evidence": {
+              "source": "https://startupspark.sse.lodz.pl/spark-4-0/",
+              "location": "Przycisk ZGŁOŚ SIĘ; regulamin s. 6 §4 ust. 2, 5–6"
+            }
+          }
+        ],
+        "evidence": {
+          "source": "https://startupspark.sse.lodz.pl/spark-4-0/",
+          "location": "Przycisk ZGŁOŚ SIĘ; regulamin s. 6 §4 ust. 2, 5–6"
+        }
+      },
+      "id": "2026-lsse-spark-4-rethink-202609",
+      "path": "calls/2026-lsse-spark-4-rethink-202609",
+      "call_version": "1.0.0",
+      "created_with_app_version": null,
+      "analyzed_with_app_version": null,
+      "packaged_with_app_version": "0.2.0",
+      "published_at": "2026-11-10T17:11:00.721071+00:00",
+      "compatibility": {
+        "call_format_version": 1,
+        "fields_schema_version": 2,
+        "min_app_version": "0.2.0",
+        "max_app_version_exclusive": null
+      },
+      "manifest_sha256": "1ab4374b7f12cee253af4852a61c92f11bcafae2c2cb0901978c1d3fa768e763"
+    },
+    {
+      "title": "INNOSTART — nabór 2/2026",
+      "summary": "Rozpoczęcie działalności innowacyjnej i zdobycie doświadczenia w B+R.",
+      "tags": [
+        "B+R",
+        "innowacje",
+        "MŚP",
+        "FENG",
+        "Innovation Coach"
+      ],
+      "official_url": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+      "organizer": "Narodowe Centrum Badań i Rozwoju",
+      "program": "FENG.02.20 — INNOSTART",
+      "audience": {
+        "entity_types": [
+          "company"
+        ],
+        "company_sizes": [
+          "micro",
+          "small",
+          "medium"
+        ],
+        "regions": [
+          "Polska"
+        ],
+        "eligibility_summary": "Mikro, małe i średnie przedsiębiorstwa po Innovation Coach, bez doświadczenia w projektach B+R finansowanych ze środków UE.",
+        "evidence": {
+          "source": "https://www.gov.pl/web/ncbr/innostart-nabor-2",
+          "location": "Opis naboru"
+        }
+      },
+      "schedule": {
+        "announced_on": "2026-08-13",
+        "opens_on": "2026-08-17",
+        "closes_on": "2026-09-30T16:00:00+02:00",
+        "planned_announcement": null,
+        "planned_opening": null,
+        "timezone": "Europe/Warsaw",
+        "note": "",
+        "events": [
+          {
+            "kind": "announcement",
+            "date": "2026-08-13",
+            "certainty": "confirmed",
+            "evidence": {
+              "source": "SRC-f764dfc4b0fd",
+              "location": "§1 ust. 7, s. 6"
+            }
+          },
+          {
+            "kind": "opening",
+            "date": "2026-08-17",
+            "certainty": "confirmed",
+            "evidence": {
+              "source": "SRC-f764dfc4b0fd",
+              "location": "§1 ust. 7, s. 6"
+            }
+          },
+          {
+            "kind": "closing",
+            "date": "2026-09-30T16:00:00+02:00",
+            "certainty": "confirmed",
+            "evidence": {
+              "source": "SRC-f764dfc4b0fd",
+              "location": "§1 ust. 7, s. 6"
+            }
+          }
+        ],
+        "evidence": {
+          "source": "SRC-f764dfc4b0fd",
+          "location": "§1 ust. 7, s. 6"
+        }
+      },
+      "id": "2026-ncbr-innostart-2",
+      "path": "calls/2026-ncbr-innostart-2",
+      "call_version": "1.0.0",
+      "created_with_app_version": null,
+      "analyzed_with_app_version": null,
+      "packaged_with_app_version": "0.2.0",
+      "published_at": "2026-11-10T17:10:59.715106+00:00",
+      "compatibility": {
+        "call_format_version": 1,
+        "fields_schema_version": 2,
+        "min_app_version": "0.2.0",
+        "max_app_version_exclusive": null
+      },
+      "manifest_sha256": "84bae700e603340762b39a36bd7462a868430ff33bbd26defcbe8e462b9148b0"
+    },
+    {
+      "title": "Platformy startowe — komponent IIb, nabór 002/26",
+      "summary": "Dalszy rozwój innowacyjnego produktu i skalowanie startupu po pierwszej sprzedaży w IIa",
+      "tags": [
+        "startup",
+        "skalowanie",
+        "FEPW",
+        "Polska Wschodnia"
+      ],
+      "official_url": "https://www.parp.gov.pl/component/grants/grants/platformy-startowe-dla-nowych-pomyslow-1-1-komponent-IIb",
+      "organizer": "Polska Agencja Rozwoju Przedsiębiorczości",
+      "program": "Fundusze Europejskie dla Polski Wschodniej 2021–2027; FEPW.01.01, komponent IIb",
+      "audience": {
+        "entity_types": [
+          "company"
+        ],
+        "company_sizes": [
+          "micro",
+          "small"
+        ],
+        "regions": [
+          "Polska Wschodnia",
+          "mazowiecki regionalny"
+        ],
+        "eligibility_summary": "Mikro i małe spółki kapitałowe po projekcie IIa, spełniające art. 22 ust. 2 GBER i warunki działalności w Polsce Wschodniej",
+        "evidence": {
+          "source": "SRC-894f1179eb3f",
+          "location": "s. 2"
+        }
+      },
+      "schedule": {
+        "announced_on": "2026-09-25",
+        "opens_on": "2026-10-06",
+        "closes_on": "2026-12-10T16:00:00+01:00",
+        "planned_announcement": null,
+        "planned_opening": null,
+        "timezone": "Europe/Warsaw",
+        "note": "",
+        "events": [
+          {
+            "kind": "announcement",
+            "date": "2026-09-25",
+            "certainty": "confirmed",
+            "evidence": {
+              "source": "SRC-894f1179eb3f",
+              "location": "s. 4"
+            }
+          },
+          {
+            "kind": "opening",
+            "date": "2026-10-06",
+            "certainty": "confirmed",
+            "evidence": {
+              "source": "SRC-894f1179eb3f",
+              "location": "s. 4"
+            }
+          },
+          {
+            "kind": "closing",
+            "date": "2026-12-10T16:00:00+01:00",
+            "certainty": "confirmed",
+            "evidence": {
+              "source": "SRC-894f1179eb3f",
+              "location": "s. 4"
+            }
+          }
+        ],
+        "evidence": {
+          "source": "SRC-894f1179eb3f",
+          "location": "s. 4"
+        }
+      },
+      "id": "2026-parp-platformy-startowe-iib-002",
+      "path": "calls/2026-parp-platformy-startowe-iib-002",
+      "call_version": "1.0.0",
+      "created_with_app_version": null,
+      "analyzed_with_app_version": null,
+      "packaged_with_app_version": "0.2.0",
+      "published_at": "2026-11-10T17:11:00.267847+00:00",
+      "compatibility": {
+        "call_format_version": 1,
+        "fields_schema_version": 2,
+        "min_app_version": "0.2.0",
+        "max_app_version_exclusive": null
+      },
+      "manifest_sha256": "7e23fdf81bacfeb4a58d2479bfe4fec8d4ab81d2d9adec6507c5da8e225c3ba7"
+    }
+  ]
 }

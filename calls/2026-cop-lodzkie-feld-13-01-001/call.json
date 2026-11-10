@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "id": "2026-cop-lodzkie-feld-13-01-001",
+  "tytul": "FELD.13.01 — Zdolności przemysłowe dla obronności i technologii podwójnego zastosowania (001/26)",
+  "url": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+  "etap": "gotowy-do-wypelniania",
+  "informacje": {
+    "organizator": {
+      "wartosc": "Centrum Obsługi Przedsiębiorcy w Łodzi",
+      "zrodlo": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "lokalizacja": "Tytuł strony i stopka serwisu"
+    },
+    "program": {
+      "wartosc": "Fundusze Europejskie dla Łódzkiego 2021–2027; działanie FELD.13.01 — Zdolności przemysłowe dla obronności i technologii podwójnego zastosowania",
+      "zrodlo": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "lokalizacja": "Nagłówek naboru; sekcja 6 — nazwa dokumentu kryteriów wyboru projektów"
+    },
+    "dla_kogo": {
+      "wartosc": [
+        "Duże przedsiębiorstwa",
+        "MŚP",
+        "Konsorcja naukowo-przemysłowe z rolą wiodącą przedsiębiorcy"
+      ],
+      "zrodlo": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "lokalizacja": "Nagłówek — Dla"
+    },
+    "cel": {
+      "wartosc": "Rozwój zdolności przemysłowych dla obronności oraz technologii podwójnego zastosowania.",
+      "zrodlo": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "lokalizacja": "Nagłówek i sekcja 1. Na co można otrzymać dofinansowanie"
+    },
+    "na_co": {
+      "wartosc": {
+        "typy": [
+          "Inwestycje produkcyjne w przedsiębiorstwach w technologie, produkty lub procesy istotne dla zdolności obronnych lub odporności, w tym dual-use.",
+          "Projekty badawczo-rozwojowe przedsiębiorstw na poziomach TRL 4–9, samodzielnie lub we współpracy z organizacjami badawczymi."
+        ],
+        "liczba_typow_w_jednym_projekcie": 1,
+        "minimalna_wartosc_projektu": {
+          "kwota": 1000000,
+          "waluta": "PLN"
+        },
+        "uwaga": "Szczegółowe kategorie i wyłączenia obu typów: regulamin §10 oraz 02-analysis/requirements.md."
+      },
+      "zrodlo": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "lokalizacja": "Sekcja 1. Na co można otrzymać dofinansowanie"
+    },
+    "obszar": {
+      "wartosc": {
+        "program_regionalny": "województwo łódzkie",
+        "szczegolowe_warunki_miejsca_realizacji": "Projekt w województwie łódzkim. W typie2 każdy przedsiębiorca konsorcjum musi mieć w regionie siedzibę, oddział albo stałe miejsce wykonywania działalności na dzień złożenia wniosku."
+      },
+      "zrodlo": "SRC-4a7345621b47",
+      "lokalizacja": "§9; kryteria lokalizacji"
+    },
+    "budzet_naboru": {
+      "wartosc": {
+        "kwota": 90086862.97,
+        "waluta": "PLN"
+      },
+      "zrodlo": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "lokalizacja": "Sekcja 5. Finanse"
+    },
+    "maksymalne_wsparcie": {
+      "wartosc": {
+        "procent_kosztow_kwalifikowalnych": 85,
+        "kwota": null,
+        "waluta": "PLN",
+        "EFRR_procent": 85,
+        "budzet_panstwa_procent": 0,
+        "uwaga": "85% jest poziomem ogólnym. Właściwa intensywność zależy od pomocy, typu prac i wielkości podmiotu: typ1 bazowo40/50/60%, B+R według §12; organizacja badawcza przy działalności niegospodarczej do100%. Zobacz REQ-006–008."
+      },
+      "zrodlo": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "lokalizacja": "Sekcja 5. Finanse",
+      "zrodla_uzupelniajace": [
+        {
+          "id": "SRC-4a7345621b47",
+          "lokalizacja": "§12"
+        }
+      ]
+    },
+    "wklad_wlasny": {
+      "wartosc": {
+        "minimalny_procent_przy_maksymalnym_wsparciu": 15,
+        "charakter": "Co najmniej 15% wydatków kwalifikowalnych wolne od wsparcia publicznego oraz pokrycie niekwalifikowalnych. Intensywność pomocy może wymagać wyższego wkładu."
+      },
+      "zrodlo": "SRC-4a7345621b47",
+      "lokalizacja": "§12 ust.21"
+    },
+    "terminy": {
+      "wartosc": {
+        "od": "2026-09-30",
+        "godzina_rozpoczecia": "08:00",
+        "do": "2026-11-30",
+        "godzina_zakonczenia": "23:59",
+        "strefa_czasowa": null,
+        "uwaga": "Na stronie podano daty i godziny bez jawnego wskazania strefy czasowej."
+      },
+      "zrodlo": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "lokalizacja": "Sekcja 3. Termin składania wniosków"
+    },
+    "sposob_zlozenia": {
+      "wartosc": {
+        "portal": "WOD2021 / CST2021",
+        "url": "https://wod.cst2021.gov.pl",
+        "wylacznie_elektronicznie": true,
+        "formularz_online_odczytany": false,
+        "wzor_formularza_pobrany": true,
+        "uwaga": "Formularz i załączniki składane przez WOD2021. Wnioski poza systemem nie podlegają ocenie. Link na stronie zawiera końcową kropkę; w adresie użytkowym pominięto tę literówkę."
+      },
+      "zrodlo": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "lokalizacja": "Sekcja 2. Sposób składania wniosków"
+    },
+    "kontakt": {
+      "wartosc": {
+        "PIFE_Lodz": {
+          "adres": "ul. Moniuszki 7/9, 90-101 Łódź",
+          "telefony": [
+            "42 663 31 07",
+            "42 663 34 05",
+            "42 291 97 60"
+          ],
+          "email": "PIFE.Lodz@lodzkie.pl"
+        },
+        "PIFE_Belchatow": {
+          "adres": "ul. Lecha i Marii Kaczyńskich 4, 97-400 Bełchatów",
+          "telefony": [
+            "44 754 78 07",
+            "690 600 586"
+          ],
+          "email": "PIFE.Belchatow@lodzkie.pl"
+        }
+      },
+      "zrodlo": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "lokalizacja": "Sekcja kontaktowa — Sieć Punktów Informacyjnych Funduszy Europejskich"
+    }
+  },
+  "rozbieznosci": [
+    {
+      "obszar": "Link do generatora",
+      "zrodlo": "https://cop.lodzkie.pl/rekrutacje/feld-13-01-ip-02-001-26/",
+      "lokalizacja": "Sekcja 2. Sposób składania wniosków",
+      "wartosc_zrodlowa": "https://wod.cst2021.gov.pl.",
+      "wartosc_uzytkowa": "https://wod.cst2021.gov.pl",
+      "uwaga": "Korekta końcowej kropki w adresie. Nie zmieniano kopii strony źródłowej."
+    }
+  ],
+  "analiza": {
+    "fingerprint_zrodel": "631adeb657b8617534d10da77e62af92df6bc805883658ead5d4bf327b754452",
+    "liczba_pol": 306,
+    "liczba_plikow_specyfikacji": 306,
+    "liczba_formularzy": 15,
+    "liczba_szablonow_kart": 14,
+    "liczba_kryteriow": 59,
+    "liczba_wymagan": 28,
+    "blokery": [],
+    "zakres": "Paczka dokumentów pobrana30.09.2026; wzór PDF i instrukcja. WOD2021 po zalogowaniu nie sprawdzany.",
+    "nieodczytane_zrodla": [],
+    "zrodla_czesciowo_odczytane": [
+      {
+        "id": "SRC-195010cbdc2d",
+        "zakres": "Terminy, kwoty, typy i sposób złożenia; porównanie ze stroną naboru."
+      },
+      {
+        "id": "SRC-4a7345621b47",
+        "zakres": "Warunki beneficjentów, typów, lokalizacji, wydatków, finansowania i oceny (§7–20); pozostałe postanowienia administracyjne do ponownego sprawdzenia przy składaniu."
+      },
+      {
+        "id": "SRC-2f3214a336b9",
+        "zakres": "Rozpoznano strukturę wzoru i wymagalność z instrukcji. Oświadczenia w oryginalnym DOCX wymagają odczytu i wypełnienia dla konkretnego wnioskodawcy; nie zastąpiono ich polami TAK/NIE."
+      },
+      {
+        "id": "SRC-4f89bb5c8738",
+        "zakres": "Inwentaryzacja wszystkich arkuszy, komórek wejściowych i formuł XML; kontrola jednostek, roku bazowego i kluczowych formuł. Bez wykonywania makr i pełnego przeliczenia; spreadsheet-check.json."
+      },
+      {
+        "id": "SRC-2979100954ab",
+        "zakres": "Inwentaryzacja wszystkich arkuszy, komórek wejściowych i formuł XML; kontrola jednostek, roku bazowego i kluczowych formuł. Bez wykonywania makr i pełnego przeliczenia; spreadsheet-check.json."
+      },
+      {
+        "id": "SRC-736266770738",
+        "zakres": "Rozpoznano strukturę wzoru i wymagalność z instrukcji. Oświadczenia w oryginalnym DOCX wymagają odczytu i wypełnienia dla konkretnego wnioskodawcy; nie zastąpiono ich polami TAK/NIE."
+      },
+      {
+        "id": "SRC-7f45004d5aab",
+        "zakres": "Rozpoznano strukturę wzoru i wymagalność z instrukcji. Oświadczenia w oryginalnym DOCX wymagają odczytu i wypełnienia dla konkretnego wnioskodawcy; nie zastąpiono ich polami TAK/NIE."
+      },
+      {
+        "id": "SRC-2275549d9dec",
+        "zakres": "Rozpoznano strukturę wzoru i wymagalność z instrukcji. Oświadczenia w oryginalnym DOCX wymagają odczytu i wypełnienia dla konkretnego wnioskodawcy; nie zastąpiono ich polami TAK/NIE."
+      },
+      {
+        "id": "SRC-fa5d8af7a572",
+        "zakres": "Rozpoznano strukturę wzoru i wymagalność z instrukcji. Oświadczenia w oryginalnym DOCX wymagają odczytu i wypełnienia dla konkretnego wnioskodawcy; nie zastąpiono ich polami TAK/NIE."
+      },
+      {
+        "id": "SRC-17b93fd509a7",
+        "zakres": "Rozpoznano strukturę wzoru i wymagalność z instrukcji. Oświadczenia w oryginalnym DOCX wymagają odczytu i wypełnienia dla konkretnego wnioskodawcy; nie zastąpiono ich polami TAK/NIE."
+      },
+      {
+        "id": "SRC-054f556443d1",
+        "zakres": "Interpretacja pól i wskaźników s.7–21, kluczowe definicje wskaźników, tasks/budżet/źródła i załączniki s.59–89. Szczegółową definicję każdego wybranego wskaźnika należy ponownie sprawdzić przy pisaniu."
+      },
+      {
+        "id": "SRC-89ed20fe8442",
+        "zakres": "Jednostki, okresy, warianty i pola wejściowe s.3–7 oraz wyszukanie kluczowych formuł. Szczegółowe pozycje rachunkowe do kontroli z księgowością."
+      },
+      {
+        "id": "SRC-0f36d16a8f14",
+        "zakres": "Wartość i finansowanie projektu §2–4, s.7–9. Pełne obowiązki realizacji, rozliczania i trwałości wymagają oddzielnego przeglądu przed podpisaniem umowy."
+      },
+      {
+        "id": "SRC-1430f88d0eb0",
+        "zakres": "Zasady ogólne VAT i limitów s.12–14 oraz pełny właściwy rozdział FELD.13.01 s.234–241; inne działania nie są podstawą tego naboru."
+      },
+      {
+        "id": "SRC-9fa2beb5c8a8",
+        "zakres": "Próg studium s.1–2 i struktura finansów/DCF/trwałości; dobór szczegółowej metody wymaga zakresu projektu."
+      },
+      {
+        "id": "SRC-4c1f7e3f5a7d",
+        "zakres": "Zidentyfikowany formularz protestu; nie dotyczy struktury składanego wniosku."
+      },
+      {
+        "id": "SRC-64ab2cf1d24b",
+        "zakres": "Tabela gmin wykorzystywana jako źródło punktacji; lokalizację i populację konkretnego projektu trzeba sprawdzić przy pisaniu."
+      }
+    ],
+    "zakonczono_at": "2026-09-30T19:27:40.404899+00:00"
+  }
+}

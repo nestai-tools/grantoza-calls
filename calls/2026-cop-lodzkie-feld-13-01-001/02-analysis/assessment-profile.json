@@ -1,0 +1,400 @@
+{
+  "schema_version": 1,
+  "id": "feld-13-01-001-26",
+  "wersja": 1,
+  "nabor_id": "2026-cop-lodzkie-feld-13-01-001",
+  "nazwa": "FELD.13.01 — ocena formalna i merytoryczna WOD2021 dla typu 1 i typu 2",
+  "zrodla_sha256": {
+    "SRC-195010cbdc2d": "940834818d6cd2c4063475c16ebc27fce9571693e355cd130b64ed65925363a1",
+    "SRC-4a7345621b47": "3916d47dee550a96851011281d40e901a8375eef4f7268442f48d515bcf82713",
+    "SRC-3bb8a4ab722f": "dc527c9da0364dd2b5bc2d3d488e9304fcb00a63c66a431fb65331e5cddd5114",
+    "SRC-2f3214a336b9": "441a869d3beb952c7368371e6ead1963cedd327f52f46ffef1d648a64b31c9b5",
+    "SRC-4f89bb5c8738": "4aa441d5a659e116ed1ad7ce33f522a828ed97dc8fb68a85de783fc6b6e1f458",
+    "SRC-2979100954ab": "69a31fedb61bc1ce30ee38280ecc6d87b470e135310c9e6822bff95975538119",
+    "SRC-e26dda651c79": "e877b05c715d09e562c841e8087b78e02b44a95b22ff0af99176ad785ab8cbf4",
+    "SRC-998c83996317": "5db5cdea11ff772d1e60c241031341e86f153db2812250060166b8c9bbd21769",
+    "SRC-736266770738": "8379d83587ce5941234f37c14dcef6dcfb5a4dc1eba92fb12bfd673799c09eb1",
+    "SRC-7f45004d5aab": "c5f57e49e1d7a35880b123beea75c47849c7023c850b4c0afa707a8554f64f38",
+    "SRC-094d5cc5a4a6": "14446c4817432fee09e9fbd241413a107e9344b37bddba2091d3893eaad370d8",
+    "SRC-2275549d9dec": "327868f47aeb4fb14add3021d4cb26e986c0dca29873bc08a38a9ca5c85896fe",
+    "SRC-fa5d8af7a572": "4c1dffc767234dfe08943e1aeb3fe84f522b97b02d910080ff961472af392129",
+    "SRC-17b93fd509a7": "baf809ee6ceb987fdc8b71c2a973e7e9de7e95ca6f5040a0c2b79e860c618e29",
+    "SRC-f0a0f90dc962": "873886456a7e7c12e45ae2b0cc3da1a5964ad081fe5d0e42df5fa80ce1b59e2d",
+    "SRC-ffac00590e4b": "30320b9d5bb8e64968a081f46792596bf4312f55953dbf21c405dc249e02d98a",
+    "SRC-054f556443d1": "03cb5667850a29dd44d51fed8333ba5c5b46a52d69317fbb5d1c78409b79bfd5",
+    "SRC-89ed20fe8442": "b1c2c02daf085bb1937a76eb1458ebcca736c4d532438b75a0dd9c8148969e9c",
+    "SRC-0f36d16a8f14": "fac05866487e5477ffa9a6cfa169eedb7e5b79978ce8f196b0a84f29137b5fb3",
+    "SRC-38380985741d": "c2dad7d470c87f7f7f9abb2f75af33dd71bfb60f5970d94a63e2133f110044bd",
+    "SRC-1430f88d0eb0": "e78c0f918bdc1daddf1aa09515838ce1b723b956c32f859758a899a5422f9619",
+    "SRC-53e7742cd689": "5efa458a085ba6416eef0a4ad3946fcc25e2565d37b6d29600bb795008821550",
+    "SRC-9fa2beb5c8a8": "c1e6ed0ad14426eda29d03169e41b75b7bb742b292e87cd74a2cfb0c1142eaf3",
+    "SRC-4c1f7e3f5a7d": "3e82a1c8c2b1956860a8e122e14cb18e6b6711d2866e2be59a0349fd13d81a84",
+    "SRC-64ab2cf1d24b": "2a704a0a14b6f93d826606fa17ab8107aebe511d9d5d3f0236c4bfea70cceabb",
+    "SRC-1a7961e08c4f": "683ac0c01a7c16e12bae8ae2070d2498e7fb53d4a1b508e8648f32ece59bc8a7"
+  },
+  "wejscie": {
+    "instrukcja": "Oceniaj uzasadnienie aspektów według źródeł dla FELD.13.01-IP.02-001/26. Najpierw odczytaj typ projektu. Typ 1 to inwestycja produkcyjna z załącznikiem 11; typ 2 to B+R TRL 4–9 z agendą nr 15. Nie wymagaj drugiego wariantu. Opcja wyboru jest kompletną odpowiedzią w polu wyboru; uzasadnienia są w osobnych polach. Wskaźniki, zadania i koszty mają powtarzalne karty — uwzględniaj wszystkie instancje. Zapisanie planu dołączenia załącznika pomija go w roboczej kompletności, ale nie dowodzi treści, podpisu ani złożenia. Nie wyciągaj negatywnej oceny z braku danych, które znajdują się w innej części: oznacz brak kontekstu. W szczególności oryginalne XLSM/DOCX, dokumenty finansowe i rejestry wymagają osobnego odczytu. Kwoty WOD są w PLN, finansowe XLSM w tys. PLN. Nie nazywaj analizy potwierdzeniem kwalifikowalności lub punktacją instytucji.",
+    "pola_kontekstu": [
+      "Q-171",
+      "Q-013",
+      "Q-027",
+      "Q-003",
+      "Q-004",
+      "Q-095",
+      "Q-102",
+      "Q-109"
+    ],
+    "powiazania": true,
+    "krotka_odpowiedz_max": 250,
+    "budzet_powiazan": 18000
+  },
+  "wyjscie": {
+    "odpowiedz": {
+      "typ": "choice",
+      "warianty": {
+        "supported": {
+          "opis": "Uzasadnione",
+          "status": "supported"
+        },
+        "partial": {
+          "opis": "Częściowo uzasadnione",
+          "status": "partial"
+        },
+        "missing": {
+          "opis": "Brak wymaganej treści",
+          "status": "missing"
+        },
+        "contradicted": {
+          "opis": "Sprzeczność",
+          "status": "contradicted"
+        },
+        "not_applicable": {
+          "opis": "Nie dotyczy",
+          "status": "not_applicable"
+        },
+        "insufficient_context": {
+          "opis": "Brak wystarczającego kontekstu",
+          "status": "insufficient_context"
+        }
+      }
+    },
+    "etykiety": {
+      "supported": "Uzasadnione",
+      "partial": "Częściowo uzasadnione",
+      "missing": "Brak wymaganej treści",
+      "contradicted": "Sprzeczność",
+      "not_applicable": "Nie dotyczy",
+      "insufficient_context": "Brak wystarczającego kontekstu"
+    },
+    "agregacja": "kryteria"
+  },
+  "kryteria": {
+    "F-01": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "F-02": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. Bez odczytanej zawartości załącznika nie uznawaj, że nazwa pliku dowodzi spełnienia. Plan dołączenia nie powinien generować fałszywego braku narracji.",
+      "pola_kontekstu": []
+    },
+    "F-03": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "F-04": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "F-05": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "F-06": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "F-07": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "F-08": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "F-09": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "F-10": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "F-11": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. Wzór wymaga celu ONZ 4, instrukcja celu 9. Zgłoś rozbieżność źródeł, nie oskarżaj autora o sprzeczność. Roboczo omów obie kwestie adekwatnie do projektu.",
+      "pola_kontekstu": []
+    },
+    "F-12": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. To sprawdzenie wymaga oryginalnego dokumentu, podpisu lub rejestru; nie rozstrzygaj go probabilistycznie z opisu.",
+      "pola_kontekstu": []
+    },
+    "F-13": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "M-01": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "M-02": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "M-03": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "M-04": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. Bez odczytanej zawartości załącznika nie uznawaj, że nazwa pliku dowodzi spełnienia. Plan dołączenia nie powinien generować fałszywego braku narracji.",
+      "pola_kontekstu": []
+    },
+    "M-05": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "M-06": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "M-07": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "M-08": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. Lista 27 wskaźników jest nazwana obligatoryjną, lecz instrukcja nakazuje dobór według adekwatności. Nie oceniaj automatycznie braku każdej pozycji jako błędu.",
+      "pola_kontekstu": []
+    },
+    "M-09": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. To sprawdzenie wymaga oryginalnego dokumentu, podpisu lub rejestru; nie rozstrzygaj go probabilistycznie z opisu.",
+      "pola_kontekstu": []
+    },
+    "M-10": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "M-11": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. To sprawdzenie wymaga oryginalnego dokumentu, podpisu lub rejestru; nie rozstrzygaj go probabilistycznie z opisu.",
+      "pola_kontekstu": []
+    },
+    "G-01": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. Bez odczytanej zawartości załącznika nie uznawaj, że nazwa pliku dowodzi spełnienia. Plan dołączenia nie powinien generować fałszywego braku narracji.",
+      "pola_kontekstu": []
+    },
+    "G-02": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "G-03": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "G-04": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "G-05": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "G-06": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "D1-01": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "D1-02": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "D1-03": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "D1-04": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "P1-01": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "P1-02": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "P1-03": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "P1-04": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "P1-05": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. Bez odczytanej zawartości załącznika nie uznawaj, że nazwa pliku dowodzi spełnienia. Plan dołączenia nie powinien generować fałszywego braku narracji.",
+      "pola_kontekstu": []
+    },
+    "P1-06": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. Bez odczytanej zawartości załącznika nie uznawaj, że nazwa pliku dowodzi spełnienia. Plan dołączenia nie powinien generować fałszywego braku narracji.",
+      "pola_kontekstu": []
+    },
+    "P1-07": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "P1-08": {
+      "tryb": "formularz",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. Odczytaj wartość wielkości przedsiębiorstwa bez żądania narracji w tym polu; dane i relacje są w załączniku 14.",
+      "pola_kontekstu": []
+    },
+    "P1-09": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "P1-10": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 1. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "D2-01": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "D2-02": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "D2-03": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "D2-04": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "D2-05": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "D2-06": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. ",
+      "pola_kontekstu": []
+    },
+    "P2-01": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "P2-02": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "P2-03": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. Bez odczytanej zawartości załącznika nie uznawaj, że nazwa pliku dowodzi spełnienia. Plan dołączenia nie powinien generować fałszywego braku narracji.",
+      "pola_kontekstu": []
+    },
+    "P2-04": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. Dopuszczalna skala to 14 albo 20, bez poziomów pośrednich. Spełnienie D2-04 jest warunkiem 14.",
+      "pola_kontekstu": []
+    },
+    "P2-05": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "P2-06": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "P2-07": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "P2-08": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    },
+    "P2-09": {
+      "tryb": "model",
+      "instrukcja": "Dotyczy wyłącznie typu 2. Jeśli wybrano drugi typ — nie dotyczy. Brak wybranego typu oznacza brak kontekstu. Oceniaj każdy aspekt według pełnej definicji źródłowej. Brak przesłanek do dodatkowych punktów nie zawsze blokuje dostęp. Nie przeliczaj statusów ani prawdopodobieństw na oficjalne punkty. ",
+      "pola_kontekstu": []
+    }
+  },
+  "spojnosc": {
+    "aspekty": [
+      "Jeden typ projektu i ten sam główny produkt/rezultat w streszczeniu, załączniku 11 albo agendzie, zadaniach i wskaźnikach.",
+      "Daty zadań i etapów mieszczą się w projekcie i są zgodne z efektem zachęty.",
+      "Kwoty pozycji, podsumowań, źródeł finansowania oraz modeli są zgodne po przeliczeniu PLN/tys. PLN.",
+      "Budżet, realizatorzy i wkład merytoryczny są spójne z partnerstwem i limitami podwykonawstwa.",
+      "Wartości wskaźników mają mierzalną podstawę i właściwy podział płci tylko dla RCR001.",
+      "Dane o nieruchomościach, pozwoleniach, dostępności i DNSH są spójne."
+    ],
+    "pola_kontekstu": []
+  },
+  "analiza_poglebiona": "Przygotuj ocenę ogólną całego wniosku i konkretne rekomendacje zmian w Markdown. Uwzględnij wyniki Systemu Oceniającego, sprawdzając możliwe fałszywe alarmy na podstawie pełnych odpowiedzi i wybranego typu projektu. Rozdziel blokery dostępu od potencjalnych braków punktowych i braków dokumentów zewnętrznych. Zachowaj minimum 16 punktów łącznie, P2-04 minimum 14, skale i dwustopniowe remisy. Sprawdź SAFE, bezpośredniość zastosowania obronnego, mierzalny przyrost lub rzeczywiste B+R, prawa do wyników, realne wdrożenie, budżet i finansowanie. Uwzględnij rozbieżności źródeł (cele ONZ 4/9, koszty pośrednie, progi studium, urwane P1-07); nie rozstrzygaj ich bez podstawy. Rekomendacja ma zawierać priorytet, kryterium, Q-ID/instancję, plik, problem, proponowaną zmianę i sposób weryfikacji. Nie zmieniaj samodzielnie odpowiedzi, nie wymyślaj danych przedsiębiorcy ani dowodów. Ocena obejmuje jakość treści; nie potwierdza podpisów, faktów rejestrowych czy formalnego złożenia."
+}
