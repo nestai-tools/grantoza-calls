@@ -1,0 +1,83 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Grantoza public call catalogue v1",
+  "type": "object",
+  "required": ["schema_version", "repository", "updated_at", "calls"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "repository": {"const": "nestai-tools/grantoza-calls"},
+    "updated_at": {"type": "string", "minLength": 10},
+    "calls": {"type": "array", "maxItems": 5000, "items": {"$ref": "#/$defs/call"}}
+  },
+  "$defs": {
+    "version": {"type": "string", "pattern": "^(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)$"},
+    "optionalVersion": {"anyOf": [{"$ref": "#/$defs/version"}, {"type": "null"}]},
+    "evidence": {
+      "type": "object", "required": ["source", "location"],
+      "properties": {"source": {"type": ["string", "null"]}, "location": {"type": ["string", "null"]}}
+    },
+    "event": {
+      "type": "object", "required": ["kind", "date", "certainty", "evidence"],
+      "properties": {
+        "kind": {"enum": ["announcement", "opening", "closing", "results", "other"]},
+        "date": {"type": "string", "pattern": "^\\d{4}-\\d{2}(-\\d{2})?([T ].+)?$"},
+        "certainty": {"enum": ["confirmed", "planned"]},
+        "label": {"type": "string"},
+        "evidence": {"$ref": "#/$defs/evidence"}
+      }
+    },
+    "call": {
+      "type": "object",
+      "required": ["id", "title", "summary", "tags", "official_url", "organizer", "program", "audience", "schedule", "path", "call_version", "created_with_app_version", "analyzed_with_app_version", "packaged_with_app_version", "compatibility", "manifest_sha256", "published_at"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+        "title": {"type": "string", "minLength": 1, "maxLength": 500},
+        "summary": {"type": "string", "minLength": 1, "maxLength": 3000},
+        "tags": {"type": "array", "maxItems": 30, "uniqueItems": true, "items": {"type": "string", "minLength": 1, "maxLength": 80}},
+        "official_url": {"type": ["string", "null"], "pattern": "^https?://"},
+        "organizer": {"type": ["string", "null"]},
+        "program": {"type": ["string", "null"]},
+        "audience": {
+          "type": "object", "required": ["entity_types", "company_sizes", "regions", "eligibility_summary", "evidence"],
+          "properties": {
+            "entity_types": {"type": "array", "uniqueItems": true, "items": {"enum": ["company", "consortium", "research_organization", "ngo", "individual", "public_entity", "other"]}},
+            "company_sizes": {"type": "array", "uniqueItems": true, "items": {"enum": ["micro", "small", "medium", "large", "small_mid_cap", "mid_cap"]}},
+            "regions": {"type": "array", "items": {"type": "string"}},
+            "eligibility_summary": {"type": "string", "maxLength": 5000},
+            "evidence": {"$ref": "#/$defs/evidence"}
+          }
+        },
+        "schedule": {
+          "type": "object", "required": ["announced_on", "opens_on", "closes_on", "planned_announcement", "planned_opening", "timezone", "events", "evidence"],
+          "properties": {
+            "announced_on": {"type": ["string", "null"]},
+            "opens_on": {"type": ["string", "null"]},
+            "closes_on": {"type": ["string", "null"]},
+            "planned_announcement": {"type": ["string", "null"]},
+            "planned_opening": {"type": ["string", "null"]},
+            "timezone": {"type": ["string", "null"]},
+            "note": {"type": "string"},
+            "events": {"type": "array", "items": {"$ref": "#/$defs/event"}},
+            "evidence": {"$ref": "#/$defs/evidence"}
+          }
+        },
+        "path": {"type": "string", "pattern": "^calls/[a-z0-9-]+$"},
+        "call_version": {"$ref": "#/$defs/version"},
+        "created_with_app_version": {"$ref": "#/$defs/optionalVersion"},
+        "analyzed_with_app_version": {"$ref": "#/$defs/optionalVersion"},
+        "packaged_with_app_version": {"$ref": "#/$defs/version"},
+        "published_at": {"type": "string"},
+        "manifest_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+        "compatibility": {
+          "type": "object", "required": ["call_format_version", "fields_schema_version", "min_app_version", "max_app_version_exclusive"],
+          "properties": {
+            "call_format_version": {"type": "integer", "minimum": 1},
+            "fields_schema_version": {"type": "integer", "minimum": 1},
+            "min_app_version": {"$ref": "#/$defs/version"},
+            "max_app_version_exclusive": {"$ref": "#/$defs/optionalVersion"}
+          }
+        }
+      }
+    }
+  }
+}
