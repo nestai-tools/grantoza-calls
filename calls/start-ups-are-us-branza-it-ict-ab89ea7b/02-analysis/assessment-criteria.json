@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "nabor_id": "start-ups-are-us-branza-it-ict-ab89ea7b",
+  "zakres": "Dziewięć kryteriów z przekazanego załącznika nr 3 i zasad RNU dla branży IT/ICT; analiza tekstowa bez oceny firmy i bez odświeżenia źródeł publicznych.",
+  "uwagi": ["Klasyfikacja dostępu i merytoryczna jest porządkowa; zachowano oficjalne numery kryteriów.", "Numery naboru w dokumentach są rozbieżne; nie potwierdzono ich ujednolicenia.", "K-02 ma status sprzeczne: ogłoszenie stosuje pełne lata obrotowe, RNU i kryteria lata od rejestracji. Nie kierować tego kryterium do oceny modelu jako rozstrzygniętej reguły.", "K-01 zachowuje definicję z kryteriów i RNU; dodatkowy zapis strony o miejscu zamieszkania osoby w CEIDG wymaga wyjaśnienia zewnętrznego.", "Przepisy przywołane w K-04 nie zostały dostarczone w pełnym tekście; odczyt deklaracji nie jest kontrolą prawną.", "Powiązania z polami są interpretacją analizy. Załącznik wskazany w polu nie oznacza odczytania ani potwierdzenia jego zawartości.", "PPTX jest roboczą częścią wspólną rozbieżnych wymagań formatu prezentacji; nie rozstrzygnięto dopuszczalności PDF i PPT.", "Nie podano dalszego rozstrzygnięcia remisu po porównaniu K-07, K-08 i K-09."],
+  "zasady_laczne": {
+    "maksimum_wszystkie_kryteria": 24,
+    "maksimum_kryteria_5_9": 20,
+    "minimum_sumy_kryteria_5_9": 7,
+    "wymagane_minima": {"K-01": 1, "K-02": 1, "K-03": 1, "K-04": 1, "K-07": 1, "K-08": 1, "K-09": 1},
+    "zerowanie": ["0 w dowolnym K-01–K-04 powoduje 0 w K-05–K-09 i brak rozmowy kwalifikacyjnej.", "0 w K-07 powoduje 0 w K-08 i K-09.", "Brak udziału w rozmowie, brak wymaganej zgody na jej rejestrację lub niedopuszczenie przedstawiciela wskutek braku potwierdzenia tożsamości powoduje konsekwencje z §6 RNU, w tym 0 w K-05–K-09."],
+    "ranking": "Malejąca suma punktów K-05–K-09, przy spełnieniu minimów.",
+    "remisy": ["Więcej punktów w K-07", "Następnie więcej punktów w K-08", "Następnie więcej punktów w K-09"],
+    "dalsze_rozstrzygniecie_remisu": null,
+    "liczba_uczestnikow": "Nie więcej niż 20, z zastrzeżoną możliwością zwiększenia przez PARP.",
+    "punkty_ulamkowe": false,
+    "punkty_ujemne": false,
+    "metoda_oceny": "KOW ocenia wniosek, wyjaśnienia i dokumenty oraz informacje z rozmowy; dla K-05–K-09 wypracowuje wspólną ocenę. Rejestry publiczne według stanu na dzień złożenia.",
+    "poprawa": "Możliwe wezwanie do poprawy lub uzupełnienia: 3 dni robocze liczone od dnia po wysłaniu wezwania. Szczegóły wersji podlegającej ocenie: RNU §6 ust. 4–8.",
+    "rozmowa": "Teams; wskazany uprawniony przedstawiciel; złożona prezentacja EN do 6 minut. Brak wygłoszenia to 0 w K-09; przekroczenie czasu ogranicza informacje oceniane i skutkuje uznaniem prezentacji za niekompletną.",
+    "odwolanie": "RNU §9 nie przewiduje procedury odwoławczej od informacji o wyniku.",
+    "zrodla": [{"id": "SRC-42809da21f1b", "strona": 1}, {"id": "SRC-42809da21f1b", "strona": 2}, {"id": "SRC-42809da21f1b", "strona": 3}, {"id": "SRC-81a1e81c22a7", "strona": 11}, {"id": "SRC-81a1e81c22a7", "strona": 12}, {"id": "SRC-81a1e81c22a7", "strona": 13}, {"id": "SRC-81a1e81c22a7", "strona": 14}, {"id": "SRC-81a1e81c22a7", "strona": 15}]
+  },
+  "zrodla_sha256": {
+    "SRC-b6e8a773f447": "502c9902aa444c924b74d9d6b4cd1286ad60375d158ca1fc846d40b5625e26f9",
+    "SRC-81a1e81c22a7": "74bbdfd8817039558b72f982976f7f1278426891861a953ad6ef45ae5b113803",
+    "SRC-42809da21f1b": "40be0282f27087dfd2ab1f150ad63ac5b89df95945149101db5dbff77ecc5761",
+    "SRC-9e2a19e50f40": "5230ea17c1fcd2ba0d135ff4adebbe6d19e6dab334ff4153d5a66e8d5577c8d2",
+    "SRC-d6da3e7859ae": "32515a7ce659f9dc2f12a712d38778b128889f329c460c80eb4f28b8cc59c3aa"
+  },
+  "kryteria": [
+    {
+      "id": "K-01", "nazwa": "Miejsce prowadzenia działalności gospodarczej przez Wnioskodawcę", "status": "potwierdzone", "rodzaj": "dostep", "etap": "Weryfikacja kryteriów 1–4 przed zaproszeniem na Rozmowę kwalifikacyjną", "klasyfikacja": "Porządkowa: warunek dostępu; organizator stosuje nazwę Kryterium 1.",
+      "opis": "Działalność gospodarcza na terytorium RP potwierdzona rejestrem: dla przedsiębiorcy w KRS adres siedziby w Polsce, dla CEIDG co najmniej jeden adres wykonywania działalności w Polsce. 1 pkt za spełnienie, 0 za niespełnienie. Stan rejestrów na dzień złożenia. RNU potwierdza prowadzenie działalności w RP; strona informacyjna dodatkowo wymienia zamieszkanie osoby fizycznej, co zachowano jako niewyjaśnione ograniczenie. Nie dodano pola adresu zamieszkania.",
+      "skala": [0, 1], "minimum": 1, "waga": null,
+      "pola": ["Q-006", "Q-008", "Q-011", "Q-013", "Q-016", "Q-017", "Q-018", "Q-019", "Q-020"], "rozdzialy": ["02-applicant"],
+      "powiazanie_z_formularzem": "Dane identyfikacyjne i adresowe służą kontroli rejestrowej; wpisanie adresu nie potwierdza spełnienia kryterium.",
+      "aspekty": ["Ustalono właściwy rejestr i rodzaj wymaganego adresu.", "Dla KRS siedziba była w Polsce na dzień złożenia.", "Dla CEIDG co najmniej jeden adres wykonywania działalności był w Polsce na dzień złożenia."],
+      "zrodla": [{"id": "SRC-42809da21f1b", "strona": 3}, {"id": "SRC-81a1e81c22a7", "strona": 6}, {"id": "SRC-d6da3e7859ae", "strona": 3}, {"id": "SRC-d6da3e7859ae", "strona": 4}]
+    },
+    {
+      "id": "K-02", "nazwa": "Czas prowadzenia działalności gospodarczej przez Wnioskodawcę", "status": "sprzeczne", "rodzaj": "dostep", "etap": "Weryfikacja kryteriów 1–4 przed zaproszeniem na Rozmowę kwalifikacyjną", "klasyfikacja": "Porządkowa: warunek dostępu; organizator stosuje nazwę Kryterium 2.",
+      "opis": "Kryteria i RNU wymagają od 1 do 5 lat od rejestracji w CEIDG/KRS na dzień złożenia; zawieszenia nie zmieniają obliczania terminu. 1 pkt za spełnienie, 0 przy krótszym niż rok lub dłuższym niż pięć lat okresie. Ogłoszenie s. 1–2 wymaga pełnych lat obrachunkowych/obrotowych, co jest sprzeczne z powyższą regułą. RNU dla przekształcenia JDG lub spółki cywilnej w spółkę handlową wskazuje rejestrację nowej spółki; dla przekształcenia spółki handlowej rejestrację przekształcanej; dla połączenia przez przejęcie rejestrację przejmującej, przez zawiązanie nowej spółki rejestrację nowej. Data Q-007 dla CEIDG to data rozpoczęcia wykonywania działalności, której nie utożsamia się automatycznie z rejestracją.",
+      "skala": [0, 1], "minimum": 1, "waga": null,
+      "pola": ["Q-002", "Q-007", "Q-008", "Q-013", "Q-041"], "rozdzialy": ["02-applicant", "06-history"],
+      "powiazanie_z_formularzem": "Oddzielono datę z formularza i deklarację startupu; nie zdefiniowano automatycznego obliczenia wieku.",
+      "aspekty": ["Rozstrzygnięto sprzeczność pełnych lat obrotowych i okresu od rejestracji.", "Ustalono datę właściwą przy rejestracji, przekształceniu lub połączeniu.", "Zestawiono tę datę z rzeczywistą datą złożenia i nie odliczano zawieszeń.", "Deklaracja Q-041 jest zgodna z wynikiem kontroli rejestrów."],
+      "zrodla": [{"id": "SRC-42809da21f1b", "strona": 3}, {"id": "SRC-42809da21f1b", "strona": 4}, {"id": "SRC-81a1e81c22a7", "strona": 6}, {"id": "SRC-81a1e81c22a7", "strona": 7}, {"id": "SRC-b6e8a773f447", "strona": 1}, {"id": "SRC-b6e8a773f447", "strona": 2}, {"id": "SRC-d6da3e7859ae", "strona": 2}]
+    },
+    {
+      "id": "K-03", "nazwa": "Zgodność Rozwiązania z branżą objętą zakresem Naboru", "status": "potwierdzone", "rodzaj": "dostep", "etap": "Weryfikacja kryteriów 1–4 przed zaproszeniem na Rozmowę kwalifikacyjną", "klasyfikacja": "Porządkowa: warunek dostępu; organizator stosuje nazwę Kryterium 3.",
+      "opis": "Rozwiązanie musi dotyczyć IT/ICT: technologii przetwarzania, gromadzenia i przesyłania informacji elektronicznej, w tym komputerów, oprogramowania i sieci telekomunikacyjnych. 1 pkt za zgodność, 0 za jej brak. Ocena dotyczy zgłoszonego rozwiązania, a nie samej etykiety branży.",
+      "skala": [0, 1], "minimum": 1, "waga": null,
+      "pola": ["Q-054", "Q-055", "Q-056", "Q-057", "Q-058", "Q-060"], "rozdzialy": ["07-solution"],
+      "powiazanie_z_formularzem": "Wybór IT/ICT analizowany z opisami funkcji i rodzaju rozwiązania.",
+      "aspekty": ["Opis wskazuje konkretne funkcje przetwarzania, gromadzenia lub przesyłania informacji elektronicznej albo inny zakres mieszczący się w przytoczonej definicji IT/ICT.", "Wybrana branża odpowiada rozwiązaniu opisanemu w obu wersjach językowych."],
+      "zrodla": [{"id": "SRC-42809da21f1b", "strona": 4}, {"id": "SRC-d6da3e7859ae", "strona": 6}]
+    },
+    {
+      "id": "K-04", "nazwa": "Brak wykluczeń dotyczących Rozwiązania", "status": "potwierdzone", "rodzaj": "dostep", "etap": "Weryfikacja kryteriów 1–4 przed zaproszeniem na Rozmowę kwalifikacyjną", "klasyfikacja": "Porządkowa: warunek dostępu; organizator stosuje nazwę Kryterium 4.",
+      "opis": "Rozwiązanie nie może dotyczyć któregokolwiek wykluczonego rodzaju działalności na podstawie art. 1 rozporządzenia Komisji (UE) 2023/2831 oraz §6 ust. 11 rozporządzenia o pomocy PARP w FENG wskazanego w dokumentacji. 1 pkt za brak wykluczeń, 0 za wystąpienie któregokolwiek. Pytanie formularza jest odwrotne: TAK oznacza deklarowanie działalności wykluczonej, NIE deklarowanie jej braku. Pełnych przepisów nie dostarczono; PKD i deklaracja nie zastępują kontroli faktycznego zakresu działalności.",
+      "skala": [0, 1], "minimum": 1, "waga": null,
+      "pola": ["Q-014", "Q-015"], "rozdzialy": ["02-applicant"],
+      "powiazanie_z_formularzem": "Bezpośredni odczyt deklaracji oraz PKD jako informacji pomocniczej. Prawdziwość i prawna poprawność podlegają zewnętrznej kontroli.",
+      "ocena_formularza": {"deklaracje": ["Q-015"], "dane": ["Q-014"], "zalaczniki": []},
+      "aspekty": ["Odczytano odpowiedź na pytanie o występowanie wykluczenia, z zachowaniem znaczenia TAK/NIE.", "Odrębnie sprawdzono rzeczywisty zakres rozwiązania względem obu przywołanych podstaw prawnych."],
+      "zrodla": [{"id": "SRC-42809da21f1b", "strona": 4}, {"id": "SRC-42809da21f1b", "strona": 5}, {"id": "SRC-d6da3e7859ae", "strona": 3}]
+    },
+    {
+      "id": "K-05", "nazwa": "Udział Wnioskodawcy w programach akceleracyjnych", "status": "potwierdzone", "rodzaj": "merytoryczne", "etap": "Ocena kryteriów 5–9 na podstawie Wniosku i Rozmowy kwalifikacyjnej według RNU", "klasyfikacja": "Porządkowa: kryterium rankingowe; szczegółowy opis K-05 wskazuje informacje we Wniosku jako podstawę.",
+      "opis": "Program krajowy lub zagraniczny prowadzony przez wyspecjalizowany akcelerator, wspierający rozwój startupów m.in. mentoringiem, finansowaniem i kontaktami. Udział oznacza co najmniej ukończenie selekcji i udział potwierdzony zaświadczeniem organizatora, umową uczestnictwa, certyfikatem lub dyplomem ukończenia. Liczy się udział Wnioskodawcy. Brak udziału lub jego wykazania to 0. Po 1 pkt za program, maksymalnie 2 pkt za co najmniej dwa programy prowadzone przez różne podmioty. Nie ustanowiono odrębnego minimum ani limitu liczby wpisów formularza.",
+      "skala": [0, 1, 2], "minimum": null, "waga": null,
+      "pola": ["Q-042", "Q-043", "Q-044", "Q-045", "Q-046", "Q-073"], "rozdzialy": ["06-history", "09-attachments"],
+      "powiazanie_z_formularzem": "Analiza wszystkich kart programów i odpowiadających im dowodów. Deklaracja NIE jest kompletną odpowiedzią, z wynikiem organizatora 0, a nie brakiem narracji.",
+      "aspekty": ["Wskazany program odpowiada definicji akceleracji.", "Uczestnikiem był Wnioskodawca.", "Wykazano ukończenie co najmniej selekcji i udział.", "Dostępny dokument organizatora potwierdza udział konkretnego podmiotu.", "Przy dwóch punktowanych programach organizatorzy są różnymi podmiotami."],
+      "zrodla": [{"id": "SRC-42809da21f1b", "strona": 5}, {"id": "SRC-81a1e81c22a7", "strona": 11}, {"id": "SRC-d6da3e7859ae", "strona": 5}]
+    },
+    {
+      "id": "K-06", "nazwa": "Wyróżnienie Wnioskodawcy w konkursach adresowanych do startupów", "status": "potwierdzone", "rodzaj": "merytoryczne", "etap": "Ocena kryteriów 5–9 na podstawie Wniosku i Rozmowy kwalifikacyjnej według RNU", "klasyfikacja": "Porządkowa: kryterium rankingowe; szczegółowy opis K-06 wskazuje informacje we Wniosku jako podstawę.",
+      "opis": "Po 1 pkt za konkurs startupowy w kraju co najmniej regionalny lub za granicą, w którym Wnioskodawca uzyskał udokumentowane przez organizatora wyróżnienie. Oceniany przedmiot konkursu: technologia, produkt, usługa, model biznesowy lub Pitch Deck startupu. Wyróżnienie obejmuje w szczególności nagrodę, punktowane miejsce, wyróżnienie, grant lub tytuł laureata. Liczą się wyróżnienia Wnioskodawcy. Brak wykazania to 0. Przy wielu konkursach liczą się różni organizatorzy. Maksymalnie 3 pkt niezależnie od liczby wyróżnień; brak osobnego minimum i brak określonego maksimum liczby kart.",
+      "skala": [0, 1, 2, 3], "minimum": null, "waga": null,
+      "pola": ["Q-047", "Q-048", "Q-049", "Q-050", "Q-051", "Q-052", "Q-053", "Q-074"], "rozdzialy": ["06-history", "09-attachments"],
+      "powiazanie_z_formularzem": "Analiza kart konkursów i dowodów. NIE oznacza pełną deklarację braku wyróżnień i dopuszczalny wynik 0 w tym kryterium.",
+      "aspekty": ["Konkurs odpowiada definicji i wymaganemu poziomowi krajowemu lub zagranicznemu.", "Wyróżnienie otrzymał Wnioskodawca.", "Przedmiot i rodzaj wyróżnienia odpowiadają opisowi kryterium.", "Dokument organizatora potwierdza wyróżnienie.", "Przy wielu punktowanych konkursach zweryfikowano różnych organizatorów."],
+      "zrodla": [{"id": "SRC-42809da21f1b", "strona": 5}, {"id": "SRC-42809da21f1b", "strona": 6}, {"id": "SRC-81a1e81c22a7", "strona": 11}, {"id": "SRC-d6da3e7859ae", "strona": 5}, {"id": "SRC-d6da3e7859ae", "strona": 6}]
+    },
+    {
+      "id": "K-07", "nazwa": "Poziom innowacyjności", "status": "potwierdzone", "rodzaj": "merytoryczne", "etap": "Wniosek i Rozmowa kwalifikacyjna, w tym Pitch Deck", "klasyfikacja": "Porządkowa: kryterium merytoryczne z minimum i regułą zerowania.",
+      "opis": "Ocenia się nowe lub znacząco udoskonalone cechy lub zastosowania rozwiązania istotne dla użytkownika względem konkurencji, m.in. specyfikacje, komponenty, materiały, oprogramowanie i funkcjonalność. 0: brak wykazania innowacyjności lub sama koncepcja bez prototypu; powoduje też 0 w K-08 i K-09. 1: jedna istotna cecha względem konkurencji krajowej. 2: co najmniej dwie cechy względem konkurencji krajowej. 3: jedna istotna cecha i co najmniej jeden konkurent na rynku europejskim poza Polską lub rozwiniętym: USA, Kanada, Korea Południowa, Japonia, Tajwan, Singapur, Izrael. 4: co najmniej dwie cechy i co najmniej dwóch konkurentów działających na takich rynkach. Maksimum 4, minimum 1. Instrukcja wymaga nazw, www i rynków konkurentów. Ocena tekstu nie dowodzi prawdziwości porównania ani przyszłego wyniku rozmowy.",
+      "skala": [0, 1, 2, 3, 4], "minimum": 1, "waga": null,
+      "pola": ["Q-054", "Q-055", "Q-056", "Q-057", "Q-058", "Q-059", "Q-060", "Q-061", "Q-062", "Q-063", "Q-071", "Q-072", "Q-075"], "rozdzialy": ["07-solution", "09-attachments"],
+      "powiazanie_z_formularzem": "Wybrany poziom zestawia się z opisem nowości, uzasadnieniem, gotowością i dostępnymi prezentacjami/dowodami; nie przelicza się samej deklaracji na oficjalne punkty.",
+      "aspekty": ["Rozwiązanie opracowano co najmniej jako prototyp, a nie wyłącznie koncepcję.", "Wskazano konkretne nowe lub znacząco udoskonalone cechy albo zastosowania istotne dla użytkownika.", "Porównanie wskazuje nazwy i strony konkurentów oraz odpowiadające im rozwiązania.", "Liczba wykazanych cech odpowiada wybranemu poziomowi.", "Dla poziomu zagranicznego wskazano wymagane rynki i co najmniej jednego albo dwóch konkurentów odpowiednio do poziomu.", "Uzasadnienie, opisy i gotowość nie przeczą wybranemu poziomowi."],
+      "zrodla": [{"id": "SRC-42809da21f1b", "strona": 6}, {"id": "SRC-42809da21f1b", "strona": 7}, {"id": "SRC-d6da3e7859ae", "strona": 6}, {"id": "SRC-d6da3e7859ae", "strona": 7}]
+    },
+    {
+      "id": "K-08", "nazwa": "Elementy modelu biznesowego", "status": "potwierdzone", "rodzaj": "merytoryczne", "etap": "Wniosek i Rozmowa kwalifikacyjna, w tym Pitch Deck", "klasyfikacja": "Porządkowa: kryterium merytoryczne z minimum.",
+      "opis": "Model biznesowy jest planem uzyskiwania przychodów z komercjalizacji rozwiązania. Wymagane elementy: odbiorcy, ich problemy, sposób ich rozwiązania, kanały dystrybucji, źródła przychodu, kierunki komercjalizacji zagranicznej oraz zakres pozytywnego wpływu na polityki horyzontalne UE, w szczególności równość kobiet i mężczyzn, równość szans i niedyskryminację z dostępnością oraz zrównoważony rozwój. Punktowanie po 0–1 za: opisanie wszystkich elementów, wewnętrzną spójność, istotność problemu, relewantność rozwiązania, skalowalność międzynarodową i pozytywny wpływ horyzontalny. Maksimum 6, minimum 1; przy K-07=0 również K-08=0. Instrukcja doprecyzowuje charakterystykę i wielkość grupy odbiorców, uzasadnienie kanałów, estymację finansową źródeł przychodów oraz uzasadnienie rynków i korzyści eksportowych.",
+      "skala": [0, 1, 2, 3, 4, 5, 6], "minimum": 1, "waga": null,
+      "pola": ["Q-054", "Q-056", "Q-059", "Q-061", "Q-063", "Q-064", "Q-065", "Q-066", "Q-067", "Q-068", "Q-069", "Q-070", "Q-071", "Q-072"], "rozdzialy": ["08-business", "09-attachments"],
+      "powiazanie_z_formularzem": "Siedem pól modelu analizuje się łącznie z właściwościami rozwiązania i dostępną treścią prezentacji. Siedem pól nie oznacza siedmiu punktów.",
+      "aspekty": ["Wskazano i scharakteryzowano potencjalnych odbiorców, zakres krajowy/zagraniczny i realistyczną wielkość grupy.", "Opisano problemy tych odbiorców.", "Wskazano, jak rozwiązanie odpowiada problemom, z wykorzystaniem posiadanych danych.", "Opisano i uzasadniono kanały dystrybucji dopasowane do odbiorców.", "Opisano źródła przychodów wraz z estymacją finansową.", "Uzasadniono rynki zagraniczne i wpływ programu na potencjał eksportowy.", "Wskazano zakres i uzasadnienie pozytywnego wpływu na wybrane polityki horyzontalne.", "Elementy modelu są wewnętrznie spójne.", "Uzasadniono istotność problemu i relewantność rozwiązania.", "Uzasadniono skalowalność międzynarodową."],
+      "zrodla": [{"id": "SRC-42809da21f1b", "strona": 7}, {"id": "SRC-42809da21f1b", "strona": 8}, {"id": "SRC-d6da3e7859ae", "strona": 8}]
+    },
+    {
+      "id": "K-09", "nazwa": "Prezentacja Pitch Deck", "status": "potwierdzone", "rodzaj": "merytoryczne", "etap": "Rozmowa kwalifikacyjna", "klasyfikacja": "Porządkowa: kryterium merytoryczne wymagające rzeczywistego wystąpienia.",
+      "opis": "Prezentacja złożona w PL i EN jest wygłaszana przez wskazanego przedstawiciela po angielsku podczas rozmowy. Wymagane treści: dane wnioskodawcy; rozwiązanie z niszą/problemem; gotowość technologiczna; model biznesowy; planowane działania komercjalizacji zagranicznej; przedstawiciel i doświadczenie zawodowe. Po 0–1 pkt za spójność, kompletność, klarowność, atrakcyjną formę oraz sposób prezentacji, w tym angielski. Maksimum 5, minimum 1. Brak wygłoszenia oznacza 0. Prezentacja niewygłoszona w przewidzianym czasie jest niekompletna; RNU ogranicza czas do 6 minut i oceniane informacje do tego czasu. Należy użyć dokładnie wersji EN złożonej w LSI. Kryteria wskazują PPTX lub PDF, instrukcja PPT lub PPTX; PPTX jest wspólnym formatem roboczym. Wyniku wystąpienia nie można ustalić z pól ani nazw załączników.",
+      "skala": [0, 1, 2, 3, 4, 5], "minimum": 1, "waga": null,
+      "pola": ["Q-036", "Q-037", "Q-040", "Q-071", "Q-072"], "rozdzialy": ["05-representative", "09-attachments"],
+      "powiazanie_z_formularzem": "Powiązanie dotyczy przygotowania przedstawiciela i prezentacji; oficjalna ocena sposobu wygłoszenia pozostaje zewnętrzna.",
+      "aspekty": ["Dołączono prezentację w dwóch wymaganych językach i przygotowano właściwą wersję EN do wystąpienia.", "Prezentacja obejmuje wszystkie sześć wymaganych obszarów treści.", "KOW oceniła spójność prezentacji.", "KOW oceniła kompletność treści przedstawionej w czasie.", "KOW oceniła klarowność i atrakcyjną formę.", "KOW oceniła sposób prezentowania i posługiwanie się angielskim.", "Wystąpił właściwy przedstawiciel, używając złożonej wersji EN, w regulaminowym czasie."],
+      "zrodla": [{"id": "SRC-42809da21f1b", "strona": 8}, {"id": "SRC-42809da21f1b", "strona": 9}, {"id": "SRC-81a1e81c22a7", "strona": 12}, {"id": "SRC-81a1e81c22a7", "strona": 13}, {"id": "SRC-d6da3e7859ae", "strona": 8}, {"id": "SRC-d6da3e7859ae", "strona": 9}]
+    }
+  ]
+}

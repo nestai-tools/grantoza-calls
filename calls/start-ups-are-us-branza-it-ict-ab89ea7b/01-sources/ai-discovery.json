@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "url": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+  "tytul": "Start-ups Are Us – branża IT/ICT",
+  "data_rozpoznania": "2026-11-13T13:07:50.703750+00:00",
+  "pochodzenie": "Tekst, nagłówki i linki strony przekazane w zadaniu. Rozpoznanie wykonano na ich podstawie, bez samodzielnego pobierania strony lub dokumentów.",
+  "podstawa_rozpoznania": "Nazwa wynika z H1, tytułu strony, opisu projektu START-UPS ARE US i branży IT/ICT. Bieżący nabór identyfikują daty: ogłoszenie 2026-11-05, przyjmowanie wniosków od 2026-11-12 do 2027-01-05. Numeru edycji nie podano.",
+  "kompletne": true,
+  "uzasadnienie_kompletnosci": "Rozliczono wszystkie linki przekazane ze strony, w tym cztery grupy dokumentacji: 14 odnośników do pojedynczych dokumentów oraz 3 odnośniki zbiorcze Pobierz wszystko. Kompletność dotyczy wykazu dokumentów na przekazanej stronie. Wyniki pobrania, kontroli formatów, SHA-256 i zawartości paczek powstaną w aplikacji.",
+  "sprawdzone_sekcje": [
+    "Cel finansowania i daty naboru",
+    "Szczegóły dofinansowania / Szczegółowy opis",
+    "Szczegóły dofinansowania / Wsparcie finansowe",
+    "Terminy zgłoszeń",
+    "Dokumenty / Start w konkursie",
+    "Dokumenty / Składanie wniosku o dofinansowanie",
+    "Dokumenty / Podpisywanie umowy",
+    "Dokumenty / Dodatkowe dokumenty",
+    "Jak wziąć udział w konkursie o dofinansowanie?",
+    "Polecane poradniki, raporty i katalogi",
+    "Inne dofinansowania, które mogą Cię zainteresować"
+  ],
+  "odwiedzone_podstrony": [],
+  "uwagi_o_archiwum": "W przekazanych linkach nie wskazano dokumentacji wcześniejszych edycji. Wszystkie trzy odnośniki Pobierz wszystko uwzględniono jako dokumenty do pobrania; ich zawartości jeszcze nie sprawdzono.",
+  "dokumenty": [
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/Ogloszenie-o-naborze-IT_ICT.pdf",
+      "tytul": "Ogłoszenie o naborze",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Start w konkursie",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/RNU_fin.pdf",
+      "tytul": "Regulamin naboru Uczestników RNU",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Start w konkursie",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/ZAL_3_DO_RNU_KRYTERIA_WYBORU.pdf",
+      "tytul": "Kryteria wyboru Uczestników – Załącznik nr 3 do RNU",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Start w konkursie",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/ZAL_5_DO_RNU_SLOWNIK.pdf",
+      "tytul": "Słowniczek – Załącznik nr 5 do RNU",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Start w konkursie",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/ZAL_6_DO_RNU_LISTA_KIERUNKOW_IT_ICT.pdf",
+      "tytul": "Lista rynków, na które będą organizowane misje wyjazdowe w ramach Programu – Załącznik nr 6 do RNU",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Start w konkursie",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/modules/mod_downloads/download.php?id=4178&source=grants",
+      "tytul": "Pobierz wszystko – Start w konkursie",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Start w konkursie",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/ZAL_1_DO_RNU_WZOR_FORMULARZA.pdf",
+      "tytul": "Wzór formularza wniosku o udział w Programie – Załącznik nr 1 do RNU",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Składanie wniosku o dofinansowanie",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/ZAL_2_DO_RNU_Instruk.pdf",
+      "tytul": "Instrukcja wypełniania Wniosku o udział w Programie – Załącznik nr 2 do RNU",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Składanie wniosku o dofinansowanie",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/modules/mod_downloads/download.php?id=4179&source=grants",
+      "tytul": "Pobierz wszystko – Składanie wniosku o dofinansowanie",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Składanie wniosku o dofinansowanie",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/ZAL_4_DO_RNU_Wzor_umowy.pdf",
+      "tytul": "Wzór umowy dotyczącej udziału w Programie",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Podpisywanie umowy",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/Lista-dokumentow-do-zawarcia-umowy.pdf",
+      "tytul": "Lista dokumentów niezbędnych do zawarcia umowy",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Dodatkowe dokumenty",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/Oswiadczenie-wnioskodawcy-o-aktualnosci-danych.docx",
+      "tytul": "Oświadczenie o aktualności danych Wnioskodawcy",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Dodatkowe dokumenty",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/Oswiadczenia-o-spenianiu-kryteriow_MSP.docx",
+      "tytul": "Oświadczenie o spełnianiu kryteriów MŚP",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Dodatkowe dokumenty",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/Formularz-infromacji-pomoc-de-minimis.xls",
+      "tytul": "Formularz informacji przedstawianych przy ubieganiu się o pomoc de minimis",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Dodatkowe dokumenty",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/Oswiadczenie-de-minimis.docx",
+      "tytul": "Oświadczenie o wysokości pomocy de minimis",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Dodatkowe dokumenty",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/storage/grants/documents/1490/Oswiadczenie_sankcje.docx",
+      "tytul": "Oświadczenie – sankcje",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Dodatkowe dokumenty",
+      "rola_zrodla": "podstawowy"
+    },
+    {
+      "url": "https://www.parp.gov.pl/modules/mod_downloads/download.php?id=4182&source=grants",
+      "tytul": "Pobierz wszystko – Dodatkowe dokumenty",
+      "strona_pochodzenia": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "sekcja": "Dokumenty / Dodatkowe dokumenty",
+      "rola_zrodla": "podstawowy"
+    }
+  ],
+  "pozostale_linki": [
+    {
+      "url": "https://lsi.parp.gov.pl/auth",
+      "status": "informacja",
+      "uzasadnienie": "Adres Generatora Wniosków wskazany przy składaniu wniosku. Zachowano jako sposób złożenia; nie jest załącznikiem do pobrania. Treści generatora nie odczytano."
+    },
+    {
+      "url": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "status": "informacja",
+      "uzasadnienie": "Odnośnik opisany jako Komisję Oceny Projektów prowadzi do tej samej strony, której tekst przekazano; nie wskazuje osobnego dokumentu ani podstrony."
+    },
+    {
+      "url": "https://www.parp.gov.pl/component/publications/publication/dyplom-i-co-dalej-potencjal-preferencje-i-plany-zawodowe-studentow",
+      "status": "informacja",
+      "uzasadnienie": "Pominięto na podstawie umiejscowienia w Polecanych poradnikach, raportach i katalogach oraz tytułu dotyczącego planów zawodowych studentów. Nie jest oznaczony jako dokumentacja bieżącego naboru. Strony docelowej nie odczytano."
+    },
+    {
+      "url": "https://www.parp.gov.pl/component/publications/publication/horizon-bridge-twoj-pomost-do-horyzontu-europa",
+      "status": "informacja",
+      "uzasadnienie": "Pominięto jako polecany poradnik dotyczący Horizon Bridge i Horyzontu Europa, bez wskazanego związku z dokumentacją bieżącego naboru. Strony docelowej nie odczytano."
+    },
+    {
+      "url": "https://www.parp.gov.pl/component/publications/publication/katalog-laureatow-xxvii-edycji-konkursu-polski-produkt-przyszlosci",
+      "status": "informacja",
+      "uzasadnienie": "Pominięto jako polecany katalog laureatów innego konkursu, bez wskazanego związku z dokumentacją bieżącego naboru. Strony docelowej nie odczytano."
+    },
+    {
+      "url": "https://www.parp.gov.pl/component/grants/grants/laboratorium-innowatora---oferta-dla-pomyslodawcow",
+      "status": "informacja",
+      "uzasadnienie": "Pominięto jako promocję odrębnego naboru Laboratorium Innowatora w sekcji Inne dofinansowania. Strony docelowej nie odczytano."
+    },
+    {
+      "url": "https://www.parp.gov.pl/component/grants/grants/program-horizon-bridge",
+      "status": "informacja",
+      "uzasadnienie": "Pominięto jako promocję odrębnego naboru Horizon Bridge w sekcji Inne dofinansowania. Podana tam kwota 66 000 zł nie dotyczy Start-ups Are Us. Strony docelowej nie odczytano."
+    },
+    {
+      "url": "https://www.parp.gov.pl/component/site/site/polski-produkt-przyszlosci",
+      "status": "informacja",
+      "uzasadnienie": "Pominięto jako promocję odrębnego Konkursu Polski Produkt Przyszłości w sekcji Inne dofinansowania. Podana tam kwota 100 000 zł nie dotyczy Start-ups Are Us. Strony docelowej nie odczytano."
+    }
+  ]
+}

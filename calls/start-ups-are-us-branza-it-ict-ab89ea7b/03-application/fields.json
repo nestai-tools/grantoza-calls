@@ -1,0 +1,3126 @@
+{
+  "schema_version": 2,
+  "nabor_id": "start-ups-are-us-branza-it-ict-ab89ea7b",
+  "portal": "LSI PARP – Generator Wniosków",
+  "liczba_pol": 86,
+  "pola": [
+    {
+      "id": "Q-001",
+      "key": "application_number",
+      "pole": "Numer wniosku",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/01-system/form.md",
+        "typ": "osf"
+      },
+      "reguly": "Uzupełnia LSI; nie wpisywać numeru naboru ani roboczego numeru lokalnego.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 1
+        }
+      ],
+      "wymagania": [
+        10
+      ],
+      "rozdzial": "01-system",
+      "status": "brak-danych",
+      "plik": "03-application/01-system/specification/Q-001.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-002",
+      "key": "submission_datetime",
+      "pole": "Data złożenia wniosku",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/01-system/form.md",
+        "typ": "osf"
+      },
+      "reguly": "Uzupełnia LSI. Rzeczywistą datę i czas potwierdza dokument złożenia, nie czas lokalnego zapisu.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 1
+        },
+        {
+          "id": "SRC-81a1e81c22a7",
+          "strona": 9
+        }
+      ],
+      "wymagania": [
+        10
+      ],
+      "rozdzial": "01-system",
+      "status": "brak-danych",
+      "plik": "03-application/01-system/specification/Q-002.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-003",
+      "key": "programme",
+      "pole": "Program",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/01-system/form.md",
+        "typ": "osf"
+      },
+      "reguly": "Uzupełnia LSI; wzór wskazuje Fundusze Europejskie dla Nowoczesnej Gospodarki.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 1
+        }
+      ],
+      "rozdzial": "01-system",
+      "status": "brak-danych",
+      "plik": "03-application/01-system/specification/Q-003.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-004",
+      "key": "priority",
+      "pole": "Priorytet",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/01-system/form.md",
+        "typ": "osf"
+      },
+      "reguly": "Uzupełnia LSI; wzór wskazuje Środowisko sprzyjające innowacjom.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 1
+        }
+      ],
+      "rozdzial": "01-system",
+      "status": "brak-danych",
+      "plik": "03-application/01-system/specification/Q-004.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-005",
+      "key": "measure",
+      "pole": "Działanie",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/01-system/form.md",
+        "typ": "osf"
+      },
+      "reguly": "Uzupełnia LSI; wzór wskazuje START-UPS ARE US.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 1
+        }
+      ],
+      "rozdzial": "01-system",
+      "status": "brak-danych",
+      "plik": "03-application/01-system/specification/Q-005.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-006",
+      "key": "applicant_name",
+      "pole": "Nazwa wnioskodawcy",
+      "typ": "tekst",
+      "limit_znakow": 1000,
+      "reguly": "Pełna nazwa zgodna z właściwym rejestrem na dzień złożenia.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 2
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-006.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registration",
+        "wiersz": "Q-006",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-007",
+      "key": "registered_activity_start_date",
+      "pole": "Data rozpoczęcia działalności zgodnie z dokumentem rejestrowym",
+      "typ": "data",
+      "limit_znakow": null,
+      "reguly": "KRS: data rejestracji; CEIDG: data rozpoczęcia wykonywania działalności. Panel zapisuje ISO, instrukcja podaje RRRR/MM/DD. Nie utożsamiać automatycznie daty rozpoczęcia CEIDG z datą rejestracji do kryterium wieku. Nie obliczać wieku bez właściwej daty rejestracji, złożenia i rozstrzygnięcia rozbieżności dokumentów.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 2
+        },
+        {
+          "id": "SRC-81a1e81c22a7",
+          "strona": 6
+        }
+      ],
+      "wymagania": [
+        3,
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-007.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registration",
+        "wiersz": "Q-007",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-008",
+      "key": "legal_form",
+      "pole": "Forma prawna",
+      "typ": "wybor",
+      "opcje": [],
+      "limit_znakow": null,
+      "reguly": "Wybór pojedynczy. Brak pełnego słownika w źródłach; wpisać kod lub nazwę ręcznie w panelu i dopasować do właściwej wartości LSI przy przenoszeniu. Nie traktować wpisu roboczego jako potwierdzonej wartości słownikowej.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 2
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-008.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registration",
+        "wiersz": "Q-008",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-009",
+      "key": "ownership_form",
+      "pole": "Forma własności",
+      "typ": "wybor",
+      "opcje": [],
+      "limit_znakow": null,
+      "reguly": "Wybór pojedynczy zgodny z REGON. Pełnego słownika nie dostarczono; możliwy ręczny wpis kodu/nazwy z późniejszym dopasowaniem do LSI. Instrukcja wskazuje dla osoby fizycznej prowadzącej działalność wartość „Krajowe osoby fizyczne”, w pozostałych opisanych przypadkach „Pozostałe krajowe jednostki prywatne”. Nie przedstawiono tych wskazań jako pełnej listy portalu.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 2
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-009.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registration",
+        "wiersz": "Q-009",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-010",
+      "key": "enterprise_size",
+      "pole": "Wielkość przedsiębiorstwa",
+      "typ": "wybor",
+      "opcje": [
+        "mikro",
+        "mały",
+        "średni"
+      ],
+      "limit_znakow": null,
+      "reguly": "Wybór pojedynczy na dzień złożenia. Ustalenie statusu obejmuje właściwe dane skumulowane przedsiębiorstw partnerskich i powiązanych według Załącznika I rozporządzenia 651/2014. Deklaracja nie zastępuje weryfikacji MŚP, ponawianej przed umową.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 3
+        }
+      ],
+      "wymagania": [
+        1
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-010.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registration",
+        "wiersz": "Q-010",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-011",
+      "key": "nip",
+      "pole": "NIP",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Numer identyfikacji podatkowej zgodny z rejestrem; zapis tekstowy zachowuje cyfry, w tym ewentualne zera początkowe. Dokumentacja nie podaje limitu pola.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 3
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-011.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registration",
+        "wiersz": "Q-011",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-012",
+      "key": "regon",
+      "pole": "REGON",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Podaj REGON zgodny z rejestrem; nie zamieniać identyfikatora na liczbę.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 3
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-012.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registration",
+        "wiersz": "Q-012",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-013",
+      "key": "krs",
+      "pole": "Numer w Krajowym Rejestrze Sądowym",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "warunek": "Wnioskodawca podlega wpisowi do KRS.",
+      "reguly": "Pełny numer KRS. Jeśli podmiot nie podlega rejestracji w KRS, np. JDG, pozostawić pole puste; nie wpisywać fikcyjnego numeru ani obowiązkowego „nie dotyczy”.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 3
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-013.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registration",
+        "wiersz": "Q-013",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-014",
+      "key": "predominant_pkd",
+      "pole": "Kod PKD przeważającej działalności",
+      "typ": "wybor",
+      "opcje": [],
+      "limit_znakow": null,
+      "reguly": "Wybór pojedynczy kodu ujawnionego w rejestrze na dzień złożenia. Pełnego słownika i jego wersji nie dostarczono; wpisać kod/nazwę ręcznie, a następnie dopasować w LSI. Nie ustalać wersji PKD na podstawie domysłu.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 3
+        }
+      ],
+      "wymagania": [
+        7,
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-014.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registration",
+        "wiersz": "Q-014",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-015",
+      "key": "solution_excluded_activity",
+      "pole": "Czy Rozwiązanie dotyczy rodzajów działalności wykluczonych z możliwości uzyskania wsparcia?",
+      "typ": "wybor",
+      "opcje": [
+        "TAK",
+        "NIE"
+      ],
+      "limit_znakow": null,
+      "reguly": "Wybór pojedynczy. TAK oznacza występowanie wykluczonej działalności, NIE jej deklarowany brak. Sprawdzić art. 1 rozporządzenia 2023/2831 i §6 ust. 11 rozporządzenia o pomocy PARP w FENG. Nie zaznaczać za wnioskodawcę; treść przepisów nie została odczytana w całości.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 3
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 4
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 5
+        }
+      ],
+      "wymagania": [
+        7
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-015.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registration",
+        "wiersz": "Q-015",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-016",
+      "key": "applicant_town",
+      "pole": "Miejscowość",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Dla osoby fizycznej adres wykonywania działalności, dla osoby prawnej adres siedziby, zgodny z rejestrem. Nie zastępować adresem zamieszkania, gdy jest inny. Tekst źródła nie określa słownika miejscowości.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        2,
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-016.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registered-address",
+        "wiersz": "Q-016",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-017",
+      "key": "applicant_postcode",
+      "pole": "Kod pocztowy",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Składowa adresu działalności albo siedziby zgodnego z rejestrem.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 3
+        }
+      ],
+      "wymagania": [
+        2,
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-017.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registered-address",
+        "wiersz": "Q-017",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-018",
+      "key": "applicant_street",
+      "pole": "Ulica",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Składowa adresu rejestrowego. Nie wymyślać nazwy ulicy, jeśli adres jej nie ma; sposób zapisu takiego adresu wymaga dopasowania do LSI.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 3
+        }
+      ],
+      "wymagania": [
+        2,
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-018.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registered-address",
+        "wiersz": "Q-018",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-019",
+      "key": "applicant_building",
+      "pole": "Numer budynku",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Zgodnie z adresem rejestrowym; zachować oznaczenia literowe.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 3
+        }
+      ],
+      "wymagania": [
+        2,
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-019.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registered-address",
+        "wiersz": "Q-019",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-020",
+      "key": "applicant_unit",
+      "pole": "Numer lokalu",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Numer lokalu, jeśli występuje w adresie; nie tworzyć fikcyjnej wartości.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 3
+        }
+      ],
+      "wymagania": [
+        2,
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-020.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registered-address",
+        "wiersz": "Q-020",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-021",
+      "key": "applicant_phone",
+      "pole": "Telefon wnioskodawcy",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Aktualny numer zapewniający kontakt; dokumentacja nie określa formatu ani limitu.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-021.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registered-address",
+        "wiersz": "Q-021",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-022",
+      "key": "applicant_email",
+      "pole": "Adres e-mail wnioskodawcy",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Aktualny adres e-mail zapewniający skuteczną komunikację. Adres właściciela konta LSI pozostaje również obowiązkiem komunikacyjnym z RNU, bez dodatkowego pola we wzorze.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        },
+        {
+          "id": "SRC-81a1e81c22a7",
+          "strona": 8
+        }
+      ],
+      "wymagania": [
+        13,
+        26
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-022.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registered-address",
+        "wiersz": "Q-022",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-023",
+      "key": "applicant_website",
+      "pole": "Adres strony www",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Adres strony wnioskodawcy. Przy braku strony instrukcja wymaga wpisu „nie dotyczy”; nie wypełniać domyślnie.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 1
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-023.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registered-address",
+        "wiersz": "Q-023",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-024",
+      "key": "electronic_delivery_address",
+      "pole": "Adres do e-Doręczeń",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Własny adres do e-Doręczeń służący korespondencji według RNU. Nie wpisywać adresu PARP. Dokumentacja formularza nie opisuje odrębnej opcji dla braku adresu.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13,
+        26
+      ],
+      "rozdzial": "02-applicant",
+      "status": "brak-danych",
+      "plik": "03-application/02-applicant/specification/Q-024.md",
+      "odpowiedz": {
+        "plik": "03-application/02-applicant/form.md",
+        "typ": "tabela",
+        "tabela": "registered-address",
+        "wiersz": "Q-024",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-025",
+      "key": "correspondence_town",
+      "pole": "Miejscowość",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Miejscowość adresu do korespondencji pisemnej.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13,
+        26
+      ],
+      "rozdzial": "03-correspondence",
+      "status": "brak-danych",
+      "plik": "03-application/03-correspondence/specification/Q-025.md",
+      "odpowiedz": {
+        "plik": "03-application/03-correspondence/form.md",
+        "typ": "tabela",
+        "tabela": "correspondence",
+        "wiersz": "Q-025",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-026",
+      "key": "correspondence_postcode",
+      "pole": "Kod pocztowy",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Kod adresu korespondencyjnego.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13,
+        26
+      ],
+      "rozdzial": "03-correspondence",
+      "status": "brak-danych",
+      "plik": "03-application/03-correspondence/specification/Q-026.md",
+      "odpowiedz": {
+        "plik": "03-application/03-correspondence/form.md",
+        "typ": "tabela",
+        "tabela": "correspondence",
+        "wiersz": "Q-026",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-027",
+      "key": "correspondence_street",
+      "pole": "Ulica",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Ulica adresu korespondencyjnego, jeżeli występuje.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13,
+        26
+      ],
+      "rozdzial": "03-correspondence",
+      "status": "brak-danych",
+      "plik": "03-application/03-correspondence/specification/Q-027.md",
+      "odpowiedz": {
+        "plik": "03-application/03-correspondence/form.md",
+        "typ": "tabela",
+        "tabela": "correspondence",
+        "wiersz": "Q-027",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-028",
+      "key": "correspondence_building",
+      "pole": "Numer budynku",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Numer budynku adresu korespondencyjnego.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13,
+        26
+      ],
+      "rozdzial": "03-correspondence",
+      "status": "brak-danych",
+      "plik": "03-application/03-correspondence/specification/Q-028.md",
+      "odpowiedz": {
+        "plik": "03-application/03-correspondence/form.md",
+        "typ": "tabela",
+        "tabela": "correspondence",
+        "wiersz": "Q-028",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-029",
+      "key": "correspondence_unit",
+      "pole": "Numer lokalu",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Numer lokalu adresu korespondencyjnego, jeśli występuje.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13,
+        26
+      ],
+      "rozdzial": "03-correspondence",
+      "status": "brak-danych",
+      "plik": "03-application/03-correspondence/specification/Q-029.md",
+      "odpowiedz": {
+        "plik": "03-application/03-correspondence/form.md",
+        "typ": "tabela",
+        "tabela": "correspondence",
+        "wiersz": "Q-029",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-030",
+      "key": "correspondence_phone",
+      "pole": "Telefon do korespondencji",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Aktualny numer telefonu w sekcji adresu korespondencyjnego.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13,
+        26
+      ],
+      "rozdzial": "03-correspondence",
+      "status": "brak-danych",
+      "plik": "03-application/03-correspondence/specification/Q-030.md",
+      "odpowiedz": {
+        "plik": "03-application/03-correspondence/form.md",
+        "typ": "tabela",
+        "tabela": "correspondence",
+        "wiersz": "Q-030",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-031",
+      "key": "correspondence_email",
+      "pole": "Adres e-mail do korespondencji",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Monitorowany adres dla korespondencji w procesie oceny, wezwań i wyniku. Zmiany zgłaszać według RNU.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13,
+        26
+      ],
+      "rozdzial": "03-correspondence",
+      "status": "brak-danych",
+      "plik": "03-application/03-correspondence/specification/Q-031.md",
+      "odpowiedz": {
+        "plik": "03-application/03-correspondence/form.md",
+        "typ": "tabela",
+        "tabela": "correspondence",
+        "wiersz": "Q-031",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-032",
+      "key": "contact_first_name",
+      "pole": "Imię osoby do kontaktu",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Imię osoby znającej rozwiązanie i sprawy wniosku.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "04-contact",
+      "status": "brak-danych",
+      "plik": "03-application/04-contact/specification/Q-032.md",
+      "odpowiedz": {
+        "plik": "03-application/04-contact/form.md",
+        "typ": "tabela",
+        "tabela": "contact",
+        "wiersz": "Q-032",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-033",
+      "key": "contact_last_name",
+      "pole": "Nazwisko osoby do kontaktu",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Nazwisko osoby do korespondencji roboczej.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "04-contact",
+      "status": "brak-danych",
+      "plik": "03-application/04-contact/specification/Q-033.md",
+      "odpowiedz": {
+        "plik": "03-application/04-contact/form.md",
+        "typ": "tabela",
+        "tabela": "contact",
+        "wiersz": "Q-033",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-034",
+      "key": "contact_phone",
+      "pole": "Telefon osoby do kontaktu",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Aktualny numer umożliwiający kontakt roboczy.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13
+      ],
+      "rozdzial": "04-contact",
+      "status": "brak-danych",
+      "plik": "03-application/04-contact/specification/Q-034.md",
+      "odpowiedz": {
+        "plik": "03-application/04-contact/form.md",
+        "typ": "tabela",
+        "tabela": "contact",
+        "wiersz": "Q-034",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-035",
+      "key": "contact_email",
+      "pole": "Adres e-mail osoby do kontaktu",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Monitorowany adres osoby do korespondencji roboczej.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        13,
+        26
+      ],
+      "rozdzial": "04-contact",
+      "status": "brak-danych",
+      "plik": "03-application/04-contact/specification/Q-035.md",
+      "odpowiedz": {
+        "plik": "03-application/04-contact/form.md",
+        "typ": "tabela",
+        "tabela": "contact",
+        "wiersz": "Q-035",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-036",
+      "key": "representative_first_name",
+      "pole": "Imię przedstawiciela",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Osoba uprawniona i ujawniona w CEIDG/KRS zgodnie z definicją. Dopuszczalne kategorie: przedsiębiorca indywidualny; wspólnik spółki jawnej lub komplementariusz; członek organu zarządzającego lub prokurent spółki; członek organu zarządzającego innej uprawnionej jednostki. Nie dodawać innych osób jako kolejnych przedstawicieli.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 5
+        }
+      ],
+      "wymagania": [
+        12,
+        27
+      ],
+      "rozdzial": "05-representative",
+      "status": "brak-danych",
+      "plik": "03-application/05-representative/specification/Q-036.md",
+      "odpowiedz": {
+        "plik": "03-application/05-representative/form.md",
+        "typ": "tabela",
+        "tabela": "representative",
+        "wiersz": "Q-036",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-037",
+      "key": "representative_last_name",
+      "pole": "Nazwisko przedstawiciela",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Dane osoby wskazanej do programu, zgodne z rejestrem i dokumentem tożsamości. Kontrola tożsamości na rozmowie jest zewnętrzna.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        },
+        {
+          "id": "SRC-81a1e81c22a7",
+          "strona": 12
+        }
+      ],
+      "wymagania": [
+        12,
+        27
+      ],
+      "rozdzial": "05-representative",
+      "status": "brak-danych",
+      "plik": "03-application/05-representative/specification/Q-037.md",
+      "odpowiedz": {
+        "plik": "03-application/05-representative/form.md",
+        "typ": "tabela",
+        "tabela": "representative",
+        "wiersz": "Q-037",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-038",
+      "key": "representative_phone",
+      "pole": "Telefon przedstawiciela",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Aktualny numer telefonu przedstawiciela programu.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        12
+      ],
+      "rozdzial": "05-representative",
+      "status": "brak-danych",
+      "plik": "03-application/05-representative/specification/Q-038.md",
+      "odpowiedz": {
+        "plik": "03-application/05-representative/form.md",
+        "typ": "tabela",
+        "tabela": "representative",
+        "wiersz": "Q-038",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-039",
+      "key": "representative_email",
+      "pole": "Adres e-mail przedstawiciela",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Aktualny adres e-mail przedstawiciela programu.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        12
+      ],
+      "rozdzial": "05-representative",
+      "status": "brak-danych",
+      "plik": "03-application/05-representative/specification/Q-039.md",
+      "odpowiedz": {
+        "plik": "03-application/05-representative/form.md",
+        "typ": "tabela",
+        "tabela": "representative",
+        "wiersz": "Q-039",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-040",
+      "key": "representative_position",
+      "pole": "Stanowisko lub funkcja przedstawiciela",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "reguly": "Funkcja potwierdzająca właściwą kategorię przedstawiciela; sam wpis nie dowodzi umocowania. RNU określa odrębne zasady zmiany osoby przed rozmową, a umowa przed misją.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 4
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 5
+        }
+      ],
+      "wymagania": [
+        12,
+        27,
+        35
+      ],
+      "rozdzial": "05-representative",
+      "status": "brak-danych",
+      "plik": "03-application/05-representative/specification/Q-040.md",
+      "odpowiedz": {
+        "plik": "03-application/05-representative/form.md",
+        "typ": "tabela",
+        "tabela": "representative",
+        "wiersz": "Q-040",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-041",
+      "key": "startup_age_declaration",
+      "pole": "Czy wnioskodawca jest startupem prowadzącym działalność od jednego roku do pięciu lat na dzień złożenia wniosku?",
+      "typ": "wybor",
+      "opcje": [
+        "TAK"
+      ],
+      "limit_znakow": null,
+      "reguly": "Wybór pojedynczy; instrukcja przewiduje wyłącznie TAK. Pozostawić bez zaznaczenia w pustym wzorze. Treść odnosi się do okresu od rejestracji w KRS/CEIDG, bez odliczania zawieszeń; zachować zastrzeżenie rozbieżności z ogłoszeniem o pełnych latach obrotowych. Nie wylicza się automatycznie z Q-007.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 5
+        },
+        {
+          "id": "SRC-81a1e81c22a7",
+          "strona": 6
+        }
+      ],
+      "wymagania": [
+        3
+      ],
+      "rozdzial": "06-history",
+      "status": "brak-danych",
+      "plik": "03-application/06-history/specification/Q-041.md",
+      "odpowiedz": {
+        "plik": "03-application/06-history/form.md",
+        "typ": "tabela",
+        "tabela": "history-declarations",
+        "wiersz": "Q-041",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-042",
+      "key": "accelerator_participation",
+      "pole": "Czy wnioskodawca brał udział w programie akceleracyjnym?",
+      "typ": "wybor",
+      "opcje": [
+        "TAK",
+        "NIE"
+      ],
+      "limit_znakow": null,
+      "reguly": "Wybór pojedynczy. TAK uruchamia karty programów i dowody Q-073. NIE oznacza brak udziału i 0 w K-05, bez obowiązku tworzenia fikcyjnych kart. Instrukcja stosuje TAK/NIE; wzór zapisuje Tak/Nie.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 5
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 5
+        }
+      ],
+      "wymagania": [
+        14
+      ],
+      "rozdzial": "06-history",
+      "status": "brak-danych",
+      "plik": "03-application/06-history/specification/Q-042.md",
+      "odpowiedz": {
+        "plik": "03-application/06-history/form.md",
+        "typ": "tabela",
+        "tabela": "history-declarations",
+        "wiersz": "Q-042",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-047",
+      "key": "startup_awards",
+      "pole": "Czy wnioskodawca otrzymał wyróżnienie w konkursie dla startupów?",
+      "typ": "wybor",
+      "opcje": [
+        "TAK",
+        "NIE"
+      ],
+      "limit_znakow": null,
+      "reguly": "Wybór pojedynczy. TAK uruchamia karty konkursów i dowody Q-074. NIE jest kompletną deklaracją braku wyróżnień i oznacza 0 w K-06. Nie tworzyć fikcyjnych konkursów.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 5
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 6
+        }
+      ],
+      "wymagania": [
+        15
+      ],
+      "rozdzial": "06-history",
+      "status": "brak-danych",
+      "plik": "03-application/06-history/specification/Q-047.md",
+      "odpowiedz": {
+        "plik": "03-application/06-history/form.md",
+        "typ": "tabela",
+        "tabela": "history-declarations",
+        "wiersz": "Q-047",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-043",
+      "key": "accelerator_name",
+      "pole": "Nazwa programu akceleracyjnego",
+      "typ": "tekst",
+      "limit_znakow": 1000,
+      "warunek": "Q-042 = TAK",
+      "reguly": "Pełna oficjalna nazwa jednego programu. Uwzględnia się programy, w których uczestniczył Wnioskodawca, po co najmniej procesie selekcji. Kolejne programy jako kolejne karty; bez limitu liczby ustalonego w tekście źródeł.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 5
+        }
+      ],
+      "wymagania": [
+        14
+      ],
+      "rozdzial": "06-history",
+      "status": "brak-danych",
+      "plik": "03-application/06-history/specification/Q-043.md",
+      "odpowiedz": {
+        "plik": "03-application/06-history/accelerators/{id}.md",
+        "grupa": "accelerators",
+        "typ": "tabela",
+        "tabela": "accelerator-details",
+        "wiersz": "Q-043",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-044",
+      "key": "accelerator_organizer",
+      "pole": "Podmiot prowadzący program akceleracyjny",
+      "typ": "tekst",
+      "limit_znakow": 1000,
+      "warunek": "Q-042 = TAK",
+      "reguly": "Pełna oficjalna nazwa organizatora. Dwa punkty wymagają co najmniej dwóch programów prowadzonych przez różne podmioty; różne nazwy edycji nie dowodzą różnych organizatorów.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 2
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 5
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 5
+        }
+      ],
+      "wymagania": [
+        14
+      ],
+      "rozdzial": "06-history",
+      "status": "brak-danych",
+      "plik": "03-application/06-history/specification/Q-044.md",
+      "odpowiedz": {
+        "plik": "03-application/06-history/accelerators/{id}.md",
+        "grupa": "accelerators",
+        "typ": "tabela",
+        "tabela": "accelerator-details",
+        "wiersz": "Q-044",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-045",
+      "key": "accelerator_date_from",
+      "pole": "Data rozpoczęcia udziału w programie",
+      "typ": "data",
+      "limit_znakow": null,
+      "warunek": "Q-042 = TAK",
+      "reguly": "Pierwsze z dwóch odrębnych pól dat. Instrukcja RRRR/MM/DD, wzór dd/mm/rrrr; lokalnie ISO. Data dotyczy udziału Wnioskodawcy, a nie rejestracji startupu.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 5
+        }
+      ],
+      "wymagania": [
+        14
+      ],
+      "rozdzial": "06-history",
+      "status": "brak-danych",
+      "plik": "03-application/06-history/specification/Q-045.md",
+      "odpowiedz": {
+        "plik": "03-application/06-history/accelerators/{id}.md",
+        "grupa": "accelerators",
+        "typ": "tabela",
+        "tabela": "accelerator-details",
+        "wiersz": "Q-045",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-046",
+      "key": "accelerator_date_to",
+      "pole": "Data zakończenia udziału w programie",
+      "typ": "data",
+      "limit_znakow": null,
+      "warunek": "Q-042 = TAK",
+      "reguly": "Drugie pole dat udziału. Zachować zgodność z dokumentem potwierdzającym. Instrukcja RRRR/MM/DD, lokalnie ISO; nie utożsamiać zakończenia udziału z wymogiem ukończenia całego programu, gdy kryterium dopuszcza udokumentowany udział po selekcji.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 5
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 5
+        }
+      ],
+      "wymagania": [
+        14
+      ],
+      "rozdzial": "06-history",
+      "status": "brak-danych",
+      "plik": "03-application/06-history/specification/Q-046.md",
+      "odpowiedz": {
+        "plik": "03-application/06-history/accelerators/{id}.md",
+        "grupa": "accelerators",
+        "typ": "tabela",
+        "tabela": "accelerator-details",
+        "wiersz": "Q-046",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-048",
+      "key": "competition_name",
+      "pole": "Nazwa konkursu",
+      "typ": "tekst",
+      "limit_znakow": 1000,
+      "warunek": "Q-047 = TAK",
+      "reguly": "Pełna oficjalna nazwa konkursu. Instrukcja identyfikuje tę grupę jako Konkurs dla startupów; nagłówek Program Akceleracyjny we wzorze przy wyróżnieniach jest rozbieżnością nazewniczą. Kolejne konkursy jako kolejne karty.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 5
+        }
+      ],
+      "wymagania": [
+        15
+      ],
+      "rozdzial": "06-history",
+      "status": "brak-danych",
+      "plik": "03-application/06-history/specification/Q-048.md",
+      "odpowiedz": {
+        "plik": "03-application/06-history/competitions/{id}.md",
+        "grupa": "competitions",
+        "typ": "tabela",
+        "tabela": "competition-details",
+        "wiersz": "Q-048",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-049",
+      "key": "competition_organizer",
+      "pole": "Podmiot organizujący konkurs",
+      "typ": "tekst",
+      "limit_znakow": 1000,
+      "warunek": "Q-047 = TAK",
+      "reguly": "Pełna oficjalna nazwa organizatora. Przy wielu punktowanych konkursach muszą to być różni organizatorzy; maksymalnie 3 pkt nie oznacza maksimum trzech kart.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 5
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 6
+        }
+      ],
+      "wymagania": [
+        15
+      ],
+      "rozdzial": "06-history",
+      "status": "brak-danych",
+      "plik": "03-application/06-history/specification/Q-049.md",
+      "odpowiedz": {
+        "plik": "03-application/06-history/competitions/{id}.md",
+        "grupa": "competitions",
+        "typ": "tabela",
+        "tabela": "competition-details",
+        "wiersz": "Q-049",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-050",
+      "key": "competition_level",
+      "pole": "Poziom konkursu",
+      "typ": "wybor",
+      "opcje": [
+        "regionalny",
+        "krajowy",
+        "międzynarodowy"
+      ],
+      "limit_znakow": null,
+      "warunek": "Q-047 = TAK",
+      "reguly": "Wybór pojedynczy. Kryterium dotyczy konkursów w kraju co najmniej regionalnych lub za granicą; zachować oficjalny poziom i dokument organizatora.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 5
+        }
+      ],
+      "wymagania": [
+        15
+      ],
+      "rozdzial": "06-history",
+      "status": "brak-danych",
+      "plik": "03-application/06-history/specification/Q-050.md",
+      "odpowiedz": {
+        "plik": "03-application/06-history/competitions/{id}.md",
+        "grupa": "competitions",
+        "typ": "tabela",
+        "tabela": "competition-details",
+        "wiersz": "Q-050",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-051",
+      "key": "award_name",
+      "pole": "Rodzaj lub nazwa wyróżnienia",
+      "typ": "tekst",
+      "limit_znakow": 1000,
+      "warunek": "Q-047 = TAK",
+      "reguly": "Pełna oficjalna nazwa nagrody lub wyróżnienia. Obejmuje wskazane w kryterium formy, np. punktowane miejsce, grant czy tytuł laureata, o ile potwierdzone przez organizatora dla Wnioskodawcy.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 5
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 6
+        }
+      ],
+      "wymagania": [
+        15
+      ],
+      "rozdzial": "06-history",
+      "status": "brak-danych",
+      "plik": "03-application/06-history/specification/Q-051.md",
+      "odpowiedz": {
+        "plik": "03-application/06-history/competitions/{id}.md",
+        "grupa": "competitions",
+        "typ": "tabela",
+        "tabela": "competition-details",
+        "wiersz": "Q-051",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-052",
+      "key": "award_date",
+      "pole": "Data otrzymania wyróżnienia",
+      "typ": "data",
+      "limit_znakow": null,
+      "warunek": "Q-047 = TAK",
+      "reguly": "Rzeczywista data otrzymania wyróżnienia, zgodna z dowodem. Instrukcja RRRR/MM/DD, lokalnie ISO.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 6
+        }
+      ],
+      "wymagania": [
+        15
+      ],
+      "rozdzial": "06-history",
+      "status": "brak-danych",
+      "plik": "03-application/06-history/specification/Q-052.md",
+      "odpowiedz": {
+        "plik": "03-application/06-history/competitions/{id}.md",
+        "grupa": "competitions",
+        "typ": "tabela",
+        "tabela": "competition-details",
+        "wiersz": "Q-052",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-053",
+      "key": "award_subject",
+      "pole": "Co było przedmiotem wyróżnienia?",
+      "typ": "wybor",
+      "opcje": [
+        "technologia",
+        "produkt",
+        "usługa",
+        "model biznesowy",
+        "prezentacja Pitch Deck"
+      ],
+      "limit_znakow": null,
+      "warunek": "Q-047 = TAK",
+      "reguly": "Wybór pojedynczy według instrukcji, odmiennie od wielokrotnego wyboru rodzaju rozwiązania w Q-060.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 6
+        }
+      ],
+      "wymagania": [
+        15
+      ],
+      "rozdzial": "06-history",
+      "status": "brak-danych",
+      "plik": "03-application/06-history/specification/Q-053.md",
+      "odpowiedz": {
+        "plik": "03-application/06-history/competitions/{id}.md",
+        "grupa": "competitions",
+        "typ": "tabela",
+        "tabela": "competition-details",
+        "wiersz": "Q-053",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-054",
+      "key": "solution_name_pl",
+      "pole": "Nazwa rozwiązania w języku polskim",
+      "typ": "tekst",
+      "limit_znakow": 2000,
+      "reguly": "Nazwa produktu, usługi lub technologii. Limit 2000 podaje instrukcja; wzór nie drukuje limitu przy nazwie. Wersje PL i EN odnoszą się do tego samego rozwiązania.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 6
+        }
+      ],
+      "wymagania": [
+        6,
+        11,
+        16
+      ],
+      "rozdzial": "07-solution",
+      "status": "brak-danych",
+      "plik": "03-application/07-solution/specification/Q-054.md",
+      "odpowiedz": {
+        "plik": "03-application/07-solution/form.md",
+        "typ": "tabela",
+        "tabela": "solution-identity",
+        "wiersz": "Q-054",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-055",
+      "key": "solution_name_en",
+      "pole": "Nazwa rozwiązania w języku angielskim",
+      "typ": "tekst",
+      "limit_znakow": 2000,
+      "reguly": "Nazwa w języku angielskim, spójna znaczeniowo z polską. Limit z instrukcji.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 6
+        }
+      ],
+      "wymagania": [
+        6,
+        11,
+        16
+      ],
+      "rozdzial": "07-solution",
+      "status": "brak-danych",
+      "plik": "03-application/07-solution/specification/Q-055.md",
+      "odpowiedz": {
+        "plik": "03-application/07-solution/form.md",
+        "typ": "tabela",
+        "tabela": "solution-identity",
+        "wiersz": "Q-055",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-058",
+      "key": "solution_sector",
+      "pole": "Przynależność rozwiązania do branży",
+      "typ": "wybor",
+      "opcje": [
+        "IT/ICT"
+      ],
+      "limit_znakow": null,
+      "reguly": "Wybór pojedynczy, nie zaznaczać automatycznie. Rozwiązanie ma należeć do technologii przetwarzania, gromadzenia lub przesyłania informacji elektronicznej zgodnie z definicją IT/ICT.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 6
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 4
+        }
+      ],
+      "wymagania": [
+        6
+      ],
+      "rozdzial": "07-solution",
+      "status": "brak-danych",
+      "plik": "03-application/07-solution/specification/Q-058.md",
+      "odpowiedz": {
+        "plik": "03-application/07-solution/form.md",
+        "typ": "tabela",
+        "tabela": "solution-identity",
+        "wiersz": "Q-058",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-059",
+      "key": "solution_readiness",
+      "pole": "Poziom gotowości rozwiązania",
+      "typ": "wybor",
+      "opcje": [
+        "Prototyp",
+        "MVP",
+        "produkt finalny"
+      ],
+      "limit_znakow": null,
+      "reguly": "Wybór pojedynczy. Definicje naboru: Prototyp — zbudowana wersja demonstracyjna, TRL co najmniej 5; MVP — minimalna wersja dla pierwszych klientów i informacji zwrotnej, TRL co najmniej 8; produkt finalny — gotowość do komercjalizacji, TRL 9. Sama koncepcja nie spełnia wymogu prototypu. Nie dodawać osobnego pytania o TRL.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 6
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 7
+        }
+      ],
+      "wymagania": [
+        4,
+        16
+      ],
+      "rozdzial": "07-solution",
+      "status": "brak-danych",
+      "plik": "03-application/07-solution/specification/Q-059.md",
+      "odpowiedz": {
+        "plik": "03-application/07-solution/form.md",
+        "typ": "tabela",
+        "tabela": "solution-identity",
+        "wiersz": "Q-059",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-060",
+      "key": "solution_type",
+      "pole": "Czego dotyczy rozwiązanie?",
+      "typ": "wybor",
+      "opcje": [
+        "technologia",
+        "produkt",
+        "usługa"
+      ],
+      "wielokrotny": true,
+      "limit_znakow": null,
+      "reguly": "Lista wielokrotnego wyboru według instrukcji. Można wskazać więcej niż jeden rodzaj; nie przenosić tu ograniczenia pojedynczego wyboru z przedmiotu wyróżnienia Q-053.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 7
+        }
+      ],
+      "wymagania": [
+        6,
+        16
+      ],
+      "rozdzial": "07-solution",
+      "status": "brak-danych",
+      "plik": "03-application/07-solution/specification/Q-060.md",
+      "odpowiedz": {
+        "plik": "03-application/07-solution/form.md",
+        "typ": "tabela",
+        "tabela": "solution-identity",
+        "wiersz": "Q-060",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-056",
+      "key": "solution_description_pl",
+      "pole": "Opis rozwiązania w języku polskim",
+      "typ": "opis",
+      "limit_znakow": 2000,
+      "reguly": "Przedstaw rozwiązanie będące przedmiotem wniosku po polsku. To opis rozwiązania, nie automatycznie opis zakresu działalności wskazany osobno w §5 ust. 6 RNU.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 6
+        },
+        {
+          "id": "SRC-81a1e81c22a7",
+          "strona": 9
+        }
+      ],
+      "wymagania": [
+        6,
+        11,
+        16
+      ],
+      "rozdzial": "07-solution",
+      "status": "brak-danych",
+      "plik": "03-application/07-solution/specification/Q-056.md",
+      "odpowiedz": {
+        "plik": "03-application/07-solution/form.md",
+        "typ": "blok",
+        "blok": "Q-056"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-057",
+      "key": "solution_description_en",
+      "pole": "Opis rozwiązania w języku angielskim",
+      "typ": "opis",
+      "limit_znakow": 2000,
+      "reguly": "Przedstaw to samo rozwiązanie po angielsku. Zachować spójność faktów i zakresu z opisem polskim; to odrębne pole i odrębny limit.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 6
+        }
+      ],
+      "wymagania": [
+        6,
+        11,
+        16
+      ],
+      "rozdzial": "07-solution",
+      "status": "brak-danych",
+      "plik": "03-application/07-solution/specification/Q-057.md",
+      "odpowiedz": {
+        "plik": "03-application/07-solution/form.md",
+        "typ": "blok",
+        "blok": "Q-057"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-061",
+      "key": "solution_novelty",
+      "pole": "W jaki sposób rozwiązanie jest nowe lub znacząco udoskonalone w zakresie cech lub zastosowań istotnych dla użytkownika?",
+      "typ": "opis",
+      "limit_znakow": 2000,
+      "reguly": "Uzasadnij unikatowość w układzie porównawczym: cechy jakościowe i inne przewagi nad konkurencją tej samej branży. Podaj nazwy i strony www konkurentów odpowiednio do deklarowanego poziomu, z cechami istotnymi dla użytkownika. Zachować odrębność od uzasadnienia Q-063.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 3
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 7
+        }
+      ],
+      "wymagania": [
+        16
+      ],
+      "rozdzial": "07-solution",
+      "status": "brak-danych",
+      "plik": "03-application/07-solution/specification/Q-061.md",
+      "odpowiedz": {
+        "plik": "03-application/07-solution/form.md",
+        "typ": "blok",
+        "blok": "Q-061"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-062",
+      "key": "innovation_level",
+      "pole": "Poziom innowacyjności",
+      "typ": "wybor",
+      "opcje": [
+        "rozwiązanie ma jedną cechę istotną dla użytkownika, wyróżniające je względem rozwiązań oferowanych przez podmioty konkurencyjne na rynku krajowym;",
+        "rozwiązanie ma dwie lub więcej cechy wyróżniające je względem rozwiązań oferowanych przez podmioty konkurencyjne na rynku krajowym;",
+        "rozwiązanie ma jedną cechę istotną dla użytkownika, wyróżniającą je względem rozwiązań oferowanych przez podmioty konkurencyjne, przy czym wykaże, że co najmniej jeden z tych podmiotów konkurencyjnych działa na rynku europejskim (poza Polską) lub innym rynku rozwiniętym (rynek Stanów Zjednoczonych, Kanady, Korei Południowej, Japonii, Tajwanu, Singapuru, Izraela);",
+        "rozwiązanie ma dwie lub więcej cech wyróżniających je względem rozwiązań oferowanych przez podmioty konkurencyjne przy czym wykaże, że co najmniej dwa z tych podmiotów konkurencyjnych działają na rynku europejskim (poza Polską) lub innym rynku rozwiniętym (rynek Stanów Zjednoczonych, Kanady, Korei Południowej, Japonii, Tajwanu, Singapuru, Izraela)."
+      ],
+      "limit_znakow": null,
+      "reguly": "Wybór pojedynczy; pełne brzmienie opcji za instrukcją s. 7, bez skracania do kodu punktowego. Odpowiadają poziomom 1–4 kryterium, lecz deklaracja nie nadaje punktów. Brak opcji 0 we wzorze nie wyklucza oceny 0 przez KOW. Oryginalne etykiety należy dopasować do wartości LSI przy przenoszeniu.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 4
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 7
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 7
+        }
+      ],
+      "wymagania": [
+        16
+      ],
+      "rozdzial": "07-solution",
+      "status": "brak-danych",
+      "plik": "03-application/07-solution/specification/Q-062.md",
+      "odpowiedz": {
+        "plik": "03-application/07-solution/form.md",
+        "typ": "tabela",
+        "tabela": "innovation",
+        "wiersz": "Q-062",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-063",
+      "key": "innovation_justification",
+      "pole": "Uzasadnienie poziomu innowacyjności",
+      "typ": "opis",
+      "limit_znakow": 2000,
+      "reguly": "Wymień i opisz cechy wyróżniające rozwiązanie. Wskaż konkurentów: nazwa, www i zakres działania na rynku krajowym, europejskim poza Polską lub wskazanym rozwiniętym. Dla poziomu 3 co najmniej jeden odpowiedni konkurent, dla 4 co najmniej dwóch; liczba cech według wybranego poziomu. Nie zastępować treści samym wyborem Q-062.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 4
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 7
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 7
+        }
+      ],
+      "wymagania": [
+        16
+      ],
+      "rozdzial": "07-solution",
+      "status": "brak-danych",
+      "plik": "03-application/07-solution/specification/Q-063.md",
+      "odpowiedz": {
+        "plik": "03-application/07-solution/form.md",
+        "typ": "blok",
+        "blok": "Q-063"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-064",
+      "key": "potential_customers",
+      "pole": "Potencjalni odbiorcy rozwiązania oferowanego przez wnioskodawcę",
+      "typ": "opis",
+      "limit_znakow": 1000,
+      "reguly": "Precyzyjnie wskaż odbiorców, w szczególności B2B, B2C lub B2A, scharakteryzuj najważniejsze grupy, krajowy/zagraniczny zasięg i realistyczną wielkość grupy. Te kategorie są wskazówkami do opisu, nie osobnym słownikiem wyboru.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 4
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 8
+        }
+      ],
+      "wymagania": [
+        5,
+        17
+      ],
+      "rozdzial": "08-business",
+      "status": "brak-danych",
+      "plik": "03-application/08-business/specification/Q-064.md",
+      "odpowiedz": {
+        "plik": "03-application/08-business/form.md",
+        "typ": "blok",
+        "blok": "Q-064"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-065",
+      "key": "customer_problems",
+      "pole": "Problemy potencjalnych odbiorców rozwiązania",
+      "typ": "opis",
+      "limit_znakow": 1000,
+      "reguly": "Opisz problemy i potrzeby wskazanych odbiorców, które rozwiązanie adresuje całkowicie lub częściowo. Zachować odniesienie do grup z Q-064.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 4
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 8
+        }
+      ],
+      "wymagania": [
+        5,
+        17
+      ],
+      "rozdzial": "08-business",
+      "status": "brak-danych",
+      "plik": "03-application/08-business/specification/Q-065.md",
+      "odpowiedz": {
+        "plik": "03-application/08-business/form.md",
+        "typ": "blok",
+        "blok": "Q-065"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-066",
+      "key": "problem_solution_fit",
+      "pole": "Czy i w jaki sposób rozwiązanie odpowiada problemom odbiorców?",
+      "typ": "opis",
+      "limit_znakow": 1000,
+      "reguly": "Na podstawie posiadanych danych przedstaw informacje potwierdzające, czy i jak rozwiązanie odpowiada wskazanym potrzebom. Powiąż z Q-065 i rzeczywistymi właściwościami rozwiązania.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 4
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 8
+        }
+      ],
+      "wymagania": [
+        5,
+        17
+      ],
+      "rozdzial": "08-business",
+      "status": "brak-danych",
+      "plik": "03-application/08-business/specification/Q-066.md",
+      "odpowiedz": {
+        "plik": "03-application/08-business/form.md",
+        "typ": "blok",
+        "blok": "Q-066"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-067",
+      "key": "distribution_channels",
+      "pole": "Potencjalne kanały dystrybucji rozwiązania",
+      "typ": "opis",
+      "limit_znakow": 1000,
+      "reguly": "Wskaż i opisz kanały, uzasadnij ich wybór i dopasowanie do grup odbiorców.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 4
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 8
+        }
+      ],
+      "wymagania": [
+        5,
+        17
+      ],
+      "rozdzial": "08-business",
+      "status": "brak-danych",
+      "plik": "03-application/08-business/specification/Q-067.md",
+      "odpowiedz": {
+        "plik": "03-application/08-business/form.md",
+        "typ": "blok",
+        "blok": "Q-067"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-068",
+      "key": "revenue_sources",
+      "pole": "Potencjalne źródła przychodu z komercjalizacji rozwiązania",
+      "typ": "opis",
+      "limit_znakow": 1000,
+      "reguly": "Opisz źródła przychodu wraz z estymacją finansową zgodnie z instrukcją. Nie jest to budżet wydatków programu, kwota dofinansowania ani odrębny system pól kwotowych.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 5
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 8
+        }
+      ],
+      "wymagania": [
+        5,
+        17
+      ],
+      "rozdzial": "08-business",
+      "status": "brak-danych",
+      "plik": "03-application/08-business/specification/Q-068.md",
+      "odpowiedz": {
+        "plik": "03-application/08-business/form.md",
+        "typ": "blok",
+        "blok": "Q-068"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-069",
+      "key": "foreign_commercialization",
+      "pole": "Potencjalne kierunki zagranicznej komercjalizacji rozwiązania",
+      "typ": "opis",
+      "limit_znakow": 1000,
+      "reguly": "Wskaż wybrane rynki docelowe i uzasadnij wybór oraz wpływ udziału w programie na potencjał eksportowy. Lista misji obejmuje Kanadę, Francję i Finlandię, ale nie stanowi słownika ograniczającego to pole. Nie dodawać wyboru liczby misji.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 5
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 8
+        },
+        {
+          "id": "SRC-79caec3c58e0",
+          "strona": 1
+        }
+      ],
+      "wymagania": [
+        5,
+        17,
+        38
+      ],
+      "rozdzial": "08-business",
+      "status": "brak-danych",
+      "plik": "03-application/08-business/specification/Q-069.md",
+      "odpowiedz": {
+        "plik": "03-application/08-business/form.md",
+        "typ": "blok",
+        "blok": "Q-069"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-070",
+      "key": "horizontal_policies",
+      "pole": "Wpływ rozwiązania na polityki horyzontalne Unii Europejskiej",
+      "typ": "opis",
+      "limit_znakow": 1000,
+      "reguly": "Wskaż, czy i w jakim zakresie rozwiązanie może pozytywnie wpływać na cele jednej lub więcej polityk: w szczególności równość kobiet i mężczyzn, równość szans i niedyskryminacja, dostępność dla osób z niepełnosprawnościami, zrównoważony rozwój. Wybierz właściwe cele i zasady oraz uzasadnij wpływ; nie dopisuj nieudokumentowanych korzyści.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 5
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 8
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 8
+        }
+      ],
+      "wymagania": [
+        17
+      ],
+      "rozdzial": "08-business",
+      "status": "brak-danych",
+      "plik": "03-application/08-business/specification/Q-070.md",
+      "odpowiedz": {
+        "plik": "03-application/08-business/form.md",
+        "typ": "blok",
+        "blok": "Q-070"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-071",
+      "key": "pitch_deck_pl",
+      "pole": "Prezentacja Pitch Deck w języku polskim",
+      "typ": "zalacznik",
+      "limit_znakow": null,
+      "reguly": "Wymagany załącznik PL. Treść: informacje o wnioskodawcy; rozwiązanie i nisza/problem; gotowość technologiczna; model biznesowy; planowane działania komercjalizacji zagranicznej; przedstawiciel i doświadczenie zawodowe. Instrukcja podaje PPT/PPTX, kryteria PPTX/PDF: roboczo PPTX jako wspólny format. Limity liczby i rozmiaru oraz pozostałe formaty wymagają sprawdzenia w LSI.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 5
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 8
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 9
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 8
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 9
+        }
+      ],
+      "wymagania": [
+        11,
+        18,
+        24
+      ],
+      "rozdzial": "09-attachments",
+      "status": "brak-danych",
+      "plik": "03-application/09-attachments/specification/Q-071.md",
+      "odpowiedz": {
+        "plik": "03-application/09-attachments/form.md",
+        "typ": "tabela",
+        "tabela": "attachments",
+        "wiersz": "Q-071",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-072",
+      "key": "pitch_deck_en",
+      "pole": "Prezentacja Pitch Deck w języku angielskim",
+      "typ": "zalacznik",
+      "limit_znakow": null,
+      "reguly": "Wymagany załącznik EN, spójny z PL i obejmujący sześć wymaganych obszarów. Na rozmowie wskazany przedstawiciel wygłasza po angielsku dokładnie wersję złożoną w LSI, do 6 minut. Przygotowanie pliku nie dowodzi wygłoszenia. Roboczo PPTX jako wspólna część rozbieżnych zaleceń PPT/PPTX i PPTX/PDF; limity GW nieustalone.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 5
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 8
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 9
+        },
+        {
+          "id": "SRC-81a1e81c22a7",
+          "strona": 12
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 9
+        }
+      ],
+      "wymagania": [
+        11,
+        18,
+        24,
+        27
+      ],
+      "rozdzial": "09-attachments",
+      "status": "brak-danych",
+      "plik": "03-application/09-attachments/specification/Q-072.md",
+      "odpowiedz": {
+        "plik": "03-application/09-attachments/form.md",
+        "typ": "tabela",
+        "tabela": "attachments",
+        "wiersz": "Q-072",
+        "kolumna": "Odpowiedź"
+      },
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-073",
+      "key": "accelerator_evidence",
+      "pole": "Dokumenty potwierdzające udział w programach akceleracyjnych",
+      "typ": "zalacznik",
+      "limit_znakow": null,
+      "warunek": "Q-042 = TAK",
+      "reguly": "Powiąż dowody z odpowiednimi kartami A. Kryterium dopuszcza zaświadczenie organizatora, umowę uczestnictwa, certyfikat lub dyplom potwierdzający udział/ukończenie. Dokument ma dotyczyć Wnioskodawcy. Pozycja może obejmować wiele dokumentów, bez ustalonego w źródłach maksimum. Warunkowość przy TAK jest interpretacją na podstawie kryterium dopuszczającego brak akceleracji; instrukcja nazywa listę załączników obowiązkową.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 5
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 8
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 5
+        }
+      ],
+      "wymagania": [
+        14,
+        24
+      ],
+      "rozdzial": "09-attachments",
+      "status": "brak-danych",
+      "plik": "03-application/09-attachments/specification/Q-073.md",
+      "odpowiedz": {
+        "plik": "03-application/09-attachments/form.md",
+        "typ": "tabela",
+        "tabela": "attachments",
+        "wiersz": "Q-073",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-074",
+      "key": "award_evidence",
+      "pole": "Dokumenty potwierdzające wyróżnienia w konkursach dla startupów",
+      "typ": "zalacznik",
+      "limit_znakow": null,
+      "warunek": "Q-047 = TAK",
+      "reguly": "Dokumenty organizatorów potwierdzające wyróżnienia Wnioskodawcy, powiązane z kartami W. Możliwe wiele dokumentów; limity GW nieustalone. Warunkowość przy TAK jest interpretacją na podstawie kryterium dopuszczającego brak wyróżnień; nie tworzyć dowodu dla odpowiedzi NIE.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 5
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 8
+        },
+        {
+          "id": "SRC-42809da21f1b",
+          "strona": 6
+        }
+      ],
+      "wymagania": [
+        15,
+        24
+      ],
+      "rozdzial": "09-attachments",
+      "status": "brak-danych",
+      "plik": "03-application/09-attachments/specification/Q-074.md",
+      "odpowiedz": {
+        "plik": "03-application/09-attachments/form.md",
+        "typ": "tabela",
+        "tabela": "attachments",
+        "wiersz": "Q-074",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-075",
+      "key": "other_evidence",
+      "pole": "Inne dokumenty potwierdzające informacje we wniosku",
+      "typ": "zalacznik",
+      "limit_znakow": null,
+      "warunek": "Jeżeli dotyczy.",
+      "reguly": "Pozostałe dokumenty potwierdzające treść wniosku. RNU §5 ust. 6, s. 9, wymaga przygotowania odrębnych opisów zakresu działalności Wnioskodawcy w PL i EN. Ujmij oba dokumenty w planie załączników 06-attachments/README.md. Istniejąca pozycja Q-075 stanowi robocze miejsce ich zebrania; nie dodano nowego pola oficjalnego formularza. Nie zastępuj ich opisami rozwiązania Q-056/Q-057. Wzór i instrukcja nie wyodrębniają kategorii opisów działalności: dokładną kategorię wysyłki, format i limity plików należy sprawdzić we właściwym LSI przed złożeniem. Przypisanie do Q-075 jest organizacją warsztatu, nie potwierdzeniem akceptacji tej kategorii przez PARP.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 5
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 8
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 9
+        },
+        {
+          "id": "SRC-81a1e81c22a7",
+          "strona": 9
+        }
+      ],
+      "wymagania": [
+        11,
+        24
+      ],
+      "rozdzial": "09-attachments",
+      "status": "brak-danych",
+      "plik": "03-application/09-attachments/specification/Q-075.md",
+      "odpowiedz": {
+        "plik": "03-application/09-attachments/form.md",
+        "typ": "tabela",
+        "tabela": "attachments",
+        "wiersz": "Q-075",
+        "kolumna": "Odpowiedź"
+      },
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-076",
+      "key": "declaration_truth",
+      "pole": "Zgodność informacji ze stanem faktycznym i prawnym",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/10-declarations/form.md",
+        "typ": "stala",
+        "wartosc": "Oświadczam, że informacje zawarte w niniejszym wniosku są zgodne ze stanem faktycznym i prawnym."
+      },
+      "reguly": "Oświadczenie 1, treść wzoru. Instrukcja dodaje świadomość odpowiedzialności karnej. Wyświetlenie stałego tekstu nie jest złożeniem oświadczenia; nie potwierdzać faktów za użytkownika.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 5
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 9
+        }
+      ],
+      "wymagania": [
+        25
+      ],
+      "rozdzial": "10-declarations",
+      "status": "brak-danych",
+      "plik": "03-application/10-declarations/specification/Q-076.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-077",
+      "key": "declaration_regulations",
+      "pole": "Zapoznanie się z regulaminem naboru",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/10-declarations/form.md",
+        "typ": "stala",
+        "wartosc": "Złożenie wniosku i przystąpienie do naboru stanowi potwierdzenie zapoznania się Wnioskodawcy z Regulaminem Naboru Uczestników krótkoterminowego programu bilateralnego dla startupów w ramach Projektu START-UPS ARE US"
+      },
+      "reguly": "Oświadczenie 2, stały tekst wzoru. Instrukcja formułuje dodatkowo akceptację zasad. Skutek wiąże się z rzeczywistym złożeniem w LSI, nie z zapisem szablonu.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 5
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 9
+        }
+      ],
+      "wymagania": [
+        25
+      ],
+      "rozdzial": "10-declarations",
+      "status": "brak-danych",
+      "plik": "03-application/10-declarations/specification/Q-077.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-078",
+      "key": "declaration_public_finance_exclusion",
+      "pole": "Brak wykluczenia na podstawie ustawy o finansach publicznych",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/10-declarations/form.md",
+        "typ": "stala",
+        "wartosc": "Oświadczam, że nie podlegam wykluczeniu z ubiegania się o udzielenie wsparcia na podstawie art. 207 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r., poz. 1483, ze zm.)."
+      },
+      "reguly": "Oświadczenie 3. Zachowano odesłanie wzoru do ust. 4; instrukcja przytacza art. 207 bez tego zawężenia. Stała treść nie stanowi weryfikacji braku wykluczenia.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 5
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 9
+        }
+      ],
+      "wymagania": [
+        25,
+        34
+      ],
+      "rozdzial": "10-declarations",
+      "status": "brak-danych",
+      "plik": "03-application/10-declarations/specification/Q-078.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-079",
+      "key": "declaration_parp_exclusion",
+      "pole": "Brak wykluczenia na podstawie ustawy o PARP",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/10-declarations/form.md",
+        "typ": "stala",
+        "wartosc": "Oświadczam, że nie podlegam wykluczeniu z ubiegania się o wsparcie na podstawie ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2025 r., poz. 98)."
+      },
+      "reguly": "Oświadczenie 4, tekst wzoru. Prawdziwość wymaga osobnego sprawdzenia; brak lokalnego zaznaczenia lub podpisu.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 5
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 9
+        }
+      ],
+      "wymagania": [
+        25,
+        34
+      ],
+      "rozdzial": "10-declarations",
+      "status": "brak-danych",
+      "plik": "03-application/10-declarations/specification/Q-079.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-080",
+      "key": "declaration_feng_de_minimis",
+      "pole": "Brak wykluczenia FENG i kwalifikowanie się do pomocy de minimis",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/10-declarations/form.md",
+        "typ": "stala",
+        "wartosc": "Oświadczam, że nie podlegam wykluczeniu z ubiegania się o udzielenie wsparcia na podstawie rozporządzenia Ministra Funduszy i Polityki Regionalnej z dnia 7 listopada 2022 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach programu Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027 (Dz. U. z 2022 r., poz. 2510 ze zm) i kwalifikuje się do otrzymania pomocy de minimis zgodnie z przepisami Rozporządzenia Komisji (UE) nr 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis."
+      },
+      "reguly": "Oświadczenie 5 przechodzi ze s. 5 na 6. Zachowano brzmienie wzoru, w tym przywołanie publikacyjne; instrukcja podaje Dz. U. z 2025 r. poz. 748. Nie oblicza się dostępnego limitu pomocy z tego tekstu ani nie potwierdza kwalifikowalności.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 5
+        },
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 6
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 9
+        }
+      ],
+      "wymagania": [
+        20,
+        25,
+        34
+      ],
+      "rozdzial": "10-declarations",
+      "status": "brak-danych",
+      "plik": "03-application/10-declarations/specification/Q-080.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-081",
+      "key": "declaration_prohibitions",
+      "pole": "Brak wskazanych zakazów dotyczących zatrudniania cudzoziemców i odpowiedzialności podmiotów zbiorowych",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/10-declarations/form.md",
+        "typ": "stala",
+        "wartosc": "Oświadczam, że nie orzeczono wobec mnie zakazu, o którym mowa w art. 12 ust. 1 pkt 1 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r., poz. 1567) lub zakazu, o którym mowa w art. 9 ust. 1 pkt 2a ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2024 r., poz. 1822)."
+      },
+      "reguly": "Oświadczenie 6, stały tekst. Nie jest wynikiem sprawdzenia KRK ani innego rejestru.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 6
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 9
+        }
+      ],
+      "wymagania": [
+        25,
+        31,
+        34
+      ],
+      "rozdzial": "10-declarations",
+      "status": "brak-danych",
+      "plik": "03-application/10-declarations/specification/Q-081.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-082",
+      "key": "declaration_sanctions",
+      "pole": "Brak okoliczności wykluczających w związku z agresją na Ukrainę",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/10-declarations/form.md",
+        "typ": "stala",
+        "wartosc": "Oświadczam, że wobec mnie nie występują okoliczności wskazane art. 2 i 7 ust. 1 pkt. 1-3 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. z 2025 r., poz. 514)."
+      },
+      "reguly": "Oświadczenie 7 wzoru. Nie zastępuje szerszego oświadczenia sankcyjnego do umowy ani kontroli przesłanek i powiązań.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 6
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 9
+        }
+      ],
+      "wymagania": [
+        25,
+        34
+      ],
+      "rozdzial": "10-declarations",
+      "status": "brak-danych",
+      "plik": "03-application/10-declarations/specification/Q-082.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-083",
+      "key": "declaration_evaluation",
+      "pole": "Udział w ewaluacji i udostępnianie informacji",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/10-declarations/form.md",
+        "typ": "stala",
+        "wartosc": "Oświadczam, że zobowiązuję się do udziału w ankietach, wywiadach oraz udostępniania informacji na potrzeby ewaluacji (ocen) prowadzonych przez Instytucję Zarządzającą, lub inną uprawnioną instytucję albo jednostkę organizacyjną lub podmiot dokonujący ewaluacji."
+      },
+      "reguly": "Oświadczenie 8 wzoru; skutek dopiero przy rzeczywistym złożeniu. Nie tworzy lokalnej odpowiedzi firmy.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 6
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 10
+        }
+      ],
+      "wymagania": [
+        25,
+        36
+      ],
+      "rozdzial": "10-declarations",
+      "status": "brak-danych",
+      "plik": "03-application/10-declarations/specification/Q-083.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-084",
+      "key": "declaration_parp_offer",
+      "pole": "Zgoda na otrzymywanie informacji z ofertą PARP — treść wzoru",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/10-declarations/form.md",
+        "typ": "stala",
+        "wartosc": "Oświadczam, że wyrażam zgodę na otrzymywanie informacji zawierających prezentację oferty PARP."
+      },
+      "reguly": "Oświadczenie 9. Wyświetlenie tekstu nie oznacza udzielenia zgody. W źródle nie pokazano osobnej kontrolki ani reguły opcjonalności; nie dodawać wymyślonego checkboxa lub automatycznej akceptacji.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 6
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 10
+        }
+      ],
+      "wymagania": [
+        25
+      ],
+      "rozdzial": "10-declarations",
+      "status": "brak-danych",
+      "plik": "03-application/10-declarations/specification/Q-084.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-085",
+      "key": "declaration_interview_recording",
+      "pole": "Zgoda na rejestrację rozmowy kwalifikacyjnej — treść wzoru",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/10-declarations/form.md",
+        "typ": "stala",
+        "wartosc": "Oświadczam, że wyrażam zgodę na utrwalanie dźwięku i/lub obrazu podczas Rozmowy kwalifikacyjnej z moim udziałem."
+      },
+      "reguly": "Oświadczenie 10. Stały tekst nie udziela zgody. RNU wymaga rzeczywistej zgody na nagranie przez PARP; jej brak traktuje jak niestawienie się. Nie nagrywać samodzielnie na podstawie tej treści.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 6
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 10
+        },
+        {
+          "id": "SRC-81a1e81c22a7",
+          "strona": 13
+        }
+      ],
+      "wymagania": [
+        25,
+        28
+      ],
+      "rozdzial": "10-declarations",
+      "status": "brak-danych",
+      "plik": "03-application/10-declarations/specification/Q-085.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    },
+    {
+      "id": "Q-086",
+      "key": "privacy_notice_to_persons",
+      "pole": "Poinformowanie osób, których dane zawarto w formularzu — treść wzoru",
+      "typ": "tekst",
+      "limit_znakow": null,
+      "odpowiedz": {
+        "plik": "03-application/11-privacy/form.md",
+        "typ": "stala",
+        "wartosc": "Przechodząc do edycji wniosku oświadczam, że osoby których dane zostały zawarte w niniejszym formularzu, zostały poinformowane o tym fakcie poprzez przekazanie informacji na temat ochrony danych osobowych, wskazanych w klauzuli informacyjnej."
+      },
+      "reguly": "Punkt 7 klauzuli informacyjnej, nie dodatkowe oświadczenie numerowane w sekcji 9. Stały tekst nie dowodzi poinformowania osób ani akceptacji klauzuli. Czynności i obowiązujący tekst należy sprawdzić w LSI; nie tworzyć domyślnego potwierdzenia.",
+      "zrodla": [
+        {
+          "id": "SRC-9e2a19e50f40",
+          "strona": 8
+        },
+        {
+          "id": "SRC-d6da3e7859ae",
+          "strona": 1
+        }
+      ],
+      "wymagania": [
+        25
+      ],
+      "rozdzial": "11-privacy",
+      "status": "brak-danych",
+      "plik": "03-application/11-privacy/specification/Q-086.md",
+      "warunek": "zawsze",
+      "sposob_liczenia": "nieustalony"
+    }
+  ],
+  "formularze": [
+    {
+      "rozdzial": "01-system",
+      "tytul": "Nagłówek wniosku",
+      "plik": "03-application/01-system/form.md"
+    },
+    {
+      "rozdzial": "02-applicant",
+      "tytul": "Informacje o wnioskodawcy",
+      "plik": "03-application/02-applicant/form.md"
+    },
+    {
+      "rozdzial": "03-correspondence",
+      "tytul": "Adres korespondencyjny",
+      "plik": "03-application/03-correspondence/form.md"
+    },
+    {
+      "rozdzial": "04-contact",
+      "tytul": "Osoba do kontaktu",
+      "plik": "03-application/04-contact/form.md"
+    },
+    {
+      "rozdzial": "05-representative",
+      "tytul": "Przedstawiciel wnioskodawcy",
+      "plik": "03-application/05-representative/form.md"
+    },
+    {
+      "rozdzial": "06-history",
+      "tytul": "Dodatkowe informacje o wnioskodawcy",
+      "plik": "03-application/06-history/form.md"
+    },
+    {
+      "rozdzial": "07-solution",
+      "tytul": "Rozwiązanie przygotowane przez wnioskodawcę",
+      "plik": "03-application/07-solution/form.md"
+    },
+    {
+      "rozdzial": "08-business",
+      "tytul": "Elementy modelu biznesowego",
+      "plik": "03-application/08-business/form.md"
+    },
+    {
+      "rozdzial": "09-attachments",
+      "tytul": "Załączniki do wniosku",
+      "plik": "03-application/09-attachments/form.md"
+    },
+    {
+      "rozdzial": "10-declarations",
+      "tytul": "Oświadczenia",
+      "plik": "03-application/10-declarations/form.md"
+    },
+    {
+      "rozdzial": "11-privacy",
+      "tytul": "Klauzula informacyjna",
+      "plik": "03-application/11-privacy/form.md"
+    }
+  ],
+  "grupy": [
+    {
+      "prefix": "A",
+      "id_regex": "^A-[0-9]{2,}$",
+      "min": 0,
+      "etykieta": "Program akceleracyjny",
+      "etykieta_dodawania": "Dodaj",
+      "pole_tytulu": "Q-043",
+      "id": "accelerators",
+      "typ": "karty",
+      "folder": "03-application/06-history/accelerators",
+      "szablon": "03-application/06-history/accelerators/_template.md"
+    },
+    {
+      "prefix": "W",
+      "id_regex": "^W-[0-9]{2,}$",
+      "min": 0,
+      "etykieta": "Konkurs dla startupów",
+      "etykieta_dodawania": "Dodaj konkurs dla startupów",
+      "pole_tytulu": "Q-048",
+      "id": "competitions",
+      "typ": "karty",
+      "folder": "03-application/06-history/competitions",
+      "szablon": "03-application/06-history/competitions/_template.md"
+    }
+  ],
+  "kontrole": []
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "repository": "nestai-tools/grantoza-calls",
-  "updated_at": "2026-11-10T17:11:01.566424+00:00",
+  "updated_at": "2026-11-13T15:16:00.188411+00:00",
   "calls": [
     {
       "title": "FELD.13.01 — Zdolności przemysłowe dla obronności i technologii podwójnego zastosowania (001/26)",
@@ -335,6 +335,51 @@
         "max_app_version_exclusive": null
       },
       "manifest_sha256": "7e23fdf81bacfeb4a58d2479bfe4fec8d4ab81d2d9adec6507c5da8e225c3ba7"
+    },
+    {
+      "title": "Start-ups Are Us – branża IT/ICT",
+      "summary": "Poznanie warunków funkcjonowania środowisk startupowych za granicą oraz nawiązanie kontaktów z lokalnymi instytucjami wsparcia biznesu, potencjalnymi kontrahentami i inwestorami poprzez krótkoterminowe programy bilateralne.",
+      "tags": [],
+      "official_url": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "organizer": "PARP",
+      "program": "START-UPS ARE US – branża IT/ICT",
+      "audience": {
+        "entity_types": [],
+        "company_sizes": [],
+        "regions": [],
+        "eligibility_summary": "Start-upy, mikro, małe i średnie przedsiębiorstwa; Prowadzenie działalności i siedziba na terytorium Polski; w przypadku przedsiębiorcy będącego osobą fizyczną – miejsce zamieszkania w Polsce.; Startup prowadzący działalność na dzień złożenia wniosku co najmniej rok i nie dłużej niż pięć lat od rejestracji w CEIDG lub KRS; okresy zawieszenia działalności nie wpływają na sposób obliczania tego terminu.; Innowacyjne rozwiązanie: technologia, produkt lub usługa na poziomie prototypu, MVP lub finalnym, przeznaczonym do komercjalizacji.; Wstępnie opracowany model biznesowy uwzględniający ekspansję na rynki zagraniczne.; Działalność wpisująca się w branżę IT/ICT.",
+        "evidence": {
+          "source": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+          "location": "Dla kogo oraz Szczegóły dofinansowania / Wsparcie finansowe / Kto może otrzymać wsparcie?"
+        }
+      },
+      "schedule": {
+        "announced_on": "2026-11-05",
+        "opens_on": "2026-11-12",
+        "closes_on": "2027-01-05",
+        "planned_announcement": null,
+        "planned_opening": null,
+        "timezone": null,
+        "events": [],
+        "evidence": {
+          "source": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+          "location": "Daty przy tytule: Ogłoszenie konkursu, Start składania wniosków, Koniec przyjmowania wniosków; Terminy zgłoszeń / Nabór. Nie podano godzin ani strefy czasowej."
+        }
+      },
+      "id": "start-ups-are-us-branza-it-ict-ab89ea7b",
+      "path": "calls/start-ups-are-us-branza-it-ict-ab89ea7b",
+      "call_version": "1.0.0",
+      "created_with_app_version": "0.2.0",
+      "analyzed_with_app_version": "0.2.0",
+      "packaged_with_app_version": "0.2.0",
+      "published_at": "2026-11-13T15:15:59.518356+00:00",
+      "compatibility": {
+        "call_format_version": 1,
+        "fields_schema_version": 2,
+        "min_app_version": "0.2.0",
+        "max_app_version_exclusive": null
+      },
+      "manifest_sha256": "aa0549427345ae538502054b9f67193698a506cb55cf3b8612337202305f1ed1"
     }
   ]
 }
