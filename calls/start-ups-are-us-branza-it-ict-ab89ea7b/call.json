@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "id": "start-ups-are-us-branza-it-ict-ab89ea7b",
+  "tytul": "Start-ups Are Us – branża IT/ICT",
+  "url": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+  "etap": "gotowy-do-wypelniania",
+  "informacje": {
+    "organizator": {
+      "wartosc": "PARP",
+      "zrodlo": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "lokalizacja": "Tytuł strony oraz Szczegóły dofinansowania / Wsparcie finansowe / Co obejmuje wsparcie?"
+    },
+    "program": {
+      "wartosc": "START-UPS ARE US – branża IT/ICT",
+      "zrodlo": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "lokalizacja": "H1 Start-ups Are Us – branża IT/ICT oraz Cel finansowania"
+    },
+    "dla_kogo": {
+      "wartosc": {
+        "adresaci": "Start-upy, mikro, małe i średnie przedsiębiorstwa",
+        "warunki_wskazane_na_stronie": [
+          "Prowadzenie działalności i siedziba na terytorium Polski; w przypadku przedsiębiorcy będącego osobą fizyczną – miejsce zamieszkania w Polsce.",
+          "Startup prowadzący działalność na dzień złożenia wniosku co najmniej rok i nie dłużej niż pięć lat od rejestracji w CEIDG lub KRS; okresy zawieszenia działalności nie wpływają na sposób obliczania tego terminu.",
+          "Innowacyjne rozwiązanie: technologia, produkt lub usługa na poziomie prototypu, MVP lub finalnym, przeznaczonym do komercjalizacji.",
+          "Wstępnie opracowany model biznesowy uwzględniający ekspansję na rynki zagraniczne.",
+          "Działalność wpisująca się w branżę IT/ICT."
+        ]
+      },
+      "zrodlo": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "lokalizacja": "Dla kogo oraz Szczegóły dofinansowania / Wsparcie finansowe / Kto może otrzymać wsparcie?"
+    },
+    "cel": {
+      "wartosc": "Poznanie warunków funkcjonowania środowisk startupowych za granicą oraz nawiązanie kontaktów z lokalnymi instytucjami wsparcia biznesu, potencjalnymi kontrahentami i inwestorami poprzez krótkoterminowe programy bilateralne.",
+      "zrodlo": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "lokalizacja": "Cel finansowania oraz Szczegóły dofinansowania / Szczegółowy opis / Cel programu"
+    },
+    "na_co": {
+      "wartosc": "Pokrycie przez PARP wybranych kosztów udziału przedstawiciela uczestnika w programie szkoleniowym w Polsce oraz nie więcej niż trzech misjach wyjazdowych do wybranych krajów. Misje służą poznaniu środowiska startupowego, spotkaniom i nawiązywaniu kontaktów z instytucjami wsparcia biznesu, kontrahentami i inwestorami oraz udziałowi w wybranych targach lub konferencjach.",
+      "zrodlo": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "lokalizacja": "Szczegóły dofinansowania / Na co możesz przeznaczyć wsparcie? oraz Wsparcie finansowe / Co obejmuje wsparcie?"
+    },
+    "obszar": {
+      "wartosc": {
+        "terytorialny": "Polska i zagranica",
+        "branza": "IT/ICT – technologie przetwarzania, gromadzenia i przesyłania informacji w formie elektronicznej, w tym technologie informatyczne, oprogramowanie i sieci telekomunikacyjne."
+      },
+      "zrodlo": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "lokalizacja": "Miejsce realizacji projektu, Zasięg terytorialny projektu oraz Kto może otrzymać wsparcie? / IT/ICT"
+    },
+    "budzet_naboru": {
+      "wartosc": null,
+      "zrodlo": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "lokalizacja": "Szczegóły dofinansowania / Wsparcie finansowe – w przekazanej treści strony nie podano budżetu naboru."
+    },
+    "maksymalne_wsparcie": {
+      "wartosc": {
+        "poziom": "Do 100% wybranych kosztów udziału przedstawiciela uczestnika w szkoleniu i nie więcej niż trzech misjach wyjazdowych.",
+        "kwota": null,
+        "waluta": null
+      },
+      "zrodlo": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "lokalizacja": "Szczegóły dofinansowania / Wsparcie finansowe / Co obejmuje wsparcie? – podano poziom pokrycia kosztów, bez limitu kwotowego."
+    },
+    "wklad_wlasny": {
+      "wartosc": null,
+      "zrodlo": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "lokalizacja": "Wsparcie finansowe / Co obejmuje wsparcie? – informacja o pokryciu do 100% wybranych kosztów nie określa wymaganego wkładu własnego ani kosztów nieobjętych wsparciem."
+    },
+    "terminy": {
+      "wartosc": {
+        "ogloszenie": "2026-11-05",
+        "poczatek": "2026-11-12",
+        "koniec": "2027-01-05",
+        "godzina_rozpoczecia": null,
+        "godzina_zakonczenia": null,
+        "strefa_czasowa": null
+      },
+      "zrodlo": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "lokalizacja": "Daty przy tytule: Ogłoszenie konkursu, Start składania wniosków, Koniec przyjmowania wniosków; Terminy zgłoszeń / Nabór. Nie podano godzin ani strefy czasowej."
+    },
+    "sposob_zlozenia": {
+      "wartosc": {
+        "opis": "Formularz online w Generatorze Wniosków PARP.",
+        "url": "https://lsi.parp.gov.pl/auth"
+      },
+      "zrodlo": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "lokalizacja": "Odnośnik Złóż wniosek oraz Jak wziąć udział w konkursie o dofinansowanie? / Generator Wniosków"
+    },
+    "kontakt": {
+      "wartosc": {
+        "kanaly": [
+          "Formularz kontaktowy na stronie",
+          "Infolinia PARP"
+        ],
+        "telefon": null,
+        "email": null
+      },
+      "zrodlo": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "lokalizacja": "Blok Napisz lub zadzwoń na infolinię i formularz kontaktowy. W przekazanym tekście nie podano numeru telefonu ani adresu e-mail."
+    },
+    "dostepnosc_formularza": {
+      "wartosc": {
+        "status": "dostepny",
+        "uzasadnienie": "W przekazanej sekcji dokumentów opublikowano bezpośredni odnośnik do wzoru formularza jako załącznika nr 1 do RNU oraz do instrukcji jako załącznika nr 2. Ustalenie opiera się na wykazie strony; pobranie i czytelność plików pozostają do sprawdzenia przez aplikację.",
+        "url_formularza": "https://www.parp.gov.pl/storage/grants/documents/1490/ZAL_1_DO_RNU_WZOR_FORMULARZA.pdf",
+        "url_instrukcji": "https://www.parp.gov.pl/storage/grants/documents/1490/ZAL_2_DO_RNU_Instruk.pdf"
+      },
+      "zrodlo": "https://www.parp.gov.pl/component/grants/grants/start-ups-are-us---branza-it-ict",
+      "lokalizacja": "Dokumenty / Składanie wniosku o dofinansowanie / Wzór formularza wniosku o udział w Programie oraz Instrukcja wypełniania Wniosku o udział w Programie"
+    }
+  },
+  "created_with_app_version": "0.2.0",
+  "analyzed_with_app_version": "0.2.0",
+  "analiza": {
+    "fingerprint_zrodel": "4befd4fc5e89a993bb4184d7a2c44c4d8c8ea60166637ccc7dd2bf7df3b14a0c",
+    "blokery": [],
+    "uwagi": [
+      "Kontrola aplikacji z 2026-11-13T13:30:08.835755+00:00 zgłosiła „Niepoprawne ID bloku”. W ośmiu identyfikatorach bloków zastąpiono podkreślenia łącznikami. Wynik ponownej walidacji, prób grup i eksportu pozostaje nieznany; nie potwierdzono gotowości technicznej.",
+      "Dokumenty podają różne numery naboru: 003/26, 04/26 i 004/26. Zachowano oryginalne zapisy; identyfikacja numeru wymaga wyjaśnienia PARP.",
+      "Ogłoszenie wymaga pełnych lat obrotowych, a RNU i kryteria okresu od rejestracji. K-02 pozostaje sprzeczne; data rozpoczęcia działalności CEIDG nie została automatycznie utożsamiona z datą rejestracji.",
+      "Strona wymienia miejsce zamieszkania osoby fizycznej, natomiast kryteria i instrukcja adres wykonywania działalności. Odwzorowano pole oficjalnego formularza bez dodawania adresu zamieszkania.",
+      "Nieodczytane pozostają XLS SRC-fa8cf9a07c30 i archiwum SRC-4f096abf571f. SHA-256 obu oryginałów potwierdzono; nie odczytano treści XLS ani nie ustalono skrótów plików wewnątrz archiwum. Ekstrakt oświadczenia MŚP nie zachowuje pełnego układu tabel. Dotyczy to dokumentów do zawarcia umowy.",
+      "Kryteria dopuszczają Pitch Deck PPTX/PDF, instrukcja PPT/PPTX. Nie podano limitów liczby i rozmiaru załączników w LSI.",
+      "RNU §5 ust. 6 wymaga odrębnych opisów zakresu działalności PL i EN. Uwzględniono oba w planie załączników i w instrukcji istniejącego Q-075. To miejsce robocze; dokładną kategorię wysyłki należy potwierdzić w LSI, ponieważ wzór i instrukcja nie wyodrębniają jej osobno. Nie utożsamiono opisów działalności z opisem rozwiązania ani nie dodano nowych pól.",
+      "Rozbieżne są okresy wykazywania pomocy de minimis, kanały dostarczenia dokumentów do umowy, część warunków sankcyjnych oraz czas licencji we wzorze umowy. Nie rozstrzygnięto ich jako potwierdzonych reguł.",
+      "Nie dostarczono pełnego harmonogramu stanowiącego załącznik do umowy ani pełnych tekstów pośrednio przywołanych przepisów. Nie określono wprost strefy godzin składania wniosków.",
+      "Odczyt dotyczy przekazanych tekstów. Nie wykonywano pobierania, odświeżenia strony, oględzin, OCR, kontroli oryginałów ani samodzielnego przeliczania SHA-256. Poprawiono także błąd przepisania trzeciej opcji Q-062, przywracając brzmienie instrukcji.",
+      "Nieodczytane źródło: SRC-fa8cf9a07c30: Format wymaga ręcznego odczytu: .xls",
+      "Nieodczytane źródło: SRC-4f096abf571f: Archiwum zawiera plik wymagający ręcznego odczytu: Formularz-infromacji-pomoc-de-minimis.xls"
+    ],
+    "nieodczytane_zrodla": [
+      "SRC-fa8cf9a07c30: Format wymaga ręcznego odczytu: .xls",
+      "SRC-4f096abf571f: Archiwum zawiera plik wymagający ręcznego odczytu: Formularz-infromacji-pomoc-de-minimis.xls"
+    ],
+    "zakonczono_at": "2026-11-13T13:38:42.594712+00:00",
+    "liczba_pol": 86,
+    "liczba_formularzy": 11,
+    "liczba_plikow_specyfikacji": 86,
+    "liczba_szablonow_kart": 2,
+    "zrodla_czesciowo_odczytane": [
+      {
+        "id": "SRC-dfea5acf63da",
+        "sha256": "601f37bcd4b2953b20e7352fc7490fd3b812bc7d484ed4abda3e90e72438ef78",
+        "ograniczenie": "Przeczytano ekstrakt tekstowy; spłaszczenie tabel nie pozwala potwierdzić przypisania wszystkich komórek i przypisów. Odczyt układu DOCX pozostaje wymagany przed wypełnieniem dokumentu do umowy."
+      }
+    ]
+  }
+}

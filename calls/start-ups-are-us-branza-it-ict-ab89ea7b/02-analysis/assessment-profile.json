@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "id": "start-ups-are-us-branza-it-ict-ab89ea7b-assessment",
+  "wersja": 1,
+  "nabor_id": "start-ups-are-us-branza-it-ict-ab89ea7b",
+  "nazwa": "Ocena uzasadnienia wniosku o udział w programie Start-ups Are Us – IT/ICT",
+  "zrodla_sha256": {
+    "SRC-b6e8a773f447": "502c9902aa444c924b74d9d6b4cd1286ad60375d158ca1fc846d40b5625e26f9",
+    "SRC-81a1e81c22a7": "74bbdfd8817039558b72f982976f7f1278426891861a953ad6ef45ae5b113803",
+    "SRC-42809da21f1b": "40be0282f27087dfd2ab1f150ad63ac5b89df95945149101db5dbff77ecc5761",
+    "SRC-9e2a19e50f40": "5230ea17c1fcd2ba0d135ff4adebbe6d19e6dab334ff4153d5a66e8d5577c8d2",
+    "SRC-d6da3e7859ae": "32515a7ce659f9dc2f12a712d38778b128889f329c460c80eb4f28b8cc59c3aa"
+  },
+  "wejscie": {
+    "instrukcja": "Oceniaj zapisany wniosek do programu bilateralnego IT/ICT, nie projekt inwestycyjny ani wniosek o wypłatę dotacji. Wspólny wzór jest pusty; ocenę firmy wykonuje się dopiero we właściwym wniosku. Uwzględniaj typy pól, limity i warunki oraz wszystkie instancje kart A i W. Wybór TAK/NIE jest pełną odpowiedzią na pytanie deklaracyjne. NIE przy akceleracji lub wyróżnieniach nie wymaga narracji ani fikcyjnych kart i oznacza dopuszczalny wynik 0 w danym kryterium. TAK wymaga danych kart i odpowiednich dowodów. Pole Q-015 ma odwrócone znaczenie: TAK oznacza działalność wykluczoną. Q-041 i Q-058 mają po jednej opcji, lecz pusty zapis nie jest jej wybraniem. Stałe Q-076–Q-086 są tekstem dokumentacji i nigdy nie dowodzą zgody, prawdziwości ani złożenia oświadczeń. Dane systemowe nie są ręcznymi odpowiedziami. Wskazanie załącznika nie oznacza, że jego treść została dostarczona do oceny. Brak treści dostępnego poza kontekstem dokumentu oznacz jako brak kontekstu, nie jako potwierdzony brak pliku. Pełne odpowiedzi oceniaj bez obcinania; brak pola w jednej części nie oznacza braku w całym wniosku. Zachowuj rozróżnienie faktów, deklaracji, planów i dowodów zewnętrznych. Nie nadawaj punktów KOW na podstawie samego wyboru poziomu lub statystycznej oceny tekstu.",
+    "pola_kontekstu": ["Q-006", "Q-010", "Q-015", "Q-041", "Q-042", "Q-047", "Q-058", "Q-059", "Q-060", "Q-062"],
+    "powiazania": true,
+    "krotka_odpowiedz_max": 300,
+    "budzet_powiazan": 12000
+  },
+  "wyjscie": {
+    "odpowiedz": {
+      "typ": "choice",
+      "warianty": {
+        "uzasadnione": {"opis": "Treść lub dostępne dowody uzasadniają konkretny aspekt według źródłowej reguły, bez potwierdzania faktów spoza kontekstu.", "status": "supported"},
+        "czesciowo": {"opis": "Podano część potrzebnego uzasadnienia, lecz istotna część aspektu pozostaje niewykazana.", "status": "partial"},
+        "brak": {"opis": "W odpowiednim dostępnym polu brakuje wymaganej odpowiedzi lub uzasadnienia; nie dotyczy brakującej innej części kontekstu.", "status": "missing"},
+        "sprzecznosc": {"opis": "Dostarczone odpowiedzi lub dowody przeczą badanemu aspektowi albo sobie nawzajem.", "status": "contradicted"},
+        "poza_zakresem": {"opis": "Warunek zastosowania aspektu nie zachodzi; nie używać do usuwania obowiązkowych minimów ani ukrywania zadeklarowanego braku doświadczenia.", "status": "not_applicable"},
+        "kontekst": {"opis": "Rozstrzygnięcie wymaga innej części wniosku, treści załącznika, odczytu oryginału, wyjaśnienia dokumentacji, rejestru lub przyszłego zdarzenia.", "status": "insufficient_context"}
+      }
+    },
+    "etykiety": {
+      "supported": "Uzasadnione",
+      "partial": "Częściowo uzasadnione",
+      "missing": "Brak odpowiedzi lub uzasadnienia",
+      "contradicted": "Sprzeczność",
+      "not_applicable": "Nie dotyczy",
+      "insufficient_context": "Brak wystarczającego kontekstu"
+    },
+    "agregacja": "sprawdzenia"
+  },
+  "kryteria": {
+    "K-01": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Sprawdzenie właściwego wpisu i adresu na dzień złożenia: KRS siedziba w Polsce, CEIDG co najmniej jeden adres wykonywania działalności w Polsce. Wskazać nierozstrzygnięty dodatkowy zapis strony o zamieszkaniu. Model nie potwierdza rejestru ani kwalifikowalności na podstawie wpisanego adresu.",
+      "pola_kontekstu": ["Q-006", "Q-008", "Q-011", "Q-013", "Q-016", "Q-017", "Q-018", "Q-019", "Q-020"]
+    },
+    "K-02": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Kryterium ma status sprzeczne i wymaga rozstrzygnięcia reguły wieku przez właściwą dokumentację/PARP. Zachować różnicę między datą rozpoczęcia CEIDG, rejestracją, datą złożenia i pełnymi latami obrotowymi. Sprawdzić przekształcenia i połączenia według RNU, bez odliczania zawieszeń. Samo TAK i data Q-007 nie potwierdzają wieku. Nie wykonywać probabilistycznej oceny ani automatycznego obliczenia jako wyniku kryterium.",
+      "pola_kontekstu": ["Q-002", "Q-007", "Q-008", "Q-013", "Q-041"]
+    },
+    "K-03": {
+      "tryb": "model",
+      "instrukcja": "Zestaw opis rozwiązania z definicją IT/ICT. Oceń, czy opisane funkcje uzasadniają przetwarzanie, gromadzenie lub przesyłanie informacji elektronicznej bądź pozostały wskazany zakres definicji. Samo wybranie IT/ICT nie uzasadnia aspektu. Nie oceniaj jakości języka angielskiego jako dodatkowego kryterium dostępu.",
+      "pola_kontekstu": ["Q-054", "Q-055", "Q-056", "Q-057", "Q-058", "Q-060"]
+    },
+    "K-04": {
+      "tryb": "formularz",
+      "instrukcja": "Odczytaj deklarację Q-015 i kod PKD Q-014 według ocena_formularza. TAK deklaruje działalność wykluczoną, NIE jej brak. Pusta odpowiedź nie jest NIE. Nie przekształcaj odczytu w potwierdzenie zgodności prawnej; faktyczny zakres rozwiązania i oba przywołane akty wymagają osobnej weryfikacji, których pełnych tekstów nie dostarczono.",
+      "pola_kontekstu": []
+    },
+    "K-05": {
+      "tryb": "model",
+      "instrukcja": "Czytaj wszystkie karty A i powiązane dowody Q-073. Przy NIE nie żądaj kart i opisów ani nie nazywaj braku doświadczenia brakiem odpowiedzi; odnotuj oficjalną konsekwencję 0 pkt bez udawania oceny KOW. Przy TAK sprawdzaj definicję akceleracji, udział samego Wnioskodawcy po co najmniej selekcji, nazwy organizatorów i dostępne dowody. Dla potencjalnych dwóch punktów potrzebni są różni organizatorzy. Nie narzucaj maksymalnie dwóch kart. Nazwa załącznika nie potwierdza jego treści; ważność i autentyczność dowodu wymagają weryfikacji zewnętrznej. Przyszłej rozmowy nie zastępuje treść formularza.",
+      "pola_kontekstu": ["Q-042", "Q-043", "Q-044", "Q-045", "Q-046", "Q-073"]
+    },
+    "K-06": {
+      "tryb": "model",
+      "instrukcja": "Czytaj wszystkie karty W i dowody Q-074. NIE jest pełną deklaracją i prowadzi do dopuszczalnego 0 pkt w kryterium, nie do żądania fikcyjnej narracji. Przy TAK sprawdzaj rzeczywistego laureata, definicję konkursu, poziom co najmniej regionalny w kraju lub konkurs zagraniczny, rodzaj i przedmiot wyróżnienia, dokument organizatora oraz różność organizatorów przy wielu konkursach. Maksimum trzech punktów nie jest limitem liczby kart. Autentyczność dokumentów i zgodność faktów wymagają kontroli zewnętrznej.",
+      "pola_kontekstu": ["Q-047", "Q-048", "Q-049", "Q-050", "Q-051", "Q-052", "Q-053", "Q-074"]
+    },
+    "K-07": {
+      "tryb": "model",
+      "instrukcja": "Zestaw oba opisy nowości/uzasadnienia, deklarowany poziom, gotowość i dostępne prezentacje. Rozdziel stadium prototypu od samej koncepcji, cechy istotne dla użytkownika od ogólnych obietnic oraz liczbę cech od liczby konkurentów. Dla poziomów 3 i 4 wymagane są odpowiednio co najmniej jeden i dwóch konkurentów na wymienionych rynkach zagranicznych; wskazanie tylko rynku polskiego nie uzasadnia tych poziomów. Zachowaj oficjalny katalog rynków. Oceniaj, czy tekst przedstawia konkretne porównania z nazwami i www; nie deklaruj sprawdzenia tych stron ani stanu techniki. Sama opcja Q-062 nie nadaje punktów. Brak w jednej części prezentacji oznacza brak kontekstu, jeśli właściwa treść jest poza tą częścią. Regułę zerowania przy oficjalnym K-07=0 prezentuj oddzielnie od statystycznego wyniku modelu.",
+      "pola_kontekstu": ["Q-054", "Q-055", "Q-056", "Q-057", "Q-059", "Q-060", "Q-061", "Q-062", "Q-063", "Q-071", "Q-072", "Q-075"]
+    },
+    "K-08": {
+      "tryb": "model",
+      "instrukcja": "Czytaj siedem pól Q-064–Q-070 łącznie z opisem rozwiązania. Sprawdzaj kompletność siedmiu elementów i sześć oficjalnych składowych oceny, bez utożsamienia liczby pól z punktami. Odbiorcy mają być scharakteryzowani i oszacowani; kanały uzasadnione; przychody z estymacją; rynki z uzasadnieniem oraz wpływem programu na eksport. Nie żądaj odrębnego budżetu, wskaźników, zadań ani wykresu finansowego, których wzór nie zawiera. Oceniaj konkretne uzasadnienie wpływu na wybrane polityki UE, bez dopisywania obowiązku pozytywnego wpływu na każdą politykę. Weryfikacja rynków, szacunków i skutków pozostaje odrębna od oceny ich opisania. Uwzględnij ograniczenia przyszłej rozmowy i oficjalną zależność od K-07.",
+      "pola_kontekstu": ["Q-054", "Q-056", "Q-059", "Q-061", "Q-063", "Q-064", "Q-065", "Q-066", "Q-067", "Q-068", "Q-069", "Q-070", "Q-071", "Q-072"]
+    },
+    "K-09": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Oficjalne kryterium dotyczy rzeczywiście wygłoszonego Pitch Deck, w tym sposobu prezentowania i angielskiego. Weryfikacja obejmuje uprawnionego wskazanego przedstawiciela, oba pliki, sześć wymaganych obszarów, użycie złożonej wersji EN i czas do 6 minut. Sam plik pozwala przygotować materiał, lecz nie potwierdza wyniku wystąpienia, tożsamości, zgody na rejestrację ani kompletności wygłoszonej treści. Nie przyznawaj punktów KOW ani probabilistycznej oceny przyszłej rozmowy. Rozbieżność formatów zachowaj; PPTX to wspólne rozwiązanie robocze.",
+      "pola_kontekstu": ["Q-036", "Q-037", "Q-040", "Q-071", "Q-072"]
+    }
+  },
+  "spojnosc": {
+    "aspekty": [
+      "Polska i angielska nazwa oraz opisy dotyczą tego samego rozwiązania i nie zawierają sprzecznych faktów.",
+      "Gotowość rozwiązania, opis osiągniętych funkcji i deklarowany poziom innowacyjności są zgodne.",
+      "Liczba i charakter cech oraz rynki i liczba konkurentów odpowiadają wybranemu poziomowi innowacyjności.",
+      "Grupy odbiorców, ich problemy, funkcje rozwiązania, kanały i źródła przychodów tworzą logiczny model.",
+      "Estymacja przychodów i kierunki zagraniczne są spójne z odbiorcami i możliwościami rozwiązania; plany nie są przedstawiane jako osiągnięte wyniki.",
+      "Deklaracje udziału w akceleracji i wyróżnień odpowiadają rzeczywistym kartom oraz dostępnym dowodom, bez żądania kart po NIE.",
+      "Dane wskazanego przedstawiciela i informacje w dostępnych prezentacjach nie są ze sobą sprzeczne; umocowanie wymaga odrębnej kontroli.",
+      "Stałe teksty oświadczeń i automatyczne dane LSI nie są interpretowane jako dowody zgody lub prawdziwości; brak dostępu do załącznika nie jest dowodem jego nieistnienia."
+    ],
+    "pola_kontekstu": []
+  },
+  "analiza_poglebiona": "Przygotuj ocenę ogólną całego zapisanego wniosku i odrębne rekomendacje w Markdown. Zestaw wyniki Systemu Oceniającego z pełną treścią, instancjami kart i zakresem faktycznie odczytanych załączników; łącz powtarzające się uwagi i wskazuj fałszywe alarmy, szczególnie przy krótkich wyborach, NIE w doświadczeniu i brakujących częściach kontekstu. Oddziel jakość uzasadnienia od oficjalnych minimów, punktów i rankingu oraz od kontroli rejestrowej, pomocy de minimis, sankcji, autentyczności dowodów i przyszłej rozmowy. Nie rozstrzygaj sprzecznego K-02 ani brakujących przepisów. Zwróć uwagę na rozbieżny numer naboru, adres CEIDG, okresy pomocy i warunki umowne jako ograniczenia dokumentacji, bez uznania ich za błędy odpowiedzi firmy. Załączniki PL/EN, doświadczenie przedstawiciela w prezentacji, konkretne porównania konkurencji i spójny model komercjalizacji są istotnymi obszarami przygotowania. Rekomendacja ma wskazać priorytet, kryterium, Q-ID i instancję, plik odpowiedzi odczytany z mapy v2, konkretny problem, proponowaną zmianę, źródłowe uzasadnienie i sposób weryfikacji. Nie wymyślaj ścieżek instancji, faktów, wyników kontroli, budżetu ani dodatkowych oficjalnych kryteriów. Nie zmieniaj odpowiedzi, nie wysyłaj wniosku i nie traktuj raportu jako potwierdzenia kwalifikowalności lub szans dofinansowania. Wyniki i rekomendacje należą do konkretnego wniosku, nie do wspólnego pustego naboru."
+}
