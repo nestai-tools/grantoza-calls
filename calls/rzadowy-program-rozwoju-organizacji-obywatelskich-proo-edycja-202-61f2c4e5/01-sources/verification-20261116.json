@@ -1,0 +1,27 @@
+{
+  "at": "2026-11-16T11:56:20.547405+00:00",
+  "url": "https://niw.gov.pl/nasze-programy/proo/edycja-2027/priorytet-1a/nabor-wnioskow/",
+  "scope": "Strona naboru, wskazany regulamin i ogłoszenie pobrane ponownie. Ogólna zakładka dokumentów 1a odczytana przez web; zawiera wcześniejsze edycje, bez osobnego DOCX 2027.",
+  "official_links_checked": [
+    "https://niw.gov.pl/wp-content/uploads/2026/11/Raport-z-konsultacji-spolecznych-projektow-Regulaminow-NOWEFIO-i-PROO-na-rok-2027.pdf",
+    "https://niw.gov.pl/wp-content/uploads/2026/11/Regulamin-konkursu-PROO-2027.pdf",
+    "https://niw.gov.pl/wp-content/uploads/2026/11/Ogloszenie-o-konkursie-PROO-2027.pdf"
+  ],
+  "documents": [
+    {
+      "id": "SRC-6bae8ed23334",
+      "sha256": "d839689569d46845f2fda31c5388e237f7acd2858ef564854795d2cc624c59c3",
+      "same_as_20261112": true
+    },
+    {
+      "id": "SRC-4fad2e1e643c",
+      "sha256": "6fb843413600275ec4a9d2829bf7ebbd857d49c92a48f37cd64fb7c4bd412e93",
+      "same_as_20261112": true
+    }
+  ],
+  "recruitment_start": "2026-11-16T12:00:00+01:00",
+  "recruitment_end": "2026-12-16T12:00:00+01:00",
+  "public_separate_form_2027": "Nie odnaleziono na sprawdzonych stronach; strukturę dostarczają HTML użytkownika.",
+  "generator_login_performed": false,
+  "source_files_included": false
+}

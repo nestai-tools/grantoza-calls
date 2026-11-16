@@ -1,0 +1,647 @@
+{
+  "schema_version": 1,
+  "nabor_id": "rzadowy-program-rozwoju-organizacji-obywatelskich-proo-edycja-202-61f2c4e5",
+  "zakres": "PROO 1a 2027, regulamin zweryfikowany 16.11.2026; kryteria 2026 nie są podstawą punktacji.",
+  "uwagi": [
+    "S-01 jest strategiczne; rodzaj nieokreslone stanowi techniczne ograniczenie kontraktu.",
+    "Załącznik 5 s. 66 zawiera dodatkowy napis 90 pkt obok 100 pkt. Tabela kryteriów w części III, sumy 25+25+20+20+10 oraz 200 pkt dwóch ekspertów wskazują 100 pkt na eksperta; nie zastosowano 90 pkt.",
+    "Nie ustalono odrębnych minimów pojedynczych kryteriów ani reguły remisów w PROO 1a; minimum = null. Reguły PROO 1b nie są przenoszone.",
+    "S-01 oznaczono jako sprzeczne: główna tabela s. 32–33 i karta s. 68 różnią się zakresem historii PROO. Nie kierować go do potwierdzonej oceny punktowej."
+  ],
+  "zasady_laczne": {
+    "kryteria_formalne": "Wszystkie trzy muszą być spełnione.",
+    "maksimum_ekspert": 100,
+    "liczba_ekspertow": 2,
+    "maksimum_merytoryczne": 200,
+    "minimum_procent": 80,
+    "minimum_merytoryczne": 160,
+    "sumowanie": "Suma dwóch ocen; przy trzeciej dwie najbliższe, a jeśli nie można ustalić — dwie najwyższe.",
+    "trzeci_ekspert": "(różnica łączna >20 lub różnica w co najmniej jednym kryterium 1–4 >14) i co najmniej jedna ocena >79.",
+    "premia_strategiczna": 5,
+    "minimum_kryterium": null,
+    "remisy": null,
+    "odrzucenie_za_cel": "0 i przerwanie oceny tylko z akceptacją NIW i uzasadnieniem.",
+    "ranking": "Odrębnie według priorytetu/ścieżki, po pozytywnej ocenie formalnej i merytorycznej; w granicach alokacji. Panel ustala ocenę i kwotę; Dyrektor rozstrzyga."
+  },
+  "zrodla_sha256": {
+    "SRC-6bae8ed23334": "d839689569d46845f2fda31c5388e237f7acd2858ef564854795d2cc624c59c3"
+  },
+  "kryteria": [
+    {
+      "id": "F-01",
+      "nazwa": "Wypełnienie i terminowe złożenie wniosku w SOD",
+      "status": "potwierdzone",
+      "rodzaj": "formalne",
+      "etap": "Ocena formalna",
+      "klasyfikacja": "Oficjalne kryterium ocena formalna.",
+      "opis": "Wypełnienie i złożenie wniosku przez SOD we wskazanym terminie. Brak możliwości odwołania od tego kryterium. Zapis roboczy nie jest wysyłką.",
+      "aspekty": [
+        "Zweryfikowano zewnętrzne potwierdzenie skutecznego złożenia w SOD w terminie."
+      ],
+      "pola": [
+        "Q-011"
+      ],
+      "rozdzialy": [
+        "01-basic"
+      ],
+      "powiazanie_z_formularzem": "Powiązanie redakcyjne autora analizy; nie dodaje kryteriów organizatora.",
+      "zrodla": [
+        {
+          "id": "SRC-6bae8ed23334",
+          "lokalizacja": "s. 15, 29–30 i 64"
+        }
+      ],
+      "skala": [
+        0,
+        1
+      ],
+      "minimum": null,
+      "waga": null,
+      "maksimum": null
+    },
+    {
+      "id": "F-02",
+      "nazwa": "Złożenie przez podmiot uprawniony",
+      "status": "potwierdzone",
+      "rodzaj": "formalne",
+      "etap": "Ocena formalna",
+      "klasyfikacja": "Oficjalne kryterium ocena formalna.",
+      "opis": "Uprawniona forma prawna, staż i przychód odpowiedni dla ścieżki, strona ze sprawozdaniami dla ścieżki 3, brak wszystkich wykluczeń i przekroczenia limitu wniosków. Oświadczenie nie zastępuje dowodów. Możliwość odwołania.",
+      "aspekty": [
+        "Forma prawna i osobowość/umocowanie odpowiadają katalogowi regulaminu.",
+        "Data rejestracji i najwyższy przychód spełniają progi wybranej ścieżki; progi przychodu są włączne.",
+        "W ścieżce 3 własna strona publikuje dokumenty z dwóch ostatnich zamkniętych lat i wskazano poprawny link.",
+        "Zweryfikowano wykluczenia, historię rozliczeń i limit jednego wniosku PROO 1a."
+      ],
+      "pola": [
+        "Q-001",
+        "Q-002",
+        "Q-003",
+        "Q-004",
+        "Q-005",
+        "Q-006",
+        "Q-009",
+        "Q-012",
+        "Q-013",
+        "Q-017",
+        "Q-180",
+        "Q-190"
+      ],
+      "rozdzialy": [
+        "01-basic",
+        "02-applicant",
+        "10-declarations"
+      ],
+      "powiazanie_z_formularzem": "Powiązanie redakcyjne autora analizy; nie dodaje kryteriów organizatora.",
+      "zrodla": [
+        {
+          "id": "SRC-6bae8ed23334",
+          "lokalizacja": "s. 12–14, 28–30 i 64"
+        }
+      ],
+      "skala": [
+        0,
+        1
+      ],
+      "minimum": null,
+      "waga": null,
+      "maksimum": null
+    },
+    {
+      "id": "F-03",
+      "nazwa": "Brak tożsamości treści części III i IV",
+      "status": "potwierdzone",
+      "rodzaj": "formalne",
+      "etap": "Ocena formalna",
+      "klasyfikacja": "Oficjalne kryterium ocena formalna.",
+      "opis": "Treść merytoryczna III i IV nie jest tożsama z ofertami objętymi kryterium; przypisy 11–13, podobieństwo >90% skutkuje negatywną oceną; przypis 12 wskazuje inne podmioty. Wymaga porównania w narzędziu NIW.",
+      "aspekty": [
+        "Zewnętrznie porównano właściwy korpus ofert i wynik testu podobieństwa."
+      ],
+      "pola": [
+        "Q-038",
+        "Q-039",
+        "Q-040",
+        "Q-041",
+        "Q-042",
+        "Q-043",
+        "Q-044",
+        "Q-045",
+        "Q-046",
+        "Q-047",
+        "Q-048",
+        "Q-049",
+        "Q-050",
+        "Q-196",
+        "Q-197",
+        "Q-198",
+        "Q-051",
+        "Q-052",
+        "Q-053",
+        "Q-054",
+        "Q-055",
+        "Q-056",
+        "Q-057",
+        "Q-058",
+        "Q-059",
+        "Q-060",
+        "Q-061",
+        "Q-062",
+        "Q-063",
+        "Q-064",
+        "Q-065"
+      ],
+      "rozdzialy": [
+        "03-description",
+        "04-actions",
+        "05-results",
+        "06-capacity"
+      ],
+      "powiazanie_z_formularzem": "Powiązanie redakcyjne autora analizy; nie dodaje kryteriów organizatora.",
+      "zrodla": [
+        {
+          "id": "SRC-6bae8ed23334",
+          "lokalizacja": "s. 28–30 i 64"
+        }
+      ],
+      "skala": [
+        0,
+        1
+      ],
+      "minimum": null,
+      "waga": null,
+      "maksimum": null
+    },
+    {
+      "id": "M-01",
+      "nazwa": "Adekwatność do celów Programu",
+      "status": "potwierdzone",
+      "rodzaj": "merytoryczne",
+      "etap": "Ocena merytoryczna",
+      "klasyfikacja": "Oficjalne kryterium ocena merytoryczna.",
+      "opis": "Maks. 25 pkt: diagnoza problemów i potrzeb organizacji/interesariuszy 10; adekwatność założeń do celów PROO 10; zgodność działań ze statutem 5. Niezgodność celu/priorytetu: 0 całego wniosku, przerwanie oceny wyłącznie za zgodą NIW i ze szczegółowym uzasadnieniem.",
+      "aspekty": [
+        "Problemy i potrzeby organizacji oraz interesariuszy są precyzyjnie zidentyfikowane i wyczerpująco uzasadnione (10 pkt).",
+        "Założenia łączą rozwój instytucjonalny i misyjny zgodnie z celami PROO (10 pkt).",
+        "Działania mieszczą się w celach i działalności statutowej organizacji (5 pkt)."
+      ],
+      "pola": [
+        "Q-041",
+        "Q-042",
+        "Q-043",
+        "Q-044",
+        "Q-045",
+        "Q-046",
+        "Q-049",
+        "Q-063"
+      ],
+      "rozdzialy": [
+        "03-description",
+        "04-actions",
+        "06-capacity"
+      ],
+      "powiazanie_z_formularzem": "Powiązanie redakcyjne autora analizy; nie dodaje kryteriów organizatora.",
+      "zrodla": [
+        {
+          "id": "SRC-6bae8ed23334",
+          "lokalizacja": "s. 10, 15–16, 31, 65"
+        }
+      ],
+      "skala": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "minimum": null,
+      "waga": null,
+      "maksimum": 25
+    },
+    {
+      "id": "M-02",
+      "nazwa": "Jakość zaplanowanych działań",
+      "status": "potwierdzone",
+      "rodzaj": "merytoryczne",
+      "etap": "Ocena merytoryczna",
+      "klasyfikacja": "Oficjalne kryterium ocena merytoryczna.",
+      "opis": "Maks. 25 pkt: odpowiedź na potrzeby działalności misyjnej 10; spójność działań i wpływ wzmocnienia instytucjonalnego na misję 10; wykonalność harmonogramu 5. Obowiązkowa strategia w ścieżkach 2/3 i audyt w 3 wynikają z reguł zadania; nie mają osobnej niepodanej wagi.",
+      "aspekty": [
+        "Działania odpowiadają na rozpoznane potrzeby misyjne (10 pkt).",
+        "Działania tworzą spójny plan i pokazują wpływ wzmocnienia instytucjonalnego na skuteczność, zasięg lub efektywność misji (10 pkt).",
+        "Harmonogram jest wykonalny w wymaganych terminach (5 pkt)."
+      ],
+      "pola": [
+        "Q-009",
+        "Q-039",
+        "Q-040",
+        "Q-042",
+        "Q-046",
+        "Q-047",
+        "Q-048",
+        "Q-049",
+        "Q-050",
+        "Q-051",
+        "Q-052"
+      ],
+      "rozdzialy": [
+        "01-basic",
+        "03-description",
+        "04-actions"
+      ],
+      "powiazanie_z_formularzem": "Powiązanie redakcyjne autora analizy; nie dodaje kryteriów organizatora.",
+      "zrodla": [
+        {
+          "id": "SRC-6bae8ed23334",
+          "lokalizacja": "s. 16, 18, 31, 65–66"
+        }
+      ],
+      "skala": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "minimum": null,
+      "waga": null,
+      "maksimum": 25
+    },
+    {
+      "id": "M-03",
+      "nazwa": "Wpływ, rezultaty i ich trwałość",
+      "status": "potwierdzone",
+      "rodzaj": "merytoryczne",
+      "etap": "Ocena merytoryczna",
+      "klasyfikacja": "Oficjalne kryterium ocena merytoryczna.",
+      "opis": "Maks. 20 pkt: zasięg/znaczenie wpływu 5; spójność działań/rezultatów 5; jakość wskaźników i pomiaru 5; trwałość i upowszechnianie 5.",
+      "aspekty": [
+        "Zasięg i znaczenie wpływu dla organizacji, interesariuszy i otoczenia są uzasadnione (5 pkt).",
+        "Rezultaty są spójne z planem i powiązane z działaniami (5 pkt).",
+        "Wskaźniki, wartości i metody pomiaru pozwalają zweryfikować efekty (5 pkt).",
+        "Plan utrzymania i upowszechniania rezultatów jest wiarygodny (5 pkt)."
+      ],
+      "pola": [
+        "Q-053",
+        "Q-054",
+        "Q-046",
+        "Q-049",
+        "Q-055",
+        "Q-056",
+        "Q-057",
+        "Q-058",
+        "Q-059",
+        "Q-060",
+        "Q-061",
+        "Q-062",
+        "Q-052"
+      ],
+      "rozdzialy": [
+        "04-actions",
+        "05-results"
+      ],
+      "powiazanie_z_formularzem": "Powiązanie redakcyjne autora analizy; nie dodaje kryteriów organizatora.",
+      "zrodla": [
+        {
+          "id": "SRC-6bae8ed23334",
+          "lokalizacja": "s. 31–32, 66"
+        }
+      ],
+      "skala": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "minimum": null,
+      "waga": null,
+      "maksimum": 20
+    },
+    {
+      "id": "M-04",
+      "nazwa": "Możliwość realizacji i analiza ryzyka",
+      "status": "potwierdzone",
+      "rodzaj": "merytoryczne",
+      "etap": "Ocena merytoryczna",
+      "klasyfikacja": "Oficjalne kryterium ocena merytoryczna.",
+      "opis": "Maks. 20 pkt: potencjał kadrowy/techniczny/ekonomiczny 5; doświadczenie 5; zarządzanie 5; trafność i wszechstronność analizy ryzyka 5.",
+      "aspekty": [
+        "Potencjał kadrowy, rzeczowy i finansowy odpowiada planowi (5 pkt).",
+        "Doświadczenie organizacji i zespołu odnosi się do planowanych działań (5 pkt).",
+        "Zarządzanie, odpowiedzialność i monitorowanie są adekwatne (5 pkt).",
+        "Rozpoznano istotne ryzyka i opisano zapobieganie oraz reakcje (5 pkt)."
+      ],
+      "pola": [
+        "Q-063",
+        "Q-064",
+        "Q-065",
+        "Q-046",
+        "Q-049",
+        "Q-047",
+        "Q-048",
+        "Q-159",
+        "Q-163"
+      ],
+      "rozdzialy": [
+        "04-actions",
+        "06-capacity",
+        "08-summary"
+      ],
+      "powiazanie_z_formularzem": "Powiązanie redakcyjne autora analizy; nie dodaje kryteriów organizatora.",
+      "zrodla": [
+        {
+          "id": "SRC-6bae8ed23334",
+          "lokalizacja": "s. 32 i 66"
+        }
+      ],
+      "skala": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "minimum": null,
+      "waga": null,
+      "maksimum": 20
+    },
+    {
+      "id": "M-05",
+      "nazwa": "Zasadność planowanych wydatków",
+      "status": "potwierdzone",
+      "rodzaj": "merytoryczne",
+      "etap": "Ocena merytoryczna",
+      "klasyfikacja": "Oficjalne kryterium ocena merytoryczna.",
+      "opis": "Maks. 10 pkt: niezbędność kosztów do rezultatów 4; racjonalność/efektywność 4; najlepsze efekty z nakładów i ceny rynkowe 2. Ocena obejmuje pełne koszty, źródła finansowania, działania i rezultaty, w tym VAT, inwestycje i wkład.",
+      "aspekty": [
+        "Wydatki są niezbędne do osiągnięcia rezultatów (4 pkt).",
+        "Skala i kalkulacja wydatków są racjonalne i efektywne (4 pkt).",
+        "Ceny odpowiadają rynkowi i zasadzie najlepszych efektów z nakładów (2 pkt)."
+      ],
+      "pola": [
+        "Q-066",
+        "Q-067",
+        "Q-068",
+        "Q-069",
+        "Q-070",
+        "Q-071",
+        "Q-072",
+        "Q-073",
+        "Q-074",
+        "Q-075",
+        "Q-076",
+        "Q-086",
+        "Q-077",
+        "Q-087",
+        "Q-078",
+        "Q-088",
+        "Q-079",
+        "Q-089",
+        "Q-080",
+        "Q-090",
+        "Q-081",
+        "Q-091",
+        "Q-082",
+        "Q-092",
+        "Q-083",
+        "Q-093",
+        "Q-084",
+        "Q-094",
+        "Q-085",
+        "Q-095",
+        "Q-097",
+        "Q-098",
+        "Q-099",
+        "Q-100",
+        "Q-101",
+        "Q-102",
+        "Q-103",
+        "Q-104",
+        "Q-105",
+        "Q-106",
+        "Q-107",
+        "Q-117",
+        "Q-108",
+        "Q-118",
+        "Q-109",
+        "Q-119",
+        "Q-110",
+        "Q-120",
+        "Q-111",
+        "Q-121",
+        "Q-112",
+        "Q-122",
+        "Q-113",
+        "Q-123",
+        "Q-114",
+        "Q-124",
+        "Q-115",
+        "Q-125",
+        "Q-116",
+        "Q-126",
+        "Q-128",
+        "Q-129",
+        "Q-130",
+        "Q-131",
+        "Q-132",
+        "Q-133",
+        "Q-134",
+        "Q-135",
+        "Q-136",
+        "Q-137",
+        "Q-138",
+        "Q-148",
+        "Q-139",
+        "Q-149",
+        "Q-140",
+        "Q-150",
+        "Q-141",
+        "Q-151",
+        "Q-142",
+        "Q-152",
+        "Q-143",
+        "Q-153",
+        "Q-144",
+        "Q-154",
+        "Q-145",
+        "Q-155",
+        "Q-146",
+        "Q-156",
+        "Q-147",
+        "Q-157",
+        "Q-159",
+        "Q-160",
+        "Q-161",
+        "Q-162",
+        "Q-163",
+        "Q-164",
+        "Q-165",
+        "Q-166",
+        "Q-167",
+        "Q-168",
+        "Q-169",
+        "Q-170",
+        "Q-171",
+        "Q-172",
+        "Q-173",
+        "Q-174",
+        "Q-175",
+        "Q-176",
+        "Q-177",
+        "Q-178",
+        "Q-009",
+        "Q-008",
+        "Q-033",
+        "Q-049",
+        "Q-050",
+        "Q-055",
+        "Q-061",
+        "Q-062",
+        "Q-179"
+      ],
+      "rozdzialy": [
+        "01-basic",
+        "02-applicant",
+        "04-actions",
+        "05-results",
+        "07-budget",
+        "08-summary",
+        "09-other"
+      ],
+      "powiazanie_z_formularzem": "Powiązanie redakcyjne autora analizy; nie dodaje kryteriów organizatora.",
+      "zrodla": [
+        {
+          "id": "SRC-6bae8ed23334",
+          "lokalizacja": "s. 19–25, 32, 66"
+        }
+      ],
+      "skala": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "minimum": null,
+      "waga": null,
+      "maksimum": 10
+    },
+    {
+      "id": "S-01",
+      "nazwa": "Premia za historię braku wskazanego wsparcia",
+      "status": "sprzeczne",
+      "rodzaj": "nieokreslone",
+      "etap": "Ocena strategiczna",
+      "klasyfikacja": "Oficjalne kryterium strategiczne; rodzaj nieokreslone użyty technicznie, ponieważ kontrakt nie ma osobnego rodzaju strategicznego.",
+      "opis": "Nieobowiązkowa premia 5 pkt, warunki odmienne dla ścieżek; pełny opis w REQ-027 i regulaminie s. 32–33 oraz zał. 6 s. 67–68. Wspólny warunek braku wsparcia UL/MDS/Poradnicze w latach 2020–2026. Brak premii nie oznacza negatywnej oceny merytorycznej. SPRZECZNOŚĆ: główna tabela s. 32–33 obejmuje wcześniejsze PROO 2a/3/4, natomiast zał. 6 s. 68 mówi o tym samym Priorytecie i nie wymienia tych priorytetów. Nie rozstrzygnięto uprawnienia do premii; potrzebne stanowisko NIW, jeżeli historia organizacji powoduje różnicę między wersjami.",
+      "aspekty": [
+        "Zewnętrznie sprawdzono całą historię wsparcia według warunków właściwej ścieżki, z progami >60 tys. lub >300 tys. tam, gdzie mają zastosowanie.",
+        "Sprawdzono wspólny warunek dotyczący programów UL, MDS i Organizacje Poradnicze w 2020–2026."
+      ],
+      "pola": [
+        "Q-009",
+        "Q-012",
+        "Q-017"
+      ],
+      "rozdzialy": [
+        "01-basic",
+        "02-applicant"
+      ],
+      "powiazanie_z_formularzem": "Powiązanie redakcyjne autora analizy; nie dodaje kryteriów organizatora.",
+      "zrodla": [
+        {
+          "id": "SRC-6bae8ed23334",
+          "lokalizacja": "s. 32–33 i 67–68"
+        }
+      ],
+      "skala": [
+        0,
+        5
+      ],
+      "minimum": null,
+      "waga": null,
+      "maksimum": 5
+    }
+  ]
+}

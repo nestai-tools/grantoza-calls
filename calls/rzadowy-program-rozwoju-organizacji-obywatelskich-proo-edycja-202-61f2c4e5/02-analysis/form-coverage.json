@@ -1,0 +1,945 @@
+{
+  "at": "2026-11-16T11:56:20.547405+00:00",
+  "liczba_html": 10,
+  "liczba_pol_mapy": 228,
+  "liczba_kontrolek_html": 127,
+  "liczba_unikalnych_nazw_kontrolek": 112,
+  "liczba_nieodwzorowanych": 0,
+  "uwaga": "Radio grupowane po name; hidden, przyciski i tokeny techniczne nie są odpowiedziami. Oferent 1 / adresat / numer i tabelaryczne podsumowania odwzorowano także jako stałe lub systemowe/wyliczane. Tabele 2028/29 jawnie rozwijają okresy, 33 pozycje pomocnicze służą obliczeniom.",
+  "strony": [
+    {
+      "id_zrodla": "SRC-dffbaa0478d8",
+      "plik": "01-sources/originals/PRO-1A/1. Podstawowe informacje.html",
+      "liczba_kontrolek": 10,
+      "liczba_nazw_pol": 9,
+      "pokryte": true,
+      "mapowanie": [
+        {
+          "pole_html": "wniosek_dane[data_rejestracji]",
+          "q": "Q-001",
+          "klucz": "registration_date",
+          "maxlength_html": "10",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[najwyzszy_przychod]",
+          "q": "Q-002",
+          "klucz": "highest_revenue",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[warunek_2]",
+          "q": "Q-003",
+          "klucz": "revenue_above_10m",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[warunek_3]",
+          "q": "Q-004",
+          "klucz": "craft_program",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[strona_internetowa_tak_nie]",
+          "q": "Q-005",
+          "klucz": "financial_reports_website",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[strona_internetowa_tak_nie_adres]",
+          "q": "Q-006",
+          "klucz": "financial_reports_url",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek[id_rodzaju_zadania]",
+          "q": "Q-008",
+          "klucz": "public_task_type",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[sciezka]",
+          "q": "Q-009",
+          "klucz": "path",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek[id_sfery]",
+          "q": "Q-010",
+          "klucz": "public_benefit_sphere",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        }
+      ]
+    },
+    {
+      "id_zrodla": "SRC-7514aa7ba43c",
+      "plik": "01-sources/originals/PRO-1A/2. Dane Oferenta.html",
+      "liczba_kontrolek": 27,
+      "liczba_nazw_pol": 26,
+      "pokryte": true,
+      "mapowanie": [
+        {
+          "pole_html": "oferenci[1][nazwa_oferenta]",
+          "q": "Q-012",
+          "klucz": "nazwa_oferenta",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][forma_prawna]",
+          "q": "Q-013",
+          "klucz": "forma_prawna",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][forma_prawna_inna]",
+          "q": "Q-014",
+          "klucz": "forma_prawna_inna",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][nazwa_rejestru]",
+          "q": "Q-015",
+          "klucz": "nazwa_rejestru",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][nazwa_rejestru_inny]",
+          "q": "Q-016",
+          "klucz": "nazwa_rejestru_inny",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][numer_rejestru]",
+          "q": "Q-017",
+          "klucz": "numer_rejestru",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][nip]",
+          "q": "Q-018",
+          "klucz": "nip",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][regon]",
+          "q": "Q-019",
+          "klucz": "regon",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][siedz_miasto]",
+          "q": "Q-020",
+          "klucz": "siedz_miasto",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][siedz_ulica]",
+          "q": "Q-021",
+          "klucz": "siedz_ulica",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][siedz_nr_domu]",
+          "q": "Q-022",
+          "klucz": "siedz_nr_domu",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][siedz_nr_lokalu]",
+          "q": "Q-023",
+          "klucz": "siedz_nr_lokalu",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][siedz_kod]",
+          "q": "Q-024",
+          "klucz": "siedz_kod",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][siedz_poczta]",
+          "q": "Q-025",
+          "klucz": "siedz_poczta",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][siedz_wojew]",
+          "q": "Q-026",
+          "klucz": "siedz_wojew",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][siedz_powiat]",
+          "q": "Q-027",
+          "klucz": "siedz_powiat",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][siedz_gmina]",
+          "q": "Q-028",
+          "klucz": "siedz_gmina",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][kontakt_nr_tel]",
+          "q": "Q-029",
+          "klucz": "kontakt_nr_tel",
+          "maxlength_html": "13",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][kontakt_fax]",
+          "q": "Q-030",
+          "klucz": "kontakt_fax",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][kontakt_email]",
+          "q": "Q-031",
+          "klucz": "kontakt_email",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][kontakt_www]",
+          "q": "Q-032",
+          "klucz": "kontakt_www",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "oferenci[1][podatnik_vat]",
+          "q": "Q-033",
+          "klucz": "vat_payer",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "osoby_upowaznione_oferenci[1][0][osoba_upow_imie]",
+          "q": "Q-034",
+          "klucz": "contact_first_name",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "osoby_upowaznione_oferenci[1][0][osoba_upow_nazwisko]",
+          "q": "Q-035",
+          "klucz": "contact_last_name",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "osoby_upowaznione_oferenci[1][0][osoba_upow_tel]",
+          "q": "Q-036",
+          "klucz": "contact_phone",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "osoby_upowaznione_oferenci[1][0][osoba_upow_email]",
+          "q": "Q-037",
+          "klucz": "contact_email",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        }
+      ]
+    },
+    {
+      "id_zrodla": "SRC-2529b243ca13",
+      "plik": "01-sources/originals/PRO-1A/3. Opis Zadania.html",
+      "liczba_kontrolek": 8,
+      "liczba_nazw_pol": 8,
+      "pokryte": true,
+      "mapowanie": [
+        {
+          "pole_html": "wniosek[tytul]",
+          "q": "Q-038",
+          "klucz": "task_title",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek[rozpoczecie]",
+          "q": "Q-039",
+          "klucz": "task_start",
+          "maxlength_html": "10",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek[zakonczenie]",
+          "q": "Q-040",
+          "klucz": "task_end",
+          "maxlength_html": "10",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[syntetyczny_opis]",
+          "q": "Q-041",
+          "klucz": "syntetyczny_opis",
+          "maxlength_html": "1000",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[opis_potrzeb]",
+          "q": "Q-042",
+          "klucz": "opis_potrzeb",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[miejsce_realizacji]",
+          "q": "Q-043",
+          "klucz": "miejsce_realizacji",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[opis_grupy_docelowej]",
+          "q": "Q-044",
+          "klucz": "opis_grupy_docelowej",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[komplementarnosc]",
+          "q": "Q-045",
+          "klucz": "komplementarnosc",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        }
+      ]
+    },
+    {
+      "id_zrodla": "SRC-47ebcc3b726a",
+      "plik": "01-sources/originals/PRO-1A/4. Opis Zadania.html",
+      "liczba_kontrolek": 7,
+      "liczba_nazw_pol": 7,
+      "pokryte": true,
+      "mapowanie": [
+        {
+          "pole_html": "harmonogram[0][nazwa_dzialania]",
+          "q": "Q-046",
+          "klucz": "action_name",
+          "maxlength_html": "200",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "harmonogram[0][harm_termin_od]",
+          "q": "Q-047",
+          "klucz": "action_start",
+          "maxlength_html": "10",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "harmonogram[0][harm_termin_do]",
+          "q": "Q-048",
+          "klucz": "action_end",
+          "maxlength_html": "10",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "harmonogram[0][harm_opis]",
+          "q": "Q-049",
+          "klucz": "action_description",
+          "maxlength_html": "21000",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "harmonogram[0][harm_nazwa_zad]",
+          "q": "Q-050",
+          "klucz": "action_external_scope",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[dostepnosc_dzialan]",
+          "q": "Q-051",
+          "klucz": "accessibility",
+          "maxlength_html": "5000",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[promocja_wsparcia]",
+          "q": "Q-052",
+          "klucz": "promotion",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        }
+      ]
+    },
+    {
+      "id_zrodla": "SRC-3e13fd9447dd",
+      "plik": "01-sources/originals/PRO-1A/5.6. Opis Zadania.html",
+      "liczba_kontrolek": 10,
+      "liczba_nazw_pol": 10,
+      "pokryte": true,
+      "mapowanie": [
+        {
+          "pole_html": "wniosek_dane[opis_rezultatow]",
+          "q": "Q-053",
+          "klucz": "results_description",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[przewid_wykorzystanie_rezultatow]",
+          "q": "Q-054",
+          "klucz": "results_sustainability",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "zakladane_rezultaty[0][zakladane_rezultaty]",
+          "q": "Q-055",
+          "klucz": "result_name",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "zakladane_rezultaty[0][typ_rezultatu]",
+          "q": "Q-056",
+          "klucz": "result_type",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "zakladane_rezultaty[0][dzialanie_id_wiersza]",
+          "q": "Q-057",
+          "klucz": "result_action",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "zakladane_rezultaty[0][wartosc_bazowa]",
+          "q": "Q-058",
+          "klucz": "result_wartosc_bazowa",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "zakladane_rezultaty[0][wartosc_posrednia_0]",
+          "q": "Q-059",
+          "klucz": "result_wartosc_posrednia_0",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "zakladane_rezultaty[0][wartosc_posrednia_1]",
+          "q": "Q-060",
+          "klucz": "result_wartosc_posrednia_1",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "zakladane_rezultaty[0][wartosc_docelowa]",
+          "q": "Q-061",
+          "klucz": "result_wartosc_docelowa",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "zakladane_rezultaty[0][propozycja_monitorowania]",
+          "q": "Q-062",
+          "klucz": "result_monitoring",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        }
+      ]
+    },
+    {
+      "id_zrodla": "SRC-524d7ff885fd",
+      "plik": "01-sources/originals/PRO-1A/IV. Charakterystyka Oferenta.html",
+      "liczba_kontrolek": 3,
+      "liczba_nazw_pol": 3,
+      "pokryte": true,
+      "mapowanie": [
+        {
+          "pole_html": "wniosek_dane[wczesniejsza_dzialalnosc]",
+          "q": "Q-063",
+          "klucz": "wczesniejsza_dzialalnosc",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[zasoby_kadrowe]",
+          "q": "Q-064",
+          "klucz": "zasoby",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_dane[zarzadzanie_realizacja]",
+          "q": "Q-065",
+          "klucz": "zarzadzanie",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        }
+      ]
+    },
+    {
+      "id_zrodla": "SRC-43ad5a7579cd",
+      "plik": "01-sources/originals/PRO-1A/V - Inne Informacje.html",
+      "liczba_kontrolek": 1,
+      "liczba_nazw_pol": 1,
+      "pokryte": true,
+      "mapowanie": [
+        {
+          "pole_html": "wniosek_dane[inne_dzialania]",
+          "q": "Q-179",
+          "klucz": "other_information",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        }
+      ]
+    },
+    {
+      "id_zrodla": "SRC-7db1920120be",
+      "plik": "01-sources/originals/PRO-1A/V. Kalkulacja przewidywanych kosztów - podsumowanie.html",
+      "liczba_kontrolek": 0,
+      "liczba_nazw_pol": 0,
+      "pokryte": true,
+      "mapowanie": [
+        {
+          "pole_html": "V.B całość zadania — ogolem",
+          "q": "Q-159",
+          "udzial_q": "Q-169",
+          "pochodzenie": "wyliczane — tekst tabeli"
+        },
+        {
+          "pole_html": "V.B całość zadania — dotacja",
+          "q": "Q-160",
+          "udzial_q": "Q-170",
+          "pochodzenie": "wyliczane — tekst tabeli"
+        },
+        {
+          "pole_html": "V.B całość zadania — dotacja-biezace",
+          "q": "Q-161",
+          "udzial_q": "Q-171",
+          "pochodzenie": "wyliczane — tekst tabeli"
+        },
+        {
+          "pole_html": "V.B całość zadania — dotacja-inwestycyjne",
+          "q": "Q-162",
+          "udzial_q": "Q-172",
+          "pochodzenie": "wyliczane — tekst tabeli"
+        },
+        {
+          "pole_html": "V.B całość zadania — wklad",
+          "q": "Q-163",
+          "udzial_q": "Q-173",
+          "pochodzenie": "wyliczane — tekst tabeli"
+        },
+        {
+          "pole_html": "V.B całość zadania — finansowy",
+          "q": "Q-164",
+          "udzial_q": "Q-174",
+          "pochodzenie": "wyliczane — tekst tabeli"
+        },
+        {
+          "pole_html": "V.B całość zadania — niefinansowy",
+          "q": "Q-165",
+          "udzial_q": "Q-175",
+          "pochodzenie": "wyliczane — tekst tabeli"
+        },
+        {
+          "pole_html": "V.B całość zadania — rzeczowy",
+          "q": "Q-166",
+          "udzial_q": "Q-176",
+          "pochodzenie": "wyliczane — tekst tabeli"
+        },
+        {
+          "pole_html": "V.B całość zadania — osobowy",
+          "q": "Q-167",
+          "udzial_q": "Q-177",
+          "pochodzenie": "wyliczane — tekst tabeli"
+        },
+        {
+          "pole_html": "V.B całość zadania — odbiorcy",
+          "q": "Q-168",
+          "udzial_q": "Q-178",
+          "pochodzenie": "wyliczane — tekst tabeli"
+        }
+      ]
+    },
+    {
+      "id_zrodla": "SRC-c1e80b013b98",
+      "plik": "01-sources/originals/PRO-1A/V. Kalkulacja przewidywanych kosztów.html",
+      "liczba_kontrolek": 33,
+      "liczba_nazw_pol": 33,
+      "pokryte": true,
+      "mapowanie": [
+        {
+          "pole_html": "kosztorys_kategorie[rok2027][kat1][0][id_wiersza_harmonogram]",
+          "q": "Q-066",
+          "klucz": "cost_2027_action",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_kategorie[rok2027][kat1][0][koszt_calkowity_suma]",
+          "q": "Q-196",
+          "klucz": "action_cost_2027",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_kategorie[rok2027][kat1][1][oferent]",
+          "q": "Q-067",
+          "klucz": "cost_2027_applicant",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_kategorie[rok2027][kat1][1][rodzaj]",
+          "q": "Q-068",
+          "klucz": "cost_2027_name",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_kategorie[rok2027][kat1][1][miara]",
+          "q": "Q-069",
+          "klucz": "cost_2027_measure",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_kategorie[rok2027][kat1][1][koszt_jedn]",
+          "q": "Q-070",
+          "klucz": "cost_2027_unit_cost",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_kategorie[rok2027][kat1][1][ilosc]",
+          "q": "Q-071",
+          "klucz": "cost_2027_units",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_kategorie[rok2027][kat1][1][koszt_calkowity]",
+          "q": "Q-072",
+          "klucz": "cost_2027_total",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_kategorie[rok2027][kat1][1][wydatek_majatkowy]",
+          "q": "Q-073",
+          "klucz": "cost_2027_investment",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_kategorie[rok2027][kat1][1][koszt_wspolfinansowany]",
+          "q": "Q-074",
+          "klucz": "cost_2027_cofinanced",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_kategorie[rok2027][kat1][1][planowane_podzlecenie]",
+          "q": "Q-075",
+          "klucz": "cost_2027_subcontracted",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_ogolem[rok2027][kat1][koszt_calkowity]",
+          "q": "Q-076",
+          "klucz": "funding_2027_ogolem",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_ogolem[rok2027][kat4][koszt_calkowity]",
+          "q": "Q-076",
+          "klucz": "funding_2027_ogolem",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_ogolem]",
+          "q": "Q-076",
+          "klucz": "funding_2027_ogolem",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_ogolem_proc]",
+          "q": "Q-086",
+          "klucz": "funding_2027_ogolem_percent",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_dotacja]",
+          "q": "Q-077",
+          "klucz": "funding_2027_dotacja",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_dotacja_proc]",
+          "q": "Q-087",
+          "klucz": "funding_2027_dotacja_percent",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_dotacja_biezace]",
+          "q": "Q-078",
+          "klucz": "funding_2027_dotacja-biezace",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_dotacja_biezace_proc]",
+          "q": "Q-088",
+          "klucz": "funding_2027_dotacja-biezace_percent",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_dotacja_inwestycyjne]",
+          "q": "Q-079",
+          "klucz": "funding_2027_dotacja-inwestycyjne",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_dotacja_inwestycyjne_proc]",
+          "q": "Q-089",
+          "klucz": "funding_2027_dotacja-inwestycyjne_percent",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_srodki_wlasne]",
+          "q": "Q-080",
+          "klucz": "funding_2027_wklad",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_srodki_wlasne_proc]",
+          "q": "Q-090",
+          "klucz": "funding_2027_wklad_percent",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_administracja]",
+          "q": "Q-081",
+          "klucz": "funding_2027_finansowy",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_administracja_proc]",
+          "q": "Q-091",
+          "klucz": "funding_2027_finansowy_percent",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_osobowy_rzeczowy]",
+          "q": "Q-082",
+          "klucz": "funding_2027_niefinansowy",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_osobowy_rzeczowy_proc]",
+          "q": "Q-092",
+          "klucz": "funding_2027_niefinansowy_percent",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_rzeczowy]",
+          "q": "Q-083",
+          "klucz": "funding_2027_rzeczowy",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_rzeczowy_proc]",
+          "q": "Q-093",
+          "klucz": "funding_2027_rzeczowy_percent",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_osobowy]",
+          "q": "Q-084",
+          "klucz": "funding_2027_osobowy",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_osobowy_proc]",
+          "q": "Q-094",
+          "klucz": "funding_2027_osobowy_percent",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_adresaci]",
+          "q": "Q-085",
+          "klucz": "funding_2027_odbiorcy",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "kosztorys_lata[2027][zrodlo_adresaci_proc]",
+          "q": "Q-095",
+          "klucz": "funding_2027_odbiorcy_percent",
+          "maxlength_html": null,
+          "pochodzenie": "wyliczane"
+        }
+      ]
+    },
+    {
+      "id_zrodla": "SRC-130ce8988262",
+      "plik": "01-sources/originals/PRO-1A/VII Oświadczenia.html",
+      "liczba_kontrolek": 28,
+      "liczba_nazw_pol": 15,
+      "pokryte": true,
+      "mapowanie": [
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_01]",
+          "q": "Q-180",
+          "klucz": "declaration_01",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_02]",
+          "q": "Q-181",
+          "klucz": "declaration_02",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_03]",
+          "q": "Q-182",
+          "klucz": "declaration_03",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_04]",
+          "q": "Q-183",
+          "klucz": "declaration_04",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_05]",
+          "q": "Q-184",
+          "klucz": "declaration_05",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_06]",
+          "q": "Q-185",
+          "klucz": "declaration_06",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_07]",
+          "q": "Q-186",
+          "klucz": "declaration_07",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_08]",
+          "q": "Q-187",
+          "klucz": "declaration_08",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_09]",
+          "q": "Q-188",
+          "klucz": "declaration_09",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_10]",
+          "q": "Q-189",
+          "klucz": "declaration_10",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_11]",
+          "q": "Q-190",
+          "klucz": "declaration_11",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_12]",
+          "q": "Q-191",
+          "klucz": "declaration_12",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_12_opis]",
+          "q": "Q-192",
+          "klucz": "ai_use_description",
+          "maxlength_html": "10000",
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "wniosek_oswiadczenia[1][oswiadczenie_13]",
+          "q": "Q-193",
+          "klucz": "declaration_13",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        },
+        {
+          "pole_html": "podpisy[0][podpis]",
+          "q": "Q-194",
+          "klucz": "authorized_signatory",
+          "maxlength_html": null,
+          "pochodzenie": "formularz"
+        }
+      ]
+    }
+  ]
+}

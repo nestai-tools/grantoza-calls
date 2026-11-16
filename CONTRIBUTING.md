@@ -20,3 +20,5 @@ Nie scalaj własnych zgłoszeń automatycznie. Maintainer wybiera nabory do kata
 
 Walidator w `tools/grantoza/` jest przypiętą kopią narzędzi aplikacji 0.2.0.
 Zmiany kontraktu wymagają osobnego przeglądu aktualizacji schematu i walidatora.
+
+Wydanie bez oryginałów zachowuje w `documents.json` ich ID, pochodzenie i SHA-256 oraz jawne `oryginal_w_pakiecie: false`. Takie odwołania mogą wskazywać wyłącznie `01-sources/originals/`. CI sprawdza spójność rejestru z profilem; nie weryfikuje treści nieobecnych dokumentów. Każdy plik źródłowy faktycznie dołączony do pakietu nadal podlega kontroli SHA-256.

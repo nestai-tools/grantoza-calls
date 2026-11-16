@@ -1,0 +1,25 @@
+{
+  "empty_template": true,
+  "path1_totals_without_unused_years": true,
+  "three_year_budget_and_investment": true,
+  "panel_layout_and_hints": true,
+  "missing_cost_is_not_zero_and_funding_control": true,
+  "export_and_roundtrip": true,
+  "enumerated_choices_roundtrip": 33,
+  "assessment_preview_without_api": true,
+  "visual_pdf_tables_checked": [
+    66,
+    68
+  ],
+  "at": "2026-11-16T11:58:49.329709+00:00",
+  "source_sha256_verified": 22,
+  "html_pages_covered": 10,
+  "unmapped_html_fields": 0,
+  "expected_empty_template_warnings": 67,
+  "notes": [
+    "Testy na kopii tymczasowej, bez zapisu odpowiedzi w naborze.",
+    "Podgląd profilu oceny bez wywołania zewnętrznej usługi.",
+    "Lokalne kontrole struktury i sum nie zastępują serwerowej walidacji SOD ani kontroli warunków/załączników.",
+    "Dostosowano układ rocznych kart finansowania do standardowego panelu i potwierdzono równość danych przed/po; bez zmian kodu aplikacji."
+  ]
+}
