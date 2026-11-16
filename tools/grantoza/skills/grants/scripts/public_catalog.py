@@ -16,6 +16,7 @@ from urllib.parse import quote
 from urllib.request import Request, urlopen
 
 from app_version import VERSION, compatibility, semver
+from source_integrity import source_matches
 from workspace import (folder, identifier, locked, read_json, register_call,
                        template_files, validate_template, write_json)
 
@@ -119,7 +120,7 @@ def manifest_files(manifest, entry):
 def validate_sources(call):
     for document in read_json(call / 'documents.json')['dokumenty']:
         path = call / safe_path(document['plik'])
-        if digest(path.read_bytes()) != document['sha256']:
+        if not source_matches(call, document, document['sha256']):
             raise ValueError('Suma źródła nie zgadza się z rejestrem: ' + document['id'])
 
 

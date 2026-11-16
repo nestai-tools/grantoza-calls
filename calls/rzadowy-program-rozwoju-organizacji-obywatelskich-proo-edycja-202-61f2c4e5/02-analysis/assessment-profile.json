@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "id": "proo-1a-2027",
+  "wersja": 1,
+  "nabor_id": "rzadowy-program-rozwoju-organizacji-obywatelskich-proo-edycja-202-61f2c4e5",
+  "nazwa": "PROO 1a 2027 — ocena uzasadnienia i spójności",
+  "zrodla_sha256": {
+    "SRC-6bae8ed23334": "d839689569d46845f2fda31c5388e237f7acd2858ef564854795d2cc624c59c3"
+  },
+  "wejscie": {
+    "instrukcja": "Oceń treść konkretnego wniosku PROO 1a 2027 według oficjalnego kryterium. Uwzględnij ścieżkę, daty, wszystkie karty działań/rezultatów oraz pełne roczne budżety. Pola Tak/Nie są deklaracjami, bez obowiązku narracji; osobny opis AI tylko przy Tak. Faktów, rejestrów, wysyłki SOD, podpisów i publikacji na stronie nie potwierdzaj z tekstu. Dokumenty 2026 są pomocą redakcyjną, nie regułami edycji 2027. Dwa komponenty działań są wymagane; strategia 2/3 obejmuje min. rok po zadaniu i jest przyjęta uchwałą, audyt obowiązkowy w 3. Pusta część kontekstu dużego wniosku nie dowodzi braku w całym wniosku.",
+    "pola_kontekstu": [
+      "Q-009",
+      "Q-038",
+      "Q-039",
+      "Q-040",
+      "Q-002",
+      "Q-008",
+      "Q-033",
+      "Q-159",
+      "Q-160",
+      "Q-163"
+    ],
+    "powiazania": true,
+    "krotka_odpowiedz_max": 350,
+    "budzet_powiazan": 30000
+  },
+  "wyjscie": {
+    "odpowiedz": {
+      "typ": "choice",
+      "warianty": {
+        "supported": {
+          "opis": "Uzasadnione w treści. Nie jest to punktacja ani potwierdzenie prawdziwości faktów.",
+          "status": "supported"
+        },
+        "partial": {
+          "opis": "Częściowo uzasadnione. Nie jest to punktacja ani potwierdzenie prawdziwości faktów.",
+          "status": "partial"
+        },
+        "missing": {
+          "opis": "Brak wymaganej treści. Nie jest to punktacja ani potwierdzenie prawdziwości faktów.",
+          "status": "missing"
+        },
+        "contradicted": {
+          "opis": "Sprzeczność. Nie jest to punktacja ani potwierdzenie prawdziwości faktów.",
+          "status": "contradicted"
+        },
+        "not_applicable": {
+          "opis": "Nie dotyczy. Nie jest to punktacja ani potwierdzenie prawdziwości faktów.",
+          "status": "not_applicable"
+        },
+        "insufficient_context": {
+          "opis": "Brak pełnego kontekstu. Nie jest to punktacja ani potwierdzenie prawdziwości faktów.",
+          "status": "insufficient_context"
+        }
+      }
+    },
+    "etykiety": {
+      "supported": "Uzasadnione w treści",
+      "partial": "Częściowo uzasadnione",
+      "missing": "Brak wymaganej treści",
+      "contradicted": "Sprzeczność",
+      "not_applicable": "Nie dotyczy",
+      "insufficient_context": "Brak pełnego kontekstu"
+    },
+    "agregacja": "sprawdzenia"
+  },
+  "kryteria": {
+    "F-01": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Wymaga zewnętrznego sprawdzenia przez osobę uprawnioną/NIW. Tekst i deklaracje nie dowodzą spełnienia. Wypełnienie i złożenie wniosku przez SOD we wskazanym terminie. Brak możliwości odwołania od tego kryterium. Zapis roboczy nie jest wysyłką.",
+      "pola_kontekstu": []
+    },
+    "F-02": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Wymaga zewnętrznego sprawdzenia przez osobę uprawnioną/NIW. Tekst i deklaracje nie dowodzą spełnienia. Uprawniona forma prawna, staż i przychód odpowiedni dla ścieżki, strona ze sprawozdaniami dla ścieżki 3, brak wszystkich wykluczeń i przekroczenia limitu wniosków. Oświadczenie nie zastępuje dowodów. Możliwość odwołania.",
+      "pola_kontekstu": []
+    },
+    "F-03": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Wymaga zewnętrznego sprawdzenia przez osobę uprawnioną/NIW. Tekst i deklaracje nie dowodzą spełnienia. Treść merytoryczna III i IV nie jest tożsama z ofertami objętymi kryterium; przypisy 11–13, podobieństwo >90% skutkuje negatywną oceną; przypis 12 wskazuje inne podmioty. Wymaga porównania w narzędziu NIW.",
+      "pola_kontekstu": []
+    },
+    "M-01": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj uzasadnienie każdego aspektu w całym właściwym kontekście. Nie dodawaj minimów ani wag i nie rozdzielaj sztucznie działań łączących misję z rozwojem. Maks. 25 pkt: diagnoza problemów i potrzeb organizacji/interesariuszy 10; adekwatność założeń do celów PROO 10; zgodność działań ze statutem 5. Niezgodność celu/priorytetu: 0 całego wniosku, przerwanie oceny wyłącznie za zgodą NIW i ze szczegółowym uzasadnieniem.",
+      "pola_kontekstu": []
+    },
+    "M-02": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj uzasadnienie każdego aspektu w całym właściwym kontekście. Nie dodawaj minimów ani wag i nie rozdzielaj sztucznie działań łączących misję z rozwojem. Maks. 25 pkt: odpowiedź na potrzeby działalności misyjnej 10; spójność działań i wpływ wzmocnienia instytucjonalnego na misję 10; wykonalność harmonogramu 5. Obowiązkowa strategia w ścieżkach 2/3 i audyt w 3 wynikają z reguł zadania; nie mają osobnej niepodanej wagi.",
+      "pola_kontekstu": []
+    },
+    "M-03": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj uzasadnienie każdego aspektu w całym właściwym kontekście. Nie dodawaj minimów ani wag i nie rozdzielaj sztucznie działań łączących misję z rozwojem. Maks. 20 pkt: zasięg/znaczenie wpływu 5; spójność działań/rezultatów 5; jakość wskaźników i pomiaru 5; trwałość i upowszechnianie 5.",
+      "pola_kontekstu": []
+    },
+    "M-04": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj uzasadnienie każdego aspektu w całym właściwym kontekście. Nie dodawaj minimów ani wag i nie rozdzielaj sztucznie działań łączących misję z rozwojem. Maks. 20 pkt: potencjał kadrowy/techniczny/ekonomiczny 5; doświadczenie 5; zarządzanie 5; trafność i wszechstronność analizy ryzyka 5.",
+      "pola_kontekstu": []
+    },
+    "M-05": {
+      "tryb": "model",
+      "instrukcja": "Oceniaj uzasadnienie każdego aspektu w całym właściwym kontekście. Nie dodawaj minimów ani wag i nie rozdzielaj sztucznie działań łączących misję z rozwojem. Maks. 10 pkt: niezbędność kosztów do rezultatów 4; racjonalność/efektywność 4; najlepsze efekty z nakładów i ceny rynkowe 2. Ocena obejmuje pełne koszty, źródła finansowania, działania i rezultaty, w tym VAT, inwestycje i wkład.",
+      "pola_kontekstu": []
+    },
+    "S-01": {
+      "tryb": "zewnetrzne",
+      "instrukcja": "Zewnętrzne sprawdzenie; kryterium ma status sprzeczne, więc nie wolno potwierdzać premii na podstawie jednej z wersji. Główna tabela s. 32–33 obejmuje PROO 2a/3/4, karta s. 68 odwołuje się do tego samego Priorytetu. Jeżeli historia organizacji daje różny wynik, uzyskaj stanowisko NIW. Premia 5 pkt jest nieobowiązkowa.",
+      "pola_kontekstu": []
+    }
+  },
+  "spojnosc": {
+    "aspekty": [
+      "Diagnoza, działania, rezultaty i koszty tworzą spójny łańcuch.",
+      "Terminy działań i plan finansowania odpowiadają ścieżce; lata 2028/2029 nie są wymagane w ścieżce 1.",
+      "Każda inwestycja ma udokumentowany własny wkład finansowy min. 10%, a oznaczenia VAT i źródła są spójne.",
+      "W ścieżce 2/3 zaplanowano strategię według 2027; w 3 także audyt zewnętrzny z kosztem i terminem."
+    ],
+    "pola_kontekstu": []
+  },
+  "analiza_poglebiona": "Opracuj ocenę ogólną i zalecenia MD bez zmiany odpowiedzi. Zestaw dowody w pełnej treści z wynikami poszczególnych aspektów, usuń fałszywe alarmy wynikające z podziału kontekstu. Wskaż priorytet, kryterium, Q/instancję, plik, problem, proponowaną korektę i sposób weryfikacji. Odróżnij brak tekstu od braku zewnętrznego dowodu, nie utożsamiaj wskaźnika jakości z punktami NIW ani szansą dotacji. Szczególnie sprawdź ścieżkę, wymóg własnej strony w 3, oba komponenty, strategię 2/3, audyt 3, roczne limity dotacji, 10% finansowania każdej inwestycji, VAT, trwałość i rynkowość kosztów. Ujawnij ograniczenia źródeł i błędy operatorów progów w HTML. Oświadczenia pozostaw do decyzji uprawnionej osoby."
+}

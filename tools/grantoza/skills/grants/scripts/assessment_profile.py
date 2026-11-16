@@ -5,6 +5,7 @@ import hashlib
 import json
 from pathlib import Path
 import re
+from source_integrity import source_matches
 
 PROFILE_PATH = '02-analysis/assessment-profile.json'
 STATUSES = {'supported', 'partial', 'missing', 'contradicted', 'not_applicable', 'insufficient_context'}
@@ -98,9 +99,7 @@ def verify_sources(call, profile):
     docs = {d['id']:d for d in json.loads(path.read_text())['dokumenty']}
     for id, expected in profile['zrodla_sha256'].items():
         doc = docs.get(id, {})
-        path = call/doc.get('plik', '__missing__')
-        if (doc.get('sha256') != expected or not path.resolve().is_relative_to(call) or not path.is_file()
-                or hashlib.sha256(path.read_bytes()).hexdigest() != expected):
+        if not source_matches(call, doc, expected):
             raise ValueError('Profil oceny nie odpowiada wersji źródła ' + id)
 
 

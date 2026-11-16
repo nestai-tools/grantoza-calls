@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "id": "rzadowy-program-rozwoju-organizacji-obywatelskich-proo-edycja-202-61f2c4e5",
+  "tytul": "Rządowy Program Rozwoju Organizacji Obywatelskich PROO na lata 2018-2030 — edycja 2027, Priorytet 1a",
+  "url": "https://niw.gov.pl/nasze-programy/proo/edycja-2027/priorytet-1a/nabor-wnioskow/",
+  "etap": "gotowy-do-wypelniania",
+  "informacje": {
+    "organizator": {
+      "wartosc": "Narodowy Instytut Wolności - Centrum Rozwoju Społeczeństwa Obywatelskiego",
+      "zrodlo": "https://niw.gov.pl/nasze-programy/proo/edycja-2027/priorytet-1a/nabor-wnioskow/",
+      "lokalizacja": "Metryka BIP — Podmiot udostępniający"
+    },
+    "program": {
+      "wartosc": "Rządowy Program Rozwoju Organizacji Obywatelskich PROO na lata 2018–2030 — edycja 2027, Priorytet 1a",
+      "zrodlo": "https://niw.gov.pl/wp-content/uploads/2026/11/Regulamin-konkursu-PROO-2027.pdf",
+      "lokalizacja": "s. 1 i 10"
+    },
+    "dla_kogo": {
+      "wartosc": "Uprawnione organizacje pozarządowe i inne podmioty prowadzące działalność pożytku publicznego z katalogu s. 12–13; odrębne progi rejestracji, przychodów i strony WWW według ścieżki. Bez wymogu statusu OPP. Wykluczenia na s. 14.",
+      "zrodlo": "https://niw.gov.pl/wp-content/uploads/2026/11/Regulamin-konkursu-PROO-2027.pdf",
+      "lokalizacja": "s. 12–14"
+    },
+    "cel": {
+      "wartosc": "Wsparcie rozwoju instytucjonalnego i misyjnego organizacji, udziału w życiu publicznym oraz stabilności finansowej.",
+      "zrodlo": "https://niw.gov.pl/wp-content/uploads/2026/11/Regulamin-konkursu-PROO-2027.pdf",
+      "lokalizacja": "s. 10, 15–16"
+    },
+    "na_co": {
+      "wartosc": "Spójne działania statutowe i rozwojowe, strategia w ścieżkach 2/3, audyt w ścieżce 3; nie na działalność gospodarczą, religijny kult/praktyki ani działalność partyjną i kampanie.",
+      "zrodlo": "https://niw.gov.pl/wp-content/uploads/2026/11/Regulamin-konkursu-PROO-2027.pdf",
+      "lokalizacja": "s. 15–19"
+    },
+    "obszar": {
+      "wartosc": "Polska; dopuszczalne ponoszenie kosztów poza terytorium RP zgodnie z zasadami regulaminu.",
+      "zrodlo": "https://niw.gov.pl/wp-content/uploads/2026/11/Regulamin-konkursu-PROO-2027.pdf",
+      "lokalizacja": "s. 12–13 i 21"
+    },
+    "budzet_naboru": {
+      "wartosc": {
+        "kwota": 31700000,
+        "waluta": "PLN",
+        "lata": {
+          "2027": 11700000,
+          "2028": 10000000,
+          "2029": 10000000
+        },
+        "zakres": "Alokacja PROO 1a edycji 2027; podział na ścieżki ramowy, nie budżet całego Programu."
+      },
+      "zrodlo": "https://niw.gov.pl/wp-content/uploads/2026/11/Regulamin-konkursu-PROO-2027.pdf",
+      "lokalizacja": "s. 12, tabela i przypis 2"
+    },
+    "maksymalne_wsparcie": {
+      "wartosc": {
+        "kwota": 500000,
+        "waluta": "PLN",
+        "sciezki": {
+          "1": {
+            "min": 30000,
+            "max": 50000
+          },
+          "2": {
+            "min": 150000,
+            "max": 300000,
+            "rocznie_min": 50000,
+            "rocznie_max": 100000
+          },
+          "3": {
+            "min": 300000,
+            "max": 500000,
+            "rocznie_min": 100000,
+            "rocznie_max": 200000
+          }
+        }
+      },
+      "zrodlo": "https://niw.gov.pl/wp-content/uploads/2026/11/Regulamin-konkursu-PROO-2027.pdf",
+      "lokalizacja": "s. 19"
+    },
+    "wklad_wlasny": {
+      "wartosc": "Finansowy wkład własny obowiązkowy wyłącznie przy inwestycjach: min. 10% wartości każdego wydatku inwestycyjnego; pozostałe zadania mogą być powierzeniem bez wkładu.",
+      "zrodlo": "https://niw.gov.pl/wp-content/uploads/2026/11/Regulamin-konkursu-PROO-2027.pdf",
+      "lokalizacja": "s. 19–20"
+    },
+    "terminy": {
+      "wartosc": {
+        "poczatek": "2026-11-16",
+        "koniec": "2026-12-16",
+        "godzina_rozpoczecia": "12:00",
+        "godzina_zakonczenia": "12:00",
+        "poczatek_iso": "2026-11-16T12:00:00+01:00",
+        "koniec_iso": "2026-12-16T12:00:00+01:00",
+        "strefa_czasowa": "Europe/Warsaw",
+        "ogloszenie_wynikow": "2027-03-31",
+        "uwaga_strefa": "Strefa użyta do prezentacji i wyznaczania aktywności w Polsce; dokument podaje godziny, nie nazwę strefy.",
+        "uwaga_wyniki": "Punkt 8 s. 11: do 31.03.2027; sprzeczny marzec 2026 w tabeli s. 10 pozostaje odnotowany."
+      },
+      "zrodlo": "https://niw.gov.pl/wp-content/uploads/2026/11/Ogloszenie-o-konkursie-PROO-2027.pdf",
+      "lokalizacja": "s. 10 — okno składania; s. 11 pkt 8 — termin wyników"
+    },
+    "sposob_zlozenia": {
+      "wartosc": {
+        "system": "System Obsługi Dotacji NIW-CRSO",
+        "url": "https://generator.niw.gov.pl/",
+        "tryb": "Elektronicznie przyciskiem ZŁÓŻ OFERTĘ; bez papieru i ePUAP."
+      },
+      "zrodlo": "https://niw.gov.pl/wp-content/uploads/2026/11/Regulamin-konkursu-PROO-2027.pdf",
+      "lokalizacja": "s. 15; ogłoszenie s. 11"
+    },
+    "kontakt": {
+      "wartosc": {
+        "telefon": "885 221 531",
+        "email": "PROO@niw.gov.pl",
+        "dyzur_telefoniczny": "10:00–15:00 od poniedziałku do piątku w terminie naboru"
+      },
+      "zrodlo": "https://niw.gov.pl/wp-content/uploads/2026/11/Ogloszenie-o-konkursie-PROO-2027.pdf",
+      "lokalizacja": "s. 12"
+    }
+  },
+  "call_version": "1.0.0",
+  "created_with_app_version": "0.2.0",
+  "analyzed_with_app_version": "0.2.0",
+  "analiza": {
+    "fingerprint_zrodel": "6cc9ad90ca4e8adcb7205fb61d30cb9b1711c6f8d4ee484b510f1d284e0850fd",
+    "blokery": [],
+    "uwagi": [
+      "S-01: sprzeczny zakres premii między s. 32–33 a s. 68 regulaminu; nie potwierdzać premii bez wyjaśnienia, gdy różnica ma znaczenie.",
+      "JS zrzutu stosuje > zamiast >= dla progów 150/500 tys.; wymagania zapisano zgodnie z regulaminem.",
+      "Nieznany limit tytułu po stronie serwera; pola 2028/29 budżetu powtórzono z 2027 zgodnie z reg. s. 18 i zasadą analogicznych tabel."
+    ],
+    "nieodczytane_zrodla": [],
+    "zakonczono_at": "2026-11-16T11:58:49.329709+00:00",
+    "liczba_pol": 228,
+    "liczba_plikow_specyfikacji": 228,
+    "liczba_formularzy": 10,
+    "liczba_szablonow_kart": 7,
+    "liczba_grup": 10,
+    "liczba_wymagan": 35,
+    "liczba_kryteriow": 9,
+    "liczba_kryteriow_potwierdzonych": 8,
+    "zrodla_czesciowo_odczytane": [
+      {
+        "id": "SRC-6bae8ed23334",
+        "zakres": "Odczyt części właściwych PROO 1a: s. 5–8, 10, 12–25, 28–33, 39–41, 44–47, 50–53, 56–57, 60–68 i 80–89. Fragmenty dla PROO 1b i 5 nie stanowią podstawy tego wzoru. Pełny ekstrakt zachowany."
+      },
+      {
+        "id": "SRC-f5b0a3b5525a",
+        "zakres": "Odczyt merytoryczny s. 15–26 PDF: wskazówki przygotowania pól PROO 1a. Pozostałe strony zinwentaryzowano i wyekstrahowano, lecz nie przyjęto ich zasad 2026 jako obowiązujących w 2027."
+      },
+      {
+        "id": "SRC-f565f4ac9f04",
+        "zakres": "Odczyt s. 11–24 PDF: kryteria i interpretacja PROO 1a. Pozostałe strony dotyczą organizacji pracy ekspertów; pełny ekstrakt zachowany. Dokument historyczny, bez mocy zmiany reguł 2027."
+      }
+    ],
+    "liczba_odwzorowanych_nazw_html": 112,
+    "liczba_html": 10,
+    "zakres": "Publikacja zapisanej analizy PROO 1a 2027 i pustego formularza; bez ponownej analizy, oryginałów, zrzutów ani ekstraktów."
+  }
+}
